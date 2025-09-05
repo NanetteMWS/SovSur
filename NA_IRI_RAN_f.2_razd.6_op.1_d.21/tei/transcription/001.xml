@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> Aкт №1</p>
+        <p>О насилиях, причиненных фашистскими оккупантами в селении Михайловка Бужаровского сельсовета Истринского района. Время оккупации с 25.ХI.41 г. по 17.ХII.41 г.</p>
+        <p>Составлен: Смирновым М.А., Старостиной Н.И., Старостиной Е.И., Кутузовой Е.П. </p>
+        <p>17 января 1942 г.</p>
+        <p>В селении Михайловка немецкие оккупанты выгнали все селение в лес, разграбили их имущество, у гр. Старостиной Н.И. умерла в лесу дочь 1,5 месяца. Гр. Старостина Е.И. и Васильева С.И. рождения 1924 г. немцы расстреляли за то, что они вошли в свой дом. Гр. Сухову М.И. и Кутузову Е.Т. немцы избили прикладами. На что и составлен настоящий акт.</p>
+        <p>Смирнов М., Старостина Е., Кутузова Е.</p>
+        <p/>
+        <p>Aкт №2</p>
+        <p>О насилиях и зверствах фашистских оккупантов в селении Ефимоново Бужаровского сельсовета Истринского района.</p>
+        <p>Время оккупации 25.ХI.41 г. – 17.XII.41 г. Составлен комиссией в составе: Смирнова М.А., Дудинская А.А., Морозова А.В. и Суханова С.В. </p>
+        <p>От 18 января 1942 г.</p>
+        <p>В селении Ефимоново немецкие оккупанты выгнали все население из своих домов в лес, где многие заболели, что впоследствии умерли Кардонкова М.М. (72 года), Козлова М.А. (63 г.), Егорычев И.Д. (65 лет) и Марышева (1,5 г.). Дудинского Л.С. Немцы увезли с собой. Большинство населения избили прикладами.</p>
+        <p>На что и составлен настоящий акт.</p>
+        <p>М. Смирнов, Дудинская, Суханова, Морозова</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

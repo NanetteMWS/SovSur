@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.86" xml:space="default"/>
+        <p> ехать.</p>
+        <p>В Германии я встречала добровольно уехавших из Полтавы, Сталино, Ворошиловграда, которые работали в тех же условиях, что и все, и носили знак «ОСТ», а также голодали наравне со всеми.</p>
+        <p>В сентябре фабрику, где я работала, закрыли. Всех рабочих отправили копать окопы под Киев. Многие сбежали в эту ночь, в числе которых была и я. Ночные облавы продолжались, по улицам нельзя было ходить и я решила уйти на село.</p>
+        <p>Под Киевом были жестокие расправы, горели села. Я отправилась по направлению Винницы в село к своим родственникам. В гор. Винница на станции меня постигла та же участь, что и всех случайных пассажиров товарных поездов. Нас полиция согнала за загороженную проволоку и оттуда ночью погрузили в вагоны поездов, следовавших в Германию. Ехали мы в товарных вагонах, охраняемые немецкими солдатами с автоматами. Утром нам давали кофе без сахара, в обед – суп, полученный на станциях, вечером немного повидла и 300 гр. хлеба на день. До Перемышля нас очень строго охраняли. А в Перемышле была сделана дезинфекция и беглый осмотр медкомиссии, причем все это произошло за три часа, хотя было 13 вагонов в эшелоне.</p>
+        <p>Через полчаса нас погрузили в вагон и опять отправили дальше. Была оставлена только одна роженица </p>
+      </div>
+    </body>
+  </text>
+</TEI>

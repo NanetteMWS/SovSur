@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.92" xml:space="default"/>
+        <p> 90% рабочих со всех ближайших фабрик разбежались в горы.</p>
+        <p>И так мы встретили наших освободителей. 7-го мая наши войска вступили и 9 окончательно закрепились на территории, где была фабрика, на которой я работала.</p>
+        <p>Директор фабрики сбежал на американскую сторону. Нам было дано право двигаться самим по направлению к Родине.</p>
+        <p>В августе 1945 года я приехала домой, пробыв на каторге два года. Сейчас работаю в государственной архитектурной мастерской.</p>
+        <p/>
+        <p>(Кальницкая)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

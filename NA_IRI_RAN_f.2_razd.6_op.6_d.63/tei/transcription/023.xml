@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000689">
+      <titleStmt>
+        <title>Воспоминания школьников Харькова о пребывании в оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 63.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> О восстановительной работе в 61 школе г. Харькова.</p>
+        <p>Когда наша долгожданная доблестная Красная армия взяла наш многострадальный Харьков, наша 61 шк. имела жуткий вид. В бывшей учительской комнате и в столовой стены были совершенно разрушены. В моем II кл. в углу зияла огромная дыра, штукатурка на потолке и стенах была обвалена. Такая же картина была и в др. классах. Печи все испорчены, стекла во всех стенах разбиты, рамы поломаны. Крыша пробита осколками. Таковы следы хозяйничанья «культурной нации» в дорогих нашему сердцу храмах науки. Но, благодаря великому патриотическому духу нашего населения, благодаря той большой детской радости, тому счастливому сознанию, что ребенок будет опять учиться в своей родной советской школе, немедленно же после вступления наших дорогих войск в Харьков </p>
+      </div>
+    </body>
+  </text>
+</TEI>

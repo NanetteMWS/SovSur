@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.10 оборот" xml:space="default"/>
+        <p> имеют связь с партизанскими отрядами, я вместе с ними помогаю содействовать партизанам, как-то продуктами питания, деньгами, передавая им новости, слыханные с Москвы, так как среди ребят-рабочих был электрик, который сумел приспосабливаться слушать передачи. Один с военнопленных переходил фронт со спецзаданиями – доложить о размещении немецких частей, складов с боеприпасами, после чего часто можно было наблюдать частые бомбежки нашей авиацией.</p>
+        <p/>
+        <p>Настал долгожданный день 12 февраля 1943 г., наши части были уже в 10-12 км от госимения, где я работала. Дальше ждать уже не было мочи, и я решила под артиллерийским пулеметно-минометный огонь перейти линию фронта, заранее разведав расположение немецких частей, численность орудий и др. сведений.</p>
+        <p>По сугробам я добралась к своим частям. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

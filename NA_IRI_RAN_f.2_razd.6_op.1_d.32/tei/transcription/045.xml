@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.41" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">громадным</hi>
+           большим подъемом фронтовой двухдекадник по сдаче госпоставок.
+        </p>
+        <hi rendition="#s">громадным</hi>
+         большим подъемом фронтовой двухдекадник по сдаче госпоставок.
+        <p>
+          В Клинском районе 1-й день 
+          <hi rendition="#s">декад</hi>
+           двухдекадника превратился во всенародный праздник. К сенным пунктам направлялись обозы по 200 подвод. Подводы были украшены плакатами, лозунгами, зеленью. Колхозницы, по-праздничному разряженные, с песнями везли сдавать хлеб государству. В районе было сдано сверх плана 22870 пудов зерна и картофеля.
+        </p>
+        <hi rendition="#s">декад</hi>
+         двухдекадника превратился во всенародный праздник. К сенным пунктам направлялись обозы по 200 подвод. Подводы были украшены плакатами, лозунгами, зеленью. Колхозницы, по-праздничному разряженные, с песнями везли сдавать хлеб государству. В районе было сдано сверх плана 22870 пудов зерна и картофеля.
+        <p>
+          В колхозе «Красный Остров» Высоконичского района, в котором немцы сожгли 46 домов, 5 из 6 животнов. построек, уничтожили 148 голов крупного рогатого скота, 117 свиней, 172 овцы, 1597 шт. дом. птицы и все семенные и продовольственные фонды – в 1943 г. уже на трудодень приходилось 3,5 кг зерновых, 
+          <hi rendition="#s">и</hi>
+           4,5 кг картофеля и овощей.
+        </p>
+        <hi rendition="#s">и</hi>
+         4,5 кг картофеля и овощей.
+        <p>Семья военнослужащего на 3-х чел. получала 1115 кг зерна, 1160 кг овощей и картофеля.</p>
+        <p>Вас. Купр. и Агр. Вас. Ежиковы (каждому по 66 лет, два их сына Иван и Алексей на фронте) получили </p>
+      </div>
+    </body>
+  </text>
+</TEI>

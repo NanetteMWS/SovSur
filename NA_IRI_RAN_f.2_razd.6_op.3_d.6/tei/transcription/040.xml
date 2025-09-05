@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.21 оборот" xml:space="default"/>
+        <p> 18 декабря 1942 г.</p>
+        <p>Ученик третьего класса Лаптин Анатолий</p>
+        <p>Зверство немецких оккупанты.</p>
+        <p>Когда пришли к нам немцы, они и говорят: матка, свин есть, свин? Мать говорит: есть один. Всходит в избу один с винтовкой. Около ворот с винтовкой они стреляли прямо в свинью. Свинья бежит к матери в ноги. Второе происшествие. Когда они пришли к нам и говорят: матка, валенки есть? Мамка говорит: нет. Они полезли в подпол и чулан, не нашли валенки. И говорят: матка, валенки. Мамка говорит: нет. </p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

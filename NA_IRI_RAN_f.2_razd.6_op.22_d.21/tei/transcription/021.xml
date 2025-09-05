@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.11 оборот" xml:space="default"/>
+        <p> Отец с матерью и Васька работали на поле, а также и на скотном дворе. Работа была тяжелой и неправильной для нас. Кормили нас плохо, а работали мы долго, до 9-10-11 часов вечера и позже. Вскоре нас перевели с прачечной в отведенную для нас комнату, в углу одного громаднейшего здания, в самом низу, маленькую комнатку. Обстановки в ней никакой не было, кроме старого стола, да пара стульев, здесь мы и приютились пока.</p>
+        <p>
+          Имение это было расположено в густом лиственном лесу в полтора километрах от города Штаффельштайн и в 26 км от г. Бамберга, Кобурга. Семья этой хозяйки, в которой мы 
+          <hi rendition="#s">да</hi>
+           остались работать, состояла: сама хозяйка, отец ее, трое детей (два сына и дочка), учительница, да еще различных гостей. В дому у хозяйки работали немки-девушки, на 
+        </p>
+        <hi rendition="#s">да</hi>
+         остались работать, состояла: сама хозяйка, отец ее, трое детей (два сына и дочка), учительница, да еще различных гостей. В дому у хозяйки работали немки-девушки, на 
+      </div>
+    </body>
+  </text>
+</TEI>

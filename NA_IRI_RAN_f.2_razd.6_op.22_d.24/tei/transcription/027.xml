@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.15 оборот" xml:space="default"/>
+        <p> Влетів розбійник до кімнати</p>
+        <p>І розпочав бешкетувати:</p>
+        <p>Одну дівчину поцілує</p>
+        <p>Аж закипить на личку кров</p>
+        <p/>
+        <p>Тоді з другою попустує</p>
+        <p>Вщіпне зловмисне знов і знов,</p>
+        <p>Або в обіймах своїх стисне,</p>
+        <p>Що біднеє дівча аж писне.</p>
+        <p/>
+        <p>Пусти, пусти Іване! – каже,</p>
+        <p>А потім у рясних сльозах</p>
+        <p>Тиждень жаліється на кашель,</p>
+        <p>На біль нестерпний у грудях.</p>
+        <p/>
+        <p>Та довго йому не прийшлося</p>
+        <p>Томить дівочії серця.</p>
+        <p>По «Боші» гром пронеслося:</p>
+        <p>Тікай Іване – поліцай!</p>
+        <p>І хоч він був лихої вдачі</p>
+        <p>І молодець, що й говорить,</p>
+        <p>Проте потрібно було, бачив,</p>
+        <p>Кудись сховатися на мить.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

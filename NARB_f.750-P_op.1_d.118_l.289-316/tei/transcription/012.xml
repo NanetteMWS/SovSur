@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000641">
+      <titleStmt>
+        <title>Стенограмма беседы с Леонидом Минаевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 118. Л.289-316.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.301" xml:space="default"/>
+        <p> 5. Коллектив фабрики заслуживает того, чтобы его активные участники, погибшие в борьбе с немецкими оккупантами, были увековечены сооружением в память о них мемориальной доски, которая должна быть вывешена на одной из стен фабрики.</p>
+        <p>6. Коллектив фабрики заслуживает того, чтобы его борьба была более подробно изучена и освещена как на выставке Белорусского музея, так и на фабрике специально организованным уголком «Партизана Отечественной войны».</p>
+        <p>Для более широкого освещения подпольной работы на фабрике в период оккупации рекомендую взять материалы от следующих товарищей:</p>
+        <p>1. Ивашкевич В.Л. – партизанка, работает на Минской табачной фабрике.</p>
+        <p>2. Красавин Виктор Иосифович – инженер, работает в городском дорожном отделе.</p>
+        <p>3. Владысик Михаил Михайлович – врач, кандидат медицинских наук, работает зав. республиканской терапевтической клиники медицинского института.</p>
+        <p>4. Цитович Анастасия Яковлевна – работает в горжилотделе.</p>
+        <p>5. Корако Л.Ф. – партизанка, работает в горторфе (ул. Островского).</p>
+        <p>6. Пестриков Борис Михайлович – партизан, работает в Центральном комитете по делам физкультуры.</p>
+        <p>7. Быков Александр Петрович – партизан, работает зам. начальника продснабжения Минского аэропорта.</p>
+        <p>8. Черепович Ч.Б. – партизан, работает секретарем комсомольской организации ж/д вокзала.</p>
+        <p>Минаев Л.Г.</p>
+        <p>
+          <hi rendition="#i">Минаев</hi>
+        </p>
+        <hi rendition="#i">Минаев</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

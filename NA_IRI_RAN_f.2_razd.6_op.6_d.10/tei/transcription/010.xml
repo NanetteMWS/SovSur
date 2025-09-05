@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000995">
+      <titleStmt>
+        <title>Стенограмма беседы с Екатериной Соколовой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 10.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> Кюн был директором Углехимического института. Он сагитировал ехать профессора Кузнецова, академика Украинской академии наук, и ассистента нашего Поляничко, который приходил ко мне накануне и убеждал ехать. Ему сказали, что будет хуже, чем в Сталинграде. Профессор Кузнецов М.И. был в высшей степени честный человек. Он никак не мог приспособиться, не мог спекуляцией заниматься и страшно нуждался. Он серьезный научный работник. Он ко мне приходит и говорит:</p>
+        <p>– Екатерина Алексеевна, здесь мы не сможем работать долго, несколько лет, поедемте во Львов. Там нам все предоставляют. Можно взять пианино. Тем более, что детей все равно заберут в Германию, особенно перед приходом наших. У меня дочка, которую я хочу спасти. В Харькове камня на камне не останется.</p>
+        <p>Я все-таки сказала:</p>
+        <p>– Мефодий Иванович, душа у меня не лежит.</p>
+        <p>– Почему?</p>
+        <p>– Я, – говорю, – настолько люблю свою родину.</p>
+        <p>– Да теперь какая родина. Ее сейчас не существует ни у кого, – что-то вроде этого. – Надоело, – говорит, – мне это голодное существование.</p>
+        <p>
+          Ему дали какой-то паек 
+          <hi rendition="#s">замечательный</hi>
+          , замечательную квартиру.
+        </p>
+        <hi rendition="#s">замечательный</hi>
+        , замечательную квартиру.
+        <p>– Наконец, на старости лет надо же мне посидеть, спокойно поработать.</p>
+        <p>
+          Перед этим его и профессора Дедусенко какой-то генерал важный приглашал на чашку кофе. Дедусенко очень разбирался во всем, но он тоже уехал только когда эвакуация была, а когда соблазнял Нун
+          <hi rendition="#i">ге</hi>
+          нс, он не хотел ехать. 
+          <hi rendition="#i">Нунгенс</hi>
+           
+          <hi rendition="#s">Нунес</hi>
+           говорил:
+        </p>
+        <hi rendition="#i">ге</hi>
+        нс, он не хотел ехать. 
+        <hi rendition="#i">Нунгенс</hi>
+         
+        <hi rendition="#s">Нунес</hi>
+         говорил:
+        <p>
+          – Те
+          <hi rendition="#i">х</hi>
+          , которые здесь оста
+          <hi rendition="#s">ю</hi>
+          <hi rendition="#i">ну</hi>
+          тся
+          <hi rendition="#s">, это враги</hi>
+          <hi rendition="#i"> будут считать врагами</hi>
+          .
+        </p>
+        <hi rendition="#i">х</hi>
+        , которые здесь оста
+        <hi rendition="#s">ю</hi>
+        <hi rendition="#i">ну</hi>
+        тся
+        <hi rendition="#s">, это враги</hi>
+        <hi rendition="#i"> будут считать врагами</hi>
+        .
+        <p>Я тогда сказала, что все равно лучше уж я умру от НКВД.</p>
+        <p/>
+        <p>
+          Кюн забрал у меня пять весов, в библиотеке – книги. Между прочим, кто-то был, кто сказал, что в потайной комнате, – а такая, действительно, у нас была, есть кое-что, поэтому аудитори
+          <hi rendition="#s">я</hi>
+          <hi rendition="#i">ю</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">по</hi>
+          <hi rendition="#i">жгли</hi>
+           
+          <hi rendition="#s">сгорела</hi>
+          . Второй этаж остался. 
+          <hi rendition="#s">Аудиторию, которая была на третьем этаже, подожгли</hi>
+          .
+        </p>
+        <hi rendition="#s">я</hi>
+        <hi rendition="#i">ю</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">по</hi>
+        <hi rendition="#i">жгли</hi>
+         
+        <hi rendition="#s">сгорела</hi>
+        . Второй этаж остался. 
+        <hi rendition="#s">Аудиторию, которая была на третьем этаже, подожгли</hi>
+        .
+        <p>
+          Кюн не мог вывезти весы и книги, 
+          <hi rendition="#s">так</hi>
+           
+          <hi rendition="#i">поэтому</hi>
+           он их расстреливал из револьвера. У нас есть сейчас эти книги расстрелянные, с дырками.
+        </p>
+        <hi rendition="#s">так</hi>
+         
+        <hi rendition="#i">поэтому</hi>
+         он их расстреливал из револьвера. У нас есть сейчас эти книги расстрелянные, с дырками.
+        <p/>
+        <p>
+          <hi rendition="#i">Е. Соколова. 22/</hi>
+          <hi rendition="#i">III</hi>
+          <hi rendition="#i">-44</hi>
+          <hi rendition="#i"> г.</hi>
+        </p>
+        <hi rendition="#i">Е. Соколова. 22/</hi>
+        <hi rendition="#i">III</hi>
+        <hi rendition="#i">-44</hi>
+        <hi rendition="#i"> г.</hi>
+        <p>----------</p>
+        <p>[Л.7 – Л.12. Текст стенограммы без правки]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> Колхозники на своих ногах перенесли 200 тонн семян, вскопали вручную, лопатой, до 700 га земли.</p>
+        <p>
+          В Клинском районе колхозники собрали 4900 центнеров семенного картофеля, выделив 700 центнеров семенного картофеля подсобным хозяйствам 
+          <hi rendition="#s">г. К</hi>
+           предприятий района. Выкопали лопатами 600 га, перенесли на расстояние 20-25 км 1840 ц зерновых, 30 ц картофеля, 50 ц [1 слово непонятно]. Вывезли на поля 111062 т тонн навоза при плане 60 тысяч тонн. На 100% посеяли [1 слово непонятно] семенами. Закончили посевные весенние работы на 5 дней раньше, 
+          <hi rendition="#s">1941 года</hi>
+           чем в 1941 г. Выполнили план весенних работ на 105,8%.
+        </p>
+        <hi rendition="#s">г. К</hi>
+         предприятий района. Выкопали лопатами 600 га, перенесли на расстояние 20-25 км 1840 ц зерновых, 30 ц картофеля, 50 ц [1 слово непонятно]. Вывезли на поля 111062 т тонн навоза при плане 60 тысяч тонн. На 100% посеяли [1 слово непонятно] семенами. Закончили посевные весенние работы на 5 дней раньше, 
+        <hi rendition="#s">1941 года</hi>
+         чем в 1941 г. Выполнили план весенних работ на 105,8%.
+        <p>
+          В Высокиничском районе колхозники 
+          <hi rendition="#s">собрали</hi>
+           из своих запасов 
+          <hi rendition="#s">для колхозных посевов</hi>
+           обеспечили 65 га зерновых и 200 га картофеля колхозных посевов. План весеннего сева выполнили на 117%.
+        </p>
+        <hi rendition="#s">собрали</hi>
+         из своих запасов 
+        <hi rendition="#s">для колхозных посевов</hi>
+         обеспечили 65 га зерновых и 200 га картофеля колхозных посевов. План весеннего сева выполнили на 117%.
+        <p>В Волоколамском районе колхозники собрали 1483 ц. овса, 45,5 ц пшеницы, 152 ц льносемян, свыше 5000 ц картофеля. Выкопали вручную 1300 га и забороновали 1500 га. План весенних работ выполнили на 105,2%.</p>
+        <p>
+          <hi rendition="#s">Колхозники Волоколамского района</hi>
+          <hi rendition="#s"> </hi>
+        </p>
+        <hi rendition="#s">Колхозники Волоколамского района</hi>
+        <hi rendition="#s"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

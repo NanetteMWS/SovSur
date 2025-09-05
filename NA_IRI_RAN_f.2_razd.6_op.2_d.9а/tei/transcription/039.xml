@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.39" xml:space="default"/>
+        <p> Сарра Залмовна 64 л., домохозяйка; дочери Елена Моисеевна 22 лет, работница фанерной фабрики, Роза Моисеевна 30 лет, работница 1 ресторана, Татьяна Моисеевна 27 лет, депутат горсовета, Софья Моисеевна, врач, и ее дочь Люда 1,5 года; семья Вольф – мать Роза Моисеевна 60 лет, отец Лев Моисеевич 70 лет.</p>
+        <p>В чем подписываемся. </p>
+        <p>1. Новиков Мирон Аверьянович 61 г.</p>
+        <p>2. Соколов Михаил Иванович 33 л.</p>
+        <p>3. Рождественский Сергей Аркадьевич 27 л. </p>
+        <p>4. Сныткин Михаил Григорьевич 52 л.</p>
+        <p>5. Марков Константин Иосифович 35 л. </p>
+        <p>6. Ильин Василий Никифорович 46 л.</p>
+        <p>7. Маркова Вера Алексеевна 24 л.</p>
+        <p>8. Бавшина Евдокия Ниловна 28 л. </p>
+        <p>9. Сороченко Ольга Яковлевна 33 л.</p>
+        <p>10. Алтинникова Вера Алексеевна 63 л. </p>
+        <p>11. Бавшин Семен Максимович 35 л.</p>
+        <p>12. Ковенкова Ольга Михайловна 25 л. </p>
+        <p>13. Сныткина Нина Григорьевна 21 л.</p>
+        <p>14. Козлова Вера Ивановна 19 л.</p>
+        <p>15. Зозырева Ксения Григорьевна 45 л. </p>
+        <p>16. Сныткин Евгений Григорьевич 57 л.</p>
+        <p>HB-13.X.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

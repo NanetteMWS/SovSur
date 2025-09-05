@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.136" xml:space="default"/>
+        <p> Сейчас же началось переселение всех евреев в Богополье. Я всеми силами старалась не уйти из Голты, скрывалась под видом украинки.</p>
+        <p>17-го сентября был массовый расстрел евреев. В Богополье в церкви был расстрелян мой родной брат, с которым я должна была эвакуироваться.</p>
+        <p>15-го октября соседи выдали меня полиции. В полиции избили меня и сына, и отправили в Богополье. На немецкой территории нам ежедневно угрожала смерть. Каждую ночь забирали людей на работу, и они не возвращались.</p>
+        <p>Начальником украинской полиции был фольксдойч Гегель, работали там украинцы Назрати и Андрусин, фольксдойч братья Шуммахеры (три или четыре).</p>
+        <p>
+          Как-то ночью в декабре мы закрылись в доме. Слышим крик. В этом дворе в двухэтажном доме жили немцы. В эту ночь они убили в этом же дворе около 
+          <hi rendition="#s">шести</hi>
+           
+          <hi rendition="#i">30</hi>
+           мужчин. Мы тоже ожидали смерти.
+        </p>
+        <hi rendition="#s">шести</hi>
+         
+        <hi rendition="#i">30</hi>
+         мужчин. Мы тоже ожидали смерти.
+        <p>На следующий день я видела, как Трукенброт, ортскомендант, подошел к окну, у окна стоял отец моей подруги. Он подошел с револьвером:</p>
+        <p>– Ни с места.</p>
+        <p>Он взял его, чтобы убрать трупы. Этот старик больше не вернулся. Однажды ночью они сожгли склад пакли. Туда бросали людей живьем.</p>
+        <p>15-го декабря, в ночь с пятницы на субботу, взяли на работу много людей. Ходили по домам с </p>
+      </div>
+    </body>
+  </text>
+</TEI>

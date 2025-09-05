@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.83 оборот" xml:space="default"/>
+        <p> 4 липня. Неділя. В Медведивці ярмарок. Зранку ясно. Базар був неважний. Продав півведра вишень за 100 крб. та купив 4 стакани солі по 25 карб. стакан.</p>
+        <p>10 липня. Субота. День ясний. Дехто втік з ст. Казатін, виглядали Марійку, може і вона надімалась втекти.</p>
+        <p>18 липня. Неділя. Рано ясно, вдень насувалися хмарки, вітерець тяг з півдня. Ходив на ярмарок. Ярмарок розбігся.</p>
+        <p>29 липня. Четверг. День ясний. Виїхав в Чигирин… В Кам’янці біля Бандурової партизани обстріляли Н-в і в Кам’янському заводі розігнали вербованих по домах.</p>
+        <p>1 серпня. Неділя. Зранку ясно. Пішов на ярмарок в Медведівку. Базар був неважний, бо людей мало, звечора сказали, що немає вихідного дня… Хотів здати до Гриші відкритку, та вночі партизани побили на пошті вікна, забрали телеграфні і телефонні апарати, спалили нафтосклад і побили вікно в шуцпункті кидали бомби до Н-в. Ракові З. Дали по голові прикладом. Атамась С. втік…</p>
+        <p>8 серпня. Неділя. День зранку хмарний, вітерець з півночі, схоже на осінь… Був у Головківці на базарі, базар був поганий і всього до 9 год. ранку. Чув, що є листи від тих, що виїхали в Німеччину разом з Марійкою. Степи вкриті копами і по наших буграх почали рости скирти соломи. Молотьба іде під трепетом, бо партизани наскакують, б’ють і палять машини. Приходиться на кожну ніч з Беркотівки тягти машину в двір колгоспу. В с. Лубенці спалили молотарку… була стрілянина з автомату.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

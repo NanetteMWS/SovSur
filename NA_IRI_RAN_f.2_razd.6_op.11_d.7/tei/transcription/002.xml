@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000111">
+      <titleStmt>
+        <title>Материалы городского отдела образования г. Мелитополя периода оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 11. Д. 7.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> Копия.</p>
+        <p>Школа №11</p>
+        <p>18.ХІІ.42 г.</p>
+        <p>№ 243.</p>
+        <p/>
+        <p>г. начальнику отдела культуры и народного образования</p>
+        <p/>
+        <p>Прошу Вашего разрешения о срубке во дворе школы одного дерева-акации или подчистке всех деревьев для отопления школы.</p>
+        <p>
+          Зав. школой – (подпись) 
+          <hi rendition="#i">Козак</hi>
+        </p>
+        <hi rendition="#i">Козак</hi>
+        <p/>
+        <p>Резолюция</p>
+        <p>г. Алексееву</p>
+        <p>Прошу не отказать, провести осмотр и дать заключение.</p>
+        <p/>
+        <p>Начальник Відділу</p>
+        <p>Культури й Народньої</p>
+        <p>Освіти (Рунский)</p>
+        <p>18.ХІІ</p>
+        <p>
+          верно: 
+          <hi rendition="#i">Завгороно</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Красников</hi>
+        </p>
+        <hi rendition="#i">Завгороно</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Красников</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

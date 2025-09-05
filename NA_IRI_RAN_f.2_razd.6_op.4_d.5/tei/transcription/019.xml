@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">Щеголев С.И</hi>
+          . Когда нем
+          <hi rendition="#s">ец</hi>
+          <hi rendition="#i">цы</hi>
+           увидел
+          <hi rendition="#i">и</hi>
+          <hi rendition="#i">,</hi>
+           что мы побежали к дому-музею он
+          <hi rendition="#i">и</hi>
+           стал
+          <hi rendition="#i">и</hi>
+           кричать: «
+          <hi rendition="#i">Alles</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">in</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">d</hi>
+          <hi rendition="#i">ie</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">L</hi>
+          <hi rendition="#i">uf</hi>
+          <hi rendition="#i">t</hi>
+          <hi rendition="#i">!</hi>
+          <hi rendition="#i">»</hi>
+           Мы стали умолять 
+          <hi rendition="#s">его</hi>
+           
+          <hi rendition="#i">их</hi>
+           и говорить, что это дом-музей Толстого, его нужно сохранить и мы его отстоим, а он
+          <hi rendition="#i">и</hi>
+           все твердил
+          <hi rendition="#i">и</hi>
+          : «
+          <hi rendition="#i">I</hi>
+          <hi rendition="#i">n</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">die</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">L</hi>
+          <hi rendition="#i">uft</hi>
+          <hi rendition="#i">!</hi>
+          <hi rendition="#i">»</hi>
+           Мария Ивановна начала кричать, что немцы подожгли музей и сейчас все взлетит в воздух. Все мы побежали к дому. Из окон уже выбивался дым. Первыми в дом ворвались 
+          <hi rendition="#i">дв</hi>
+          <hi rendition="#i">а работник</hi>
+          <hi rendition="#i">а</hi>
+           
+          <hi rendition="#u">Павлик Комаровский и врач Ильюшин (из Тулы)</hi>
+          . Они вошли в музей и исчезли в дыму. Они установили, что горит в трех местах и что борьба с пожаром еще возможна. Оттуда они стали кричать: «Давайте воду», но вед
+          <hi rendition="#s">ер</hi>
+          ра 
+          <hi rendition="#s">не было</hi>
+          <hi rendition="#i"> немцы уб</hi>
+          <hi rendition="#i">рали</hi>
+          , пруд далеко
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#i">о</hi>
+          <hi rendition="#i">гнетушители уничтожен</hi>
+          <hi rendition="#i">ы</hi>
+          . Нашли один огнетушитель. 
+          <hi rendition="#s">Ильюшин</hi>
+           
+          <hi rendition="#i">Б</hi>
+          ыстрым движением разбил
+          <hi rendition="#i">и</hi>
+           его. Клава Литвинова, ученица яснополянской школы, смело лезет на чердак и находит там второй огнетушитель. Жидкость огнетушителя направляется на второй очаг пожара, но огонь распространяется, горит пол, горят двери, косяки окон, занавеси. Все мы тащим снег, 
+          <hi rendition="#s">но</hi>
+           вскоре 
+          <hi rendition="#s">разыскиваются</hi>
+           
+          <hi rendition="#i">удалось достать </hi>
+          ведра, 
+          <hi rendition="#s">быстро опускаются в колодезь, вода</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Но в колодце нет воды. Вспомнили про </hi>
+          <hi rendition="#i">старый</hi>
+          <hi rendition="#i">, заброшенный</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">колодец, незамеченный немцами. Кинулись туда</hi>
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i"> </hi>
+          Вода набирается, и мы по-настоящему принимаемся за борьбу с пожаром. Я, Мария Ив. и Литвинова подносим воду на второй этаж. Пожарниками работают 
+          <hi rendition="#s">Комаровский и Ильюшин</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">двое</hi>
+          . Они продолжали борьбу с огнем на чердаке. 4 часа напряженной борьбы, и пожар был ликвидирован. Все же дом сильно поврежден.
+        </p>
+        <hi rendition="#s">Щеголев С.И</hi>
+        . Когда нем
+        <hi rendition="#s">ец</hi>
+        <hi rendition="#i">цы</hi>
+         увидел
+        <hi rendition="#i">и</hi>
+        <hi rendition="#i">,</hi>
+         что мы побежали к дому-музею он
+        <hi rendition="#i">и</hi>
+         стал
+        <hi rendition="#i">и</hi>
+         кричать: «
+        <hi rendition="#i">Alles</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">in</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">d</hi>
+        <hi rendition="#i">ie</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">L</hi>
+        <hi rendition="#i">uf</hi>
+        <hi rendition="#i">t</hi>
+        <hi rendition="#i">!</hi>
+        <hi rendition="#i">»</hi>
+         Мы стали умолять 
+        <hi rendition="#s">его</hi>
+         
+        <hi rendition="#i">их</hi>
+         и говорить, что это дом-музей Толстого, его нужно сохранить и мы его отстоим, а он
+        <hi rendition="#i">и</hi>
+         все твердил
+        <hi rendition="#i">и</hi>
+        : «
+        <hi rendition="#i">I</hi>
+        <hi rendition="#i">n</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">die</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">L</hi>
+        <hi rendition="#i">uft</hi>
+        <hi rendition="#i">!</hi>
+        <hi rendition="#i">»</hi>
+         Мария Ивановна начала кричать, что немцы подожгли музей и сейчас все взлетит в воздух. Все мы побежали к дому. Из окон уже выбивался дым. Первыми в дом ворвались 
+        <hi rendition="#i">дв</hi>
+        <hi rendition="#i">а работник</hi>
+        <hi rendition="#i">а</hi>
+         
+        <hi rendition="#u">Павлик Комаровский и врач Ильюшин (из Тулы)</hi>
+        . Они вошли в музей и исчезли в дыму. Они установили, что горит в трех местах и что борьба с пожаром еще возможна. Оттуда они стали кричать: «Давайте воду», но вед
+        <hi rendition="#s">ер</hi>
+        ра 
+        <hi rendition="#s">не было</hi>
+        <hi rendition="#i"> немцы уб</hi>
+        <hi rendition="#i">рали</hi>
+        , пруд далеко
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#i">о</hi>
+        <hi rendition="#i">гнетушители уничтожен</hi>
+        <hi rendition="#i">ы</hi>
+        . Нашли один огнетушитель. 
+        <hi rendition="#s">Ильюшин</hi>
+         
+        <hi rendition="#i">Б</hi>
+        ыстрым движением разбил
+        <hi rendition="#i">и</hi>
+         его. Клава Литвинова, ученица яснополянской школы, смело лезет на чердак и находит там второй огнетушитель. Жидкость огнетушителя направляется на второй очаг пожара, но огонь распространяется, горит пол, горят двери, косяки окон, занавеси. Все мы тащим снег, 
+        <hi rendition="#s">но</hi>
+         вскоре 
+        <hi rendition="#s">разыскиваются</hi>
+         
+        <hi rendition="#i">удалось достать </hi>
+        ведра, 
+        <hi rendition="#s">быстро опускаются в колодезь, вода</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Но в колодце нет воды. Вспомнили про </hi>
+        <hi rendition="#i">старый</hi>
+        <hi rendition="#i">, заброшенный</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">колодец, незамеченный немцами. Кинулись туда</hi>
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i"> </hi>
+        Вода набирается, и мы по-настоящему принимаемся за борьбу с пожаром. Я, Мария Ив. и Литвинова подносим воду на второй этаж. Пожарниками работают 
+        <hi rendition="#s">Комаровский и Ильюшин</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">двое</hi>
+        . Они продолжали борьбу с огнем на чердаке. 4 часа напряженной борьбы, и пожар был ликвидирован. Все же дом сильно поврежден.
+        <p>15 декабря в 9 часов утра в деревне появились первые красноармейцы.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

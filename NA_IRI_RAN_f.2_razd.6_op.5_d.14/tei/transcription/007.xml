@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> плохое, но это ничего, только домой. Письмо мы ваше получили, мама, и плакали, очень я скучаю, что живу в неволе. Не вижу света, не вижу ничего, кроме своего страшного барака. Нас гонят на работу и с работы, как невольников».</p>
+        <p>Маня К. пишет родителям: «Мы живем в Германии в городе Бланкенбурге, работаем у хозяина 33 человека. Здесь и украинцы, поляки, французы и русские. Кормят нас плохо. Хлеба дают очень мало. Работы по горло. За нами смотрят надсмотрщики. За каждым нашим шагом следят. Никуда не пускают, только с работы и на работу. Работаем по 20 часов, а на работу ходить нет в чем. Денег нам не дают. Дорогой папочка, как надоело быть невольником и работать, не зная, на кого и за что, да и нас не ценят. Нас все презирают и смеются. Были бы крылья – на родную сторонку». (Газета «Советский патриот» №3 от 8/XII-1943 г. – орган Старобинского РК КП(б)Б).</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

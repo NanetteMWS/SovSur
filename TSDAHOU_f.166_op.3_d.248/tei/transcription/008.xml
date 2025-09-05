@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Что же осталось в Лавре к моменту ухода немецкой полиции из Лавры (к июлю-августу 1942 г.)?</p>
+        <p>Из экспонатов перечисленных музеев, из их мебели не осталось буквально ничего, остались только голые стены зданий с робкой попыткой их разбора. Разбор зданий, уничтожение жилищного фонда – это уже падает в основном на время «охраны» Лавры «украинской» полицией.</p>
+        <p>Из ряда других фактов этого периода следует отметить следующее: в марте месяце 1942 года управление Лаврой получает официальное отношение «украинской» полиции «безпеки» (безопасности) немедленно убрать с территории Лавры трупы. Управление отвечает, что на территории нижней Лавры никаких трупов нет. Через несколько дней в управление Лавры является немецкий полицейский офицер, хорошо говорящий по-русски, и приказывает немедленно, в течение десяти минут дать человек 10 рабочих с лопатами и кирками и идти с ними в верхнюю Лавру. Когда ему было заявлено, что десяти рабочих управление найти не может, он приказал взять монахов. Когда рабочие и монахи пришли в верхнюю Лавру, их повели за трапезную церковь, где лежали три трупа, и приказали их зарыть. У южной стены трапезной церкви была выкопана могила, в которой и зарыли три неизвестных трупа, один из них, очевидно, был красноармеец, так как из голенища сапог торчала ложка.</p>
+        <p>Необходимо отметить и следующие факты: в результате </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000386">
+      <titleStmt>
+        <title>Письмо Натальи Коломеец и открытки-послания Николая Шевченко</title>
+        <author>
+          <persName>Наталия Коломеец</persName>
+        </author>
+        <author>
+          <persName>Николай Николаевич Шевченко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p> Привет, Наташа!</p>
+        <p>Я тебе послал рассказ из нашей жизни. Пусть Мотя его перепишет и вышлите его на Швабах в лагерь девушек. А у себя организуй читку твоим знакомым на «Roth».</p>
+        <p>Пока. </p>
+        <p>Николай. </p>
+        <p>1/II 1944.</p>
+        <p>Здоровье мое все еще неважное, в постели.</p>
+        <p/>
+        <p>Natalia Kolomeez</p>
+        <p>Belmrach 3</p>
+        <p>Roth b/Nbg</p>
+        <p/>
+        <p>[Л.4 – лицевая сторона открытки]</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

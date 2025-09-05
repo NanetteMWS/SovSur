@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.55" xml:space="default"/>
+        <p> Василий Андреевич и Белов Алексей Иванович – умирали со словами «Да здравствует Родина! Да здравствует товарищ Сталин». </p>
+        <p>В результате зверств и грабежей фашистскими насильниками над мирными жителями, население доведено до крайних пределов, например: на день оккупации в районе имелось в личном пользовании колхозников около 3000 коров и 7000 мелкого скота. На 15 января 1943 года в районе осталось 80 коров, 30 лошадей, мелкого скота нет. Население, оставшееся без жилья, продуктов питания, не имея соли. К этому же, в районе свирепствует эпидемическое заболевание – паратиф, и не имея никакой медицинской помощи, среди населения колоссальная смертность. В Бехтеевском сельсовете в декабре месяце 1942 года в течение 10 дней умерло 47 человек, в дер. Безымянка Ильюшинского сельсовета 32 человека. Таково положение населения».</p>
+        <p>(Из докладной комиссара партизанского отряда «Народный мститель» секретаря Андреевского райкома ВКП(б) тов. Куркина от 1 февраля 1943 года).</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

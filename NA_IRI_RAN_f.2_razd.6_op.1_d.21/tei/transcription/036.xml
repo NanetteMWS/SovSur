@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.74" xml:space="default"/>
+        <p> Рассказ учительницы школы глухонемых им. 15 Октября д. Сокольниково Истринского района (6 километров от Истры) Барановской Наталии Дмитриевны.</p>
+        <p/>
+        <p>Школа наша стоит в стороне от дороги, на опушке леса. Занятий в школе не было. Мы жили с другой учительницей – Цицероновой Натальей Ефимовной во флигеле, рядом со школой. В школьном дворе у нас было вырыта яма-щель, но мы далеки были от мысли, что придется ею пользоваться. Школа наша стояла как-то на отлете. Жили мирно и тихо. В ноябре месяце здание школы заняла какая-то красноармейская часть. Вокруг школы были расставлены противотанковые орудия. В нашем флигеле был расквартирован медицинский персонал. Здесь же поместилось огромное количество беженцев из Истры, некоторые решили уйти из города до прихода туда немцев, еще с 18 ноября, т.е. после первой крупной бомбежки города (путь от Истры на школу лесной дорожкой очень удобен).</p>
+        <p>25 числа наши части покинули школу и двинулись по направлению к Москве. Мы не знали, не поняли причину таких спешных сборов. Поэтому все развернувшиеся потом события застали нас врасплох. Немцев мы не ждали.</p>
+        <p>Утром 26 ноября, часов в 10, начался обстрел деревни. Мы все спрятались в убежище, которое находилось за школой, почти на опушке леса. Многие же просто убежали в лес. Тут были и сельчане, и беженцы из Истры. Откуда-то вдруг появился </p>
+      </div>
+    </body>
+  </text>
+</TEI>

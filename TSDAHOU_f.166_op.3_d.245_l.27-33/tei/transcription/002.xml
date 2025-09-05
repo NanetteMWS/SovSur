@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.28 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#i">У меня была явочная квартира по ул. Чернышевского №37 в г. Мелитополе. У меня скрывался член партии т. Тимофеев Петр Федорович, б. председатель Акимовского райисполкома Запор. </hi>
+          <hi rendition="#i">о</hi>
+          <hi rendition="#i">бл. </hi>
+          <hi rendition="#i">К нам</hi>
+          <hi rendition="#i"> приходил командир партиз</hi>
+          <hi rendition="#i">анской группы, капитан Красной а</hi>
+          <hi rendition="#i">рмии Федоренко Константин Игнатьевич. С т. Тимофеевым я познакомилась через Мовчан Галину Захаровну. Через партизанку Овсянникову Татьяну Семеновну и одной дошкольной работницы Поляцкую Анну Николаевну я доставала паспорта д</hi>
+          <hi rendition="#i">ля советских граждан, скрывающих</hi>
+          <hi rendition="#i">ся от преследования немцев. Комсомолка </hi>
+          <hi rendition="#i">Ниткова</hi>
+          <hi rendition="#i"> Вал</hi>
+          <hi rendition="#i">ентина привела раз ко мне в контору двух парашютистов, сбежавших из концлагеря. Я им обоим доставила и засвидетельствовала два фиктивных документа и по ним получила для них 2 паспорта.</hi>
+          <hi rendition="#i"> В нотариальной конторе в течение 10 дней скрывался один еврей, бежавший из Севастополя, пока я ему не достала паспорт и деньги. Вся эта работа мною была сделан</hi>
+          <hi rendition="#i">а при непосредственном участии </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">2 слова непонятно</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> Марковна, на квартире у которой </hi>
+          <hi rendition="#i">я жила </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">несколько слов непонятно</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">и работала секретарем</hi>
+          <hi rendition="#i"> [</hi>
+          <hi rendition="#i">1 слово непонятно</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i">.</hi>
+        </p>
+        <hi rendition="#i">У меня была явочная квартира по ул. Чернышевского №37 в г. Мелитополе. У меня скрывался член партии т. Тимофеев Петр Федорович, б. председатель Акимовского райисполкома Запор. </hi>
+        <hi rendition="#i">о</hi>
+        <hi rendition="#i">бл. </hi>
+        <hi rendition="#i">К нам</hi>
+        <hi rendition="#i"> приходил командир партиз</hi>
+        <hi rendition="#i">анской группы, капитан Красной а</hi>
+        <hi rendition="#i">рмии Федоренко Константин Игнатьевич. С т. Тимофеевым я познакомилась через Мовчан Галину Захаровну. Через партизанку Овсянникову Татьяну Семеновну и одной дошкольной работницы Поляцкую Анну Николаевну я доставала паспорта д</hi>
+        <hi rendition="#i">ля советских граждан, скрывающих</hi>
+        <hi rendition="#i">ся от преследования немцев. Комсомолка </hi>
+        <hi rendition="#i">Ниткова</hi>
+        <hi rendition="#i"> Вал</hi>
+        <hi rendition="#i">ентина привела раз ко мне в контору двух парашютистов, сбежавших из концлагеря. Я им обоим доставила и засвидетельствовала два фиктивных документа и по ним получила для них 2 паспорта.</hi>
+        <hi rendition="#i"> В нотариальной конторе в течение 10 дней скрывался один еврей, бежавший из Севастополя, пока я ему не достала паспорт и деньги. Вся эта работа мною была сделан</hi>
+        <hi rendition="#i">а при непосредственном участии </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">2 слова непонятно</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> Марковна, на квартире у которой </hi>
+        <hi rendition="#i">я жила </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">несколько слов непонятно</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">и работала секретарем</hi>
+        <hi rendition="#i"> [</hi>
+        <hi rendition="#i">1 слово непонятно</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i">.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000655">
+      <titleStmt>
+        <title>Стенограмма беседы с Марией Волосевич</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л.174-224.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.175" xml:space="default"/>
+        <p/>
+        <p>Комиссия при ЦК КП(б) Белоруссии по истории Отечест. войны</p>
+        <p/>
+        <p>Стенограмма беседы с тов. Волосевич Марией Антоновной, бывшей партизанкой.</p>
+        <p>Беседу проводит ст. литработник Комиссии при ЦК КП(б)Б Мазинг О.Ю.</p>
+        <p>Стенографистка – Богославская М.В.</p>
+        <p/>
+        <p>Волосевич Мария Антоновна, 1915 года рождения, беспартийная. До войны работала в качестве экономиста в Статутуправлении БССР. Награждений нет. В настоящее время не работает.</p>
+        <p>6 марта 1946 года.</p>
+        <p>г. Минск.</p>
+        <p/>
+        <p>Родилась в Плещенском районе, Минской области, в деревне Малые Нистановичи, Завищенского сельсовета, в семье крестьянина. В 1929 году окончила сельскую школу. С 1930 года по 1934 год работала по ликвидации неграмотности в Красноярском крае, Казаченско-Енисейский район. В 1934 году я выехала к сестре на Украину, в Донбасс, Красноармейский рудник.</p>
+        <p>В 1935 году приехала в Гомель и поступила на рабфак при Гомельском пединституте. Окончив 2 курса рабфака, я приехала к брату в гор. Киров. Здесь окончила третий курс рабфака при Зооветеринарном институте и в 1938 году поступила в пединститут имени Ленина в г. Кирове на факультет русского языка и литературы Учительского института. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

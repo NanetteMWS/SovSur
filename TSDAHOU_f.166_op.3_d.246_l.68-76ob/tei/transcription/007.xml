@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000837">
+      <titleStmt>
+        <title>Стенограмма беседы с Назаром Яковец</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 68-76 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.75" xml:space="default"/>
+        <p> В это время наш отряд уже насчитывал 14 человек. Все это были люди, которые примкнули к нам, спасаясь от полицейского и фашистского террора: Шкодич Николай, Яковец Захарий Данилович, Твердый Арсен Григорьевич, Куришко Сергей, Жмура Максим Петрович из села Бережки и Николайчик Петр. Работали мы все вместе до встречи с лейтенантом Грибановым и с группой «дяди Миши». Таким образом, у нас уже был отряд в 36 человек. В течение одного месяца мы спустили три немецких эшелона. Тола у нас в то время еще не было, и мы спускали эшелоны под откос следующим образом: мы развинчивали рельсы на протяжении двух километров.</p>
+        <p>В марте месяце 1943 года я вошел в контакт с капитаном Гриб из отряда Одунки, причем было решено, что я буду работать головою сельрады в с. Карасин и буду проводить работу среди молодежи, направляя ее в партизанский отряд. А мои люди влились в это время в отряд Одунки и капитана Гриба. Вскоре Одунка был убит в с. Бережки и отрядом стал командовать капитан Гриб.</p>
+        <p>В марте месяце 1943 года я связался с десантной группой капитана Морейко Федора (по кличке Петров). С этого времени я вел широкую разведывательную работу по выявлению местонахождения немецких гарнизонов и немецких эшелонов. Одновременно я держал связь с партизанскими отрядами: с полковником Шкода, с генералом Сивуха, с Каплуном и с «дядей Петей», а также с Селивоненко и др. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

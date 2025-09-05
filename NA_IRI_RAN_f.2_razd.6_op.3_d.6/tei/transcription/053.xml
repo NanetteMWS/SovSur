@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.27 оборот" xml:space="default"/>
+        <p> Зверство немецких оккупантов. Камынова Александра.</p>
+        <p>У нас немцы стояли в деревне. Раз они пришли к нам и стали с мамы скидовать валенки, но мама не отдавала валенки. Они хотели маму застрелить, но я заплакала, а они ушли. И еще раз мы с бабушкой к соседям, а немцы пришли к ним, а мы с бабушкой сидели у них. А они стали смотреть на ноги бабушки и увидали на бабушке валенки, а у бабушки были валенки обернуты шубными лоскутами. И стали резать шубные лоскуты, а бабушка сказала: давайте я сама распорю. А они на бабушку плеткой, до трех раз вдарили плеткой, но я не думала, что бабушка останется живая. И бабушка осталась ни жива, ни мертва, но мы с бабушкой очень плакали, и я попросила у соседки холодные сапоги, и я носила, как дошла еще домой.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

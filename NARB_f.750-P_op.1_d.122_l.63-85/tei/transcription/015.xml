@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000894">
+      <titleStmt>
+        <title>Стенограмма беседы с Лидией Осмоловской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 122. Л. 63-85.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.77" xml:space="default"/>
+        <p> говорит ему, что беседует с Перовским и Осмоловской. Тогда товарищ Ворошилов говорит ему, что хочет с нами побеседовать и назначил время, когда к нему прийти. Назначил прием на два часа дня. Я весь день очень сильно волновалась, смущало то, что я одета не девушкой. Выписали нам пропуск, мы заходим и адъютант т. Ворошилова говорит нам, что скоро примет нас маршал. Заходит товарищ Ворошилов, поздоровался, угощает Перовского хорошей папиросой, угощает нас виноградом и другими прекрасными фруктами. Беседовал с нами 4 часа. Товарищ Ворошилов говорит:</p>
+        <p>– Ну, Лида, как думаете дальше поступать.</p>
+        <p>Я отвечаю, что если получу задание, то выполню его. Спросил у меня, много ли я наблюдала за немцами, за их действиями, привычками, как немцы живут и т.д. Он остался очень доволен и сказал мне:</p>
+        <p>– Когда будете ехать на задание, мы еще с Вами поговорим.</p>
+        <p>Когда я вышла от товарища Ворошилова, у меня был такой подъем, я готова была идти на любое задание. Я и сейчас хочу пойти на выполнение задания, но на такое, которое я знаю, что выполню. Я видела много и я знаю, как к ним подойти.</p>
+        <p>
+          <hi rendition="#i">Асмолов</hi>
+        </p>
+        <hi rendition="#i">Асмолов</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

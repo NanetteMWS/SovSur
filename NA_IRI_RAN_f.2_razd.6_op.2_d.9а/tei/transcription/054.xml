@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.63" xml:space="default"/>
+        <p> «В деревне Дмитровке Кировского района Смоленской области гитлеровские псы согнали в один дом 30 человек мирных жителей, подорвали его минами, а потом сожгли. Из 30 человек только 4 человека остались в живых, остальные погибли. В деревне Орловка того же района немецко-фашистские мерзавцы согнали в один дом 49 человек, в том числе женщин с грудными детьми, престарелых стариков, подростков и детей, бросили в окно связку гранат, затем дом подожгли. В огне погибли 43 человека. </p>
+        <p>В деревне Большие Савки немцы с беспримерной жестокостью замучили подростков Гераськина И., Герынькина И., и Полпудникова В. Палачи заставили мальчиков вырыть себе могилу, расстреляли их, а затем уже у мертвых отрезали руки, ноги и искалечили их тела.</p>
+        <p>Проходя по следам отступающей немецко-фашистской орды, мы находили десятки, сотни трупов замученных, искалеченных наших людей. В освобожденном от немецких оккупантов селе Замошье Барятинского района Смоленской области 26 апреля 1942 года было обнаружено 5 трупов мирных граждан (4 мужчин и 1 женщины), жителей этого же села. Все трупы носили явные следы </p>
+      </div>
+    </body>
+  </text>
+</TEI>

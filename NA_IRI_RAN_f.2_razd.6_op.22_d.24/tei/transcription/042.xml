@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.24" xml:space="default"/>
+        <p/>
+        <p>
+          <hi rendition="#u">На прощанье</hi>
+           (В первые дни освобождения на память Филимоновой Марии)
+        </p>
+        <hi rendition="#u">На прощанье</hi>
+         (В первые дни освобождения на память Филимоновой Марии)
+        <p>До свиданья, милая, родная, –</p>
+        <p>Шептал девушке любимой паренек,</p>
+        <p>Бережно и нежно обнимая</p>
+        <p>Стан красотки стройный и высок.</p>
+        <p>Как домой ты будешь добираться,</p>
+        <p>То заедь ко мне, не откажись,</p>
+        <p>Передай родителям хоть в кратцах</p>
+        <p>За мое здоровье и за жизнь.</p>
+        <p/>
+        <p>Говори, что скоро я приеду,</p>
+        <p>За меня мамашу обними,</p>
+        <p>Передай привет седому деду,</p>
+        <p>Будь приветлива, Маруся, со всеми.</p>
+        <p/>
+        <p>Уверяю – мать моя родная</p>
+        <p>
+          Тебя встретит с горькими слез
+          <hi rendition="#s">ь</hi>
+          ми.
+        </p>
+        <hi rendition="#s">ь</hi>
+        ми.
+        <p>Ты ж утешь старушку, дорогая,</p>
+        <p>Да гляди, голубушка, возьми</p>
+        <p>И скажи, что я больной в постели.</p>
+        <p>Ты за это лучше помолчи,</p>
+        <p>Хоть лежу и дышу еле-еле,</p>
+        <p>Но окрепну – говорят врачи.</p>
+        <p/>
+        <p>Расскажи мамаше, как мы жили</p>
+        <p>В страшном, адском логове врагов,</p>
+        <p>Как фашисты с нас тянули жилы,</p>
+        <p>Как сосали паразиты кровь.</p>
+        <p/>
+        <p>Помнишь, милая, когда мы в воскресение</p>
+        <p>С лагеря бежали с тобой в ночь,</p>
+        <p>Пробралися через заграждение,</p>
+        <p>Отгоняя страх и боязнь прочь.</p>
+        <p/>
+        <p>И в лесу, по родине тоскуя,</p>
+        <p>Мы смотрели, молча на луну.</p>
+        <p>Изредка звук нежный поцелуя</p>
+        <p>Чуть тревожил ночи тишину.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

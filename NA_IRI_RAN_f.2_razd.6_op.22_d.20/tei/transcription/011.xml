@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.6 оборот" xml:space="default"/>
+        <p> собака своим лаем. Любил он применять в действие к нам свой резиновый шланг.</p>
+        <p>Однажды вечером, возвратившись с работы, мы тянулись поодиночке к вмывальнику. В это время выскочила с его кабинета, по его приказанию, собака и бросилась на одного с нас. Он хотел отогнать ее и замахнулся. Увидев это, начальник лагеря выстроил всех и приказал: «Кто тронет хоть пальцем собаку, тот будет сурово наказан». А этого парня, который, обороняясь, замахнул на собаку, он сбил и посадил в цементную одиночку.</p>
+        <p>Таких случаев было не один, они были ежедневно. Он не мог дышать, не сбив в день 2-3-х с нас. Редко, когда проходил день и даже час спокойно.</p>
+        <p>2) Помочник мастера: человек физически развит, вышесреднего роста, с красными щеками, небольшим лицом, остропронзительным взглядом и громкодрожащим голосом. Всегда любил он носить в специальном </p>
+      </div>
+    </body>
+  </text>
+</TEI>

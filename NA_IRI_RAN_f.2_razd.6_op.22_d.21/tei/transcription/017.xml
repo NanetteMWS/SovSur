@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9 оборот" xml:space="default"/>
+        <p> вождя товарища Сталина, и каждому хотелось в знак благодарности – «учиться, учиться и учиться». Но тут я вздрогнула. Все ужасы войны предстали перед моими глазами. Я снова оглянулась, и окружающая обстановка подтверждала мне о всех злодеяниях и зверствах, принесенных немецкими бандитами. И я твердо решила себе до конца вести непримиримую борьбу с ненавистным врагом, не жалея ни сил, ни своей жизни.</p>
+        <p>Спустя несколько дней, мы были уже по ту сторону границы, в чужом неизвестном городе. Ах, каким только ужасом повеял на меня этот город. Поезд остановился на станции. Я выглянула в щель и отшатнулась в ужасе. Дома на станции черные, громадные, закоптелые. Мне стало страшно. Я более нагляднее уявила себе тех диких фашистов и их жилья. Тут я увидела ту Германию, о которой раньше могла только слышать, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

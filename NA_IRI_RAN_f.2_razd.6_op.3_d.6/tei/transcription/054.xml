@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.28 оборот" xml:space="default"/>
+        <p> Зверство немецких оккупантов.</p>
+        <p>
+          Когда были немцы, они пришли к нам и стали спрашивать, где русские солдаты. Мать сказала: у нас русских солдат нету. Он начал приставать: говори, где русс. Мать говорит
+          <hi rendition="#s">ь</hi>
+          : они ушли к германским солдатам, и тогда только отвязались. А то еще пришли два немца и стали спрашивать хлеб, а у нас хлеб был в печке. Мать говорит: у нас хлеба нету. Он тогда открыл печку и увидел хлеб и стал дожидать, пока поспеет. Поспел, они взяли две буханки хлеба и ушли. А то еще пришли три немца и переводчик и стали спрашивать валенки. Мать говорит: как у меня плохие. А он говорит: покажи. Мать показала плохие, а хорошие убрала в сено. Он поглядел и бросил и начал копать на кровати, а у нас на кровати 
+        </p>
+        <hi rendition="#s">ь</hi>
+        : они ушли к германским солдатам, и тогда только отвязались. А то еще пришли два немца и стали спрашивать хлеб, а у нас хлеб был в печке. Мать говорит: у нас хлеба нету. Он тогда открыл печку и увидел хлеб и стал дожидать, пока поспеет. Поспел, они взяли две буханки хлеба и ушли. А то еще пришли три немца и переводчик и стали спрашивать валенки. Мать говорит: как у меня плохие. А он говорит: покажи. Мать показала плохие, а хорошие убрала в сено. Он поглядел и бросил и начал копать на кровати, а у нас на кровати 
+      </div>
+    </body>
+  </text>
+</TEI>

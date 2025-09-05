@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.30" xml:space="default"/>
+        <p> 4 декабря. Прониной Таисы</p>
+        <p>
+          Товарищи, мы сейчас вам со
+          <hi rendition="#i">о</hi>
+          б
+          <hi rendition="#s">ч</hi>
+          <hi rendition="#i">щ</hi>
+          аем про гадюку
+          <hi rendition="#i">.</hi>
+           Когда гадюки пришли и спрашева
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">ю</hi>
+          т: д
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          вай мыла. Но как раз у нас не было. Он у вел нашу матерю в другую избу и под бок 
+          <hi rendition="#s">к</hi>
+           тыкает штыком
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#i">Н</hi>
+          о мы побежали к ней, к матери
+          <hi rendition="#i">,</hi>
+           но он крикнул ку
+          <hi rendition="#s">б</hi>
+          <hi rendition="#i">д</hi>
+          а вас черт несет. Так он нач
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">а</hi>
+          л матерю водить по комнате, 
+          <hi rendition="#s">се</hi>
+           
+          <hi rendition="#i">ее</hi>
+           спрашева
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">ю</hi>
+          т: давай мыло
+          <hi rendition="#i">.</hi>
+           Другое происшествие. 
+          <hi rendition="#i">Раз</hi>
+           мы стали обедать, он 
+          <hi rendition="#s">на</hi>
+           раз 
+          <hi rendition="#s">идет</hi>
+           
+          <hi rendition="#i">пришел</hi>
+          , всю посуду пошвырял, и мы пошли без обеда
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#s">третее проешествие</hi>
+           
+          <hi rendition="#i">У</hi>
+           нас был зарытый 
+        </p>
+        <hi rendition="#i">о</hi>
+        б
+        <hi rendition="#s">ч</hi>
+        <hi rendition="#i">щ</hi>
+        аем про гадюку
+        <hi rendition="#i">.</hi>
+         Когда гадюки пришли и спрашева
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">ю</hi>
+        т: д
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        вай мыла. Но как раз у нас не было. Он у вел нашу матерю в другую избу и под бок 
+        <hi rendition="#s">к</hi>
+         тыкает штыком
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#i">Н</hi>
+        о мы побежали к ней, к матери
+        <hi rendition="#i">,</hi>
+         но он крикнул ку
+        <hi rendition="#s">б</hi>
+        <hi rendition="#i">д</hi>
+        а вас черт несет. Так он нач
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">а</hi>
+        л матерю водить по комнате, 
+        <hi rendition="#s">се</hi>
+         
+        <hi rendition="#i">ее</hi>
+         спрашева
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">ю</hi>
+        т: давай мыло
+        <hi rendition="#i">.</hi>
+         Другое происшествие. 
+        <hi rendition="#i">Раз</hi>
+         мы стали обедать, он 
+        <hi rendition="#s">на</hi>
+         раз 
+        <hi rendition="#s">идет</hi>
+         
+        <hi rendition="#i">пришел</hi>
+        , всю посуду пошвырял, и мы пошли без обеда
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#s">третее проешествие</hi>
+         
+        <hi rendition="#i">У</hi>
+         нас был зарытый 
+      </div>
+    </body>
+  </text>
+</TEI>

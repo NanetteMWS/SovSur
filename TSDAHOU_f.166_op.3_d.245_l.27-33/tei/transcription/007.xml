@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.33" xml:space="default"/>
+        <p> а я владею польским языком, он дал возможность нам бежать. Второй раз мы попали в лагерь, из которого также удалось бежать.</p>
+        <p>Потом мы узнали, что в Ново-Николаеве многих расстреляли, бросили в колодцы, а брата гр. Рябовой нашли в колодце совершенно изувеченным с выколотыми глазами и искалеченным телом.</p>
+        <p>Многих угнали в Германию.</p>
+        <p>Мелитополь был освобожден 23 октября 1943 г. При отступлении немцев все предприятия были заминированы. Так, завод им. Микояна, з-д Воровского, консервный завод, мясокомбинат были взорваны, также были взорваны и советские учреждения.</p>
+        <p>Были сожжены полностью пригородные села – Константиновка, Мордвиновка и многие другие. Причем жителей выгоняли. Под хату ложили солому, обливали керосином и поджигали. Точно также поступили с Приазовьем.</p>
+        <p>Так хозяйничали немецко-фашистские оккупанты в г. Мелитополе.</p>
+        <p>
+          19.1.46 г. [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          Вел стенограмму [
+          <hi rendition="#i">подпись</hi>
+          ] Король
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] Король
+        <p>
+          Стенографировала [
+          <hi rendition="#i">подпись</hi>
+          ] Залесная
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] Залесная
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000545">
+      <titleStmt>
+        <title>Стенограма бесіди зі Степаном Банахом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 2. Спр. 51.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.3" xml:space="default"/>
+        <p> На вулицях міста Львова часто відбувалися облави на людей, яких забирали до праці в Німеччину і крім цього були оголошення офіційно. Особливо мобілізували молодь. Було забрано в Німеччину з м. Львова до 20-25 тисяч польської молоді на роботу до Райху.</p>
+        <p/>
+        <p>Вів бесіду вчений Секретар Комісії Історії Вітчизняної Війни</p>
+        <p>Кандидат наук (Д.В. Гак)</p>
+        <p>Стенографувала (Г.В. Шестопалова)</p>
+        <p>
+          <hi rendition="#i">Пронумеровано 3 лист.</hi>
+        </p>
+        <hi rendition="#i">Пронумеровано 3 лист.</hi>
+        <p>
+          <hi rendition="#i">мл. науч. раб. Сманиус</hi>
+        </p>
+        <hi rendition="#i">мл. науч. раб. Сманиус</hi>
+        <p>
+          <hi rendition="#i">31.</hi>
+          <hi rendition="#i">I</hi>
+          <hi rendition="#i">.46 р.</hi>
+        </p>
+        <hi rendition="#i">31.</hi>
+        <hi rendition="#i">I</hi>
+        <hi rendition="#i">.46 р.</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

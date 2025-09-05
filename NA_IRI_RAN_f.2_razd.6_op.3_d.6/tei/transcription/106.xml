@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.61" xml:space="default"/>
+        <p> Во время оккупации немцев, один немец пришел за поросенком, но еще он был маленький. Когда он стал сам смотреть и потоптался по соломе, нет ли большого поросенка в соломе закопано, когда посмотрели, что нету, и пошел коровы в закуту. Только открыл школу, и она сама рогами открыла дверь и чуть не сшибла немца. Когда немец ушел со двора и потом пошел в чулан, посмотрел он немного и вышел, и сказал: где русс? Мать говорит, что нету русских у нас.</p>
+        <p>Волнушкина Сергея</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000652">
+      <titleStmt>
+        <title>Стенограмма беседы с Еленой (Галиной) Мазаник</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л.88-120.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.93" xml:space="default"/>
+        <p> Я пользовалась большим доверием со стороны генерала и особенно генеральши. Однажды какому-то немцу понравилась моя комната. Он решил ее занять. Я пришла на работу и говорю генеральше, что так и так. Она рассказала об этом генералу и людям, пытавшимся это сделать, здорово влетело.</p>
+        <p>Ну, взрыв мины получился в ночь с 22 на 23 сентября 1943 г. в 1 ч. 30 м. ночи. Кубе был убит сразу же.</p>
+        <p>Когда я приехала в Минск после его освобождения, мне рассказывали, что всех девушек схватили, а генеральша говорила, что на Галину я больше всего надеялась.</p>
+        <p>Неизвестный человек, приходивший ко мне, был действительно послан из-за линии фронта, но неумело себя держал.</p>
+        <p>Вот все, что я могу рассказать об убийстве Кубе.</p>
+        <p>
+          Мазаник 
+          <hi rendition="#i">Е</hi>
+          .Г.
+        </p>
+        <hi rendition="#i">Е</hi>
+        .Г.
+        <p>
+          <hi rendition="#i">Мазаник</hi>
+        </p>
+        <hi rendition="#i">Мазаник</hi>
+        <p>5-го июня 1945 года.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

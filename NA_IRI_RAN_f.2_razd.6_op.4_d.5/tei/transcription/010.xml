@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л. 9" xml:space="default"/>
+        <p> Щеголева Мария Ивановна. Я очень растерялась. Генерал наклонился над книгой посетителей. Попросила генерала перевести мне первую запись, сделанную немцами. Он перевел. Генерал был очень нетерпелив и не задерживался ни в одной из комнат.</p>
+        <p/>
+        <p>Щеголев Сергей Иванович. Он спросил меня, куда увезли вещи Толстого и когда. Мы ответили, что увезены они давно, находятся в полной сохранности и такого-то числа увезены в Сибирь. Офицеры рассмеялись и говорят: «Коммунисты продадут эти вещи американцам».</p>
+        <p/>
+        <p>2 ноября. Литературный музей полон раненых. Немецкие врачи предложили убрать со стен все оставшиеся экспозиции. Когда стали убирать, я обнаружил, что похищена копия картины Репина: «Толстой пишет». Все экспозиции убрать не удалось, так как все комнаты музея были переполнены ранеными и пройти к стенам было очень трудно. В этот день музей посещают до 50 человек командного состава. С ними приходилось иметь дело, главным образом, Марии Ивановне, так как пояснения она давала на французском языке. В этот день около могилы Толстого продолжают хоронить немецких солдат и офицеров.</p>
+        <p/>
+        <p>
+          Щеголева Мария Ивановна. Один из офицеров говорил, что он 
+          <hi rendition="#s">бывал во</hi>
+          <hi rendition="#s"> Франции, в Америке</hi>
+          , большой поклонник русского искусства 
+          <hi rendition="#i">и</hi>
+           с шести лет чита
+          <hi rendition="#s">л</hi>
+          <hi rendition="#i">ет</hi>
+           Толстого. 
+          <hi rendition="#s">Расспрашивал меня о многих подробностях. Просил разъяснить ему противоречие, которое было у Толстого между тем, что он мог и хотел сделать и</hi>
+          <hi rendition="#s"> </hi>
+        </p>
+        <hi rendition="#s">бывал во</hi>
+        <hi rendition="#s"> Франции, в Америке</hi>
+        , большой поклонник русского искусства 
+        <hi rendition="#i">и</hi>
+         с шести лет чита
+        <hi rendition="#s">л</hi>
+        <hi rendition="#i">ет</hi>
+         Толстого. 
+        <hi rendition="#s">Расспрашивал меня о многих подробностях. Просил разъяснить ему противоречие, которое было у Толстого между тем, что он мог и хотел сделать и</hi>
+        <hi rendition="#s"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

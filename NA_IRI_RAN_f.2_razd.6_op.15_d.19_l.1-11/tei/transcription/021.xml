@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000647">
+      <titleStmt>
+        <title>Стенограмма беседы с Александром Осадчим</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 19. Л. 1-11.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> они сами еле удрали. Альсмика я взял к себе в группу, и жену его, и Клару тоже, а мать Клары, старую уже, и сестренку оставили в деревне, дали им мяса, картошки. Альсмик не горевал, он партизанил с февраля 1944 г. и во время блокировки он остался один. Нас гоняли, а он просидел и все отправил, причем он сохранил еще две коровы. Он вернулся сюда и сейчас снова организует совхоз Заозерье. Он был участником сельскохозяйственной выставки, большую работу проделал, сохранил станцию.</p>
+        <p>Мы работали не только на Минск, но и на Заозерье, на Сечу и на Руденск. В Руденске Гуриновичи, Шидловская, Дрозд Ольга большую роль сыграли. Ольгу я знаю еще с 1942 г. Эти люди работали на Руденск, планы разные укреплений Руденска давали, сведения о численном составе гарнизона, о политико-моральном состоянии в Руденске. Последний раз Ольга Дрозд пошла в Руденск за сведениями, ее арестовали, но она никого не выдала. Вся агентура осталась на месте, а она погибла. Есть сведения, что ее сожгли в Тростенце. Она писала матери записку, в которой говорит: «Меня одно спасло, что я никого не выдала и на все отвечала «нет».</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

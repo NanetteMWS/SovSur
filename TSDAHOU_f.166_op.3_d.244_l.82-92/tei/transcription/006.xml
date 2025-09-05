@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.88" xml:space="default"/>
+        <p> заводов, а потом поступали на биржу больные, хилые здоровьем, худые, истощенные, откуда распределяли по отдельным хозяинам – бауэрам и мелким фабрикантам.</p>
+        <p>Я была больная, ибо на мне отразилась тяжелая дорога, недоедание, и я попала в гор. Гирберг на маленькую фабрику машиностроения, где хозяином был Коте.</p>
+        <p>На фабриках и заводах не обязательно было иметь квалификацию, так как по работам распределяли независимо от квалификации.</p>
+        <p>Все фабрики там были механизированы и автоматизированы. С первого дня я стала работать на автомате, который требовал большого напряжения и внимания, и никакой квалификации и знаний машины.</p>
+        <p>Рабочий день был с шести часов утра до пяти вечера и с получасовым перерывом и 15 минут на завтрак. Нормы не было, но мастер следил за тем, чтобы не было холостого хода машины, и чтобы все станки были включены. Если замечали простой, саботаж, строго наказывали. Первый раз садили в тюрьму на голодный паек на несколько дней, а на следующий – отправляли в штрафлагерь.</p>
+        <p>На фабрике у нас работало 400 человек, это были украинцы, поляки, французы, итальянцы, бельгийцы, голландцы. Изо всех наций самые тяжелые условия были для украинцев и поляков. Это выражалось в питании и дисциплине.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

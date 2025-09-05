@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p> Созданы комсомольско-молодежные фронтовые бригады. Они дают исключительно большой эффект в своей работе. Они сокращают количество членов бригады, повышают производительность труда, улучшают качество работы.</p>
+        <p>Харьковские дивизии, участвовавшие в боях за г. Харьков, имеют связь с партийной организацией города, с горкомом комсомола и с предприятиями. Лучшим фронтовым молодежным-комсомольским бригадам прислали вымпел. У нас было два общегородских собрания комсомольцев и несоюзной молодежи, где представители этих дивизий, офицерский, сержантский и рядовой состав вручали этот вымпел.</p>
+        <p>Преимущественно, молодежь – это учащиеся ВУЗ’ов и техникумов. Большая работа проводится в стенах ВУЗ’ов и техникумов, воспитательная работа проводится в общежитиях. Там также проводят лекции и беседы по различным вопросам.</p>
+        <p>Нужно отметить особенно большую посещаемость дома агитации и пропаганды студентами. Причем, я лично сам, когда узнал, ездил и проверил – дом агитации и пропаганды открывается с 10 часов утра, а посетители, в частности, студенты приходят к 9-30 утра, потому что литературы не хватает, а она хотят получить раньше ту или иную книжку или брошюру.</p>
+        <p>
+          Изучение книги товарища Сталина о Великой Отечественной войне. Эта книга нарасхват. Ее изучают индивидуальными группами. Организованы кружки в городе и на предприятиях. 
+          <hi rendition="#s">Тот</hi>
+           
+          <hi rendition="#i">С теми</hi>
+          , кто сам не может 
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">силить</hi>
+           
+          <hi rendition="#i">изучить</hi>
+           книгу, утвержденные бюро райкома руководители систематически проводят занятия.
+        </p>
+        <hi rendition="#s">Тот</hi>
+         
+        <hi rendition="#i">С теми</hi>
+        , кто сам не может 
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">силить</hi>
+         
+        <hi rendition="#i">изучить</hi>
+         книгу, утвержденные бюро райкома руководители систематически проводят занятия.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

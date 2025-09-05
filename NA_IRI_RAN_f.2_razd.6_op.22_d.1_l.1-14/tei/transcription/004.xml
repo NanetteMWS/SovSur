@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p>
+           Ко всем трудящимся, ко всем
+          <hi rendition="#u"> антифашистам Европы</hi>
+          !
+        </p>
+        <hi rendition="#u"> антифашистам Европы</hi>
+        !
+        <p>Неотвратимо близиться час возмездия фашистскому зверю за все его чудовищные злодеяния.</p>
+        <p>Почти каждое предприятие Германии движется силами закабаленных его трудящихся Европы – русские, французы, греки, сербы и т.д.</p>
+        <p>Кипящие неистребимой ненавистью к фашизму ждут, когда настанет грозный час расправы, чтобы схватить угнетателя за горло.</p>
+        <p>Промышленность Германии – в руках ее могильщиков – в ваших руках, можно даже сказать, вся Германия. Центроргбюро Европейского объединения антифашистов призывает вас приготовиться к смертельному удару по врагу. Для этого создайте по армейскому образцу боевые подразделения: взводов, роты и т.п. в зависимости от количества преданных антифашистов. Закрепите связь между народностями, городами и лагерями. Дело это облеките строжайшей тайной, чтобы враг не заметил занесенного над его головой меча смерти. Передавайте из города в город, из лагеря в лагерь, из верных рук в верные.</p>
+        <p>Час близок, приготовьтесь!</p>
+        <p>Центроргбюро Е.О.А.</p>
+        <p>Сентябрь 1943 г.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

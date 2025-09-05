@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> Из окон 42 и 43 корпусов (в которых жили монахи) постоянно, особенно утром, можно было видеть, как немецкие изверги до полусмерти, скорее до смерти избивали больных и слабых евреев, поливали их на морозе водой и наконец пристреливали. Около самого лагеря их и хоронили. Места погребений сохранились до сегодня.</p>
+        <p>Ко всему этому надо добавить, что из Лавры было вывезено в Германию не менее 50-ти человек.</p>
+        <p>Таким образом, второй период немецкой оккупации ознаменовывается физическим уничтожением верхней Лавры, когда было разрушено несколько церквей, 34 жилых зданий и все надворные постройки – в своем большинстве памятники старины и искусства XI-XII, XVII-XVIII и XIX-XX веков.</p>
+        <p>IV. Последние дни оккупантов в Киеве и Лавре с 1 сентября по 6 ноября 1943 г.</p>
+        <p>10 августа последовал приказ штаткомиссара, а 15 августа и головы города о передаче верхней Лавры управлению Лавры. Но по существу передавать было уже нечего. Лавра была не только полностью ограблена, но и полностью разрушена. В более или менее удовлетворительном состоянии были только церковь над святыми воротами (Троицкая) и над экономическими воротами (всех святых).</p>
+        <p>10 сентября было составлено описание состояния всех строений верхней Лавры.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

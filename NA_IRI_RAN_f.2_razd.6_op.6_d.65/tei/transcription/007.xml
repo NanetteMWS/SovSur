@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000279">
+      <titleStmt>
+        <title>Воспоминания Октябрины Гудимовы</title>
+        <author>
+          <persName>Октябрина Павловна Гудимова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 65.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> быстро нашел намеченную женщину; ее забрали и увели. Солдат продолжал поиски; спички тухли, обжигая ему пальцы. Тогда он вышел и вернулся со свечой. Он разгонял, расталкивал женщин в углу, где была раньше я, но меня не нашел. Выругавшись он ушел, грубо расталкивая сидящих на пути.</p>
+        <p>Никто не решался подняться с места, ни заговорить. Все были подавлены жутким событием. Я задыхалась без воздуха, но вылезать из «убежища» не решалась. Но часам к 12-ти ночи положение стало невыносимым – дышать было совершенно нечем. Мы попросили патруля, чтобы разрешил открыть немного дверь. Так провели мы всю ночь, время от времени задыхаясь в пыли и вони переполненной комнаты.</p>
+        <p>
+          Утром в 10 часов нас вывели на соше и построили в колонну. При под
+          <hi rendition="#s">щ</hi>
+          счете 
+        </p>
+        <hi rendition="#s">щ</hi>
+        счете 
+      </div>
+    </body>
+  </text>
+</TEI>

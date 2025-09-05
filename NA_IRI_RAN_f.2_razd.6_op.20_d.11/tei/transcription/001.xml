@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000321">
+      <titleStmt>
+        <title>Стенограмма беседы с Вольдемаром Теллингом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 20. Д. 11.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Комиссия по составлению хроники Великой Отечественной войны</p>
+        <p/>
+        <p>Стенограмма беседы с тов. Теллинг Вольдемаром Иоганновичем</p>
+        <p/>
+        <p>Беседу проводит старший научный сотрудник Лихтер Б.Л.</p>
+        <p>Стенографистка Бондаренко А.А.</p>
+        <p/>
+        <p>14 апреля 1945 г.</p>
+        <p/>
+        <p>Секретарь Президиума Верховного Совета Эстонской ССР. Член ВКП(б) с 1923 г. эстонец, год рождения 1903, образование высшее.</p>
+        <p/>
+        <p>Родился в семье батрака по теперешнему административному делению уезд Валгамаа, волость Хельме. Я успел проработать в деревне только одно лето пастухом. В 1912 г. мы перебрались в г. Тарту. Родители работали чернорабочими. Отцу было уже больше 40 лет и батрацкая жизнь ему была очень тяжела. В г. Тарту я поступил в школу, 3 года учился в начальной школе. Зимой зарабатывал деньги продажей газет, летом тоже, особенно в 1914 г., когда началась первая мировая война. В это время отец опять переехал в деревню, работал на конюшне. С 1915 по 1918 гг. я учился в высшей начальной школе в Тарту. </p>
+        <p>Родители мои жили очень бедно, и такое принижение было, и у нас были такие разговоры, что кто почище одет, тот еще может жить, а мы – низший народ, так и говорили, и придется остерегаться, бояться, чтобы с кем-нибудь возни не было, чужие люди могут напакостить. Вообще эстонскому народу свойственна осторожность. </p>
+        <p>После Февральской революции чувствовалось что-то такое новое – весна, лето и т.д. Хотя я был пастухом в деревне, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

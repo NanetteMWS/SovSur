@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.12" xml:space="default"/>
+        <p> что усадьба рассматривается как наследное достояние семьи Толстых. Словом, разговор был короткий. Я понял, что защиты у этих людей искать нечего.</p>
+        <p>14 ноября. Музей превращен в казарму. Все шкафы взломаны, несмотря на то, что нам все время твердили, что ни один немецкий солдат ничего не возьмет.</p>
+        <p>
+          Повешен Николай Власов 28 лет и 
+          <hi rendition="#s">колхозник</hi>
+          -рабочий с Косой Горы, эвакуированный из деревни Волохово в Ясную Поляну. Трупы висели три дня.
+        </p>
+        <hi rendition="#s">колхозник</hi>
+        -рабочий с Косой Горы, эвакуированный из деревни Волохово в Ясную Поляну. Трупы висели три дня.
+        <p/>
+        <p>
+          Кандаурова А.И. Власову 
+          <hi rendition="#i">было</hi>
+           28 лет. 
+          <hi rendition="#s">Он поссорился с</hi>
+          <hi rendition="#s"> немецкими</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">солдатами</hi>
+          . 
+          <hi rendition="#s">Они</hi>
+           
+          <hi rendition="#i">Немцы</hi>
+           считали его партизан
+          <hi rendition="#s">а</hi>
+          <hi rendition="#i">о</hi>
+          м
+          <hi rendition="#s">и</hi>
+          . Второй колхозник – тоже молодой человек. Повешены они были на перекладине, прибитой к столбам от электричества. До этого было собрано все население деревни, так что вешали их при всех. Родственникам не разрешили хоронить трупы в течение трех дней, а потом разрешили, но только обходным путем через деревню, а не по дороге. Повешены они были так, что когда мать и жена Власова выходили из своего дома, то как раз перед их глазами висел сын.
+        </p>
+        <hi rendition="#i">было</hi>
+         28 лет. 
+        <hi rendition="#s">Он поссорился с</hi>
+        <hi rendition="#s"> немецкими</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">солдатами</hi>
+        . 
+        <hi rendition="#s">Они</hi>
+         
+        <hi rendition="#i">Немцы</hi>
+         считали его партизан
+        <hi rendition="#s">а</hi>
+        <hi rendition="#i">о</hi>
+        м
+        <hi rendition="#s">и</hi>
+        . Второй колхозник – тоже молодой человек. Повешены они были на перекладине, прибитой к столбам от электричества. До этого было собрано все население деревни, так что вешали их при всех. Родственникам не разрешили хоронить трупы в течение трех дней, а потом разрешили, но только обходным путем через деревню, а не по дороге. Повешены они были так, что когда мать и жена Власова выходили из своего дома, то как раз перед их глазами висел сын.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

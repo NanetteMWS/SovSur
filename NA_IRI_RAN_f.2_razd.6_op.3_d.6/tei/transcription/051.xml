@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.26 оборот" xml:space="default"/>
+        <p> Домашняя работа 14 декабря.</p>
+        <p>У нас немцы были в деревне. Они ходили, обирали валенки. Они пришли к нам в дом, а мы с братишкой схоронились на печку. А немцы увидали нас и сняли с меня мои валенки. А мама их догнала и стала у них отнимать валенки, но они не отдавали, но мама у них отняла валенки и принесла их домой и мене отдала их. И еще немцы взяли у нас корову. Но мама очень плакала и бабушка, но немцы на них наставили наган и хотели застрелить. Но так немцы еще взяли: у нас была, выгребли из подпола картошки и взяли кур.</p>
+        <p>Камынова Александра</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

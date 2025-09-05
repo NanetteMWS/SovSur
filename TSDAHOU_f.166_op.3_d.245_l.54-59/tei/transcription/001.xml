@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000826">
+      <titleStmt>
+        <title>Стенограмма беседы с Верой Пономаревой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 54-59.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.55" xml:space="default"/>
+        <p/>
+        <p>Стенограмма записи воспоминаний Пономаревой Веры Васильевны о событиях на Украине периода немецкой оккупации.</p>
+        <p/>
+        <p>20-го января 1946 года.</p>
+        <p/>
+        <p>Беседу проводил старший научный сотрудник Комиссии по истории Отечественной войны на Украине – Гулевец А.И.</p>
+        <p>Стенографистка – Пейсахзон.</p>
+        <p/>
+        <p>Я работала машинисткой в Первомайской городской управе с 28 августа 1941 года по 14-е марта 1944 года, а 25-го марта 1944 года гор. Первомайск был освобожден частями Красной армии.</p>
+        <p>18-го октября гор. Первомайск был разделен на две части: Голта отошла к румынам, называлась «Транснистрия», вторая часть – Богополье, Ольвиополь –отошли к Германии.</p>
+        <p>Первоначально была одна городская управа, которая находилась в Голте, но после разделения она тоже разделилась на две части.</p>
+        <p>Первоначально городская управа подчинялась воинским властям. В первые дни была полевая комендатура – фельдскомендатура, а с конца сентября была ортскомендатура – местная комендатура.</p>
+        <p>В конце декабря 1941 года прибыли в Первомайск гражданские власти: гебитскомиссар со своим штатом, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

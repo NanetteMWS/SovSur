@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> «Группа Борьбы», куда вошел он как председатель, Лобанов Михаил и Желнов Александр – как члены. Первую задачу перед собой они ставили: организовать такие организации в других лагерях и городах.</p>
+        <p>Так как начатое ими дело имело успехи и было подхвачено невольниками других лагерей, в январе 1943 г. эта организация была переформирована и переименована в Центральный Комитет Борьбы (ЦКБ), в состав которого вошли: Шевченко Н.Н. (Железнов) – председатель, Галецкая Ф. – секретарь и члены: Лобанов Михаил, Желнов А. (Орлов), Кисиль Иван (Столбовой), Приймак Павел (Музыченко) и Друзь Петр (Дорошенко).</p>
+        <p>Приступая к работе, ЦКБ ознакомился с программой, которая была сложена т. Шевченком Н.Н. В первую очередь нужно было разширить сеть организации путем организации окружных и городских Комитетов Борьбы (КБ), откуда непосредственно шли лагерные и заводские КБ. Мы поставили задание: объединить и организовать порабощенных народов, находящихся в </p>
+      </div>
+    </body>
+  </text>
+</TEI>

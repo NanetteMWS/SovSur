@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.15 оборот" xml:space="default"/>
+        <p> но это была не систематическая работа. Большинство он был свободен. </p>
+        <p>Мы начали Ваську использовать для своих работ. Встречаться с девушками мы не имели пока возможности, нам строго запрещалось с ними встречаться и разговаривать, у нас не было свободного времени, мы поздно и много работали по 16-17 часов в сутки. Девушек никуда не выпускали с лагеря. А всегда хотелось переговорить с ними, рассказать им свои обиды, узнать про них, хотя помочь друг дружке мы ничем не могли. Мы писали письма, а Васька незаметно подходил к лагерю, или, когда девушек гнали на работу или с работы, он ухитрялся всегда передать и получить письмо. На него никто не мог обратить внимания. Немцы не знали, что он русский и он мог всегда подкрасться и сделать то, что ему поручалось.</p>
+        <p>Однажды Васька прибежал домой и </p>
+      </div>
+    </body>
+  </text>
+</TEI>

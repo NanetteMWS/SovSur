@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.37" xml:space="default"/>
+        <p> такие стихи я всегда прочитывала и старалась их заучить. </p>
+        <p>Однажды я с Дусей ездила в Кобург к военнопленным с письмом от Невидомского. В поезде нам пришлось столкнуться с «добровольцами». Они пытались вступить с нами в разговор, но мы, не желая с ними разговаривать, ответили: «Мы – девушки русские, и нам не о чем с вами говорить» и в заключение добавили: «Как вам не стыдно помогать врагу? Вы ведь увеличиваете страдания, мучения ваших сестер и братьев, томящихся в рабстве. Неужели вы еще не чувствуете, что немцами вы вместе с ними потеряли войну?» Они пытались еще узнать наш адрес, но мы поспешили уйти от них.</p>
+        <p>С Мусей я слушала радио, концерт московского большого театра. В воскресенье под вечер она прибежала к нам, и с ней мы пошли к тому хозяину, у которого я работала неделю. Хозяина </p>
+      </div>
+    </body>
+  </text>
+</TEI>

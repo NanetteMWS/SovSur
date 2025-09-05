@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.49 оборот" xml:space="default"/>
+        <p> противную кухню, которая отняла у меня половину здоровья, и ту посуду, и полы, и комнаты, и все прочее. </p>
+        <p>Я не думала о том, что ни американская, ни английская пуля не разбирается, что я русская, что я хочу жить, и что я могу так же погибнуть, как и все другие, но я стояла посреди двора, смотрела на столбы дыма, пока не подбежали ко мне Муся и отец и снова втащили меня в «будку» нашу. Бомбежка продолжалась недолго. Жертвы были небольшие. В Лихтенфельс в депо убило несколько немцев. Лихтенфельс сильно разбило. Депо разнесло совсем, и все паровозы, станцию, сам город, задело лагерь военнопленных, который находился рядом с депо, но жертв не было, т.к. все военнопленные во время тревоги находились на работе, и с работы они убегали в лес, в поле. В такое время мы чаще всего и встречались с ними. Васька всегда бывал вместе с ними во время бомбежек. Как </p>
+      </div>
+    </body>
+  </text>
+</TEI>

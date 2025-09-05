@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.55 оборот" xml:space="default"/>
+        <p> не смотрели ни на что и заставляли работать. </p>
+        <p>Между тем, фронт уже был совсем недалеко. Американские самолеты никогда не вылетали с той местности. От Невидомского получили письмо, где он сообщал, что военнопленных будут эвакуировать, и просил, чтобы мы по возможности подошли к лагерю. В воскресенье мы втроем, Дуся, Муся и я, направились к лагерю, пробираясь тропинками, через луг, около речки. Еще издали заметили нас ребята, сидевшие на заборе, на крыше. Они заранее уже повырезали в заборе дырочки, для того чтобы просунуть пальчик, чтобы хоть одним глазом посмотреть на своих сестер, на своих сотрудниц, на лучших девушек, которые и радость, и горе делили с ними, помогали и понимали их, которые не отворачивались при встрече от них, что они бедные, оборванные, обросшие, измученные, а </p>
+      </div>
+    </body>
+  </text>
+</TEI>

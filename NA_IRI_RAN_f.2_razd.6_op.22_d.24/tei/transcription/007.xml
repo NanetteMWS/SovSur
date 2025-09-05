@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p> Та приснилося і це:</p>
+        <p>Ніби в тім кущеві,</p>
+        <p>Цілував тебе в лице,</p>
+        <p>У вуста рожеві.</p>
+        <p/>
+        <p>Аж сп’янів я від любові,</p>
+        <p>Та клопи прокляті</p>
+        <p>Не дали доснитись снові,</p>
+        <p>Почали кусатись.</p>
+        <p/>
+        <p>Де я? – В очах замигтіли</p>
+        <p>Нари, в вікнах грати.</p>
+        <p>Душа й серце відповіли:</p>
+        <p>В Німеччині клятій.</p>
+        <p/>
+        <p>(Все до тебе, дорогая,</p>
+        <p>Я пишу свої листи,</p>
+        <p>Тільки, серденько не знаю</p>
+        <p>Чи прочитуєш їх ти.</p>
+        <p/>
+        <p>Оцього обов’язково</p>
+        <p>Прочитай хоч знехотя.</p>
+        <p>Тут я точно слово в слово</p>
+        <p>Опишу своє життя.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

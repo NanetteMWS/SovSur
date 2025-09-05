@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p> Но я продолжала сопротивляться до тех пор, пока взбешенный бригадир принес тряпку и щетку и заставил меня убирать цех.</p>
+        <p>Так на этой фабрике я работала уборщицей.</p>
+        <p>Рабочий день длился 12-13 часов, за которые мы получали от 3-х до 15 марок.</p>
+        <p>Кормили нас раз в день похлебкой из брюквы, буряка и моркови. Еще варили горький любисток с соей.</p>
+        <p>Однажды целый день нам не дали ничего есть. Мы забастовали и не пошли на работу. Тогда немцы вызвали жандармов, которые насильно повели нас на завод. А в 12 часов ночи нам дали по чашке бульона.</p>
+        <p>На этой фабрике также работали французы, итальянцы, бельгийцы. Для каждой нации были отдельные лагеря.</p>
+        <p>Битье на фабрике было повседневным явлением. За каждую мелочь, незначительную провинность били, били…</p>
+        <p>Когда под охраной жандармов нас водили на работу, немецкие дети бросали в нас камнями, сыпали песком, плевали, называли свиньями, а жандармы только смеялись.</p>
+        <p>На фабрике я получала 15 марок. Один раз я получила 25 марок. За эти деньги купить ничего не могла, так как нам ничего и не продавали, кроме пива и лимонада, которые мы покупали, чтобы перебить голод. Остальные деньги, главным образом, высчитывались за спец. одежду.</p>
+        <p>За все время моей работы я получила: туфли на деревянном ходу, за которые высчитали 13 руб. 50 коп., одну пару чулок – 4 руб., юбку – 8 руб., блузку – 7 руб., косынку 2 р. 50 к., пальто 18 руб.</p>
+        <p>Все это было старое, ношенное, трухлое.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

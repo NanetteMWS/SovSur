@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000231">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Королевым и Георгием Милютиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 39.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p> не был взорван, хотя указание у них было тайное.</p>
+        <p>Они вывезли библиотеку. Это ценная вещь, но в городе сохранилась другая библиотека. Они в дождь, снег, кругом стрельба, 50 тыс. томов переносили.</p>
+        <p>Вывезли маленький ванграф. Это машина для ядерных исследований, она стоит, может быть, миллион, но из себя ничего не представляет. Основная установка, большой ванграф, остался цел, т.е. в таком состоянии, в каком оставили наши, когда эвакуировались. Он выстроен у нас, это достижение института. Для него был выстроен этот корпус. Рядом с ним стояла установка.</p>
+        <p>Вывозили материалы в небольшом количестве, приборы хорошие, основная ценная аппаратура была вывезена в 1941 г. Вывозили они раковины, плафоны, провода, вообще всякое барахло. Во второй приход станки вывезены. Немцами вывезена, во-первых, лаборатория электромагнитных колебаний Лилякова, его личная лаборатория. Вывезен ванграф вместе с сотрудником, который должен был работать на нем, Браиловский.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">Ив. Королев</hi>
+        </p>
+        <hi rendition="#i">Ив. Королев</hi>
+        <p>
+          <hi rendition="#i">Милютин</hi>
+        </p>
+        <hi rendition="#i">Милютин</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

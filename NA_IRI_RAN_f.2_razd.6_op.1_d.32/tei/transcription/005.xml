@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> строя шахты Подмосковного бассейна, Наро-Фоминскую, Яхромскую, Красноплянскую текстильные фабрики. Повредили гордость Сталинских пятилеток канал Москва – Волга. Сожгли свыше 1000 школ, 700 изб-читален, клубов, театров и др. культурных учреждений. Сожгли Ново-Иерусалимский монастырь, знаменитый Бородинский музей, превратили в конюшню музей Чайковского в Клину. По итоговым данным Моск. обл. Комиссии по учету ущерба стоимость того что разрушили немцы в Моск. области составляет около 25 млрд. рублей, из них, по неполным данным, примерно, свыше 15 млр. рублей ущерб, причиненный отдельным гражданам. (Черноусов – Выступление на Х сессии Верх. Сов. СССР, в II-1944 г.)</p>
+        <p/>
+        <p>
+          За время немецкой оккупации в 17 оккупированных районах Московской области погибло больше половины рабочих колхозных лошадей. В этих районах было к 1/I-1941 г. 50.033 лошадей, к 20/I-42 г. осталось 14.311 лошадей, т.е. 28,6% – 
+          <hi rendition="#s">наиболее</hi>
+           
+          <hi rendition="#s">бы</hi>
+           эвакуировано 15,9%, погибло 55,5%.
+        </p>
+        <hi rendition="#s">наиболее</hi>
+         
+        <hi rendition="#s">бы</hi>
+         эвакуировано 15,9%, погибло 55,5%.
+        <p>
+          Больше всего погибло лошадей в Лотошинском районе 
+          <hi rendition="#s">5,3</hi>
+          . Из 4338 лошадей на 1/I-41 г. осталось к 1/I-42 г. – 514, или 11,8%, Наровском районе осталось 529 лошадей из 3374 лошадей – 15,7% – Сводки МОЗО, обраб. библ. отделом (
+          <hi rendition="#s">Данные</hi>
+           Комиссии по ист. Отеч. войны).
+        </p>
+        <hi rendition="#s">5,3</hi>
+        . Из 4338 лошадей на 1/I-41 г. осталось к 1/I-42 г. – 514, или 11,8%, Наровском районе осталось 529 лошадей из 3374 лошадей – 15,7% – Сводки МОЗО, обраб. библ. отделом (
+        <hi rendition="#s">Данные</hi>
+         Комиссии по ист. Отеч. войны).
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.50 оборот" xml:space="default"/>
+        <p> Он бесстрашный малыш. Его мы посылали в самые опасные места, и он никогда не сказал того, что он не поедет, что ему страшно, хотя он и испытывал иногда чувство страха, но никогда не посмел сказать, что он этого не сделает, что это невозможно и опасно. Всякий раз он умело запрятывал во множество карманчиков, или в подкладку пальто письма, листовки, обращения, географические карты, компас, необходимые вещи для побега товарищей, и все это отвозил в лагерь военнопленных, в лагерь девушек, в деревни, он ехал за 18 км в лагерь военнопленных, он ездил не один раз в Бомберг без меня, передавал все, выполнял так, как ему приказывали. Когда ему в Бомберге не удавалось видеть тов. Шевченко, он отыскивал П. Друзь, только раз был – перепутал фамилию и искал Петра Зайца, но когда ребята сказали, что такого нет, может, Друзь, тогда Васька вспомнил, что </p>
+      </div>
+    </body>
+  </text>
+</TEI>

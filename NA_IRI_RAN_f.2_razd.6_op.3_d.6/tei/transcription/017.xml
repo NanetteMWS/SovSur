@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> 18 декабря.</p>
+        <p>Зверства немецких оккупантам.</p>
+        <p>
+          Раз к нам пришли в деревню немцы и начали грабить кур, хлеб, коров, свиней. Они приехали на машинах в скотной двор и начали овец ловить и в машины начали сажать. Раз приехала вторая партия. Мы с мамой сидели на койке и у мамы сняли сапоги. Один немец были обмороженные ноги, и он снял у мами сапоги. Они не раздевались, хотя грязный таз они [1 слово зачеркнуто] умывались. У нас 
+          <hi rendition="#s">раз</hi>
+           в деревне издыхали фрицы и заставили ребят могилы копать. 
+          <hi rendition="#s">она</hi>
+           Был мороз, земля не копается, но они заставляли копать, они даже разожгли огонь и начали копать. До здравствует Красная Армия, бейте врага. Братья и сестра, бейте врага. Не жалейте своей жизни.
+        </p>
+        <hi rendition="#s">раз</hi>
+         в деревне издыхали фрицы и заставили ребят могилы копать. 
+        <hi rendition="#s">она</hi>
+         Был мороз, земля не копается, но они заставляли копать, они даже разожгли огонь и начали копать. До здравствует Красная Армия, бейте врага. Братья и сестра, бейте врага. Не жалейте своей жизни.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

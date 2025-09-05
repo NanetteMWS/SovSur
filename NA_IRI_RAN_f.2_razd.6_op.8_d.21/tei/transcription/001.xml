@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000056">
+      <titleStmt>
+        <title>Песни, написанные заключенными в концентрационном лагере Бухенвальд</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Песня заключенных концлагеря.</p>
+        <p/>
+        <p>Мы живем не вдали от Берлина</p>
+        <p>Островок окруженный водой</p>
+        <p>Там лежит небольшая равнина</p>
+        <p>И концлагерь стоит за стеной.</p>
+        <p/>
+        <p>33 деревянных барака: кухня, бункер (I), ревир (II) и ветриб (III)</p>
+        <p>Наши девушки ходят без яков (VI)</p>
+        <p>Хоть холодный март месяц стоит.</p>
+        <p/>
+        <p>Еще ночь нас уже поднимают</p>
+        <p>Пьем поллитра горячей воды</p>
+        <p>Быстро нас на апель (IV) выгоняют</p>
+        <p>На апели мы долго стоим.</p>
+        <p/>
+        <p>Тридцать раз нас считают полячки</p>
+        <p>Тридцать раз по пятеркам стоим</p>
+        <p>Слышим голос мы Скальской (V) чудачки</p>
+        <p>А потом от работы бежим.</p>
+        <p/>
+        <p>Мы работы совсем не боимся</p>
+        <p>Но работать на них не хотим</p>
+        <p>На работе поем, веселимся</p>
+        <p>А в душе слезы горя таим.</p>
+        <p/>
+        <p>Жуткий холод дрожать заставляет</p>
+        <p>На нас только платья одни</p>
+        <p>Но сознание напоминает</p>
+        <p>Что сейчас целый мир есть в огне.</p>
+        <p/>
+        <p>Что сейчас плачут братья и сестры</p>
+        <p>Плачет мать, плачет сын и отец</p>
+        <p>Но на фронте бои очень острые</p>
+        <p>Нашим мукам уж придает конец.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

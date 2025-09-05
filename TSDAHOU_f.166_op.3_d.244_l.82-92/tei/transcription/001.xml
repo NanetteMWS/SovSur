@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.83" xml:space="default"/>
+        <p/>
+        <p>Воспоминание о немецкой каторге Веры Филипповны Кальницкой</p>
+        <p>(Гр. гор. Киева, угнанной в сентябре м-це 1943 года, по квалификации техник-конструктор).</p>
+        <p/>
+        <p>Перед вступлением немецких войск в гор. Киев, я выехала на Донбасс к родным и поступила на работу в фронтовой госпиталь, который действовал в районе Изюма.</p>
+        <p>При окружении воинских частей в 1942 г., я тоже попала в окружение и так как линию фронта перейти было невозможно, я вернулась в Киев.</p>
+        <p>Пришла на свою квартиру Мало-Житомирская №17, кв. 4, где меня предупредили, что дворник может меня выдать как жену партизана. В это время была объявлена всеобщая регистрация населения гор. Киева. Уклоняясь от регистрации, я пошла работать в пригородные хозяйства, которые возглавлялись немцами. Это бывшие совхозы Ирпень, Стоянки.</p>
+        <p>Руководили совхозами немцы, работали бежавшие люди из городов и набранные из ближайших сел. Рабочий день был установлен с шести до шести часов, с получасовым перерывом. Были установлены нормы, например, 3-4 сотки обработать забурьяненного поля. Никакой техники, кроме вручную, не применялось, а поэтому очень тяжело было работать. Получали 20 руб. в месяц, которые уходили на питание. Кормили два раза в день жидким супом и давали по пол литра перегонного молока, хлеба – 150 гр.</p>
+        <p>В таких условиях я проработала с июня месяца 1942 года по октябрь 1942 г.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

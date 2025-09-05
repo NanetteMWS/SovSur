@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000056">
+      <titleStmt>
+        <title>Песни, написанные заключенными в концентрационном лагере Бухенвальд</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.1 оборот" xml:space="default"/>
+        <p> Ничего дорогие подруги выше головы, пойте смелей</p>
+        <p>Еще две небольшие натуги и прилетит дорогой соловей.</p>
+        <p/>
+        <p>Он откроет нам двери за браму</p>
+        <p>Снимет платье в полоску с плечей</p>
+        <p>Исцелит наболевшие раны</p>
+        <p>Вытрет слезы из бедных очей.</p>
+        <p/>
+        <p>Ничего дорогие подруги, будьте русскими всюду везде.</p>
+        <p>Скоро все мы оставим концлагерь</p>
+        <p>Скоро будем на русской земле.</p>
+        <p/>
+        <p>Примечание: I бункер – тюрьма</p>
+        <p>II Ревир – больница</p>
+        <p>III Ветриб – мастерская шитья</p>
+        <p>IV Апель – проверка в строю</p>
+        <p>V Скальской чудачки – фамилия</p>
+        <p>VI Яков – жакет такой же как и платье, которым можно было пользоваться как зимней одеждой до марта месяца.</p>
+        <p>
+          <hi rendition="#i">Автор этой песни за эту песню была расстреляна. 18 лет. дев.</hi>
+        </p>
+        <hi rendition="#i">Автор этой песни за эту песню была расстреляна. 18 лет. дев.</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000883">
+      <titleStmt>
+        <title>Стенограмма беседы с Наумом Фельдманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 172-208.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.186" xml:space="default"/>
+        <p>
+           благополучно с продуктами. Мы приходили к старосте и говорили – нашему отряду нужно 15-20 пудов ржи или муки. Мы предупреждали, чтобы 
+          <hi rendition="#s">в</hi>
+           семь
+          <hi rendition="#s">ях</hi>
+          <hi rendition="#i">и</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#s">где имеются члены</hi>
+          <hi rendition="#s"> семьи в армии, их</hi>
+           
+          <hi rendition="#i">красноармейцев</hi>
+          <hi rendition="#i"> и партизан</hi>
+           не трогать. Давали срок. К этому сроку приезжали, нам приготавливали белье 
+          <hi rendition="#s">и тому</hi>
+          <hi rendition="#s"> подобное</hi>
+          . 
+          <hi rendition="#s">Часть</hi>
+           
+          <hi rendition="#i">Немецкие</hi>
+           гарнизоны 
+          <hi rendition="#i">мы</hi>
+           совместно с другими отрядами разбивали 
+          <hi rendition="#s">и пользовались благами</hi>
+           
+          <hi rendition="#i">брали нужное нам продовольствие</hi>
+          . Таким образом мы снабжались. В нашем отряде женщин было больше, чем в других отрядах.
+        </p>
+        <hi rendition="#s">в</hi>
+         семь
+        <hi rendition="#s">ях</hi>
+        <hi rendition="#i">и</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#s">где имеются члены</hi>
+        <hi rendition="#s"> семьи в армии, их</hi>
+         
+        <hi rendition="#i">красноармейцев</hi>
+        <hi rendition="#i"> и партизан</hi>
+         не трогать. Давали срок. К этому сроку приезжали, нам приготавливали белье 
+        <hi rendition="#s">и тому</hi>
+        <hi rendition="#s"> подобное</hi>
+        . 
+        <hi rendition="#s">Часть</hi>
+         
+        <hi rendition="#i">Немецкие</hi>
+         гарнизоны 
+        <hi rendition="#i">мы</hi>
+         совместно с другими отрядами разбивали 
+        <hi rendition="#s">и пользовались благами</hi>
+         
+        <hi rendition="#i">брали нужное нам продовольствие</hi>
+        . Таким образом мы снабжались. В нашем отряде женщин было больше, чем в других отрядах.
+        <p>Так жили до мая 1943 года. К маю 1943 года явился Чернышев. Нам было предложено перейти в Пущу, это было в июле. База была подготовлена.</p>
+        <p>
+          До этого времени 
+          <hi rendition="#s">они</hi>
+           
+          <hi rendition="#i">мы</hi>
+           проводили большую политико-массовую работу. После призыва товарища Сталина о спасении мирного населения посылались люди в гетто, приводили стариков, женщин, детей и создавали семейные лагеря. Выделялись люди, которые бы возглавляли эти группы и отправляли их в Пущу. Такую работу проделал и наш отряд, спасли около 800 человек из Минского гетто, в апреле-мае 1943 года 
+          <hi rendition="#i">и создали 106-й семейный отряд</hi>
+          .
+        </p>
+        <hi rendition="#s">они</hi>
+         
+        <hi rendition="#i">мы</hi>
+         проводили большую политико-массовую работу. После призыва товарища Сталина о спасении мирного населения посылались люди в гетто, приводили стариков, женщин, детей и создавали семейные лагеря. Выделялись люди, которые бы возглавляли эти группы и отправляли их в Пущу. Такую работу проделал и наш отряд, спасли около 800 человек из Минского гетто, в апреле-мае 1943 года 
+        <hi rendition="#i">и создали 106-й семейный отряд</hi>
+        .
+        <p>
+          В 1943 году была такая установка, чтобы каждый отряд в Пуще имел базу действия в восточных районах. В июле месяце была послана группа для создания 
+          <hi rendition="#i">такой</hi>
+           базы.
+        </p>
+        <hi rendition="#i">такой</hi>
+         базы.
+        <p>
+          27 июля началась большая блокада 
+          <hi rendition="#i">Пущи</hi>
+          , которая длилась до 5-го августа.
+        </p>
+        <hi rendition="#i">Пущи</hi>
+        , которая длилась до 5-го августа.
+        <p>Создание баз было предусмотрено на случай, если на востоке не будет возможности держаться, передислоцироваться в Пущу. Там были созданы большие запасы, были созданы аэродромы, прилетали самолеты, начали подбрасывать оружие, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

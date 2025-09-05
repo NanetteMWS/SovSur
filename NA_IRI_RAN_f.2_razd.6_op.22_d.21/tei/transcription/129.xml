@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.65 оборот" xml:space="default"/>
+        <p>
+           8-го июня мы выехали с Кобурга на машинах в Лихтенфельс, а потом нас погрузили в эшелон, где мы доехали до Плауна, а потом снова машинами до г. Хеменец. Здесь нас перевезли через пограничную зону, где мы встретили впервые после долгих лет скитаний своих пограничников, мы бросали им цветы, кричали слова приветствия. В Хеменец погрузились на поезд и 
+          <hi rendition="#s">мая</hi>
+           июня 13 выехали оттуда. Затем приходилось бывать еще во многих лагерях, и наконец, мы приехали 8 июля в г. Оппельн, где прошли окончательную санобработку, фильтрационный пункт и получили право поездки на Родину. 20-го июля мы выехали с Оппельн и через несколько дней были уже на своей родной земле. Многое изменилось, многое стало неузнаваемым, но все оно было родным, близким и дорогим сердцу. Родная земля, родные села, свой народ, все свое, и мы чувствовали теплый приют.
+        </p>
+        <hi rendition="#s">мая</hi>
+         июня 13 выехали оттуда. Затем приходилось бывать еще во многих лагерях, и наконец, мы приехали 8 июля в г. Оппельн, где прошли окончательную санобработку, фильтрационный пункт и получили право поездки на Родину. 20-го июля мы выехали с Оппельн и через несколько дней были уже на своей родной земле. Многое изменилось, многое стало неузнаваемым, но все оно было родным, близким и дорогим сердцу. Родная земля, родные села, свой народ, все свое, и мы чувствовали теплый приют.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000838">
+      <titleStmt>
+        <title>Стенограма бесіди з Пилипом Фрідманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 246. Арк. 77-89.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.79" xml:space="default"/>
+        <p>
+           Були також зловживання з 
+          <hi rendition="#s">цьо</hi>
+          <hi rendition="#s">го</hi>
+           боку 
+          <hi rendition="#i">карткового бюро</hi>
+          . Карткове бюро могло таким чином використовувати для себе 
+          <hi rendition="#i">додаткові картки</hi>
+           і, крім того, подавати допомогу людям, які потребували збільшення пайку, бо не могли купити на чорному ринку. Пайок був дуже малий. Про це і пізніше дам більше відомостей.
+        </p>
+        <hi rendition="#s">цьо</hi>
+        <hi rendition="#s">го</hi>
+         боку 
+        <hi rendition="#i">карткового бюро</hi>
+        . Карткове бюро могло таким чином використовувати для себе 
+        <hi rendition="#i">додаткові картки</hi>
+         і, крім того, подавати допомогу людям, які потребували збільшення пайку, бо не могли купити на чорному ринку. Пайок був дуже малий. Про це і пізніше дам більше відомостей.
+        <p>
+          Таким чином, можна числити, що в цих всіх цифрах карткове бюро є завжди кілька 
+          <hi rendition="#i">тисяч</hi>
+           фіктивних душ. Це треба мати на увазі.
+        </p>
+        <hi rendition="#i">тисяч</hi>
+         фіктивних душ. Це треба мати на увазі.
+        <p>
+          На місяць жовтень 1941 р. видано 
+          <hi rendition="#i">«</hi>
+          Народною Торгівлею
+          <hi rendition="#i">»</hi>
+           для єврейського населення 119.000 карток.
+        </p>
+        <hi rendition="#i">«</hi>
+        Народною Торгівлею
+        <hi rendition="#i">»</hi>
+         для єврейського населення 119.000 карток.
+        <p>Від 1-го листопада картки були уже видані картковим відділом при єврейській громаді.</p>
+        <p>
+          <hi rendition="#i">На місяць листопад 1941 р. 109.000</hi>
+        </p>
+        <hi rendition="#i">На місяць листопад 1941 р. 109.000</hi>
+        <p>
+          <hi rendition="#i">ХІІ 106.000</hi>
+        </p>
+        <hi rendition="#i">ХІІ 106.000</hi>
+        <p>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">103.000</hi>
+        </p>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">103.000</hi>
+        <p>
+          <hi rendition="#i">ІІ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">97.000</hi>
+        </p>
+        <hi rendition="#i">ІІ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">97.000</hi>
+        <p>
+          <hi rendition="#i">ІІІ </hi>
+          <hi rendition="#i">96.000</hi>
+        </p>
+        <hi rendition="#i">ІІІ </hi>
+        <hi rendition="#i">96.000</hi>
+        <p>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">86.000</hi>
+        </p>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">86.000</hi>
+        <p>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i">	</hi>
+          <hi rendition="#i">84.000</hi>
+        </p>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i">	</hi>
+        <hi rendition="#i">84.000</hi>
+        <p>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">82.000</hi>
+        </p>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">82.000</hi>
+        <p>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i">ІІ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">82.000</hi>
+        </p>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i">ІІ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">82.000</hi>
+        <p>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i">ІІІ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">76.000</hi>
+        </p>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i">ІІІ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">76.000</hi>
+        <p>
+          <hi rendition="#i">ІХ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">36.000</hi>
+        </p>
+        <hi rendition="#i">ІХ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">36.000</hi>
+        <p>
+          <hi rendition="#i">Х</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">33.000</hi>
+        </p>
+        <hi rendition="#i">Х</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">33.000</hi>
+        <p>
+          <hi rendition="#i">ХІ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">29.000</hi>
+        </p>
+        <hi rendition="#i">ХІ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">29.000</hi>
+        <p>
+          <hi rendition="#i">ХІІ</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">24.000</hi>
+        </p>
+        <hi rendition="#i">ХІІ</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">24.000</hi>
+        <p>
+          Від серпня місяця 1942 р. цифри вже не є перебільшені, тому що полагають, що від того часу було в деякій мірі навіть більше населення, чим вказують цифри карткового бюро. Тоді була така ситуація: було вже ясно, що німці хочуть винищити євреїв і тому 
+          <hi rendition="#s">вони</hi>
+           
+          <hi rendition="#i">карткове бюро</hi>
+          <hi rendition="#i"> </hi>
+        </p>
+        <hi rendition="#s">вони</hi>
+         
+        <hi rendition="#i">карткове бюро</hi>
+        <hi rendition="#i"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

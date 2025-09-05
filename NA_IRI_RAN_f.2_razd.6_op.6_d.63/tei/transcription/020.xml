@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000689">
+      <titleStmt>
+        <title>Воспоминания школьников Харькова о пребывании в оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 63.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> Кровь за кровь.</p>
+        <p>
+          Нилин отец был повещен в 1942 г. Нила жила с мамой. В 6 часов вечера вышла во двор нарубать дров. Нарубав дров, она отнесла в дом. Мамы не было дома. Нила вышла на улицу. На улице стоял немец. Ей показался, что это 
+          <hi rendition="#i">тот</hi>
+          , который вешал её отца. Она со злобой бросила в него топор и ударила немца по голове. Немец с криком упал на землю. Нила скрылась. Немца забрали в лазарет. В 7 часов пришла мама Нилы. Нила ничего не сказала матери. Через 
+          <hi rendition="#i">некоторое</hi>
+           время послышался стук в дверь. Мать вышла открывать дверь. Немцы, как собаки, стали кричать. Мать была в испуге. Нилу расстреляли на глазах у матери. Мать бросилась к трупу дочки. Немец выстрелил в мать, а дом подожгли, и они сгорели в доме.
+        </p>
+        <hi rendition="#i">тот</hi>
+        , который вешал её отца. Она со злобой бросила в него топор и ударила немца по голове. Немец с криком упал на землю. Нила скрылась. Немца забрали в лазарет. В 7 часов пришла мама Нилы. Нила ничего не сказала матери. Через 
+        <hi rendition="#i">некоторое</hi>
+         время послышался стук в дверь. Мать вышла открывать дверь. Немцы, как собаки, стали кричать. Мать была в испуге. Нилу расстреляли на глазах у матери. Мать бросилась к трупу дочки. Немец выстрелил в мать, а дом подожгли, и они сгорели в доме.
+        <p>Перфильева В.П. 4 кл. а 61 школы.</p>
+        <p>
+          <hi rendition="#i">см. на обороте.</hi>
+        </p>
+        <hi rendition="#i">см. на обороте.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000348">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Фесенко</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 21. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> вечерам, не выходите гулять, не встречайтесь с вражескими офицерами и солдатами! Храните свою молодость, любовь и честь для наших бойцов и командиров Красной армии! Те девушки, которые сегодня гуляют с нашими врагами, изменяют не только своим женихам, но своей родине. Вернутся наши дорогие воины домой, вам будет стыдно. Они не простят вам этого.</p>
+        <p>Да здравствуют наши советские девушки, патриотки своей родины!</p>
+        <p>Сталин».</p>
+        <p>Эти листовки они расклеивали по городу, распространяли на базарах, на улицах. Вошло в поговорку:</p>
+        <p>– Куда идешь?</p>
+        <p>– На базар.</p>
+        <p>– За чем?</p>
+        <p>– За новостями.</p>
+        <p>«Дорогие товарищи, вы все читали приказ, вывешенный на днях. В нем враг высказывает, что он нас освободил от большевистского ига, что день, в который они оккупировали Тирасполь, был для нас светлым днем, а в действительности этот день, и не только день, а вот уже два года являются темной пропастью. Они освободили нас от белого хлеба. Дети не могут учиться в школах, как учились при советской власти. Немцы привезли в наш город заразу, о которой мы никогда раньше не слышали. Мы ждем победы большевиков и хотим смерти фашистам!</p>
+        <p>Сталин».</p>
+        <p>Когда румыны отступали, они пишут: «Товарищи, чувствуется, что мы скоро будем свободными. Вы видите, враг отступает. Он пишет приказы и обращается </p>
+      </div>
+    </body>
+  </text>
+</TEI>

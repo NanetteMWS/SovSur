@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.62 оборот" xml:space="default"/>
+        <p> переживаний, от бессонных ночей и никак не могла работать. На дворе стояла прекрасная погода, было так тепло, светило солнце и хорошо были видны американцы на той стороне. Муся уже утром ушла к американцам, двое ребят, ушедших вчера, тоже пробрались туда, а нас все еще заставляли работать. Я не могла больше выдержать, голова у меня болела, во всех суставах своего тела я чувствовала слабость, и не выдержав больше, я со всей яростью набросилась на хозяйку, и опрокинув стол с посудой, выскочила и побежала к реке, а следом за мной бежала Дуся, а за нами сзади и все остальные. Мы шли по берегу реки, а по ту сторону ехали американские танки, они переправлялись по воде т.к. мост был взорван. К вечеру американцы были в городе. Вечером прибежала Муся и рассказала о том, как она пробралась к </p>
+      </div>
+    </body>
+  </text>
+</TEI>

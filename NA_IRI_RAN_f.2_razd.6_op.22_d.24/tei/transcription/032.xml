@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Спогади</hi>
+        </p>
+        <hi rendition="#u">Спогади</hi>
+        <p/>
+        <p>Друззям.</p>
+        <p>Станція… засніжений перон.</p>
+        <p>Я в кайданах – і жандарм стоїть.</p>
+        <p>Скованого кинув у вагон,</p>
+        <p>І думки розбіглися мої.</p>
+        <p/>
+        <p>Повезуть куди? – І сам не знаю –</p>
+        <p>І сивий морок, в непроглядну млу,</p>
+        <p>В «Руссен віззен», певно, під нагаї,</p>
+        <p>На страшні тортури і на глум.</p>
+        <p/>
+        <p>Будуть друззі сумувать за мною,</p>
+        <p>Згадувать мої прості пісні,</p>
+        <p>А я за камінною стіною</p>
+        <p>В камері сидітиму тісній.</p>
+        <p/>
+        <p>Хто ж вам допоможе в різних справах?</p>
+        <p>Хто вірші писати буде вам?</p>
+        <p>Висміять людей отих лукавих,</p>
+        <p>Які продалися ворогам?..</p>
+        <p/>
+        <p>Що ж прощайте, земляки, пока –</p>
+        <p>Серце моє душить жаль і злість.</p>
+        <p>Хто ж вам затанцює гопака</p>
+        <p>Й анекдот веселий розповість?</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000092">
+      <titleStmt>
+        <title>Письма и стихи Марии Македонской</title>
+        <author>
+          <persName>Мария Кирилловна Македонская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter, poem_or_song">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> девушек и Родину бросили в беде.</p>
+        <p/>
+        <p>Беззащитных девушек увезли в Германию,</p>
+        <p>В лагерях закрытых ежедневно бьют.</p>
+        <p>Кто за них заступится, горю их защитников.</p>
+        <p>В Германии нет, но скоро придут.</p>
+        <p/>
+        <p>Но приедут соколы, прилетят далекие</p>
+        <p>И любимых девушек вырвут с лагерей.</p>
+        <p>Не виновны девушки – эти знают соколы,</p>
+        <p>Но как встретят власовцы дорогих гостей?</p>
+        <p/>
+        <p>Что вы им ответили, как сюда попали вы?</p>
+        <p>Почему оружие бросили в бою?</p>
+        <p>Почему за девушек вы не заступилися.</p>
+        <p>Почему продали вы Родину свою.</p>
+        <p/>
+        <p>Не придется, варвары, вам пройти с презрения,</p>
+        <p>Мимо изза рамочек гляните порой.</p>
+        <p>Но когда окончатся сроки заключения</p>
+        <p>С молодых вы станете с длинной бородой.</p>
+        <p>М.Макед.</p>
+        <p/>
+        <p>Раскинулось поле за бором</p>
+        <p/>
+        <p>Раскинулось поле за бором,</p>
+        <p>Среди поля баррак стоит,</p>
+        <p>Кругом обнесенный забором</p>
+        <p>И замок на воротах висит.</p>
+        <p/>
+        <p>Железный замок на воротах висит,</p>
+        <p>Он волю и жизнь отнимает.</p>
+        <p>Нельзя тот замок разломить иль разбить,</p>
+        <p>Его часовой охраняет.</p>
+        <p/>
+        <p>Сидим за решеткой и смотрим в окно,</p>
+        <p>Как немцы хохочут, пируя,</p>
+        <p>А мы зза решетки проклятья им шлем,</p>
+        <p>По Родине милой тоскуя.</p>
+        <p/>
+        <p>Подружка! Не в силах я больше так жить,</p>
+        <p>Рыдая подруга сказала</p>
+        <p>От тяжелой работы все тело болит</p>
+        <p>Всю молодежь немцы забрали</p>
+        <p/>
+        <p>И может напрасно мать дочь свою ждет,</p>
+        <p>Узнавши она зарыдает,</p>
+        <p>А дочерь в Германии с голода мрет</p>
+        <p>Умрет и никто не узнает.</p>
+        <p/>
+        <p>Вверенно с надеждой глядим на восток,</p>
+        <p>На встречу спешили нам братья</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

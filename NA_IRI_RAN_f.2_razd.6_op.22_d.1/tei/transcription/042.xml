@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.43" xml:space="default"/>
+        <p> Сашка и вахман оставили его в покое. Петр приподнялся, но на ноги встать не мог. Он был очень измучен, а нестерпимая боль исцарапанной груди и живота не давала возможности повернуть туловищем и встать на ноги. Локти рук также были натерты.</p>
+        <p>25/IX нас, 500 человек, повели в баню и сделали уколы, для чего делали уколы, – никто не знает.</p>
+        <p>После «купанья» нас переодели во все немецкое, но с клеймом S.U., т.е. «Совет Унион», и погнали назад на станцию. По дороге один из товарищей украл велок капусты, которую не замедлили в вагоне поделить на всех.</p>
+        <p>По 50-55 человек в вагоне, нас отправили в городок под названием Яма, где в бывших казармах </p>
+      </div>
+    </body>
+  </text>
+</TEI>

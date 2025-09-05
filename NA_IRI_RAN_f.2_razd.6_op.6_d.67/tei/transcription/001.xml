@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p> Парень молодой!</p>
+        <p>Лейтенантов-летчиков крепко вы любили их</p>
+        <p>И в слезах клялися вы их не забывать,</p>
+        <p>Но лишь отступили мы,</p>
+        <p>Сразу нас забыли вы,</p>
+        <p>Повстречались с немцами и стали их ласкать.</p>
+        <p>Молодые девушки немцам улыбаются</p>
+        <p>Позабыли жены думать о мужьях,</p>
+        <p>Только лишь родители горем убиваются,</p>
+        <p>Плачут они, бедные, о милых сыновьях.</p>
+        <p>Молодые девушки никогда не думают,</p>
+        <p>Что когда за родину вспыхнет жаркий бой,</p>
+        <p>Что за тех же девушек в первых же сражениях </p>
+        <p>Кровь прольет горячую парень молодой.</p>
+        <p>Лейтенантов-летчиков девушки любили</p>
+        <p>Вы и слезами верными не забыть клялись,</p>
+        <p>Но в пору тяжелую соколов забыли вы</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#i">А</hi>
+           то выгонят из дома на дорогу и посылают, а не в чем
+          <hi rendition="#i">. О</hi>
+          <hi rendition="#s">а</hi>
+          дин раз послали мою маму на дорогу
+          <hi rendition="#i">,</hi>
+           она сходила раз
+          <hi rendition="#i">,</hi>
+           а на второй день стали в
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">ы</hi>
+          гонят
+          <hi rendition="#i">ь</hi>
+          <hi rendition="#i">. </hi>
+          <hi rendition="#i">М</hi>
+          ама схоронилась
+          <hi rendition="#i">,</hi>
+           они её не нашли 
+          <hi rendition="#i">и</hi>
+           из-за н
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">е</hi>
+          е нас детей выгнали на улицу разувши
+          <hi rendition="#i">. М</hi>
+          ы стояли плакали, потом они отбирали игрушки у детей и сами забавлялись в игрушки
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">но</hi>
+           за нас отомстят о
+          <hi rendition="#i">т</hi>
+          цы
+          <hi rendition="#i">,</hi>
+           сестры
+          <hi rendition="#i">,</hi>
+           братья
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#s">товарищи</hi>
+           
+          <hi rendition="#i">Б</hi>
+          ейте врагов, с нами Сталин родной. Они, бывало, идут в хаты
+          <hi rendition="#i">,</hi>
+           а сами только вшей бросают, и сядут за стол, один вшей б
+          <hi rendition="#i">ь</hi>
+          ет
+          <hi rendition="#i">,</hi>
+           один ест
+          <hi rendition="#s">ь</hi>
+          <hi rendition="#i">,</hi>
+           другой ноги за столом моет в котором есть
+          <hi rendition="#s">?</hi>
+        </p>
+        <hi rendition="#i">А</hi>
+         то выгонят из дома на дорогу и посылают, а не в чем
+        <hi rendition="#i">. О</hi>
+        <hi rendition="#s">а</hi>
+        дин раз послали мою маму на дорогу
+        <hi rendition="#i">,</hi>
+         она сходила раз
+        <hi rendition="#i">,</hi>
+         а на второй день стали в
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">ы</hi>
+        гонят
+        <hi rendition="#i">ь</hi>
+        <hi rendition="#i">. </hi>
+        <hi rendition="#i">М</hi>
+        ама схоронилась
+        <hi rendition="#i">,</hi>
+         они её не нашли 
+        <hi rendition="#i">и</hi>
+         из-за н
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">е</hi>
+        е нас детей выгнали на улицу разувши
+        <hi rendition="#i">. М</hi>
+        ы стояли плакали, потом они отбирали игрушки у детей и сами забавлялись в игрушки
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">но</hi>
+         за нас отомстят о
+        <hi rendition="#i">т</hi>
+        цы
+        <hi rendition="#i">,</hi>
+         сестры
+        <hi rendition="#i">,</hi>
+         братья
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#s">товарищи</hi>
+         
+        <hi rendition="#i">Б</hi>
+        ейте врагов, с нами Сталин родной. Они, бывало, идут в хаты
+        <hi rendition="#i">,</hi>
+         а сами только вшей бросают, и сядут за стол, один вшей б
+        <hi rendition="#i">ь</hi>
+        ет
+        <hi rendition="#i">,</hi>
+         один ест
+        <hi rendition="#s">ь</hi>
+        <hi rendition="#i">,</hi>
+         другой ноги за столом моет в котором есть
+        <hi rendition="#s">?</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

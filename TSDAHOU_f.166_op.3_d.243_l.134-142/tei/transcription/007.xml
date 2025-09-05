@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.141" xml:space="default"/>
+        <p> в Акмечетку, это было самое страшное. Тот человек знал, что он погибнет.</p>
+        <p>Туда посылали евреев, посылали, если человек становился измученным, больным. Каждый старался одеть на себя более приличную одежду, потому что, если человек ходил оборванный, он сразу говорил: «в Акмечетку».</p>
+        <p>В Акмечетке были профессора, инженеры из Бессарабии. Люди, которые были в Акмечетке с самого начала, рассказывали, какие ценные люди там погибли.</p>
+        <p>Я была там со своим сыном. Я там кое что продала, и мы этот месяц кое как прожили.</p>
+        <p>Приехала из Румынии машина. Мы начали жаловаться и плакать, чего нас послали в Акмечетку, мы люди здоровые. Мы можем работать, чего нас послали в Акмечетку, для того, чтобы умереть. Там мы копали свеклу, есть ничего не давали.</p>
+        <p>Нас переслали в село Тридубово, Криво-Озерского района Одесской области. Тоже румынская сторона. Там была для нас жизнь иная. Там был председатель колхоза Дрыга – хороший человек. И даже начальник жандармерии был хороший, он говорил по-еврейски. Староста Николай тоже был хороший, приглашал к себе в гости на праздники. Очень хорошо к нам относился. Все село очень хорошо, чутко к нам относилось.</p>
+        <p>Мы пробыли там до марта 1944 года. 14-го марта 1944 года румыны отступили под нажимом Красной армии от всей «Транснистрии». Нас оставили без охраны.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

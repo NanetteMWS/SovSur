@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.50" xml:space="default"/>
+        <p> «Колхоз “Красная Нива”, “Жильково” Митишковского сельсовета подвергся нападению со стороны врага – карательный отряд в количестве 50 человек. Все население из деревни выгнали в поле и заставили их жить 10 дней на холоде с грудными детьми под страхом смерти. Дома во всей деревне были разбиты (пол, потолок, оконные и дверные рамы, печи поломаны). Имущество колхозников разграбили, хорошее взяли себе, плохое уничтожили. Инвентарь и посуда вся была уничтожена, мебель поломана. Колхозный сельскохозяйственный инвентарь: плуги, бороны и другое вывезено из деревни неизвестно куда. Озимые посевы скошены, всходы картофеля и огородных культур уничтожены. Весь имеющийся скот угнали. Население осталось раздетое, разутое, голодное. Такие бандитские методы враг применял к населению многих деревень в Ельнинском районе».</p>
+        <p>(Из дополнения к отчету о работе в тылу врага секретаря Ельнинского райкома ВКП(б) тов. Валуева от 7 декабря 42 г.)</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

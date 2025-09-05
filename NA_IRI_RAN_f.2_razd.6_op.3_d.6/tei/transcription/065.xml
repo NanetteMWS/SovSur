@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.34" xml:space="default"/>
+        <p> Кополова Виктора</p>
+        <p>Немцы-бандиты.</p>
+        <p>
+          У мене немцы упёрли 
+          <hi rendition="#i">взяли</hi>
+           сапоги. Я отнял 
+          <hi rendition="#s">у него</hi>
+          , он вдарил сапогами по голове. Он их положил в сумку. Я их 
+          <hi rendition="#s">упёр</hi>
+           
+          <hi rendition="#i">взял</hi>
+          <hi rendition="#i">.</hi>
+           Немец схватился
+          <hi rendition="#i">,</hi>
+           а их нету. Он искать – искал, не нашел. Я ушел, он смотрел везде, не нашел. Я пошел на ту сторону, а там немец. Увидал и снял сапоги. Я бежал домой разумши. Когда я добежал до дома, уже ноги отмерзли, я залез на печку. Немец пришел и говорит: пан, сапоги. Я говорю: пан, нету. Он говорит: давай. Я говорю: у мене их нету. Он лаять перестал. Мене мать сшила шапку, я пошел на улицу играть, немцы увидали, начали – то один подойдет, посмотрит, а потом 
+        </p>
+        <hi rendition="#i">взяли</hi>
+         сапоги. Я отнял 
+        <hi rendition="#s">у него</hi>
+        , он вдарил сапогами по голове. Он их положил в сумку. Я их 
+        <hi rendition="#s">упёр</hi>
+         
+        <hi rendition="#i">взял</hi>
+        <hi rendition="#i">.</hi>
+         Немец схватился
+        <hi rendition="#i">,</hi>
+         а их нету. Он искать – искал, не нашел. Я ушел, он смотрел везде, не нашел. Я пошел на ту сторону, а там немец. Увидал и снял сапоги. Я бежал домой разумши. Когда я добежал до дома, уже ноги отмерзли, я залез на печку. Немец пришел и говорит: пан, сапоги. Я говорю: пан, нету. Он говорит: давай. Я говорю: у мене их нету. Он лаять перестал. Мене мать сшила шапку, я пошел на улицу играть, немцы увидали, начали – то один подойдет, посмотрит, а потом 
+      </div>
+    </body>
+  </text>
+</TEI>

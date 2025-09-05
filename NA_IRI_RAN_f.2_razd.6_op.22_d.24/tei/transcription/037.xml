@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.21 оборот" xml:space="default"/>
+        <p> Только хлеба всего кило двести,</p>
+        <p>Суп три раза и з мясом, компот.</p>
+        <p>Мало нам уделяют чести,</p>
+        <p>А работы – ох, гот, ох, гот!</p>
+        <p/>
+        <p>И тогда гнев от сердца сорвав,</p>
+        <p>Я в лицо ему бросил слова:</p>
+        <p/>
+        <p>
+          Трудиться 
+          <hi rendition="#s">Работать</hi>
+           вам неохота,
+        </p>
+        <hi rendition="#s">Работать</hi>
+         вам неохота,
+        <p>А особенно гадам-фашистам.</p>
+        <p>Нажимай, Йоган, работай! –</p>
+        <p>Я в Германии получал триста.</p>
+        <p/>
+        <p>Каждый день меня мучили, били</p>
+        <p>В фатерланде любимом твоем.</p>
+        <p>За удар мне чтоб рубль платили,</p>
+        <p>Я купил бы шикарный дом.</p>
+        <p/>
+        <p>Видишь, зданий разбитых много.</p>
+        <p>
+          Будь любезен
+          <hi rendition="#s">, Йоган,</hi>
+           работай, отстрой.
+        </p>
+        <hi rendition="#s">, Йоган,</hi>
+         работай, отстрой.
+        <p>А тогда, – пожалуйста, Йоган,</p>
+        <p>Едь себе ты к чертям домой.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

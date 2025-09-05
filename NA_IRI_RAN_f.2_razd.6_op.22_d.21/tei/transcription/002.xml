@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> С 1938 года жила наша семья в городе Могилеве на кирпичном заводе №37. Отец работал сначала плотником, а потом техником по строительству на этом же заводе. Мать работала уборщицей в магазине. Четверо нас, детишек, успешно училось в школе. Переходя с класса в класс, каждый из нас получал премию. Не приходилось из-за нас краснеть нашим родителям. Было приятно отцу или мамаше смотреть на родительском собрании и слушать о хорошей успеваемости своих детей, когда учителя ставили нас в пример другим ученикам, говоря о хорошей дисциплине и сознательном отношении к учебе. Уже с маленьких лет родители учили нас только хорошему. В школе мы выучились выполнять все то, что на нас возлагалось, точно и аккуратно. Мы имели все условия для того, чтобы успешно заниматься в школе. Были всем обеспечены, материальных трудностей мы не </p>
+      </div>
+    </body>
+  </text>
+</TEI>

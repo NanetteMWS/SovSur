@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000183">
+      <titleStmt>
+        <title>Стенограмма беседы со Степаном Барановым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 1-7, 53-53 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.53" xml:space="default"/>
+        <p/>
+        <p>Дополнение к рассказу т. Баранова С.П.</p>
+        <p>Что начали делать колхозники после ухода немца 3/I-42 г. Собрали общее собрание, изобрали комиссию – и взять все на учет. Какой получился у нас остаток. После немца осталось: рожь, из которой намолотили 77 цент., и откопали из-под снега несколько озимой пшеницы. Намолотили 7 ц. 51 кило гречи, уже наменяли на рожь. На площадь 6 гект норма высева 1 д. 02. Колхозники все как один дали обещание приступить к работе и восстановить </p>
+      </div>
+    </body>
+  </text>
+</TEI>

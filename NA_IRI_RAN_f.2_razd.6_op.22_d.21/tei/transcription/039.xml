@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.20 оборот" xml:space="default"/>
+        <p> вечером мы могли выйти в лес и по лесу тропинкой, потом проселочной дорогой пробраться к лагерю девушек. А там подойдешь к проволоке с другой стороны барака и ждешь, пока кто-нибудь выйдет с девушек, а потом попросишь, чтобы Мусе или Наде передали о том, что мы здесь. Вот они выбегут к проволоке, мы поговорим, расскажем новости, и сами снова, осматриваясь по сторонам, пробираемся домой. Другой раз, особенно осенью, когда темно, с помощью ребят Муся, а также и другие девушки, перелазили через забор и прибегали к нам, но до поверки, до 9 часов они должны были быть уже в лагере. Таким образом, мы поддерживали связь со всем народом, находившимся здесь вблизи.</p>
+        <p>В конце 1943 и начала 1944 гг. мы имели возможность подпольно слушать радио. Дом, в углу которого мы жили, был пустой, наверху только жила </p>
+      </div>
+    </body>
+  </text>
+</TEI>

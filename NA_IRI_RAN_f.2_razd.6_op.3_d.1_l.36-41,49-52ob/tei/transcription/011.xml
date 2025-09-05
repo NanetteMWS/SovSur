@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000182">
+      <titleStmt>
+        <title>Стенограмма интервью с Пелагеей Колобаевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 36-41, 49-52 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.52 оборот" xml:space="default"/>
+        <p> И вот сгорел мой дом и все домашние вещи, 50 пудов хлеба, 40 пудов капусты, 60 пудов картофеля и все остальные продукты, и я осталась без крова и без хлеба, и так вся наша деревня.</p>
+        <p>Но несмотря на эти трудности военного времени, мы начали в колхозе контрактовать телят, чтобы все-таки иметь молокотоварную ферму. Стали собирать картофель на семки, и колхозники обязуются еще лучше работать, чтобы скорее разгромить врага, и я как женщина и Председатель колхоза беру на себя обязательство мобилизовать всех колхозников и особенно женщин, они теперь являются большой силой в колхозе, еще лучше и больше работать, чтобы стране дать больше хлеба, мяса, масла, овощей.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

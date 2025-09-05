@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p>
+           и 22 села частично – из 78 
+          <hi rendition="#s">население</hi>
+           [1 слово непонятно] населенных пунктов.
+        </p>
+        <hi rendition="#s">население</hi>
+         [1 слово непонятно] населенных пунктов.
+        <p>
+          <hi rendition="#s">С особой </hi>
+          <hi rendition="#s">ненавистью фашистские мерзавцы уничтожали колхозные общественные постройки и культурные учреждения.</hi>
+        </p>
+        <hi rendition="#s">С особой </hi>
+        <hi rendition="#s">ненавистью фашистские мерзавцы уничтожали колхозные общественные постройки и культурные учреждения.</hi>
+        <p>Они врывались в дома колхозников и грабили все до нитки.</p>
+        <p>
+          Размеры немецкого грабежа 
+          <hi rendition="#s">подтверждают</hi>
+           видны из данных собранных в Высокиническом районе.
+        </p>
+        <hi rendition="#s">подтверждают</hi>
+         видны из данных собранных в Высокиническом районе.
+        <p>
+          В 1674 х-вах немцы 
+          <hi rendition="#s">ограбили</hi>
+           награбили – 5982 обуви
+        </p>
+        <hi rendition="#s">ограбили</hi>
+         награбили – 5982 обуви
+        <p>1510 х-вах – 4628 шт. верхней одежды</p>
+        <p>1358 х-вах – 5499 пр. разной мебели</p>
+        <p>318 х-вах – 325 швейных машин</p>
+        <p>280 х-вах – 338 самоваров</p>
+        <p>1928 х-вах – 26309 предметов разной посуды.</p>
+        <p>А сколько зла причинили фашистские варвары, не поддающегося учету.</p>
+        <p>Сколько убили и замучили советских людей!</p>
+        <p>В дер. Глиньково Ново-Петровского района немцы повесили гр. Денисову на </p>
+      </div>
+    </body>
+  </text>
+</TEI>

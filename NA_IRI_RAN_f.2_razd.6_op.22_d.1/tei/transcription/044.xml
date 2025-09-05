@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.45" xml:space="default"/>
+        <p> работу» и т.д. и т.п.</p>
+        <p>
+          16/Х Петр вместе со 150-ю товарищами были отправлены в Гернский лагерь, гор. Герны. За всю дорогу ничего не дали есть. «Поездка» была непродолжительной. 17/Х вечером мы были уже в «рабочем» лагере, откуда направляли работать на шахты. Благодаря своей специальности «маляр-штукатур» 
+          <hi rendition="#s">я не</hi>
+           Петр не попал в шахту, а попал на верхние работы по ремонту поврежденных бомбежкой домов.
+        </p>
+        <hi rendition="#s">я не</hi>
+         Петр не попал в шахту, а попал на верхние работы по ремонту поврежденных бомбежкой домов.
+        <p>7 Ноября, в день Октябрьской революции, в бараке, где находился Петр, один из военнопленных сделал небольшой красный флаг, многие поздравляли друг друга, что они дожили до того, чтобы в условиях фашистского плена встретить наш Советский праздник. Все это прошло </p>
+      </div>
+    </body>
+  </text>
+</TEI>

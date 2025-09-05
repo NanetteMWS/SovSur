@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000827">
+      <titleStmt>
+        <title>Стенограмма беседы с Флорисой Галецкой, ее воспоминания и переписка</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 79-107 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, memoir, letter">
+        <pb cert="high" n="Л.101" xml:space="default"/>
+        <p> Перечень сохранившихся материалов Галецкой Ф.И., написанных ею и хранящихся у нее во время работы антифашистской подпольной организации на территории Германии – Центрального Комитета Борьбы (ЦКБ).</p>
+        <p>1. Краткие заметки о деятельности подпольной антифашистской организации ЦКБ (Центральный Комитет Борьбы) на территории фашистской Германии.</p>
+        <p>2. О железном человеке. (Воспоминание о встрече с тов. Шевченко Н.Н. в Германии).</p>
+        <p>3. Мы подписывали свой смертный приговор (воспоминание о приказе Фрица Заукеля в части привлечения к смертной казни русских за саботаж и агитацию).</p>
+        <p>4. Об организации побегов из фашистских лагерей (воспоминания о побегах советских граждан из немецкой неволи).</p>
+        <p>5. Копия письма тов. Шевченко к Галецкой, писанного в Германии во время немецкой неволи. (дата письма 18/III-44).</p>
+        <p>6. Копия письма тов. Шевченко к Галецкой писанного в Германии (письмо датированное 26/III-44).</p>
+        <p>7. Тоже – датированное 9/I-1944 г.</p>
+        <p>
+          <hi rendition="#i">Ноябрь 1945</hi>
+        </p>
+        <hi rendition="#i">Ноябрь 1945</hi>
+        <p>
+          <hi rendition="#i">г. Черников Галецкая</hi>
+           
+        </p>
+        <hi rendition="#i">г. Черников Галецкая</hi>
+         
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

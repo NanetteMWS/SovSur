@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.134" xml:space="default"/>
+        <p> Еще немного погодя привезли каких-то детей из Западной Украины. Я и туда пошла, пересмотрела, но своих не обнаружила. Я ходила как умалишенная по городу и присматривалась к каждому беспризорному.</p>
+        <p>12-го марта 1944 года привезли детей на Соломенку. Я пошла туда. Когда я спросила Лидочку Проничеву мне вывели девочку, в которой я узнала свою дочь. Она сначала бросилась ко мне, а потом остановилась, потому что отец Проничев учил ее – если встретишь маму, говори тетя, потому что нас всех расстреляют. Она сначала бросилась, а потом остановилась и сказала – тетя. Но когда я сказала: «Доченька, теперь уже можно сказать мама», она бросилась ко мне на шею с криком мамочка. Здесь произошла трогательная встреча. Все кругом плакали. Доченьку взять сразу я не могла. Через несколько дней, приходя в каждый детдом, я нашла сына.</p>
+        <p>Афанасьев, с которым мы сошлись, уехал на фронт. Я осталась одна голая, босая. Из одеяла пошила себе пальто и так ходила. Взять детей мне было очень тяжело, так как я сама жила впроголодь. Мне пошли навстречу, и дети мои остались в детдоме, где пребывают еще до сих пор.</p>
+        <p>
+          Афанасьев вернулся с фронта инвалид Отечественной войны ІІ-й группы. Я работаю в Киевском 
+          <hi rendition="#i">Республиканском</hi>
+           театре кукол, ведущей артисткой.
+        </p>
+        <hi rendition="#i">Республиканском</hi>
+         театре кукол, ведущей артисткой.
+        <p/>
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ] (Проничева)
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] (Проничева)
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ] 
+          <hi rendition="#i">(</hi>
+          <hi rendition="#i">Вилькова</hi>
+          <hi rendition="#i">)</hi>
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] 
+        <hi rendition="#i">(</hi>
+        <hi rendition="#i">Вилькова</hi>
+        <hi rendition="#i">)</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

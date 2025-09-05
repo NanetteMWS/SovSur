@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p> ничего, кроме голых стен, то в результате «охраны» «украинской» полиции в верхней Лавре не осталось ни одного здания, пригодного для своего назначения. Топором и киркою, пилою и ломом были разрушены почти все здания и церкви, жилые дома и надворные постройки. В основном здесь, конечно, вина не в «украинской» полиции, а ее хозяев «немцев-оккупантов», хотя большая доля вины лежит и на полиции.</p>
+        <p>В октябре 1942 г. по приказу головы города Форостивского в верхней Лавре начала свою работу «контора по разборке разрушенных зданий», которую обычно называли «конторою по разрушению зданий». Во главе ее был инженер Маслов. Эта контора получила вначале приказ только «собрать медь». Меди было собрано и сдано немцам более 20-ти тонн; в основном это была медь с куполов разрушенного Успенского Собора и в значительно меньшей мере – дверные ручки, краны и проч.</p>
+        <p>Другим заданием конторы было собрать разбросанные материалы, а именно: метлахские плитки, кирпич и печные приборы разрушенных печей и огнетушители. Свое задание контора понимала, очевидно, очень расширенно. Так, если ей нужно было собрать метлахские плитки, то она разбивала 2-3 десятка этих плиток в совершенно неразрушенном полу, чтобы «собрать» одну-две плитки. Поэтому сейчас можно видеть в трапезной в Благовещенской церкви и других зданиях груды битых плиток. Точно также не осталось ни одной печки, ни одной рамы и т.п.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

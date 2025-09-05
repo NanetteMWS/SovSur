@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> Когда контора получила задание заготовлять дерево и железо с крыш, установить не удалось; только 2-го апреля 1943 г. во время обследования разрушения Лавры и собирание сведений о работе конторы выяснилось, что на зданиях не было ни железных крыш, ни деревянных стропил, балок, полов, потолков, перегородок, оконных рам и подоконников, дверей – почти ничего не осталось.</p>
+        <p>На 2 апреля 1943 года контора имела задание собрать остатки дерева из зданий полностью разрушенных; собрать остатки проволоки проводов и стекла, а также заготовлять кирпич из разрушенных подсобных зданий – сараев и т.п.</p>
+        <p>Дата 2 апреля тем характерна, что это было после распоряжения штаткомиссара Бернта 23 марта 1943 г. и «распоряжения» №109 «головы города» про запрещение разбирать здания на территории К.П. Лавры 2 марта. Это совершенно очевидно показывает, что если и издавались какие-либо приказы, запрещающие разрушения, то они издавались только после многочисленных ходатайств, сигнализирующих о разрушениях, и издавались только для виду. В «докладной записке про обследование разрушений на территории верхней Лавры» 2 апреля 1943 г. написано: «На мой вопрос, как контора выполняет распоряжение г. Бернта штаткомиссара, я получил ответ, что накладные (на отпуск материалов) выдаются штаткомиссариатом, что г. Альберхт отвечает за них, что г. Альберхт адъютант г. Берндта и его заместитель» … «что этими днями шеф г. Альберхт был в </p>
+      </div>
+    </body>
+  </text>
+</TEI>

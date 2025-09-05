@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p>
+           стороны не только работников заводов, но и учреждений. Люди за два года изголодались, они принимали самое разнообразное участие в общественной жизни, и вдруг это 
+          <hi rendition="#i">в</hi>
+           течение двух лет оборвалось 
+          <hi rendition="#s">и всячески наказывалось вплоть до смертной казни.</hi>
+        </p>
+        <hi rendition="#i">в</hi>
+         течение двух лет оборвалось 
+        <hi rendition="#s">и всячески наказывалось вплоть до смертной казни.</hi>
+        <p>Мы во всех учреждениях, предприятиях, вузах имеем стенгазеты, причем ряд газет замечательных, в том числе стенгазета завода №75. Среди корреспондентов стенгазет есть люди, обладающие определенным сарказмом и юмором и не лишенные творческого характера. Пишут стихи, хорошие патриотические стихи, призывающие к боевым подвигам, к трудовым подвигам, критикуют очень остро недостатки производственной жизни, которые обнаруживались и обнаруживаются. Стенгазеты в Харькове поставлены хорошо. Мы организовали выставку заводских стенгазет.</p>
+        <p>Мы собирали секретарей парторганизаций и поставили информацию о работе и создании стенгазет, о передаче лучшего опыта. Выступали тов. Трусов, тов. Журавлев.</p>
+        <p>
+          Мы провели одну очень интересную работу. 
+          <hi rendition="#s">Мы</hi>
+           
+          <hi rendition="#i">С</hi>
+          обрали старых кадровых рабочих, 
+          <hi rendition="#s">это старики</hi>
+           имеющи
+          <hi rendition="#i">х</hi>
+           45-ти летний производственный стаж. Мы договорились, что на это совещание со стариками будем приглашать имеющих не менее 25-ти летнего стажа. 
+          <hi rendition="#s">Сохранилась стенограмма этого совещания.</hi>
+        </p>
+        <hi rendition="#s">Мы</hi>
+         
+        <hi rendition="#i">С</hi>
+        обрали старых кадровых рабочих, 
+        <hi rendition="#s">это старики</hi>
+         имеющи
+        <hi rendition="#i">х</hi>
+         45-ти летний производственный стаж. Мы договорились, что на это совещание со стариками будем приглашать имеющих не менее 25-ти летнего стажа. 
+        <hi rendition="#s">Сохранилась стенограмма этого совещания.</hi>
+        <p>Задачу мы поставили такую – привлечь стариков и использовать их огромный опыт в вопросах восстановления промышленности и в вопросах обучения молодежи определенным профессиям.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

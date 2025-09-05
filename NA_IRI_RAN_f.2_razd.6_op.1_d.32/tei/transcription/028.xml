@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.24" xml:space="default"/>
+        <p>
+           К середине февраля 1942 г. уже было собрано 1240 т вещей («Веч. Москва», 21/II-42 г.). Комсомольцы Моск. области создали в 49 районах комиссии по сбору одежды и обуви для детей освобожденных районов. К середине февраля комиссиями было собрано 150 т вещей (
+          <hi rendition="#s">Комс. пр. 27/</hi>
+          <hi rendition="#s">I</hi>
+           «Правда» – 4/I-42 г. №11 – и «Изв.» 12/II-42 г. №41).
+        </p>
+        <hi rendition="#s">Комс. пр. 27/</hi>
+        <hi rendition="#s">I</hi>
+         «Правда» – 4/I-42 г. №11 – и «Изв.» 12/II-42 г. №41).
+        <p>Отдельные районы г. Москвы и Моск. области взяли шефство над освобожденными районами. Фрунзенский район г. Москвы взял шефство над Истринским районом, Ленинградский р-н над Солнечногорским, Москворецкий – над Клинским, Краснопресненский – над Рузским, Киевский – над Малоярославецким, Ленинский – над Можайским, Ростокинский р-н – над Серпуховым, Орехово-Зуевский – над Уваровским, Железнодорожный район г. Москвы – над Верейским и г. Люблино и т.д.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

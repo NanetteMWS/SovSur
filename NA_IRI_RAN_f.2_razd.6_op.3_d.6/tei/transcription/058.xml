@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.30 оборот" xml:space="default"/>
+        <p>
+           хлеб, но во
+          <hi rendition="#s">н</hi>
+          <hi rendition="#i">т</hi>
+           его наш
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">е</hi>
+          л 
+          <hi rendition="#s">и закопал</hi>
+           и подносит матери
+          <hi rendition="#i">,</hi>
+           пеки нам лепеш
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">е</hi>
+          к
+          <hi rendition="#i">,</hi>
+           но 
+          <hi rendition="#s">ни</hi>
+           мать не стала печь. Четвертое происшествие. Один раз наварил
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+           к
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          ртошек, они спали. Они услыхали вскочили, взяли котелки, подбежали набрали, и нам нечего есть. 
+          <hi rendition="#s">Пятое проешествие</hi>
+           Когда они уезжали, все тряпки обобрали, даже все лоскутки обобрали, на грудного ребенка шапочку и отсылали домой. Теперя 6 происшествие закончено. За нас заступаются сестры, отцы и братья.
+        </p>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#i">т</hi>
+         его наш
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">е</hi>
+        л 
+        <hi rendition="#s">и закопал</hi>
+         и подносит матери
+        <hi rendition="#i">,</hi>
+         пеки нам лепеш
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">е</hi>
+        к
+        <hi rendition="#i">,</hi>
+         но 
+        <hi rendition="#s">ни</hi>
+         мать не стала печь. Четвертое происшествие. Один раз наварил
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+         к
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        ртошек, они спали. Они услыхали вскочили, взяли котелки, подбежали набрали, и нам нечего есть. 
+        <hi rendition="#s">Пятое проешествие</hi>
+         Когда они уезжали, все тряпки обобрали, даже все лоскутки обобрали, на грудного ребенка шапочку и отсылали домой. Теперя 6 происшествие закончено. За нас заступаются сестры, отцы и братья.
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

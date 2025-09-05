@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.60" xml:space="default"/>
+        <p> полицейский из эсесовцев и оштрафовал на 30 марок за то, что у Петра не было пришито клеймо «O.S.T.», и кроме того, ударил два раза резиновой дубинкой по спине. Получив 30 марок, полицай сел на мотоцикл и уехал. Петр продолжал путь от Бухольца до Ширгорна – 7 км.</p>
+        <p>Я немного отвлекся. Я забыл описать, как Петр подружился с бельгийцами и французами. Когда он узнал, что они – ребята хорошие, он стал говорить им правду о Советском Союзе, о родине всех трудящихся, о Сталине и Ленине и пр. Француз Анджело в при этом активно помогал Петру. Фотографию этого славного и хорошего товарища я прилагаю к этому дневнику как память. Анджело являлся членом коммунистической партии. Даря на </p>
+      </div>
+    </body>
+  </text>
+</TEI>

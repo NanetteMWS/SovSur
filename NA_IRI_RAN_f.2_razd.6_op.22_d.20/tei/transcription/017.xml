@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9 оборот" xml:space="default"/>
+        <p> Германии, для сопротивления фашистским извергам, помочь этим Красной Армии и армиям союзников скорее разгромить гитлеровскую Германию и освободить порабощенные народы. Достигнуть это необходимо путем всевозможных диверсий на заводах, фабриках, эродромах, железных дорогах, сельском хозяйстве и других местах. Необходимо вести постоянную антифашистскую пропаганду, воспитывать людей в антифашистском духе и, одновременно, подготовлять их к массовому вооруженному восстанию, когда назреет для этого время.</p>
+        <p>Чтобы проводить всю эту работу организованно, необходимо было держать между КБ связь. При работе и в свободное время мы встречались и передавали друг через друга в письменной и уственной форме что было нужно. Кроме этого переписывались через германскую почту.</p>
+        <p>При последним способе, в нас было несколько методов. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

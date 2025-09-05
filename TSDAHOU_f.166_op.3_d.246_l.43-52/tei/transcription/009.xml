@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000836">
+      <titleStmt>
+        <title>Стенограмма беседы с Александрой Царенковой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 43-52.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.52" xml:space="default"/>
+        <p> а затем, после издания приказа об отправке всех русских на свою территорию, меня отпустили домой. 15 декабря я приехала домой.</p>
+        <p>Сейчас я выступаю в качестве свидетеля на процессе о злодеяниях немецко-фашистских варваров на Украине и персонально по делу о злодеяниях генерал-майора фашиста Чамера.</p>
+        <p>В начале 1941 года после продвижения немецких передовых войск в г. Новомосковск вошла 213 дивизия под командованием генерал-майора Чамера. После этого начались массовые расстрелы населения и уничтожение евреев. Погибло очень много наших партизан, коммунистов, комсомольцев. Всем этим руководил Чамер. О его злодействе я и буду говорить на суде.</p>
+        <p>
+          (Царенкова А.П.) [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          Стенографировала [
+          <hi rendition="#i">подпись</hi>
+          ] (Шестопалова)
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] (Шестопалова)
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+      </div>
+    </body>
+  </text>
+</TEI>

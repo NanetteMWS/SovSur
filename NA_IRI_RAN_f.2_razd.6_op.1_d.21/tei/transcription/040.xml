@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.78" xml:space="default"/>
+        <p>
+           Как саранча, налетали они на добычу, стараясь урвать хоть что-нибудь, что осталось от предыдущих, что еще было не съедено 
+          <hi rendition="#i">или разграблено</hi>
+          .
+        </p>
+        <hi rendition="#i">или разграблено</hi>
+        .
+        <p>Это продолжалось 9 дней. 9-го и 10-го декабря немцы вели себя очень игриво и непринужденно, ничем не выдавая того, что собираются уходить. 10-го к вечеру их уже не было. В тот же день появились наши бойцы.</p>
+        <p>Записала Е.И. Горюнова.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

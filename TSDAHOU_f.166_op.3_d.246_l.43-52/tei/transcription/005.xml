@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000836">
+      <titleStmt>
+        <title>Стенограмма беседы с Александрой Царенковой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 43-52.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.48" xml:space="default"/>
+        <p> носила красную повязку, следила за нашей работой и подгоняла нас.</p>
+        <p>В этом лагере было пять крематориев, в которых живьем сжигали людей. Мы видели, как приезжали новые партии людей, целые транспорты, и отправлялись к крематорию. Преимущественно это были евреи. Они не знали, куда и зачем их ведут. Много людей и других национальностей отправляли в крематорий, главным образом больных. Мы, живя там, все это видели и знали. День и ночь горели эти страшные печи. Особенно интенсивно работали крематории тогда, когда стали приближаться наши части. Каждая печь сжигала 40.000 людей. Были в лагере еще и ямы, куда сбрасывали людей, обливали их керосином и также сжигали. Надя Лях, русская девушка, сгорела в яме. Она была очень больна, не могла работать и не могла ходить, а таких больных отправляли всех в крематорий. Мы вначале не знали, что с ней сделали фашисты, но потом нам сказали, что Надя сгорела.</p>
+        <p>В крематории прислуживали наши военнопленные. Они работали только по 6 месяцев, а затем их сжигали. Однажды военнопленные, приговоренные уже к сожжению, сами сожгли своего шефа и хотели после этого освободить женщин. Эти пленные имели связь с партизанами, которые доставили им оружие. Эта попытка была окончена неудачно, потому что охрана была очень большая. Они перерезали провод в то время, когда был выключен ток, но их было </p>
+      </div>
+    </body>
+  </text>
+</TEI>

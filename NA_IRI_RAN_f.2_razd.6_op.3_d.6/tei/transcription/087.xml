@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.49" xml:space="default"/>
+        <p> Что мы видели при немцах во время оккупации.</p>
+        <p>Как только зашли к нам в село немцы, стали все грабить и шкодить по домам и колхозным амбарам. Сразу сбили с магазина замок и все растащили, платки повешали себе на шеи. Открыли колхозный амбар и вытащили на улицу мед и воткнули в него свои хари, и растащили по домам. Потом через немного погодя, стали резать скот, нагрузили на машины 25 колхозных коров, 14 колхозных поросят и 45 колхозных овец. Прошло некоторое время, приехали за крестьянским скотом. Наступила зима, они стали с колхозников снимать валенки и шубы. Стали наматывать на ноги тряпок и овчин. Когда он стали </p>
+      </div>
+    </body>
+  </text>
+</TEI>

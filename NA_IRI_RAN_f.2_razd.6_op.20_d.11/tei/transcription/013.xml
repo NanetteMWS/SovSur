@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000321">
+      <titleStmt>
+        <title>Стенограмма беседы с Вольдемаром Теллингом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 20. Д. 11.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p> что мне противно было смотреть. Народ ходил не франтами, не щеголями, а еще хуже.</p>
+        <p>
+          Самое интересное было, что я никак не мог 
+          <hi rendition="#s">мириться</hi>
+           
+          <hi rendition="#i">привыкнуть</hi>
+           с тем, что имеются такие 
+          <hi rendition="#i">«</hi>
+          маленькие люди
+          <hi rendition="#i">»</hi>
+           – 
+          <hi rendition="#i">дети</hi>
+          , и как они могут жить, потому что за 14 лет 
+          <hi rendition="#s">все очень изменилось</hi>
+           
+          <hi rendition="#i">совершенно отвык от детей</hi>
+          .
+        </p>
+        <hi rendition="#s">мириться</hi>
+         
+        <hi rendition="#i">привыкнуть</hi>
+         с тем, что имеются такие 
+        <hi rendition="#i">«</hi>
+        маленькие люди
+        <hi rendition="#i">»</hi>
+         – 
+        <hi rendition="#i">дети</hi>
+        , и как они могут жить, потому что за 14 лет 
+        <hi rendition="#s">все очень изменилось</hi>
+         
+        <hi rendition="#i">совершенно отвык от детей</hi>
+        .
+        <p>Когда приехал в Тарту, увидел, что старики мои очень уж одряхлели. Так что чувство счастья и радости не было. Только одна мысль была: «Ну, а как теперь найти себе кусок хлеба?» К счастью нашлись хорошие люди, одноклассники, которые правдой и кривдой устроили меня на работу. В конце концов, в 1938 г. я стал домашним учителем, тоже контрабандой: то, что не нужно было говорить, не говорил. Но все же при помощи займа у родных купил костюм и выглядел прилично. Когда вышел из тюрьмы, то товарищи решили, что мою шляпу нельзя носить, ее мог надеть какой-нибудь рыбак, который 10 лет работал. Платья у меня не было. Дрянное пальтишко, которое не помню сколько крон стоило раньше, из шерстяной пыли сделано. Это в тюрьме осталось. Мои приятели где-то достали длинные-длинные брюки. Уцелели сапоги, но без подошв. Вот так первое время приходилось выглядеть.</p>
+        <p>Пришел я к одному профессору, чтобы поступить на работу. Впечатление у него от меня осталось хорошее. Я на отлично кончил семинарию. Он сказал: «Зайдите к такому-то заведующему и скажите, что я послал вас на работу». А потом вдруг ему пришло на ум: «Чем же вы занимались в промежуток от того времени, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

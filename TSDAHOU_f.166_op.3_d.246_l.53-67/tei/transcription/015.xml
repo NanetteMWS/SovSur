@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000832">
+      <titleStmt>
+        <title>Стенограмма беседы с Андреем Чаругиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 53-67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.67" xml:space="default"/>
+        <p>
+           и меня заставили ее оперировать. Я сказал, что оперировать не стоит, так как болезнь вернется, но если вы уже так 
+          <hi rendition="#s">хотите</hi>
+           
+          <hi rendition="#i">настаиваете</hi>
+          , то могу прооперировать, 
+          <hi rendition="#i">не отвечая за успех</hi>
+          . Она операцию перенесла очень хорошо, и я ее видел 
+          <hi rendition="#s">около</hi>
+           
+          <hi rendition="#i">приблиз. через</hi>
+           года на улице, но у меня такое убеждение, что все-таки ее болезнь должна вернуться. Но они уехали с немцами, и я не знаю. Он был настолько сторонником германизма и «нового» порядка, что просто удивительно. Вообще он был настоящим «Иудушкой», не смотрел прямо в глаза и т.д. Как-то 
+          <hi rendition="#i">немцы</hi>
+           начали и меня подозревать 
+          <hi rendition="#s">тоже</hi>
+          , 
+          <hi rendition="#i">стали</hi>
+           наводить справки 
+          <hi rendition="#i">у врача</hi>
+          , но молодые врачи знали меня хорошо и меня оставили в покое. 
+          <hi rendition="#i">Избиения, издевательства были явлением обычным.</hi>
+        </p>
+        <hi rendition="#s">хотите</hi>
+         
+        <hi rendition="#i">настаиваете</hi>
+        , то могу прооперировать, 
+        <hi rendition="#i">не отвечая за успех</hi>
+        . Она операцию перенесла очень хорошо, и я ее видел 
+        <hi rendition="#s">около</hi>
+         
+        <hi rendition="#i">приблиз. через</hi>
+         года на улице, но у меня такое убеждение, что все-таки ее болезнь должна вернуться. Но они уехали с немцами, и я не знаю. Он был настолько сторонником германизма и «нового» порядка, что просто удивительно. Вообще он был настоящим «Иудушкой», не смотрел прямо в глаза и т.д. Как-то 
+        <hi rendition="#i">немцы</hi>
+         начали и меня подозревать 
+        <hi rendition="#s">тоже</hi>
+        , 
+        <hi rendition="#i">стали</hi>
+         наводить справки 
+        <hi rendition="#i">у врача</hi>
+        , но молодые врачи знали меня хорошо и меня оставили в покое. 
+        <hi rendition="#i">Избиения, издевательства были явлением обычным.</hi>
+        <p>
+          Был еще такой факт. У нас одна студентка работала в госпитале и нужно было пройти ей через немецкий госпиталь. Девушка лет 18, ее схватили, завели в сарай и начали бить палками. По селам коменданты вообще превратили эти села в барские поместья. Выбирали куски земли и устраивали барщину, заставляли жен красноармейцев по 3 дня работать на них, а по 3 дня на себя. 
+          <hi rendition="#i">Так было</hi>
+           в Еленовских карьерах 
+          <hi rendition="#s">и в Марьинских</hi>
+           и в др. Коменданты били народ палками, кулаками. Избиение палками и мордобой стало обычным явлением.
+        </p>
+        <hi rendition="#i">Так было</hi>
+         в Еленовских карьерах 
+        <hi rendition="#s">и в Марьинских</hi>
+         и в др. Коменданты били народ палками, кулаками. Избиение палками и мордобой стало обычным явлением.
+        <p/>
+        <p>
+          Беседу проводил тов. Руднев. [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          <hi rendition="#i">Стенографистка </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i">]</hi>
+        </p>
+        <hi rendition="#i">Стенографистка </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i">]</hi>
+        <p>
+          <hi rendition="#i">21/</hi>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i">-46 г.</hi>
+        </p>
+        <hi rendition="#i">21/</hi>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i">-46 г.</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

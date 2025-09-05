@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p> скорее попасть к нашим, рассказать обо всем пережитом и снова помогать нашей родине, нашей Красной Армии.</p>
+        <p/>
+        <p>Настал октябрь месяц 1942 г. – холод и голод истощил меня. Без документов ночевать не пускали, неоднократно приходилось ночевать в поле.</p>
+        <p>Добралась я до ст. Лукашевки Курск. Области, дальше идти по незнакомой местности не было возможности, ибо на каждом мосту, на каждом повороте если не немцы, то полицейские преследовали, и по рекомендации главврача Иванинской райбольницы я направляюсь в госимение Никольск этого р-на. На работу принимать не хотели, как военнопленную, но благодаря одному с военнопленных, который был нач. конторы, меня приняли на работу. Сначала работала на полевых работах, а потом устроилась уборщицей-истопницей в ремонтной мастерской. В мастерской узнаю, что среди рабочих есть люди, которые </p>
+      </div>
+    </body>
+  </text>
+</TEI>

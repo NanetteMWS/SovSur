@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.51 оборот" xml:space="default"/>
+        <p>
+           понимаю и сделаю все, как положено». И действительно, он умело все придумывал, он не попал ни разу с письмами, нагруженный продуктом, в полицию, он так изучил их всех, полицаев, и так умел их обойти, что я никогда не 
+          <hi rendition="#s">сомневалась в том</hi>
+           боялась, что он может попасться. Я всегда была уверена в его ловкости, смелости и находчивости. У него так же не было выходных дней. Наша почта работала ежедневно. И он только справлялся приехать с одного лагеря, как мы его посылали в другой. Он не отказывал, хоть другой раз бывала и плохая погода зимой или осенью, ему стоило только намекнуть, как он уже готов, и ехать. Его знали вокруг сотни людей. Им восхищались все, кто его знал. Он имел чуткий подход ко всем людям. Он знал, как подойти к тому или иному товарищу и о чем с ним можно разговаривать. 
+        </p>
+        <hi rendition="#s">сомневалась в том</hi>
+         боялась, что он может попасться. Я всегда была уверена в его ловкости, смелости и находчивости. У него так же не было выходных дней. Наша почта работала ежедневно. И он только справлялся приехать с одного лагеря, как мы его посылали в другой. Он не отказывал, хоть другой раз бывала и плохая погода зимой или осенью, ему стоило только намекнуть, как он уже готов, и ехать. Его знали вокруг сотни людей. Им восхищались все, кто его знал. Он имел чуткий подход ко всем людям. Он знал, как подойти к тому или иному товарищу и о чем с ним можно разговаривать. 
+        <p>Васька владел хорошо </p>
+      </div>
+    </body>
+  </text>
+</TEI>

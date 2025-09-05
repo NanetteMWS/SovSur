@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.59 оборот" xml:space="default"/>
+        <p> они стреляют, но мы ее не слушали. Я все думала, как предупредить их. После обеда мы пошли в огород работать, который выходил в лес, где были ребята. С нами в огороде была и Мария, но потом к нам прибежала Анна, сестра Марии, с подругой, которые работали так, как и мы, – у хозяина. Они сообщили, что немцы укрепились за городом, за 6 км. Муся, проводив сестренку, снова пришла к нам в огород, но работать мы не могли. Выстрелы все повторялись, шум повышался, ребята пели песни, и все это происходило оттого, что ребята захватили в лес с собой водку, и теперь под влиянием водки они забывали о своем положении и почувствовали себя свободными тогда, когда мы находились еще в руках у врага. Мария бросила работу и пошла, чтобы предупредить ребят, но только она </p>
+      </div>
+    </body>
+  </text>
+</TEI>

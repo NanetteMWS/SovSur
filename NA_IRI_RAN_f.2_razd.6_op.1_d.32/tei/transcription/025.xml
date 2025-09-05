@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.21" xml:space="default"/>
+        <p> занял первое место среди 58 районов Моск. области, Высокиничский район – 3-е место, Можайский – 4-е; Осташевский – 5-е; Истринский – 7-е; Клинский – 8-е; Солнечногорский – 9-е; Лотошинский – 10-е.</p>
+        <p>(МОЗО – план-фин. отдел. Сводки по райзо 1942 г. №8 – группировки районов Моск. обл. по весеннему севу на 25/VI-42 г.)</p>
+        <p/>
+        <p>
+          Показатели работ передовиков-колхозников изумительны даже и
+          <hi rendition="#s"> в СССР, стране</hi>
+           и в нашей стране, охваченной мощным патриотическим и трудовым подъемом в борьбе за СССР.
+        </p>
+        <hi rendition="#s"> в СССР, стране</hi>
+         и в нашей стране, охваченной мощным патриотическим и трудовым подъемом в борьбе за СССР.
+        <p>Например, комсомолки с. Хрущево Волоколамского района Николаева Нюра и Зотова Полина вспахали вручную под посевы озимых и яровых культур по 6 га каждая!</p>
+        <p>
+          Пахарь-комсомолец Пшенов из с. Горки того же района вспахал 27 га зяби и убрал с поля разных культур 
+          <hi rendition="#s">по</hi>
+           20 га.
+        </p>
+        <hi rendition="#s">по</hi>
+         20 га.
+        <p>Такие передовики были в каждом районе.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

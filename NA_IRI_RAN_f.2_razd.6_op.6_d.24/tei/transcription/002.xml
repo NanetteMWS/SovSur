@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000981">
+      <titleStmt>
+        <title>Стенограмма беседы с Владимиром Ткачом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.0 оборот" xml:space="default"/>
+        <p/>
+        <p>
+          <hi rendition="#i">23. … сказать тебе, что…</hi>
+        </p>
+        <hi rendition="#i">23. … сказать тебе, что…</hi>
+        <p>
+          <hi rendition="#i">К странице 2-й и 3-й</hi>
+        </p>
+        <hi rendition="#i">К странице 2-й и 3-й</hi>
+        <p>
+          <hi rendition="#i">24. необходимая литература</hi>
+        </p>
+        <hi rendition="#i">24. необходимая литература</hi>
+        <p>
+          <hi rendition="#i">25. обеспечил себя картофелем…</hi>
+        </p>
+        <hi rendition="#i">25. обеспечил себя картофелем…</hi>
+        <p>
+          <hi rendition="#i">26. приезжая в Харьков, чтобы</hi>
+        </p>
+        <hi rendition="#i">26. приезжая в Харьков, чтобы</hi>
+        <p>
+          <hi rendition="#i">27. день после приезда в Харьков – подкатывает…</hi>
+        </p>
+        <hi rendition="#i">27. день после приезда в Харьков – подкатывает…</hi>
+        <p>
+          <hi rendition="#i">28. … моему удивлению великолепно…</hi>
+        </p>
+        <hi rendition="#i">28. … моему удивлению великолепно…</hi>
+        <p>
+          <hi rendition="#i">29. этим отделом</hi>
+        </p>
+        <hi rendition="#i">29. этим отделом</hi>
+        <p>
+          <hi rendition="#i">30. ваши будущие сотрудники…</hi>
+        </p>
+        <hi rendition="#i">30. ваши будущие сотрудники…</hi>
+        <p>
+          <hi rendition="#i">31. прожить в более спокойной обстановке села…</hi>
+        </p>
+        <hi rendition="#i">31. прожить в более спокойной обстановке села…</hi>
+        <p>
+          <hi rendition="#i">32. ассистентке О.А. Неговоровой</hi>
+        </p>
+        <hi rendition="#i">32. ассистентке О.А. Неговоровой</hi>
+        <p>
+          <hi rendition="#i">33. и все взяты на работу…</hi>
+        </p>
+        <hi rendition="#i">33. и все взяты на работу…</hi>
+        <p>
+          <hi rendition="#i">34. определенно настроены</hi>
+        </p>
+        <hi rendition="#i">34. определенно настроены</hi>
+        <p>
+          <hi rendition="#i">35. в этом наша вина…</hi>
+        </p>
+        <hi rendition="#i">35. в этом наша вина…</hi>
+        <p>
+          <hi rendition="#i">К странице 4-й</hi>
+        </p>
+        <hi rendition="#i">К странице 4-й</hi>
+        <p>
+          <hi rendition="#i">36. запас генераторных электронных…</hi>
+        </p>
+        <hi rendition="#i">36. запас генераторных электронных…</hi>
+        <p>
+          <hi rendition="#i">37. все осциллографические катодные…</hi>
+        </p>
+        <hi rendition="#i">37. все осциллографические катодные…</hi>
+        <p>
+          <hi rendition="#i">38. Прощаясь со мной, он сказал:</hi>
+        </p>
+        <hi rendition="#i">38. Прощаясь со мной, он сказал:</hi>
+        <p>
+          <hi rendition="#i">К странице 7-й</hi>
+        </p>
+        <hi rendition="#i">К странице 7-й</hi>
+        <p>
+          <hi rendition="#i">39. Говорит ему, что «это…</hi>
+        </p>
+        <hi rendition="#i">39. Говорит ему, что «это…</hi>
+        <p>
+          <hi rendition="#i">40. Всю вторую оккупацию Харькова я пробыл уже в Советском союзе – в Воронежской и Курской области. Немедленно после занятия Харькова нашими частями в августе 1943 г. вернулся в университет и принял участие в его восстановлении. Сразу же начал разворачивать и исследовательскую работу.</hi>
+        </p>
+        <hi rendition="#i">40. Всю вторую оккупацию Харькова я пробыл уже в Советском союзе – в Воронежской и Курской области. Немедленно после занятия Харькова нашими частями в августе 1943 г. вернулся в университет и принял участие в его восстановлении. Сразу же начал разворачивать и исследовательскую работу.</hi>
+        <p>
+          <hi rendition="#i">12/III-44 г. В.К. Ткач</hi>
+        </p>
+        <hi rendition="#i">12/III-44 г. В.К. Ткач</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

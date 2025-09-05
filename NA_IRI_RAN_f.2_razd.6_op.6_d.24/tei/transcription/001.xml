@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000981">
+      <titleStmt>
+        <title>Стенограмма беседы с Владимиром Ткачом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.0" xml:space="default"/>
+        <p/>
+        <p>
+          <hi rendition="#i">Замечания к исправлениям в стенограмме</hi>
+        </p>
+        <hi rendition="#i">Замечания к исправлениям в стенограмме</hi>
+        <p/>
+        <p>
+          <hi rendition="#i">Исправления и изменения текста стенограммы отмечены цифрами 1, 2… и т.д. и вынесены в настоящий лист. Для облегчения, этим выноскам предшествует последнее слово предстоящей фразы или первые слова последующей. Слова, искажающие смысл, зачеркнуты.</hi>
+        </p>
+        <hi rendition="#i">Исправления и изменения текста стенограммы отмечены цифрами 1, 2… и т.д. и вынесены в настоящий лист. Для облегчения, этим выноскам предшествует последнее слово предстоящей фразы или первые слова последующей. Слова, искажающие смысл, зачеркнуты.</hi>
+        <p>
+          <hi rendition="#i">1. Отец жены…</hi>
+        </p>
+        <hi rendition="#i">1. Отец жены…</hi>
+        <p>
+          <hi rendition="#i">2. я был направлен в Вуз профсоюзной организацией.</hi>
+        </p>
+        <hi rendition="#i">2. я был направлен в Вуз профсоюзной организацией.</hi>
+        <p>
+          <hi rendition="#i">3. был оставлен при кафедре электромагнитных колебаний ассистентом, одновременно…</hi>
+        </p>
+        <hi rendition="#i">3. был оставлен при кафедре электромагнитных колебаний ассистентом, одновременно…</hi>
+        <p>
+          <hi rendition="#i">4. … методов получения…</hi>
+        </p>
+        <hi rendition="#i">4. … методов получения…</hi>
+        <p>
+          <hi rendition="#i">5. … чего …</hi>
+        </p>
+        <hi rendition="#i">5. … чего …</hi>
+        <p>
+          <hi rendition="#i">6. В этом институте руководил кафедрой…</hi>
+        </p>
+        <hi rendition="#i">6. В этом институте руководил кафедрой…</hi>
+        <p>
+          <hi rendition="#i">7. в Москву в мае 1941 г., кафедра…</hi>
+        </p>
+        <hi rendition="#i">7. в Москву в мае 1941 г., кафедра…</hi>
+        <p>
+          <hi rendition="#i">8 … полей при помощи электронных ламп. Одно изобретение…</hi>
+        </p>
+        <hi rendition="#i">8 … полей при помощи электронных ламп. Одно изобретение…</hi>
+        <p>
+          <hi rendition="#i">9. … на дециметровых и ультракоротких волнах.</hi>
+        </p>
+        <hi rendition="#i">9. … на дециметровых и ультракоротких волнах.</hi>
+        <p>
+          <hi rendition="#i">10. … моими работами.</hi>
+        </p>
+        <hi rendition="#i">10. … моими работами.</hi>
+        <p>
+          <hi rendition="#i">11. … научно-технического комитета.</hi>
+        </p>
+        <hi rendition="#i">11. … научно-технического комитета.</hi>
+        <p>
+          <hi rendition="#i">12. имею дело с чиновниками.</hi>
+        </p>
+        <hi rendition="#i">12. имею дело с чиновниками.</hi>
+        <p>
+          <hi rendition="#i">13. Мне не ответили.</hi>
+        </p>
+        <hi rendition="#i">13. Мне не ответили.</hi>
+        <p>
+          <hi rendition="#i">14. … завода № 183 (Коминтерна) и в танковый цех его, персонально к инженеру по радиооборудованию танков т. Бабкину.</hi>
+        </p>
+        <hi rendition="#i">14. … завода № 183 (Коминтерна) и в танковый цех его, персонально к инженеру по радиооборудованию танков т. Бабкину.</hi>
+        <p>
+          <hi rendition="#i">15. университетские работники (за некоторым исключением) были почти в полном составе.</hi>
+        </p>
+        <hi rendition="#i">15. университетские работники (за некоторым исключением) были почти в полном составе.</hi>
+        <p>
+          <hi rendition="#i">16. … доцент Ключарев и др.</hi>
+        </p>
+        <hi rendition="#i">16. … доцент Ключарев и др.</hi>
+        <p>
+          <hi rendition="#i">17. (по сути новая разработка) т.к. он…</hi>
+        </p>
+        <hi rendition="#i">17. (по сути новая разработка) т.к. он…</hi>
+        <p>
+          <hi rendition="#i">18. Это был очень удобный приемник.</hi>
+        </p>
+        <hi rendition="#i">18. Это был очень удобный приемник.</hi>
+        <p>
+          <hi rendition="#i">19. … лиц, Мезина и…</hi>
+        </p>
+        <hi rendition="#i">19. … лиц, Мезина и…</hi>
+        <p>
+          <hi rendition="#i">20. … институт, входивший ранее в Украинскую Академию Наук.</hi>
+        </p>
+        <hi rendition="#i">20. … институт, входивший ранее в Украинскую Академию Наук.</hi>
+        <p>
+          <hi rendition="#i">21. Его руководителем являлся приехавший в Харьков инженер …</hi>
+        </p>
+        <hi rendition="#i">21. Его руководителем являлся приехавший в Харьков инженер …</hi>
+        <p>
+          <hi rendition="#i">22. … </hi>
+          <hi rendition="#i">волнам указанного института, поскольку …</hi>
+        </p>
+        <hi rendition="#i">22. … </hi>
+        <hi rendition="#i">волнам указанного института, поскольку …</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

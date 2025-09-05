@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.29" xml:space="default"/>
+        <p> Эта работа дала мне возможность помочь нашим советским людям. Я была связана с партизанами. У меня скрывались: капитан Федоренко Константин Игнатьевич, Галина Мовчан, Тимофеев Петр Федорович, Милюкова, Поляцкая, Овсянникова, Валя Ниткова.</p>
+        <p>Скрывались у меня также два парашютиста, которые бежали с концлагеря г. Мелитополя, для которых нам удалось достать паспорта.</p>
+        <p>Нескольких человек удалось спасти от угона в Германию. Так, например, Прудкоеву Вове дали справку о плохом состоянии его здоровья, а Милюкову Аскольду мы переправили в паспорте годы. Спасли еще одного караима – Иртлач Савелия.</p>
+        <p>8 октября 1941 г. приказом по городу были созваны евреи, которых было тысяч около восьми, для регистрации. А через два дня их согнали во двор мельницы, откуда вывели к противотанковым окопам за Бердянский мост и там расстреляли. Жители прилегающей местности рассказывали, что ночью была слышна сильная стрельба, а потом, когда рвы засылали, были слышны стоны и колыхалась земля. Многие были недобиты.</p>
+        <p>Затем начались массовые аресты коммунистов, активистов. Так были арестованы, а потом расстреляны Бунин, Чугунов, Филипьев, нарсудья Чухрай.</p>
+        <p>Аресты и расстрелы были до самого ухода немцев.</p>
+        <p>Немцы всячески издевались над мирным населением. Например, забирали под всякими предлогами коров. Накладывали непосильные налоги. Питание население получало </p>
+      </div>
+    </body>
+  </text>
+</TEI>

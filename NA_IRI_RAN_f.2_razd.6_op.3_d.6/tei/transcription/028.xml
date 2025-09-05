@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.15 оборот" xml:space="default"/>
+        <p/>
+        <p>
+          При оккупации немцев немцы грабили мирных жителей, забирали коров, свиней, кур. Вот пришел к нам немец и говорит: матка, кур. Мама сказала: нет. Он пошел на двор и полез на нашест за курами. Один немец упал с нашести и начал стрелять по двору. Они разбежались, и он не одну не поймал. Овес, рожь для своих лошадей. Ну, все равно ихние лошади дохнут. Вот уже приблизилась Красная армия, и они выгнали нас из дома. Мы ходили, ходили. Холодно, мы пошли в погреб. Они выгнали нас из 
+          <hi rendition="#s">дома</hi>
+           погреба и зажгли его. Мы пошли в окоп. Они нас выгнали с окопа и зашли сами. Вот какие немцы.
+        </p>
+        <hi rendition="#s">дома</hi>
+         погреба и зажгли его. Мы пошли в окоп. Они нас выгнали с окопа и зашли сами. Вот какие немцы.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

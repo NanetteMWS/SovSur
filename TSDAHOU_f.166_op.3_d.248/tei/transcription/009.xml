@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> взрыва Успенского Собора в верхней Лавре была повреждена водопроводная, канализационная и дренажные системы, отчего из верхней Лавры лились целые потоки воды, разрушающие мостовую, могущую серьезно повредить и произвести оползни.</p>
+        <p>29-го июня 1942 года управление Лавры обратилось к главному инженеру г. Киева с просьбой прислать комиссию для обследования территории Лавры и принятия соответствующих мер для ликвидации угрозы оползней. Городской инженер 11 июля назначил специальную комиссию пройти на территорию верхней Лавры. Такое ходатайство было возбуждено перед немецкой полицией отделом культуры и просвещения, но получить разрешения не удалось, комиссия не имела возможности обследовать территорию Лавры.</p>
+        <p>Таким образом, первый период «охраны» Лавры немецкой полицией ознаменовывается: взрывом Успенского собора с полным разграблением всех музейных и библиотечных ценностей, робкой попыткой разрушения отдельных зданий, и убийством т. Шеверницкого и трех неизвестных.</p>
+        <p>ІІІ. Второй период оккупации «охраны» Лавры «украинской» полицией (с августа 1942 г. до 1 сентября 1943 г.)</p>
+        <p>Совершив свое позорное дело ограбления Лавры, немецкая полиция оставила территорию верхней Лавры в начале августе 1943 г. и на месте немца был выставлен часовым «украинский» «полицай». И если в результате «охраны» немецкой полиции в верхней Лавре не осталось совершенно </p>
+      </div>
+    </body>
+  </text>
+</TEI>

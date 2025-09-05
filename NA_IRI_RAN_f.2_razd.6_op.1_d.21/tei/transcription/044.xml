@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.82" xml:space="default"/>
+        <p> Немцы, убегая, бросили и машины, и запасы – муку, печенье, повозку с обувью. Даже замешанное тесто в бочках так и оставили. Соседи, да и другие жители, его мешками домой приносили, хлебы пекли.</p>
+        <p>По всему видно, немец спешно утекал». </p>
+        <p>Чем дальше за Истру, тем поспешнее отступали немцы, и тем меньше разрушений они после себя оставляли, не успевая взорвать, минировать, а иногда и поджечь городские и деревенские здания – школы и т.д.</p>
+        <p/>
+        <p>г. Истра</p>
+        <p>26 января 1942 года</p>
+        <p/>
+        <p>Правильность записи рассказа Т.И. Очкасовой Комиссия подтверждает.</p>
+        <p>
+          Члены Комиссии: С.В. Киселев, А.П. Смирнов, В.Д. Блаватский, Е.И. Горюнова 
+          <hi rendition="#i">(подпись)</hi>
+          , Л.А. Евтюхова, А.Б. Закс
+        </p>
+        <hi rendition="#i">(подпись)</hi>
+        , Л.А. Евтюхова, А.Б. Закс
+      </div>
+    </body>
+  </text>
+</TEI>

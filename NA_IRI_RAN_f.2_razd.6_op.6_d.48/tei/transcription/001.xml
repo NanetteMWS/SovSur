@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Стенограмма беседы с секретарем Харьковского обкома КП(б)У тов. Чураевым.</p>
+        <p/>
+        <p>Беседу проводила старший научный сотрудник тов. Голубева 19.III.1944 года.</p>
+        <p>Стенографировала Фишелева.</p>
+        <p/>
+        <p>
+          Чураев Виктор Михайлович, 1904 года рождения, образование высшее. До войны работал секретарем Харьковского горкома КП(б)У. 
+          <hi rendition="#i">Член партии с 1927 г.</hi>
+        </p>
+        <hi rendition="#i">Член партии с 1927 г.</hi>
+        <p>
+          <hi rendition="#u">Тов. Чураев:</hi>
+        </p>
+        <hi rendition="#u">Тов. Чураев:</hi>
+        <p>Вошли мы в г. Харьков 23 августа 1943 года не полным составом горкома и городских райкомов, которых у нас 9, а частью основных работников горкома и секретарей городских райкомов.</p>
+        <p>Первые шаги партийных органов и организаций были направлены на восстановление хлебной промышленности, в частности небольших пекарен, и водоснабжения. С этого мы начали работать. Одновременно начали организовывать торговую сеть – хлебные магазины – и создавать наряду с этим районные партийные комитеты, исполкомы районных Советов депутатов трудящихся и разворачивать их деятельность.</p>
+        <p>Проведен городской митинг, а также районные митинги силами прибывшего партийно-советского актива. Общегородской митинг провели 29 августа, на митинге выступал Никита Сергеевич Хрущев, выступал генерал армии, ныне маршал Советского Союза Конев, командующий войск Степного фронта. Из харьковчан, остававшихся на оккупированной территории, выступал профессор Сахаров. Выступал </p>
+      </div>
+    </body>
+  </text>
+</TEI>

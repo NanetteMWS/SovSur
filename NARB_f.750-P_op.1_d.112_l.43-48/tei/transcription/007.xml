@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000875">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лесничим</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 43-48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.47" xml:space="default"/>
+        <p/>
+        <p>Что ж, помочь им видно надо!</p>
+        <p>Ванька с группою решил.</p>
+        <p>И пустой стакан снаряда</p>
+        <p>Глиной плотно зарядил.</p>
+        <p/>
+        <p>Сделали подобье мины,</p>
+        <p>Положили на пути,</p>
+        <p>А в сторонку уж не глину</p>
+        <p>Постарались отнести.</p>
+        <p/>
+        <p>Приготовили почище,</p>
+        <p>То подарок партизан,</p>
+        <p>За родные пепелища</p>
+        <p>Нашей мести немцам дар.</p>
+        <p/>
+        <p>Ветер мокрым снегом лепит,</p>
+        <p>Ночь прошла – движенья нет…</p>
+        <p>И встает уже над колеей</p>
+        <p>Утра позднего рассвет.</p>
+        <p/>
+        <p>На соседнем полустанке</p>
+        <p>Эшелон отправки ждет,</p>
+        <p>Вдоль по линии охрана</p>
+        <p>Путь осматривать идет.</p>
+        <p/>
+        <p>«Мина – хальт!» и все стоят</p>
+        <p>Сняли с глиною снаряд…</p>
+        <p>Посчастливило сей…</p>
+        <p>Будут марки, будет шнапс.</p>
+        <p/>
+        <p>Путь свободен, по вагонам,</p>
+        <p>Дан свисток и поезд тронул,</p>
+        <p>Только слышен стук колес…</p>
+        <p>Взрыв и… поезд под откос.</p>
+        <p/>
+        <p>Ванька с группою на отдых</p>
+        <p>Возвращался не спеша…</p>
+        <p>Под откосом «злые тигры»</p>
+        <p>С «Фердинандами» лежат.</p>
+        <p>Комиссар отряда «Октябрь» Лесничий С.П.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

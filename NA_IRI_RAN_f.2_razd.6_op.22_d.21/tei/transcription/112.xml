@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.57" xml:space="default"/>
+        <p> дошло, что немцы будут взрывать мост. Мы вооружились смотреть, как американские самолеты налетели, дали тревогу, и мы разошлись. К вечеру снова дали отбой, немцы отступили за город за несколько километров. На завтрашний день самолеты обстреляли поезд, стоявший на пути, в котором были разнообразные товары, продукт, оружие, форма русских солдат. Когда поезд начал гореть, народ весь хлынул туда – и немцы, и все иностранцы и растащили все. Мы в этот день работали и только после обеда с Дусей пошли туда посмотреть, но там уже ничего не было, и мы нашли еще две гимнастерки и взяли их себе. На фабриках распустили всех рабочих, сказали – пусть все прячутся, где кто может, днями придут американцы, чтоб тогда все собирались снова работать, но наши девушки и ребята встретили смехом и выкриками такой приказ.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

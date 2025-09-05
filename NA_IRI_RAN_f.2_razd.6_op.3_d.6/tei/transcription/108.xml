@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.62 оборот" xml:space="default"/>
+        <p> стрелять, но все были патроны. Он начал за ним бегать, палками кидаться в него, потом прибежали солдаты и застрелили петуха. Трудно, все не вспомнишь. 29-го января немецкие поджигатели сожгли наше село. У нас было 14 домов, осталось только 4 дома. Но все окна побили. У нас осталось 2 коровы, 4 овцы, было 12 коров, 20 овец. Гитлеровские бандиты всех нас ограбили, но сейчас живем хорошо, ходим в школу.</p>
+        <p>Ученица 4-го класса Барсуковской школы Скворцова Александра.</p>
+        <p>Все не вспомнишь.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

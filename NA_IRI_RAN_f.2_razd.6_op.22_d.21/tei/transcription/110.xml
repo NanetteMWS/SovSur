@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.56" xml:space="default"/>
+        <p> наоборот, эти девушки всегда искали встречи с ними и всегда помогали им. </p>
+        <p>Ребята наперебой лезли к дырочкам, каждому хотелось хоть за один пальчик пожать, в знак глубокой благодарности. Мы просили ребят, чтобы они устроили массовый побег, но этого нельзя было сделать. Мы рассказали им точное расположение нашей квартиры, как к ней можно пробраться, и просили, если с них удастся кому бежать, пусть бежит к нам, мы прикладем все усилия для того, чтобы спасти его. Долго не пришлось нам разговаривать, мы простились с ними, просили, чтоб они не забывали нас, обещались искать друг друга на Родине, после нашего освобождения, если только мы останемся в живых. Тяжело было это прощание. Мы ушли, а ребята все сидели на заборе, на крыше своего барака, все глядели нам вслед и махали руками. Мы поминутно осматривались, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

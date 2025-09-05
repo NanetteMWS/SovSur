@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.38" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">тем</hi>
+           Тем самым был заложен крепкий фундамент 
+          <hi rendition="#s">восст</hi>
+           полного восстановления сельского х-ва в освобожденных районах.
+        </p>
+        <hi rendition="#s">тем</hi>
+         Тем самым был заложен крепкий фундамент 
+        <hi rendition="#s">восст</hi>
+         полного восстановления сельского х-ва в освобожденных районах.
+        <p>
+          VII. Значение и размах партийной работы среди колхозников хорошо и иллюстрируется примером Кашинской первичной парторганизации, Волоколамского района. Руководит организацией член ВКП (б) с 1927 г. Ефросинья Осиповна Малофеева. 
+          <hi rendition="#s">Под ее руководст</hi>
+           Она возглавляет коллектив агитаторов. Агитаторы работают в бригадах, по 5-дворкам, читают газеты, проводят беседы, руководят соцсоревнованием. За 1942 г. колхозники 22 раза слушали доклад о международном положении, просмотрели 43 кинофильма. Было издано 15 номеров стенгазет и 16 боевых листков. Работают музыкальный, драматический кружки. Верным помощником т. Малофеевой во всей работе является Маргарита Куркова, секретарь комсом. организации. За 1942 г. комсомольская организация выросла на 15 чел.
+        </p>
+        <hi rendition="#s">Под ее руководст</hi>
+         Она возглавляет коллектив агитаторов. Агитаторы работают в бригадах, по 5-дворкам, читают газеты, проводят беседы, руководят соцсоревнованием. За 1942 г. колхозники 22 раза слушали доклад о международном положении, просмотрели 43 кинофильма. Было издано 15 номеров стенгазет и 16 боевых листков. Работают музыкальный, драматический кружки. Верным помощником т. Малофеевой во всей работе является Маргарита Куркова, секретарь комсом. организации. За 1942 г. комсомольская организация выросла на 15 чел.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

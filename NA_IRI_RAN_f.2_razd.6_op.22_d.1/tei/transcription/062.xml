@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.63" xml:space="default"/>
+        <p> С 19 июля 1944 г. и до освобождения, т.е. до 19 апреля 1945 г., Петр вынужден был принудительно «работать» на фашистов. Но как он работал?! Если бы так работать в Советском Союзе, как работали Петр и Иван Караулов из гор. Ашхабада, то ихняя зарплата, если перевести на сдельщину, равнялась 250-300 рублей – брак 600-700 рублей. Вот и держи таких работников, а их, этих советских патриотов, были сотни тысяч, но были сволочи, которые на врага работали не за страх, а за совесть, к таким можно в первую голову отнести двух добровольцев: 1) Грязенко Сергея Абрамовича из Донбасса и Петра Ивановича Балашева, бывшего председателя сельсовета, а при немцах старостой, от них не </p>
+      </div>
+    </body>
+  </text>
+</TEI>

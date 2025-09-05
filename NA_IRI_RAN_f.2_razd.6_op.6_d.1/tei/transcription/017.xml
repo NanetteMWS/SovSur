@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000692">
+      <titleStmt>
+        <title>Стенограмма беседы с митрополитом Феофилом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> Совнаркомом или с Президиумом Совета трудящихся Украинской республики?</p>
+        <p>
+          <hi rendition="#u">Феофил</hi>
+          : Мы считаемся законом епископатом, но распоряжений никаких не было.
+        </p>
+        <hi rendition="#u">Феофил</hi>
+        : Мы считаемся законом епископатом, но распоряжений никаких не было.
+        <p>
+          <hi rendition="#u">Садовский</hi>
+          : Пока связь ограничивается только с представителями горсовета и управлением культа.
+        </p>
+        <hi rendition="#u">Садовский</hi>
+        : Пока связь ограничивается только с представителями горсовета и управлением культа.
+        <p>
+          <hi rendition="#u">Камыня</hi>
+          : Мы считали, что это постановление касается Великороссии, и соответствующее учреждение будет здесь, а сейчас нельзя идти и спрашивать самим.
+        </p>
+        <hi rendition="#u">Камыня</hi>
+        : Мы считали, что это постановление касается Великороссии, и соответствующее учреждение будет здесь, а сейчас нельзя идти и спрашивать самим.
+        <p>
+          <hi rendition="#u">Феофил</hi>
+          : Украина находится на положении войны.
+        </p>
+        <hi rendition="#u">Феофил</hi>
+        : Украина находится на положении войны.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

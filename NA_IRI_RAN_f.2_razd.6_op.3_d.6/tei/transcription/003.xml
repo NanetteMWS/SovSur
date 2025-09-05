@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> 14 декабря</p>
+        <p>Сочинение Менялина Владимира.</p>
+        <p>Как фашисты издевались над нашими красноармейцами. Когда наши войска вели упорные бои с врагом под Калугой. Тогда в Калуге было много наших пленных, 15 тысяч. Когда наши занимали Калугу, тогда наши войска захватили 12 тысяч человек, а 3 тысячи враг успел угнать. Тогда он гнал за нашей деревней, тогда он бил наших пленных бил, толстыми дубовыми палками, стрелял. Наши пленные были замученные и голодные, и разутые, не емшие. Когда враг угнал к воронкам, тогда наши </p>
+      </div>
+    </body>
+  </text>
+</TEI>

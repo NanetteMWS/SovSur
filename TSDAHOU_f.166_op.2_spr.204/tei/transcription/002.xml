@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000800">
+      <titleStmt>
+        <title>Стенограма бесіди з Олександром Барвінським</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 2. Спр. 204.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> зі Львова на Схід, щоб вони не попали в руки німцям. Є такий свідок цього, як тов. Клімов Гліб Васильович (Міськом партії). Він лежав дуже тяжко хворий, але ми евакуювали його.</p>
+        <p>Коли зачалася війна, я додому не ходив, а весь час був у лікарні.</p>
+        <p>По приходу німців я ще залишався в цій лікарні, але всі хворі були відправлені з неї своєчасно. В лікарні залишалась лише мати тов. Тугая після тяжкої операції. Але я відправив її в другу лікарню, а потім додому. Зараз вона живе у свого сина, який працює головою Червоноармійського Райвиконкому.</p>
+        <p>Я не міг евакуюватись, тому що мав завдання всіх своєчасно евакуювати з лікарні. Також, коли раніш, ніж треба, поїхали відповідальні працівники, то їх повернули обратно. А якщо їх повернули, то куди же буду їхати я.</p>
+        <p>Під час бою було багато ранених і не можна було розраховувати на те, щоб у лікарні були тільки відповідальні працівники та їх родини. Треба було приймати всіх: ранених червоноармійців і багато цивільного населення.</p>
+        <p>Як прийшли німці, я мусів сидіти там. Спочатку прийшла військова влада німецька, котра мені зразу же не дозволила працювати як терапевту, а назначили на адміністративну роботу. Мене послали до Міськздороввідділу, де і залишився працювати до приходу Червоної армії.</p>
+        <p>Німці хотіли мене вивезти, коли втікали. 4-и рази мені грозила небезпека, що мене вивезуть. Перший раз – 27-го березня, коли я одержав евакуаційну </p>
+      </div>
+    </body>
+  </text>
+</TEI>

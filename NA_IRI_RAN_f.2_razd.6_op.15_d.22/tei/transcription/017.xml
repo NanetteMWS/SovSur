@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000501">
+      <titleStmt>
+        <title>Стенограмма беседы с Иосифом Будаевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 22.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.8 оборот" xml:space="default"/>
+        <p> Шейбака и Борсука. Вечером на квартире Борсука поужинали, как следует, переночевали, а утречком уже окружили немцы. Немцы уже все заминировали. Оказывается, какой-то предатель провел немцев. Я 11 часов лежал в воде в 5 метрах от немцев, замаскировался, наложил на себя веток.</p>
+        <p>Я предупредил отряд Лунина Николая Николаевича, что в Минске получился провал, такой-то предал. Если будут попадать люди, проверяйте.</p>
+        <p>Оттуда перебрались мы на Палик. Жена осталась в Минске. Она отправилась в другую деревню. У нее было воспаление седалищного нерва, и она ходила с палкой.</p>
+        <p>Я предупреждаю отряд, являюсь на Палик. Собрались: «Дядя Вася», «Дядя Коля», старик Пыжиков, все комиссары собрались. Я доложил, что такое-то положение с Минским подпольным комитетом, что Невский предатель. Через несколько дней является Котиков, который сказал: «Меня заставили выдавать гестаповцы и я выдавал». Его с Палика отправили в Москву. Он сказал: «Я не предатель, но я выдал».</p>
+        <p>Командование бригады Дяди Коли решило отправить меня в Москву. Они даже дали такую справку, что это активный работник подпольного комитета.</p>
+        <p>
+          <hi rendition="#i">В Москве меня долго проверяли, и почти </hi>
+          <hi rendition="#i">через </hi>
+          <hi rendition="#i">год спустя я получил партбилет.</hi>
+        </p>
+        <hi rendition="#i">В Москве меня долго проверяли, и почти </hi>
+        <hi rendition="#i">через </hi>
+        <hi rendition="#i">год спустя я получил партбилет.</hi>
+        <p>
+          <hi rendition="#i">Первое время я видел Котикова в Москве, но затем его дальнейшая судьба мне неизвестна.</hi>
+        </p>
+        <hi rendition="#i">Первое время я видел Котикова в Москве, но затем его дальнейшая судьба мне неизвестна.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

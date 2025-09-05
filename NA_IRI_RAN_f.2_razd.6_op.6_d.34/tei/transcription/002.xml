@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000684">
+      <titleStmt>
+        <title>Стенограмма беседы с Федором Андреевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 34.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">раз пришли</hi>
+        </p>
+        <hi rendition="#s">раз пришли</hi>
+        <p>
+          <hi rendition="#i">Когда пришли требовать изд. Ленина</hi>
+          , я решила прощупать почву и спросила:
+        </p>
+        <hi rendition="#i">Когда пришли требовать изд. Ленина</hi>
+        , я решила прощупать почву и спросила:
+        <p>– Ас какой целью вы берете?</p>
+        <p>– Это вас очень интересует? – спросил он.</p>
+        <p>
+          – Не очень интересует, – говорю я, – но я должна знать, нужны ли вам 
+          <hi rendition="#s">сорочки</hi>
+           
+          <hi rendition="#i">переплеты</hi>
+          .
+        </p>
+        <hi rendition="#s">сорочки</hi>
+         
+        <hi rendition="#i">переплеты</hi>
+        .
+        <p>
+          – Нет, – говорит, – 
+          <hi rendition="#s">сорочки</hi>
+           
+          <hi rendition="#i">переплеты</hi>
+           мы вам все вернем.
+        </p>
+        <hi rendition="#s">сорочки</hi>
+         
+        <hi rendition="#i">переплеты</hi>
+         мы вам все вернем.
+        <p>
+          Тогда я решила, что книги им нужны не для просмотра, 
+          <hi rendition="#s">и дала самую толстую </hi>
+          <hi rendition="#s">литературу</hi>
+           
+          <hi rendition="#i">а для </hi>
+          <hi rendition="#i">технич</hi>
+          <hi rendition="#i">. </hi>
+          <hi rendition="#i">ц</hi>
+          <hi rendition="#i">елей</hi>
+          <hi rendition="#i">.</hi>
+        </p>
+        <hi rendition="#s">и дала самую толстую </hi>
+        <hi rendition="#s">литературу</hi>
+         
+        <hi rendition="#i">а для </hi>
+        <hi rendition="#i">технич</hi>
+        <hi rendition="#i">. </hi>
+        <hi rendition="#i">ц</hi>
+        <hi rendition="#i">елей</hi>
+        <hi rendition="#i">.</hi>
+        <p>
+          Они страшно интересовались атласами. Мы им атласы не выдали. 
+          <hi rendition="#s">а выдали в нашей библиотеке на Чайковского</hi>
+          . В 
+          <hi rendition="#s">этой</hi>
+           библиотеке был только первый том. Это был Атлас мира. Затем они интересовались атласом военного издания ко дню Красной Армии. 
+          <hi rendition="#s">В нашей библиотеке его не было</hi>
+          . 
+          <hi rendition="#i">Атласы были спрятаны и уцелели</hi>
+          .
+        </p>
+        <hi rendition="#s">а выдали в нашей библиотеке на Чайковского</hi>
+        . В 
+        <hi rendition="#s">этой</hi>
+         библиотеке был только первый том. Это был Атлас мира. Затем они интересовались атласом военного издания ко дню Красной Армии. 
+        <hi rendition="#s">В нашей библиотеке его не было</hi>
+        . 
+        <hi rendition="#i">Атласы были спрятаны и уцелели</hi>
+        .
+        <p>
+          <hi rendition="#s">Относительно хищения литературы</hi>
+          . Надо сказать, что 
+          <hi rendition="#s">мы все время</hi>
+           
+          <hi rendition="#i">выполнение требований по изъятию литературы мы </hi>
+          оттягивали 
+          <hi rendition="#s">с чисткой</hi>
+          . Мы не производили ни вырезок, ни 
+          <hi rendition="#i">за</hi>
+          черкиваний. 
+        </p>
+        <hi rendition="#s">Относительно хищения литературы</hi>
+        . Надо сказать, что 
+        <hi rendition="#s">мы все время</hi>
+         
+        <hi rendition="#i">выполнение требований по изъятию литературы мы </hi>
+        оттягивали 
+        <hi rendition="#s">с чисткой</hi>
+        . Мы не производили ни вырезок, ни 
+        <hi rendition="#i">за</hi>
+        черкиваний. 
+        <p>
+          Библиотека находилась в хаотическом состоянии. Штат быстро сократил
+          <hi rendition="#i">и</hi>
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#s">и благодаря этому мы требовали продления сроков</hi>
+          . Литературу, подлежащую изъятию, они требовали 
+          <hi rendition="#i">сдать</hi>
+           в штаб Розенберга. Туда мы ничего не дали, 
+          <hi rendition="#i">вся изъят. </hi>
+          <hi rendition="#i">литерат</hi>
+          <hi rendition="#i">. была спрятана в подвал</hi>
+          <hi rendition="#i">.</hi>
+        </p>
+        <hi rendition="#i">и</hi>
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#s">и благодаря этому мы требовали продления сроков</hi>
+        . Литературу, подлежащую изъятию, они требовали 
+        <hi rendition="#i">сдать</hi>
+         в штаб Розенберга. Туда мы ничего не дали, 
+        <hi rendition="#i">вся изъят. </hi>
+        <hi rendition="#i">литерат</hi>
+        <hi rendition="#i">. была спрятана в подвал</hi>
+        <hi rendition="#i">.</hi>
+        <p>
+          Немцы очень интересовались климатологией, очень много требовали 
+          <hi rendition="#i">для</hi>
+           Тайля, 
+          <hi rendition="#i">в Н</hi>
+          аучно-хозяйственный институт, принадлежа
+          <hi rendition="#i">щий</hi>
+           Викадо.
+        </p>
+        <hi rendition="#i">для</hi>
+         Тайля, 
+        <hi rendition="#i">в Н</hi>
+        аучно-хозяйственный институт, принадлежа
+        <hi rendition="#i">щий</hi>
+         Викадо.
+        <p>
+          За студентами, 
+          <hi rendition="#i">учившимися при немцах</hi>
+          , числится 1719 книг, за педагогами и сотрудниками – 700, всего – 2400 книг.
+        </p>
+        <hi rendition="#i">учившимися при немцах</hi>
+        , числится 1719 книг, за педагогами и сотрудниками – 700, всего – 2400 книг.
+        <p>
+          <hi rendition="#i">Библиотека, можно сказать, полностью уцелела в количестве 300 тысяч экземпляров.</hi>
+        </p>
+        <hi rendition="#i">Библиотека, можно сказать, полностью уцелела в количестве 300 тысяч экземпляров.</hi>
+        <p/>
+        <p>
+          <hi rendition="#i">Ф. </hi>
+          <hi rendition="#i">Андреев</hi>
+        </p>
+        <hi rendition="#i">Ф. </hi>
+        <hi rendition="#i">Андреев</hi>
+        <p>
+          <hi rendition="#i">Зав. библиотекой </hi>
+          [
+          <hi rendition="#i">1 слово непонятно</hi>
+          ]
+        </p>
+        <hi rendition="#i">Зав. библиотекой </hi>
+        [
+        <hi rendition="#i">1 слово непонятно</hi>
+        ]
+      </div>
+    </body>
+  </text>
+</TEI>

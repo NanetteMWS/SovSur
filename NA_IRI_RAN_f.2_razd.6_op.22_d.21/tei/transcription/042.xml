@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.22" xml:space="default"/>
+        <p> могла еще опомниться. Только на этот раз так неудачно получилось. Больше я никак не могла включить Москву. </p>
+        <p>С этим мы и пришли снова вниз, где нас ожидала мамаша. Но Васька ей сразу и доложил, что Зина, мол, все дело испортила. Но эта первая попытка была неудачной, но все равно же мы на этом не остановились, нас так и тянуло туда. Отец днем проходил, запоминал каждый поворотик, выступ, чтобы мы в потемках не натыкались на него и этим самым не создавали шума. Вечером следующего дня мы пошли снова. На этот раз я уже твердо, уверенно бралась за радио и сразу включила родную Москву как раз в то время, когда передачу последних известий кончили, а пели гимн Советского Союза. Как мы все плакали! Ну, я, Дуся, так это простительно, мы девушки, а то все, и Васька, хотя, правда, Васька тоже маленький, ну, Миша, которому было уже 15 лет, и отец тоже плакал.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

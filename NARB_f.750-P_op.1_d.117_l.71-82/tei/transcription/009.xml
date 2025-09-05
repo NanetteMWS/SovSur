@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000635">
+      <titleStmt>
+        <title>Стенограмма беседы с Эдуардом Лавриновичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 117. Л.71-82.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.80" xml:space="default"/>
+        <p> С 3 июля на 4-ое 1943 года началась рельсовая война. Командование бригады выделило руководить этой операцией начальника штаба т. Подобедова и меня заместителем.</p>
+        <p>Мы выехали из Чечерских лесов, форсировали Сож и проехали Викторинскую дачу. Разработали план конкретных действий, расположения укрепленных точек. Разведку подготовили Алексин Семен Петрович и Авдашков Михаил. После рельсовой войны захваченные немцы расстреляны. В одну ночь мы ликвидировали два блокпоста и взорвали рельсы на протяжении 4-х километров с потерями: 2 убито и 2 ранено.</p>
+        <p>Потом, возвратившись в Викторинский лес, тоже приняли блокировку, но мы ушли. Потери – только один человек убитый.</p>
+        <p>В отношении водокачки. Я получил указание от командира бригады Балыкова и уполномоченного Северной группы Ждановича лично подготовить и взорвать водокачку деревни Рудне-Кошелевская, снабжавшая водой станцию Буда-Кошелевская. Это было задание тов. Пономаренко.</p>
+        <p>Водокачка охранялась гарнизоном мадьяров. Она имела серьезные укрепления: обнесена двустенным забором с внутренним заполнением песком. На углах было 5 дзотов с установкой танков, пулеметов. Внутри имелось 2 батальона, миномет и наблюдательные вышки. Отступя на 25 метров были проволочные заграждения в 4 ряда. С одной стороны, в ста метрах была деревня. С боем эту водокачку никак нельзя было взять, и мы решили эту водокачку убрать следующим путем: </p>
+      </div>
+    </body>
+  </text>
+</TEI>

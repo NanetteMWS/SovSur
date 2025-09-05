@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000656">
+      <titleStmt>
+        <title>Стенограмма беседы с Александрой Захаровой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л.225-256.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.226" xml:space="default"/>
+        <p/>
+        <p>Стенограмма беседы с тов. Захаровой Александрой Никифоровной</p>
+        <p/>
+        <p>
+          Беседу проводит научн. работник 
+          <hi rendition="#s">Мазинг О.Ю.</hi>
+           
+          <hi rendition="#i">Лихтер</hi>
+        </p>
+        <hi rendition="#s">Мазинг О.Ю.</hi>
+         
+        <hi rendition="#i">Лихтер</hi>
+        <p/>
+        <p>
+          <hi rendition="#s">1</hi>
+          <hi rendition="#i">2</hi>
+          4 
+          <hi rendition="#s">января</hi>
+           
+          <hi rendition="#i">сентября</hi>
+           194
+          <hi rendition="#s">7</hi>
+          <hi rendition="#i">6</hi>
+           г.
+        </p>
+        <hi rendition="#s">1</hi>
+        <hi rendition="#i">2</hi>
+        4 
+        <hi rendition="#s">января</hi>
+         
+        <hi rendition="#i">сентября</hi>
+         194
+        <hi rendition="#s">7</hi>
+        <hi rendition="#i">6</hi>
+         г.
+        <p/>
+        <p>гор. Минск</p>
+        <p/>
+        <p>Захарова Александра Никифоровна, 1908 года рождения, по национальности украинка, член ВКП(б) с 1928 года, образование высшее, комиссар партизанской бригады №255 Гомельского соединения.</p>
+        <p>Награждена орденом Ленина, медалями: «Партизану Отечественной войны» 1 ст. «За победу над Германией», «За доблестный труд». Югославским орденом «Братство в единстве» 1 степени, работаю заместителем завед. отделом пропаганды и агитации ЦК КП(б)Б.</p>
+        <p>Родилась в с. Полеевка Черниговской области, но только родилась, а выросла в Башкирии. Родители мои, крестьяне, переехали в Башкирию, когда мне было всего 2 года. Детство свое и юность провела в глухом уголке Башкирии, в селе Верхоторы, Верхоторского района.</p>
+        <p>Меня никогда не баловала жизнь, все, что было мной взято от нее – взято с боем. С раннего детства росла сиротой: с 7 лет я осталась без матери, а 14 лет и без отца. В течение ряда лет жила с мачехами (их у меня было три), которые после матери все умирали, кроме последней, которая живет и теперь. На руках моих остались два брата и сестренка. Я была старшей. Потом скитание по людях. Мачеха не захотела с нами жить и пустила по миру. Двух младших детей (брата и сестру) я отдала в детский дом, а сама и брат пошли работать на кулака.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

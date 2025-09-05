@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.27" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">ли после начала наст</hi>
+          <hi rendition="#s"> </hi>
+          они вынесли решение о засыпке семян в семенной фонд колхозов, освобожденных от немецкой оккупации («Моск. больш.» 20/XII-41 г. №300). Собрав 12 тонн зерна, 552 тонны картофеля, они обратились ко всем колхозникам Моск. области с призывом 
+          <hi rendition="#s">протянуть руку помощи колхозникам</hi>
+           («Моск. больш.» 31/XII-41 г.).
+        </p>
+        <hi rendition="#s">ли после начала наст</hi>
+        <hi rendition="#s"> </hi>
+        они вынесли решение о засыпке семян в семенной фонд колхозов, освобожденных от немецкой оккупации («Моск. больш.» 20/XII-41 г. №300). Собрав 12 тонн зерна, 552 тонны картофеля, они обратились ко всем колхозникам Моск. области с призывом 
+        <hi rendition="#s">протянуть руку помощи колхозникам</hi>
+         («Моск. больш.» 31/XII-41 г.).
+        <p>Почин Куровских колхозников, одобренный Бюро Московского Ком. ВКП(б) и исполкомом Моск. областного совета был горячо поддержан колхозниками Моск. области (Моск. больш. 27/XII-41 г. №306).</p>
+        <p>Трудящиеся Луховицкого района собрали для колхозов Истринского района 399 ц зерновых, 1229 ц. картофеля, 2 ц семян огородных культур (Моск. больш. 13/II-42 г. №36). По Балашихинскому району было собрано 80 т картофеля, 6 тонн зерновых и 10 кг семян огородных культур («Моск. больш.» 8/II-42 г. №32). Так почти в каждом районе.</p>
+        <p>Вслед за колхозами Моск. области на помощь освобожденным районам пришли колхозники всей страны. Колхозники Красноярского края внесли в фонд помощи освобожденным районам </p>
+      </div>
+    </body>
+  </text>
+</TEI>

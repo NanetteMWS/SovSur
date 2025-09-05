@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000214">
+      <titleStmt>
+        <title>Стенограмма беседы с Елизаветой Пахомовой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 13. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> 8 декабря немцы заняли мою квартиру, выгнали меня, не разрешив взять из дома ни одной вещи. Осталась я без денег, без вещей, без крова. Но просить милости у врага не хотелось, кое как перебивалась. Помогали, кормили друзья.</p>
+        <p>До 20 августа 42 года на работу я не шла, не регистрировалась на бирже. 20 августа пришлось поступить на работу. Поступила в Центральную библиотеку по разборке советских книг. Немцы в нашу работу не вмешивались, даже не заглядывали к нам. Русских работало в библиотеке 18 человек.</p>
+        <p>Жила я у своей хорошей знакомой, армянке по национальности. Как жилось при немцах?</p>
+        <p>8 декабря немцы разослали повестки всем евреям с требованием явиться для регистрации. По приказу немцев был создан еврейский комитет. Через этот комитет немцы обращались к евреям с требованием сдать такое-то количество денег, вещей, белья. Немцы жестоко расправились с евреями. Все они были обмануты и казнены. Я видела своими глазами как люди шли на смерть.</p>
+        <p>Библиотечный работник Ева Шик, старая женщина, шла при мне на казнь. Я плакала, но ничем не могла помочь. С детьми, с вещами, доверчиво шли евреи в надежде, что их переселят в другой район, эвакуируют, ведь так было обещано. Я помню фигурку еврея, поверенного, который шел с вещами и нес подмышкой свою любимую скрипку. Всех их казнили. Здание медицинского института, здание обкома партии и педагогический </p>
+      </div>
+    </body>
+  </text>
+</TEI>

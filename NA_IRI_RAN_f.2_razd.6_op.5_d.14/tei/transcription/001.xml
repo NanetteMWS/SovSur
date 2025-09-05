@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> О чем говорят письма из гитлеровской каторги.</p>
+        <p>Тысячи мужчин и женщин, юношей и девушек городов и деревень Вилейской области, как и других оккупированных областей Белоруссии, фашистские мерзавцы насильно увели в Германию, на каторгу. Там, в немецкой неволе, фашистском рабстве всех насильно вывезенных в Германию советских жителей ожидает голодная и холодная смерть и только смерть. Письма, которые присылают своим родным и знакомым вывезенные в немецкое рабство говорят о неслыханных ужасах и издевательствах над советскими людьми.</p>
+        <p>Мария А., насильно вывезенная в г. Гамбург из деревни Н. Поставского района пишет своей матери: «Мамочка, у меня нет даже надежды, что я доживу до встречи с вами, родные мои. Живем мы тут и работаем так, что скоро будем там, где наш Митя, дядя Антон (Антон и Дмитрий убиты немецкими оккупантами). В бараках, где мы живем, холодно и каждый день кто-нибудь да умирает. Нам выдают по 200 грамм хлеба и по литру водянистого супа. В других лагерях и бараках кормят и еще хуже».</p>
+        <p>Сергей Н. из деревни Черемышники Видзовского района, пишет своим товарищам: «Мы уже больше не увидимся с вами. Если вы попадете сюда, куда я попал, то считайте себя погибшими. Работать тут заставляют день и ночь, а кормят хуже собак». (Бюллетень «Сялянскай газеты» №8 март 1943 г.).</p>
+        <p/>
+        <p>[Л.9-11] Письма на белорусском языке.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

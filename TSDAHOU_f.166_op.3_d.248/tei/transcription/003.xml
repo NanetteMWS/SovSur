@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> ІІІ. Второй период оккупации: «Охрана» Лавры украинской полицией с августа 1942 года до 1 сентября 1943 г.</p>
+        <p>IV. Последние дни перед бегством оккупантов из Киеве с сентября по 6 ноября 1943 года.</p>
+        <p>I. Первые дни пребывания немцев в Киеве и Лавре с 19.ІХ по 15.Х-1941 г.</p>
+        <p>В первые дни немцы начинают посещать Лавру и ее музеи. Уже эти первые посещения носят характер робкого, но довольно нахального грабежа музеев и разрушения экспонатов передвижной скульптурной выставки в лаврской трапезе. Из отдела оружия Исторического Музея (здание бывшей типографии, корпус №8) немцы выкосят различные образцы оружия, особенно была разграблена витрина запорожского оружия. Кроме того, ночью опять таки производилось изъятие наиболее ценных образцов старинного оружия из замкнутого помещения.</p>
+        <p>В лаврской трапезе находилась передвижная выставка скульпторов Украины, началось с того, что посетители-немцы начали отбивать носы, уши, руки, а потом и совсем разбивать статуи, не делая различия между статуями советских вождей, писателей (Шевченко, Пушкин) и другими, например, работница с ребенком и т.п.</p>
+        <p>Служащие музеев в эти дни являлись на работу и пытались продолжать ее, так, в эти дни под руководством Н.Н. Черногубова переносились церковные облачения из здания у святых ворот в Успенский Собор. Н.Н. Черногубов, специалист </p>
+      </div>
+    </body>
+  </text>
+</TEI>

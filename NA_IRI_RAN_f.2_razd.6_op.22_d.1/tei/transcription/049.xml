@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.50" xml:space="default"/>
+        <p> 10-12 брюквы. Петр лег на брюкву, но уснуть не давал холод и сырость, а кроме того, и мягкость постели. Петр встал, чтобы пойти поискать лучшего ночлега. Он вышел на улицу. Шел мокрый снег. Тьма была непроглядная. Вдруг Петр наткнулся на какие-то бидоны, их было три. Петр заинтересовался ихним содержимым и тихонько открыл один из бидонов, крышка бидона легко поддалась. Какая была радость. В бидонах было чистое, хорошее молоко. Напившись от пуза, Петр решил использовать удобный случай. Прислушавшись, не идет ли кто, Петр перевернул все три бидона на землю, и молоко полилось по земле. Спать уже не хотелось. Перевертывание бидонов с молоком на землю увлекло Петра. Первые </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.21 оборот" xml:space="default"/>
+        <p> группа в одном с направлений (точно не помню, где) в ночное время пробралось через немецкую линию фронта к союзным частям.</p>
+        <p>Советские люди имели много превосходства, применяя хитрость при нужном и трудном времени. Во многих случаях нас не пускали свободно на прогулку в город. Но поляки и французы ходили побольше свободно. Мы, сбежав с лагеря, цепляли польский знак «Р» на грудь или же трехцветную французскую ленточку и ходили свободно.</p>
+        <p>Когда я ездил в Штафельштайн, перед посадкой в поезд заметил я, что за мной присматривается полицай. Я ожидал, что он должен сейчас подойти ко мне и проверить документы. Чтобы отвести от себя его подозрительность, я подошел к ему и спросил на чисто немецком языке: «Когда будет отходить поезд?» Он ответил и перестал подозревать, посчитав меня за немца.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

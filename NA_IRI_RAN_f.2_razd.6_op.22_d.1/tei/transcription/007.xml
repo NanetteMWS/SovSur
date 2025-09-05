@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Появился фашистский офицер, говоривший чисто по-русски. Начали делать обыск. Искали бритвы, у кого находили, того отводили в сторону и начиналось избиение. Били по чем попало. У Петра также была обнаружена бритва, которую ему передал один из товарищей, чтобы он ее перепрятал. Это заметил один из солдат и доложил офицеру. Как зверь, набросился фашистский гад на Петра и товарища, их били до потери сознания.</p>
+        <p>20-25 человек избитых товарищей, в том числе и Петра, посадили на подводы, ибо мы не могли, окровавленные и сильно избитые, идти в колонне.</p>
+        <p>В 4 или около 5 часов нас пригнали в Байдары. Есть все еще ничего не давали. Выстроив нас по 2 человека, стали вновь производить обыск. Обыск производили </p>
+      </div>
+    </body>
+  </text>
+</TEI>

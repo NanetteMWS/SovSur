@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000660">
+      <titleStmt>
+        <title>Стенограмма беседы с Пелагеей Киселевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 13а. Л. 1-3.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> Видно, что в нас стреляют, потому что никого, кроме нас, нет. Стреляли до тех пор, пока напотешились вдоволь. А мы все лежим. Многие упали, кого ранили. У меня девочку Нину ранили.</p>
+        <p>Когда эта стрельба кончились, они уходят. Говорим: «Ну, пойдемте теперь». У кого нет детишек, те побросали свои вещички, им легко, хорошо, а мы с детишками отстали от них.</p>
+        <p>У леса встречаются наши бойцы. Мы обрадовались: теперь не пропадем. У кого нет детишек, они бойко пошли с салазками к Костину, а мы отстали. Там такой ручеек есть. Я на горке успела переехать, а где Груша Бычкова на горке, смотрим – опять стрельба пошла из большой орудии. Мы ткнулись в кусточки, и в этот раз Грушу Бычкову и убили. Не дошла она до Костина с полкилометра. От нашей деревни Костино 3 километра. Но они скоро кончили эту стрельбу.</p>
+        <p>А вот у меня мать в это время отстала. Убили ли ее, замерзла ли, не могу сказать. Посмотреть потом мне не удалось, может быть, она и сейчас на поле.</p>
+        <p>Я сколько времени была в больнице и ничего не знаю.</p>
+        <p>А мужа Сергея Сергеевича Киселева погнали, когда стали отступать, и я ничего о нем не знаю, никакого слуху нет.</p>
+        <p>Приняла страдание, нечего сказать: целый месяц сама лежала в больнице, второй месяц лежат ребята в Завидове, а еще девочка, которая ранена, не знаю, где, ей 8 лет. Сейчас при мне трое ребят: две маленькие девочки – 3 года и 5 лет, мальчик 14 лет.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

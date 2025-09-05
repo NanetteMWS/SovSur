@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000625">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Соломоновым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 116. Л.150-155 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.155 оборот" xml:space="default"/>
+        <p>
+          <hi rendition="#i"> было малое, т.к. немцы полицейским выдают не более 15 шт. патрон на человека.</hi>
+        </p>
+        <hi rendition="#i"> было малое, т.к. немцы полицейским выдают не более 15 шт. патрон на человека.</hi>
+        <p>
+          <hi rendition="#i">7) Немцы завезли оттудова племенной скот.</hi>
+        </p>
+        <hi rendition="#i">7) Немцы завезли оттудова племенной скот.</hi>
+        <p>
+          <hi rendition="#i">8) Шла по дороге автомашина, груженная зерном, зерно везли в г. Минск.</hi>
+        </p>
+        <hi rendition="#i">8) Шла по дороге автомашина, груженная зерном, зерно везли в г. Минск.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

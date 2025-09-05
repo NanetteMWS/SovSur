@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Акт №3</p>
+        <p>О насилиях и зверствах фашистских извергов в селении Ушаково Бужарского сельсовета Истринского района. Время оккупации – начало 24 ноября 1941 г., конец – 17 декабря 1941 г. Составлен комиссией – Смирновым М.А.</p>
+        <p>От 19 января 1942 г.</p>
+        <p>Вступив в селение Ушаково, немецкие изверги выгнали все население из своих домов, разграбили их имущество, затем при отступлении от ударов Красной армии население селения Ушаково угнали в Мартюшино, где оно было отбито частями Красной армии. С 70-летнего старика Максимова С.И. немецкие изверги снял валенки и пустили босым, 60-летней старухе Ермаковой М.Ф. немец прострелили руку за то, что она пошла за водой. С 17-летнего Рискунова И.Н. сняли валенки и пустили по деревне босым, вследствие чего он отморозил ноги.</p>
+        <p>На что и составлен настоящий акт.</p>
+        <p>М. Смирнов, И. Рощин, Корсетов.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.14 оборот" xml:space="default"/>
+        <p>
+           немцы, как они издевались над ними. Их мучили голодом и тяжелой непосильной работой. Давали им по 200-300 г хлеба на сутки, варили гнилую брюкву, репу, картофель или 
+          <hi rendition="#s">лишь</hi>
+           листья с капусты. Девушки пухли с голода, изнемогали, но их продолжали все также гонять и издеваться над ними. На работу гоняли их под строгим конвоем, а в бараке они находились под надзором сторожа. На ночь их закрывали в барак, и дверь бралась на ключи, ставни все закрывались.
+        </p>
+        <hi rendition="#s">лишь</hi>
+         листья с капусты. Девушки пухли с голода, изнемогали, но их продолжали все также гонять и издеваться над ними. На работу гоняли их под строгим конвоем, а в бараке они находились под надзором сторожа. На ночь их закрывали в барак, и дверь бралась на ключи, ставни все закрывались.
+        <p>К осени выдали всем рабочую форму, деревяшки тяжелые и на грудь нацепили «OST». С лагеря никуда не выпускали. Потом лагерь обнесли высоким деревянным забором, а сверху и с боку – проволокой.</p>
+        <p>Нам тоже дали такую же рабочую форму, деревянные колодки и «OST». Потом </p>
+      </div>
+    </body>
+  </text>
+</TEI>

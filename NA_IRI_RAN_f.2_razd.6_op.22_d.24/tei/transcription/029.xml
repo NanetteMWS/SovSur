@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.16 оборот" xml:space="default"/>
+        <p> Він пам’ята аж до сьогодні</p>
+        <p>За те що до дівчат ходив</p>
+        <p>Відсидів місяць у холодній</p>
+        <p>І штраф… сто марок заплатив.</p>
+        <p/>
+        <p>Після такого прочухана,</p>
+        <p>Зовсім поганого кінця</p>
+        <p>Охота втратилась в Івана</p>
+        <p>Томить дівочії серця.</p>
+        <p/>
+        <p>Ходить до «Боша» він покинув,</p>
+        <p>Прокляв увесь жіночий рід.</p>
+        <p>Забув за Галю, Валентину.</p>
+        <p>До всіх холодний став, як лід.</p>
+        <p/>
+        <p>Із місяць з нього дивувались</p>
+        <p>Став, ніби інший чоловік.</p>
+        <p>А згодом із ним диво сталось:</p>
+        <p>Іван із табору утік.</p>
+        <p/>
+        <p>Куди подівся ти Іване?!</p>
+        <p>Живеш на світі ще, чи ні?</p>
+        <p>Не дав про себе невблаганний</p>
+        <p>Вірша докінчити мені.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p> нужно развернуть перевязочный пункт. При этом они сказали, что проделали путь в 2 тыс. километров и впервые увидели такой благоустроенный уголок, как Ясная Поляна, где все в целости, чисто и как они несколько раз повторили: «Зер шён». Вечером был занят дом Волконского под госпиталь. Заняли также все подсобные помещения – контору, столовую. Выселяют из квартиры Веру Ильиничну Сударкову и Марию Ивановну. Все это требовалось сделать так быстро, что при выселении никто не успел даже вынести вещи. Нашу квартиру они оставили в покое. Относительно дома-музея Толстого они успокоили нас, что занимать его они не будут, что он будет в полной сохранности и даже прикрепили на дверь надпись: «Вход воспрещается», а под этим подпись: майор такой-то. Получилось так, что на одной стороне двери висел декрет советского правительства, а на другой – немецкая надпись.</p>
+        <p>Немецкие офицеры стали издеваться над декретом, говорили, что это советская комедия, а свою бумагу велели повесить в рамку под стекло.</p>
+        <p/>
+        <p>
+          <hi rendition="#s">Щеголева Мария Ивановна. </hi>
+          <hi rendition="#s">В этот же вечер начала</hi>
+          <hi rendition="#s">сь по</hi>
+          <hi rendition="#s">гоня за курами. </hi>
+          <hi rendition="#s">В</hi>
+          <hi rendition="#s"> первый момент</hi>
+          <hi rendition="#s"> я даже не м</hi>
+          <hi rendition="#s">огла понять</hi>
+          <hi rendition="#s">, что они от нас требуют, потому что пло</hi>
+          <hi rendition="#s">хо знаю </hi>
+          <hi rendition="#s">немецкий язык. Я обратилась к одному </hi>
+          <hi rendition="#s">из офицеров на французском языке, и он на французском же языке объяснил мне, что им нужны куры. Я ответила ему, что мы не крестьяне, и кур у нас нет.</hi>
+        </p>
+        <hi rendition="#s">Щеголева Мария Ивановна. </hi>
+        <hi rendition="#s">В этот же вечер начала</hi>
+        <hi rendition="#s">сь по</hi>
+        <hi rendition="#s">гоня за курами. </hi>
+        <hi rendition="#s">В</hi>
+        <hi rendition="#s"> первый момент</hi>
+        <hi rendition="#s"> я даже не м</hi>
+        <hi rendition="#s">огла понять</hi>
+        <hi rendition="#s">, что они от нас требуют, потому что пло</hi>
+        <hi rendition="#s">хо знаю </hi>
+        <hi rendition="#s">немецкий язык. Я обратилась к одному </hi>
+        <hi rendition="#s">из офицеров на французском языке, и он на французском же языке объяснил мне, что им нужны куры. Я ответила ему, что мы не крестьяне, и кур у нас нет.</hi>
+        <p/>
+        <p>
+          Анна Ильинична Кандаурова. 
+          <hi rendition="#s">Они</hi>
+           
+          <hi rendition="#i">Немцы</hi>
+           начали гоняться за курами сотрудников музея, резать их одну за другой.
+        </p>
+        <hi rendition="#s">Они</hi>
+         
+        <hi rendition="#i">Немцы</hi>
+         начали гоняться за курами сотрудников музея, резать их одну за другой.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

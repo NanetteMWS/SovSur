@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000826">
+      <titleStmt>
+        <title>Стенограмма беседы с Верой Пономаревой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 54-59.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.58" xml:space="default"/>
+        <p> Наряду с украинскими ходили германские марки, оккупационные. Купюры были такие: 5 руб., 10 руб., 20 р., 50 руб. и 100 руб. Когда их обменивали, мелкие деньги по 5, по 10 руб. обменяли, а если были 30 руб., 50 руб., давали квитанции, что их приняли, но не обменивали. Обещали обменять через 2-3 года.</p>
+        <p>В декабре 1943 года они по этим квитанциям выдавали людям, которые сдавали не более 300 руб., у кого было более 300 руб., сказали, что потом выдадут.</p>
+        <p>
+          Кроме городской управы была биржа труда, которую у нас называли отдел труда (арбайт замт). Он подчинялся гебитскомиссару. Этот отдел труда выдавал хлебные карточки. Без отдела труда нельзя было поступить на работу. Если я прихожу в учреждение, там есть место, то учреждение пишет: прошу направить на работу работника такого. Отдел труда посылал 
+          <hi rendition="#i">рабочую силу</hi>
+           в Германию.
+        </p>
+        <hi rendition="#i">рабочую силу</hi>
+         в Германию.
+        <p>Участие городской управы заключалось в следующем: отдел труда говорит городской управе: нам нужно, чтобы были составлены списки граждан рождения 1926 года, заготовьте повестки и разнесите их.</p>
+        <p>
+          В извещении было указано, что вы обязаны явиться в такой-то час в отдел труда, и уже дальше действовал отдел труда. Отделом труда руководил немец, 
+          <hi rendition="#i">по </hi>
+          <hi rendition="#i">фамилии Раткине</hi>
+          , присланный из Германии. Мобилизованные из колхозов тоже являлись в отдел труда, и их отправляли поездом в Германию.
+        </p>
+        <hi rendition="#i">по </hi>
+        <hi rendition="#i">фамилии Раткине</hi>
+        , присланный из Германии. Мобилизованные из колхозов тоже являлись в отдел труда, и их отправляли поездом в Германию.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

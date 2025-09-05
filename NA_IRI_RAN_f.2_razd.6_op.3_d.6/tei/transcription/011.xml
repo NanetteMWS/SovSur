@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> Что происходило в нашем селе во время оккупации.</p>
+        <p>Когда к нам вступили в село фашисты, то тогда они начали отбирать скот. Мы только и слышали визг поросят, стали мычать коровы, овцы. Начали стрелять по курам, уткам и гусям. Потом начали по домам лазить, все отбирать, что попадется на глаза то отбирали.</p>
+        <p>
+          Наступила зима тогда они стали совсем злые что не удалось Москву окружить. Тогда начали стрелять людей. Вот у нас в селе произошел один случай зимой, вот приехали в село, 
+          <hi rendition="#s">вот</hi>
+           начали спрашивать, где Комолов дядя Андрей. Им не показывали, потом нашли и повели, потом 
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">е</hi>
+          му велели оборотиться к стене на огороде. Они ему выстрели раза четыре, через секунду он воляется на земле. За это 
+        </p>
+        <hi rendition="#s">вот</hi>
+         начали спрашивать, где Комолов дядя Андрей. Им не показывали, потом нашли и повели, потом 
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">е</hi>
+        му велели оборотиться к стене на огороде. Они ему выстрели раза четыре, через секунду он воляется на земле. За это 
+      </div>
+    </body>
+  </text>
+</TEI>

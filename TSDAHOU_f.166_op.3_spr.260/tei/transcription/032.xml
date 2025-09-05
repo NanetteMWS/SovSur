@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.116" xml:space="default"/>
+        <p> в кінці 1943 року та на початку 1944 року був розташований громадський табір втікачів з навколишніх сел. Жило тут 10-15 тис. населення під захистом партизан. Тут тече гарна питтєва вода. Люди були з своїм господарством, починаючи від корів і кінчаючі камнями-млинками для розмолу борошна. Ще були громадські табори в Поташному Ярі, в самому Холодному Ярі, Зубенковому і в урочищі Рябцевому. Цивільне населення просто в лісі будувало собі землянки й жили ховаючись від німців.</p>
+        <p>С. Буда існує з XVIII ст. До революції це були поміщицькі маєтки, а після революції переселенці з с. Мельники. В Буді був філіал колгоспу «Заповіт Ільїча», був селянський будинок, школа 4-х річка, були стайні колгоспні, вітряк повний зроблений колгоспом, було 52 господарства. До 1943 року існувала Буда, а в червні 18 числа німцями ліквідований хутір дочиста, все, що було живе, вбито, частину вивезено в Німеччину на каторгу. Спалено всі будинки. Підпал організовано Бехом – комендантом с. Медведівки. Це поганий, маленький німець з злими очима, некрасиве в ластовині обличчя, це потвора фашистська – блазень, з переляку завжди стріляв, а лякатися йому було кого. … німці і поліцаї взяли 5 машин змолотили хліб і забрали на Чоловківку й до себе в пункти.</p>
+        <p>[Л.117-118 – повтор тексту]</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

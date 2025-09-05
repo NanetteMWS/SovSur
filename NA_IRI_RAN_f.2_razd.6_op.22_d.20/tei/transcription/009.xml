@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.5 оборот" xml:space="default"/>
+        <p> супу (это была вода, где было кой-где кусочек брюквы или же моркови), вечером – прежняя порция хлеба, кофе, 2-3 картошки или же кусочек сваренной крови.</p>
+        <p>Миллионы народа испытали здесь варварское издевательство, голод, вшей, клопов и прочее.</p>
+        <p>Через 12 дней небольшую группу с нас (в количестве 57 человек), куда попал и я, отправили к работе в другой лагерь, за 28 км от Нюрнберга в г. Ротх.</p>
+        <p>Жизнь мало чем отразнялась от вышеописанной. Немножко было улучшено питание, ибо при вышеописанном питании даже тяжело было держаться на ногах. Жили мы в одном маленьком бараке, который был огорожен колючей проволокой и охранялся 7 полицаями и одной собакой.</p>
+        <p>Работать пришлось на железной дороге в радиусе 30-40 км (от лагеря) – справлять старую и прокладать новую путь. Шпалы, рельсы, лопатки, грабли и кирки </p>
+      </div>
+    </body>
+  </text>
+</TEI>

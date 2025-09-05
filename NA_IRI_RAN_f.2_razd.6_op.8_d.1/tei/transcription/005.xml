@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p> В лазарете погибали сотнями: от ранений, голода и холода. Канцелярия лазарета не успевала вести учет померших, а кровожадный хирург, который все время ходил плеткой или палкой – Фрюхте, – не успевал анатомировать и повышать свой опыт на истощенных мертвецов, наших отцов и братьев.</p>
+        <p>Среди погибших знаю выдающегося доцента Киевской клиники т. Дейч, прекрасного молодого хирурга – москвича т. Димитриева, которые все силы положили для лечения раненных, и сами погибли от тифа, организм их истощенный от пережитого в концлагере не сумел бороться с этой болезнью, и ряд других прекрасных людей погибло в этом проклятом плену.</p>
+        <p>Умирая, в бреду т. Дейч не переставал звать на помощь своего друга Пугачева, призывая идти громить немцев, неоднократно повторяя «мы им отомстим за наших братьев, сестер за нашу родину». Из слов можно было понять, что это </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p> превозмогая боль раненой ноги, с мучительной гримасой на лице, на котором выступал холодный пот, старался не отстать от колонны. Здоровые товарищи, его по временам поддерживали, твердя при этом: «Держись товарищ, а то пропадешь!» И Петр вынужден был держаться. Но что ему это стоило!? Взгляд его был туманен, голова кружилась. Петр явно слабел, тогда кто-нибудь из товарищей его поддерживал. Наконец, пришли в Батраки. Петру забинтовали ногу.</p>
+        <p>Переночевав в Батраках одну ночь, нас рано утром погнали в Байдары. По дороге нам сделали привал. Согнав нас с дороги, в сторону леса на 15-20 метров вниз, где нас заставили сесть. Кто поднимался, тот получал удар палки или кулака.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

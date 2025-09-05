@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000885">
+      <titleStmt>
+        <title>Стенограмма беседы с Василием Талашем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 120. Л. 94-96 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.96 оборот" xml:space="default"/>
+        <p> дорогу и перервать ту железную дорогу, которая идет из Житомира на Брест-Литовок. Самые важные эти две дороги перервать.</p>
+        <p>Отобрали у меня германцы орден «Красного знамени». Я получил этот орден за партизанскую работу во время гражданской войны.</p>
+        <p>Я был на приеме у всех, кто заведует партизанскими отрядами – у Пономаренко был. У Ворошилова не был. Я ходил к Михаилу Ивановичу Калинину. Сталина хотел побачить.</p>
+        <p>В партизанском отряде с октября-ноября 1942 года. Хочу обратно поехать и отдохнуть. Теперь самое хорошее время для работы. Коли бы перервать эти железные дороги. Они бы кинулись утикать, да некуда, а ни продуктов, а ни снарядов, а ни поддержки ни якой.</p>
+        <p>Где я не был, везде меня знают. Дают мяса для партизан, все дают люди.</p>
+        <p>Говорил, что надо защищать свою родную землю, напитывал народ духом. Там все говорили, что мы за дедом Талашем все пойдем. Там все меня знают. Там партизан много, хотя бы четыре орудия нам дали.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

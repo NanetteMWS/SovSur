@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.37" xml:space="default"/>
+        <p>
+           Что было во время оккупации. 10 ноября 
+          <hi rendition="#i">П</hi>
+          ришл
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">а</hi>
+          <hi rendition="#i"> </hi>
+          немецк
+          <hi rendition="#s">ии</hi>
+          <hi rendition="#i">ая</hi>
+           оккупац
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">и</hi>
+          я. Тут началось грабеж. Немцы начали лазит
+          <hi rendition="#i">ь</hi>
+           по амбарам, начали по домам шкодить. У моей мамы сняли первые сапоги. Немного прошло время, приходит немец, на маму говорит «матка», махает рукой. Мы плакать. Мама повела его к старосте, немец не идет. Другой недалеко шел немец, подозвал его, немец подходит к маме, вытаскивает кинжал, наставляет, мама не отдает, маму сажают на снег и снимают валенки. 
+        </p>
+        <hi rendition="#i">П</hi>
+        ришл
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">а</hi>
+        <hi rendition="#i"> </hi>
+        немецк
+        <hi rendition="#s">ии</hi>
+        <hi rendition="#i">ая</hi>
+         оккупац
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">и</hi>
+        я. Тут началось грабеж. Немцы начали лазит
+        <hi rendition="#i">ь</hi>
+         по амбарам, начали по домам шкодить. У моей мамы сняли первые сапоги. Немного прошло время, приходит немец, на маму говорит «матка», махает рукой. Мы плакать. Мама повела его к старосте, немец не идет. Другой недалеко шел немец, подозвал его, немец подходит к маме, вытаскивает кинжал, наставляет, мама не отдает, маму сажают на снег и снимают валенки. 
+      </div>
+    </body>
+  </text>
+</TEI>

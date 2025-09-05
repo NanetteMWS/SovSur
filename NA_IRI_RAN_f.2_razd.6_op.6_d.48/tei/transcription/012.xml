@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.12" xml:space="default"/>
+        <p> На ХIV пленуме Обкома стоял вопрос о создании собственной продовольственной базы. Здесь речь идет о создании, в первую очередь, овощной и картофельной базы.</p>
+        <p>У вас такие возможности в области налицо, и мы поставили перед собой задачу, нас в этом поддержало республиканское правительство и ЦК Украины, чтобы мы овощей в этом году на каждого трудящегося вырастили и дали больше, чем до войны. Сейчас в этом направлении ведется большая систематическая работа. По этому плану приходится по тонне овощей на человека. Трудно в этом вопросе с семенами лука и чеснока, но все же семена мы достанем. Нам в этом отношении помогает Казахстан, понемногу прибывают семена лука и чеснока. Также помогают нам колхозы и районы Тульской области.</p>
+        <p>Второй вопрос, который стоял на ХIV-м пленуме обкома партии, – это вопрос о состоянии агитационно-массовой работе в Харьковской области.</p>
+        <p>По вопросу печати. Харьковская областная газета и городская «Соц. Харківщина», вышла 24 августа 1943 г. в городе Харькове. Возглавляет эту газету редактор тов. Хижняк. Он молодец, вошел в город с войсками и сумел издать газету.</p>
+        <p>Почти во всех районах области выпускаются районные газеты. Тираж газет до войны …, сейчас …</p>
+        <p>Возобновили свою деятельность заводские многотиражки. На заводе №75, на ХТЗ работают многотиражки. В отношении стенгазет был проявлен большой энтузиазм со </p>
+      </div>
+    </body>
+  </text>
+</TEI>

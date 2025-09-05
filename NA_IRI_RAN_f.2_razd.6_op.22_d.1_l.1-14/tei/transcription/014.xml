@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> Я – Варвара Михайловна Корпал. Жительница Черниговской обл., г. Бахмач, село Бахмач 2.</p>
+        <p>На территории противника в Саксонии г. Werdau, Crimminschau, Zwickau я со своими друзьями, 19 человек, которых подаю адресы, являлись непосредственно участниками в Европейской организации антифашистов (Е.О.А.), Центроргбюро, которой находился на территории Чехословакии в городе Прага. Приказы, подписанные генералом-лейтенантом, командующим вооруженными силами в тылу («Простой»), получали от т. Моисеенка – по словам, будучий украинский писатель.</p>
+        <p>Все материалы были адресованы на Лебедеву Ольгу Петровну цифренной таблицей, которая при нашей разлуке в г. Франкенберг, увезена ею и другая часть документов.</p>
+        <p>Наша организация, работающая, под приказами Е.О.А., имела название «Воля», центр которой складался:</p>
+        <p>Подопригора А.В. – главный</p>
+        <p>Тысенко М.Л.</p>
+        <p>Фаудин А.</p>
+        <p>Через товарищей Подопригора и Фаудин имели связь с немецкой подпольной компартией, руководил которой заместитель Тельмана т. Непске. – Саксония, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000772">
+      <titleStmt>
+        <title>Стенограмма беседы с Хасей Пруслиной</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 26.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> Ефим вышел из гетто в июле месяце, жил у русской женщины Маруси. Она часто по его заданию ходила в гетто. Наденет латы и пойдет. Ефим скрывался на площади Свободы, где было гестапо. Невский боялся идти к Ефиму. Ефим мне рассказывал, что Невский пришел к нему. Я говорю: «Что тебе нужно?». Говорит: «Мне нужно начать массовые диверсии во всем городе и, во-вторых, вывести всех евреев в партизанские отряды, они умирают, как скоты». А насчет ухода в партизаны он поставил передо мною задачу еще весной 1942 г., но оружия не было.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

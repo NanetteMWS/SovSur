@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p/>
+        <p>Стенограмма репатриированной граж. Селинчук Татьяны Макаровны, уроженки с. Соличевска Рыбкинского р-на, Черниговской области, насильно угнанной в немецкую каторгу и освобожденной Красной армией после разгрома гитлеровской Германии. Проживающ. в г. Киеве, ул. Франка 9/24 Паспорт 1ГК №510727</p>
+        <p/>
+        <p>В Киеве я жила с 1925 года. Работала в столовой НКВД официанткой. Во время эвакуации города выехать не могла и осталась в Киеве.</p>
+        <p>С первого дня оккупации поступила ночным сторожем в дом, где жила (Дмитриевская 62). Плату получала от жильцов. Управление давало только хлеб один раз в неделю.</p>
+        <p>Так работала 6 месяцев.</p>
+        <p>Когда началась мобилизация в Германию – управдом назначил мою сестру, которую на комиссии забраковали по болезни, тогда вместо нее назначили меня. Я все время скрывалась, но управдом приходил ежедневно в 4-5 час. утра, чтобы захватить меня дома.</p>
+        <p>Однажды дворник привела его через парадную дверь, а я ушла на черный ход, там через чердак и другую квартиру ушла на улицу.</p>
+        <p>Так продолжалось несколько раз. Наконец последний раз меня застали в 4 часа утра дома и сказали, чтобы я тут же при них собиралась к отъезду.</p>
+        <p>
+          Я вынуждена была собраться. Меня привели и сдали на сборный пункт (Львовская 
+          <hi rendition="#i">24</hi>
+          ), где я увидела тысячи народа. 
+        </p>
+        <hi rendition="#i">24</hi>
+        ), где я увидела тысячи народа. 
+      </div>
+    </body>
+  </text>
+</TEI>

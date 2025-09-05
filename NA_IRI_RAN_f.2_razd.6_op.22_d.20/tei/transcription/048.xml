@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.25" xml:space="default"/>
+        <p> сводок Совинформбюро и других данных о происходящих событиях. Для этого выпускались разных типов листовки, обращения и краткие сообщения. Прочитав или же услышав об этом, один, он передавал другому. Сообщение летело с лагеря в лагерь, с города в город.</p>
+        <p>Однажды нашей организации попалась красноармейская газета «Доброволец» от 1-го мая 1944 г., где был напечатан приказ Верховного Главнокомандующего Маршала Советского Союза И.В. Сталина от 1 мая этого ж года.</p>
+        <p>Не могу описать, но Вы можете представить себе, какое переживание имел я при чтении этого приказа. Какая это радость советскому гражданину, находящемуся далеко за рубежом родной земли (в германской неволе) почитать приказ любимого вождя и учителя И.В. Сталина! Верховного Главнокомандующего Маршала Советского Союза!</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

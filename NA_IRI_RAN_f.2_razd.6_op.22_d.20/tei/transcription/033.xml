@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.17 оборот" xml:space="default"/>
+        <p> Так, в одном небольшом лагере в г. Нюрнберге, во время вспыхнувшей забастовки, были сбиты полицаи. Восставшие отказались от работы и пищи. Впоследствии все с лагеря были сосланы в штрафной лагерь на несколько месяцев.</p>
+        <p>В этих лагерях они испытали неслыханные пытки варварского издевательства. Тысячи лучших патриотов погибло в их. Не вправляясь копать ямы, их прикидывали землей и мусором у воронках, образовавших после взрывов бомб. Те, что выходили с этого лагеря, были живыми мертвецами. Но их ничто не устрашало, они сильнее продолжали сопротивляться своим поработителям.</p>
+        <p>Увидев такого человека, услышав его рассказы, у каждого появлялось сильнейшая ненависть и презрение к поработителям, каждый искал путь, которым можно было начать борьбу.</p>
+        <p>В конце лета 1943 г. в Нюрнберге во время </p>
+      </div>
+    </body>
+  </text>
+</TEI>

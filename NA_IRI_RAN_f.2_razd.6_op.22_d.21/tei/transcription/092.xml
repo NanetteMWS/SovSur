@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.47" xml:space="default"/>
+        <p> боли в глазах потемнеет, тогда Дуся набрасывается на нее со всей яростью и уводит меня в постель. </p>
+        <p>Итак, по окончании работы мы бежали вечером, другой раз так темно, грязно, а мы по проселочной дорожке, тропинками по лесу обойдем, обежим, и нам ничуть не страшно было, и я Анне Бушлатовой, а к ней подойдет еще Рая, и мы все четверо выйдем на дорогу, подойдем к лесу, все надеялись встретить их, тех ребят. Анна рассказывала, что один из них заходил как-то днем в имение, где мы работали, и разговаривал с русской девушкой, но ничего не понял, что она собой представляет, она так гордо себя держала. И действительно, если он был в форме немецкого солдата, а немцев тогда много шаталось, и говорил по-немецки, то ни я, ни Дуся не стали бы с ним разговаривать, не зная его. «О чем можно было говорить с немцем?»</p>
+        <p>Вечером начинается тревога, мы бросаем </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000976">
+      <titleStmt>
+        <title>Стенограмма беседы с Лидией Вальковой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 16.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p/>
+        <p>– Где ваше оружие, есть ли ковры и взрывчатые вещества.</p>
+        <p>В комнате стояла большая корзина. Я не знала, что в ней картошка. Он спрашивает:</p>
+        <p>– Де чоловик?</p>
+        <p>– Муж хозяйки в армии.</p>
+        <p>– Так шо, вин и доси воюе.</p>
+        <p>Я говорю, что нет известий, и все. </p>
+        <p>Он спрашивает:</p>
+        <p>– Що в ций великий корзини.</p>
+        <p>Я говорю:</p>
+        <p>– Может быть, грязное белье.</p>
+        <p>– А чому воно таке важке.</p>
+        <p>– Посмотрите.</p>
+        <p>Он посмотрел, там был керосин (четыре литра). И он написал, что найдено «в великий килькости вибухови речовини». </p>
+        <p>Комендант стал присылать полицейских, которые нас буквально терроризировали. Вызвали меня и хозяйку на Сумскую 100 в полицию. Сидит полицейский, тут же секретари, все по-украински объясняются. Полицейский докладывает, что это граждане с Сумской 33. «Вы не подчиняетесь правилам, на вас было много заявлений, что вы евреев прячете. Вы хотите сидеть в холодной».</p>
+        <p>Я, правда, не поддавалась, мне было как-то все равно, что будет. Я резко отвечала, и когда я выходила, он сказал полицейскому:</p>
+        <p>– Визьми ии на облик.</p>
+        <p>Но моя хозяйка – простая женщина, смогла купить полицейского. Когда заходил полицейский, она начинала говорить: «Хорошо, что вы ходите, а то мы две женщины, одинокие». Она, бывало, привезет из деревни картошки, наварит, накормит и приручила его. Он ходил, но обыска не делал, спрашивал нас, не знаем ли мы, где хорошие вещи, богатые квартиры.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">18/</hi>
+          <hi rendition="#i">III</hi>
+          <hi rendition="#i"> 44.</hi>
+        </p>
+        <hi rendition="#i">18/</hi>
+        <hi rendition="#i">III</hi>
+        <hi rendition="#i"> 44.</hi>
+        <p>
+          <hi rendition="#i">Валькова</hi>
+        </p>
+        <hi rendition="#i">Валькова</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

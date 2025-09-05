@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.80" xml:space="default"/>
+        <p/>
+        <p>Виписки з щоденника громадянина села Мельники Чигиринського району, Кіровоградської області</p>
+        <p>Мироненка Арсенія Івановича (х)</p>
+        <p>((х) Арсеній Іванович Мироненко – 60 річний постійний мешканець села Мельники, жив в селі в часи німецької окупації, і як спостерігач подій вів щоденник. Мироненко сільський активіст, секретар сільради, освіту має н/середню.)</p>
+        <p/>
+        <p>1943 рік.</p>
+        <p>14 лютого – неділя. Ярмарок в Медведивці. Сонце і хмари біжать з півдня, почав вітер південно-західний від Головкового садка. Ярмарок був поганий. На все стала погана дорожнеча: барахло – піджак з 7 і 9 до 10 тисяч, а полотно селянське 200 карб. аршин.</p>
+        <p>21 лютого – неділя. До обіду день ясний, а потім почали набігати круті хмари, вітер з південного заходу. В Головківці не будо на базарі нічого, ніхто не хотів грошей брать нізащо, а всі мінять на сіль і на інші речі.</p>
+        <p>22 лютого. День ясний. Німці гнали табуни худоби і лошат із Головківки за Смілу. Вперше появився жайворонок.</p>
+        <p>26 лютого. Базар в Медведивці, ніхто грошей не брав.</p>
+        <p>3 березня – середа. Вночі і зранку пішов дощ з великими сніжинками, вітер великий з западу, а з 12 г. дня великі снігові бурани. Коло Кресельця (3) німці стріляли з кулеметів і гвинтівок по партизанах і убили під партизанами коня.</p>
+        <p>5 березня, п’ятниця. Ранком з проблеском сонця вітер невеликий і північний холод. Вечером орудійна стрільба з Куликівки на ліс.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

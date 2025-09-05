@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.133" xml:space="default"/>
+        <p> они все навзрыд плакали, и женщины, и мужчины. Юбка к вечеру мне была готова.</p>
+        <p>Через несколько дней приехал гебитскомиссар из Казатине и приказал всех евреев расстрелять, оставить только три лучших мастера. Их всех на наших глазах повели и тут же расстреляли, что мы все видели.</p>
+        <p>Потом вместе с театром переехали в Казатин. Я работала в театре кем только приходилось: и артисткой, и администратором, и кассиром. Конферировала на немецком языке, что меня заставлял наш директор Прихненко. Я просила его не выпускать меня конферировать перед немцами, так как я могла случайно не то сказать и меня тут же расстреляют. Но он мне отвечал: «Вспомните о вашем прошлом».</p>
+        <p>Мое прошлое заключалось в том, что я родилась в еврейской семье, он об этом знал.</p>
+        <p>
+          Так я перестрадала до прихода Красной армии, т.е. до 28-го декабря 1943 года. Под бомбежкой добралась 
+          <hi rendition="#i">до</hi>
+           Киев
+          <hi rendition="#i">а</hi>
+          . Единственная мысль была у меня – может быть я что-нибудь узнаю о детях. В Киеве мне сразу сказали, что дочь моя была направлена в детдом, о сыне я ничего не могла узнать.
+        </p>
+        <hi rendition="#i">до</hi>
+         Киев
+        <hi rendition="#i">а</hi>
+        . Единственная мысль была у меня – может быть я что-нибудь узнаю о детях. В Киеве мне сразу сказали, что дочь моя была направлена в детдом, о сыне я ничего не могла узнать.
+        <p>Я ходила из детдома в детдом, ходила везде и всюду, где только могла. Потом мне сказали, что детей, которые находились там, где моя дочь, расстреляли. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

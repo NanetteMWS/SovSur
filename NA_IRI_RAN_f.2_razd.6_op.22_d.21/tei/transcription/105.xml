@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.53 оборот" xml:space="default"/>
+        <p> жизни, которой мы жили в то время. Те годы, годы каторжной, подневольной жизни, мы считали потерянными годами. Мы мечтали о будущем, мы твердо верили в победу нашего народа, в победу нашего государства. Если Мария вырывалась с лагеря, она прибегала к нам, где чувствовала домашний уют. </p>
+        <p>Тяжелая непривычная работа, кабальные условия жизни отразились на моем здоровье. Еще с первых дней моей изнурительной работы, у меня было сильное заболевание глаз. Лечить было негде и некогда. Хозяйка не обращала никакого внимания, заставляла меня с больными глазами выходить на работу и когда я с обвязанными глазами выходила и то и дело спотыкалась, натыкалась на все домашние предметы, хозяйка сидела, глядела на меня, посмеивалась и покрикивала «mach doch schnelle!» Спустя несколько времени, у меня на левой кисти руки образовалась </p>
+      </div>
+    </body>
+  </text>
+</TEI>

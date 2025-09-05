@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.20" xml:space="default"/>
+        <p> говорить, что «я не поняла, как было сказано», но она ведь знала все, и знала, что мы стараемся только навредить своей работой. Она усилила надзор над нами, но все равно мы старались делать по-своему.</p>
+        <p>Другой раз сбежимся с Дусей и говорим по-русски, ругаем их, а они злятся, что не могут понять того, о чем мы говорим. Мы всегда себе твердили: «Зачем мы должны хорошо работать и слушать хозяйку? Что она, наша мать, что ли, или эта наша работа пойдет в пользу государства нашего народа? Пусть немцы работают сами, а мы будем вредить». Одно нас спасало только – то, что мы жили не в одном дому с хозяйкой и даже не в одном дворе. Тот громаднейший дом, внизу которого в комнатке поселились мы, стоял отдельно в метрах полторастах от дома, где жила хозяйка. Поэтому мы вечером спешили всегда быстрее закончить работу, прийти домой, а поздно </p>
+      </div>
+    </body>
+  </text>
+</TEI>

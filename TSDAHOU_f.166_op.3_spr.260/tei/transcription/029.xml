@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.94 оборот" xml:space="default"/>
+        <p> 49) Микита Мироненко – старий дід 58 років із села Мельників.</p>
+        <p>50) Німці з переляку перед партизанами били безцільно по селу, щоб знищити село. З села ніхто німцям не відповідав, а партизани в той час держали оборону в лісі.</p>
+        <p>51) Німці вбивали всіх, кого заставали в хаті. Брозалій Володимир молодий хлопець, був в партизанах, а тепер в рядах Червоної армії.</p>
+        <p>52) Сус… – вуличне прозвище. Спалили хату у Васюри Яхима, Дюбенко Теклі і ін.</p>
+        <p>53) Пилипась Михайло звичайний селянин з села Мельники.</p>
+        <p>54) Вірка – це жінка Токоленкова Віра. Хата її спалена, а дочок побили коло хати Бразаліївої Юлі.</p>
+        <p>55) Ливадки – урочище степу в Мельниках.</p>
+        <p>56) Корита – урочище в лісі, раніше дача Мотронівського монастиря біля Бойкового яру.</p>
+        <p>57) Мікола Пилип – звичайний селянин, віз свою дочку Марію поранену німцями на перв’язку до партизанів.</p>
+        <p>[Л.95-114 – повтор матеріалу]</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

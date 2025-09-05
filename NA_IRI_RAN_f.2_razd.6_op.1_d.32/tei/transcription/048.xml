@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.44" xml:space="default"/>
+        <p> и 4000 животноводческих колхозных построек.</p>
+        <p>Х. Дальнейшие задачи восстановления определены т. Черноусовым и т. Щербаковым в упомянутых выступлениях так:</p>
+        <p>1) В 1945 г. довести посевные площади в освобожденных районах до довоенного уровня. Значительно повысить урожайность и увеличить валовой сбор сельскохозяйственных культур.</p>
+        <p>2) В 1944 г. довести поголовье крупного рогатого скота, овец, свиней и птицы по каждому району до довоенного уровня и организовать по 3 жив. и 1 птицев. фермы в каждом колхозе.</p>
+        <p>3) В 1944 г. в основном закончить восстановление разрушенных домов колхозников и общественных построек колхозов.</p>
+        <p>Следовательно, восстановление с/х-ва в Моск. области должно пройти в 2-3 года.</p>
+        <p>
+          Если вспомнить что с/х после имп. и гражд. войны 
+          <hi rendition="#s">сельское х-во </hi>
+          <hi rendition="#s">правда отсталое х-во</hi>
+          <hi rendition="#s"> </hi>
+        </p>
+        <hi rendition="#s">сельское х-во </hi>
+        <hi rendition="#s">правда отсталое х-во</hi>
+        <hi rendition="#s"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

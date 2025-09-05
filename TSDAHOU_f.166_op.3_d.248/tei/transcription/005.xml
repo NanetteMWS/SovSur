@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> появилось объявление, подписанное шефом полиции, предписывающее поголовное выселение всех ее жителей. При наступлении зимы в очень короткий срок без предоставления каких-либо транспортных средств было выселено из территории верхней Лавры около тысячи человек, лишившегося благодаря этому большей частью своего скудного имущества. С этого момента Лавра была закрыта для всех и занята немецкой полицией. Под покровом великой тайны работала в Лавре полиция; но нет ничего тайного, что не стало бы явным. И результат этой работы у нас у всех на глазах.</p>
+        <p>Начало «охраны» Лавры немецкой полицией ознаменовалось убийством директора музейного заповедника тов. Шеверницкого. Его труп, прикрытый мусором и кирпичом, был найден через несколько дней после убийства (27-28 октября) на месте взрыва опорной стены на дороге от Успенского Собора к спуску к пещерам. Жена Шеверницкого ходатайствовала о выдаче трупа для похорон, но разрешения не получила. И до сих пор неизвестно место, где немцы его похоронили. Объяснить причины убийства Шеверницкого не представляется возможным; быть может, его подозревали в принадлежности его к коммунистической партии.</p>
+        <p>Наивысшего апогея «работа» немецкий полиции достигла 3-го ноября 1941 года, когда был взорван Успенский Собор – наибольшая святыня Лавры. Рано утром 3-го ноября немецкие жандармы выселили не только всех жильцов Лавры (нижней), а и кварталов, прилегающих к Лавре, до спуска </p>
+      </div>
+    </body>
+  </text>
+</TEI>

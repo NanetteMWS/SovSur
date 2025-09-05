@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000570">
+      <titleStmt>
+        <title>Стенограма бесіди з Михайлом Вовком</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 2. Спр. 219.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.21" xml:space="default"/>
+        <p>
+           щоб затерти за собою сліди, гестапівці вбивали цих посередників. Таким чином загинув майже мільйонер Щудрак, також загинув Фірля, 
+          <hi rendition="#i">фабрикант косметики</hi>
+          . Гестапівці їх забили, щоб не було ніяких слідів, тому що через них євреї купували документи.
+        </p>
+        <hi rendition="#i">фабрикант косметики</hi>
+        . Гестапівці їх забили, щоб не було ніяких слідів, тому що через них євреї купували документи.
+        <p>
+          <hi rendition="#i">Моральний розклад гітлерівців йшов від</hi>
+          <hi rendition="#i"> гори. Губернатора Галичини</hi>
+          <hi rendition="#i"> розстріляли за це, що він накладав на євреїв контрибуції, які забирав собі.</hi>
+        </p>
+        <hi rendition="#i">Моральний розклад гітлерівців йшов від</hi>
+        <hi rendition="#i"> гори. Губернатора Галичини</hi>
+        <hi rendition="#i"> розстріляли за це, що він накладав на євреїв контрибуції, які забирав собі.</hi>
+        <p>
+          Стан інтелігенції. Учителі мали 
+          <hi rendition="#i">низьку</hi>
+           платню і були в своїй роботі ограничені. Професори вищих шкіл взагалі не могли бути вдоволені, бо ніяких вищих шкіл не було. У Львові було дві гімназії. Сітка середніх шкіл значно скоротилась. Польських 
+          <hi rendition="#i">середніх</hi>
+           шкіл не було зовсім, а українських було дві 
+          <hi rendition="#i">укр</hi>
+          <hi rendition="#i">.</hi>
+           гімназії. Щодо народних, нижчих шкіл, то їх було 6-8. Щодо вищих шкіл, то 
+          <hi rendition="#s">тут</hi>
+           
+          <hi rendition="#i">замість них</hi>
+           були тільки медичні і політехнічні курси. Університет не існував. В університеті зробили якийсь німецький суд, а в другому університеті зробили станцію виробів вакцини проти тифу. Ось, наприклад, професор Кордуба, історик, повинен був працювати в Народній Торгівлі в головній канцелярії.
+        </p>
+        <hi rendition="#i">низьку</hi>
+         платню і були в своїй роботі ограничені. Професори вищих шкіл взагалі не могли бути вдоволені, бо ніяких вищих шкіл не було. У Львові було дві гімназії. Сітка середніх шкіл значно скоротилась. Польських 
+        <hi rendition="#i">середніх</hi>
+         шкіл не було зовсім, а українських було дві 
+        <hi rendition="#i">укр</hi>
+        <hi rendition="#i">.</hi>
+         гімназії. Щодо народних, нижчих шкіл, то їх було 6-8. Щодо вищих шкіл, то 
+        <hi rendition="#s">тут</hi>
+         
+        <hi rendition="#i">замість них</hi>
+         були тільки медичні і політехнічні курси. Університет не існував. В університеті зробили якийсь німецький суд, а в другому університеті зробили станцію виробів вакцини проти тифу. Ось, наприклад, професор Кордуба, історик, повинен був працювати в Народній Торгівлі в головній канцелярії.
+        <p>
+          Всі професори і учителі, а також трудова інтелігенція зараз же побачили різницю між радянською і німецькою владою і тут у 
+          <hi rendition="#s">них</hi>
+           
+          <hi rendition="#i">тих, що надіялись на німців,</hi>
+           наступило заломання.
+        </p>
+        <hi rendition="#s">них</hi>
+         
+        <hi rendition="#i">тих, що надіялись на німців,</hi>
+         наступило заломання.
+        <p>
+          Таке саме було з театром: радянська влада дбала про театр. Але за часів німецької влади інтелігенція побачила ставлення німців до 
+          <hi rendition="#i">укр</hi>
+          <hi rendition="#i">.</hi>
+           театрів. Так що 
+          <hi rendition="#s">від</hi>
+           
+          <hi rendition="#i">і</hi>
+           професор
+          <hi rendition="#s">ів</hi>
+          <hi rendition="#i">и</hi>
+          , 
+          <hi rendition="#s">до</hi>
+           
+          <hi rendition="#i">і</hi>
+           художник
+          <hi rendition="#s">ів</hi>
+          <hi rendition="#i">и</hi>
+           
+          <hi rendition="#s">наступило моральне </hi>
+          <hi rendition="#s">заломання</hi>
+           
+          <hi rendition="#i">побачили, що втратили з відходом Червоної </hi>
+          <hi rendition="#i">а</hi>
+          <hi rendition="#i">рмії</hi>
+          .
+        </p>
+        <hi rendition="#i">укр</hi>
+        <hi rendition="#i">.</hi>
+         театрів. Так що 
+        <hi rendition="#s">від</hi>
+         
+        <hi rendition="#i">і</hi>
+         професор
+        <hi rendition="#s">ів</hi>
+        <hi rendition="#i">и</hi>
+        , 
+        <hi rendition="#s">до</hi>
+         
+        <hi rendition="#i">і</hi>
+         художник
+        <hi rendition="#s">ів</hi>
+        <hi rendition="#i">и</hi>
+         
+        <hi rendition="#s">наступило моральне </hi>
+        <hi rendition="#s">заломання</hi>
+         
+        <hi rendition="#i">побачили, що втратили з відходом Червоної </hi>
+        <hi rendition="#i">а</hi>
+        <hi rendition="#i">рмії</hi>
+        .
+        <p>
+          <hi rendition="#i">З поміж інтелігенції</hi>
+           
+          <hi rendition="#s">З</hi>
+           німцями 
+          <hi rendition="#i">відкрито</hi>
+           мирились 
+          <hi rendition="#i">к</hi>
+          <hi rendition="#i">убійовичівці</hi>
+          <hi rendition="#i"> і</hi>
+           мельниківці, 
+          <hi rendition="#s">котрі становили</hi>
+           
+          <hi rendition="#i">Це була</hi>
+           перекупну частин
+          <hi rendition="#s">у</hi>
+          <hi rendition="#i">а</hi>
+          , 
+          <hi rendition="#s">котру</hi>
+           
+          <hi rendition="#i">яку</hi>
+           можна було купити. Але всі чесні люди не мали з німцями нічого спільного.
+        </p>
+        <hi rendition="#i">З поміж інтелігенції</hi>
+         
+        <hi rendition="#s">З</hi>
+         німцями 
+        <hi rendition="#i">відкрито</hi>
+         мирились 
+        <hi rendition="#i">к</hi>
+        <hi rendition="#i">убійовичівці</hi>
+        <hi rendition="#i"> і</hi>
+         мельниківці, 
+        <hi rendition="#s">котрі становили</hi>
+         
+        <hi rendition="#i">Це була</hi>
+         перекупну частин
+        <hi rendition="#s">у</hi>
+        <hi rendition="#i">а</hi>
+        , 
+        <hi rendition="#s">котру</hi>
+         
+        <hi rendition="#i">яку</hi>
+         можна було купити. Але всі чесні люди не мали з німцями нічого спільного.
+        <p>
+          Українські націоналісти з табору 
+          <hi rendition="#s">мельниківців</hi>
+           
+          <hi rendition="#i">Кубійовича і Мельника</hi>
+           широкого впливу між населенням не мали. Навколо них збиралися ті елементи з населення, які перш за все ставили на перше місце свої шкурні інтереси, а не громадські. Це були деморалізовані 
+        </p>
+        <hi rendition="#s">мельниківців</hi>
+         
+        <hi rendition="#i">Кубійовича і Мельника</hi>
+         широкого впливу між населенням не мали. Навколо них збиралися ті елементи з населення, які перш за все ставили на перше місце свої шкурні інтереси, а не громадські. Це були деморалізовані 
+      </div>
+    </body>
+  </text>
+</TEI>

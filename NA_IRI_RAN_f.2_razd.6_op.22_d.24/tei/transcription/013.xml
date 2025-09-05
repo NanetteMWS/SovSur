@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.7 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Під каштаном</hi>
+        </p>
+        <hi rendition="#u">Під каштаном</hi>
+        <p>Ти стояла під каштаном,</p>
+        <p>Дивлячись у синю даль,</p>
+        <p>І в очах твоїх, кохана,</p>
+        <p>Мерехтів сльозами жаль.</p>
+        <p/>
+        <p>Бистра мрія, мов на крилах,</p>
+        <p>В рідний край тебе несе.</p>
+        <p>Тут ніщо тобі не миле,</p>
+        <p>Там для тебе рідне все.</p>
+        <p/>
+        <p>Але, дівчино миленька,</p>
+        <p>Не тужи і не скучай.</p>
+        <p>Прийде час і знов до неньки</p>
+        <p>Ти поїдеш в рідний край.</p>
+        <p/>
+        <p>Краще вийди знову, люба,</p>
+        <p>Під зелений цей каштан.</p>
+        <p>Розцілую тебе в губи,</p>
+        <p>Обійму твій славний стан.</p>
+        <p/>
+        <p>І твою гнітючу мрію,</p>
+        <p>І журбу в душі твоїй</p>
+        <p>Я раптово так розвію,</p>
+        <p>Як весінній вітровій.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

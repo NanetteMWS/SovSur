@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.5 оборот" xml:space="default"/>
+        <p> В один прекрасный день – 26 апреля – приходит к нам толстобрюхий комендант с переводчиком и нам предлагают уходить с лазарета, но не дальше Полтавской области, мол «идите на «волю». При слухе слова «воля» нас окутывал холод, ибо какая могла быть «воля», когда кругом голод, нищета, разруха, плетки и преследование на каждом шагу.</p>
+        <p>Мне дали документ о том, что я имею право идти лишь до Миргорода Полтавск. обл.</p>
+        <p>С лазарета вышла я 30 апреля 1942 г., идти было очень тяжело – проходила я по 5-10 км в день, так как у меня от ранения был перелом бедра ноги, кроме того организм сильно истощал.</p>
+        <p>До Миргорода шла 4 дня. В Миргороде везде страдания, нищета, на каждом шагу встречаем паршивые рожи немцев. Ночевать зашла в один полуразрушенный домик, где помещались раненые русские военнопленные: из Саратова, Свердловска, Москвы и др. городов. Эти раненые двигаться дальше не </p>
+      </div>
+    </body>
+  </text>
+</TEI>

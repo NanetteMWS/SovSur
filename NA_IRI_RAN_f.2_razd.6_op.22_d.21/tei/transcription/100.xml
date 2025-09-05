@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.51" xml:space="default"/>
+        <p> действительно Друзь, или он заходил к Надежде Евдокимовой, которая в то время работала уже в Бомберге в больнице, где лечились иностранцы.</p>
+        <p>Васька изучил был все ходы и выходы, он знал, как и где, когда можно подойти, в какое время, он мог провести любого немчура, был очень находчив, не терялся, быстро находил толковый ответ. Когда он поехал посмотреть, как разбит Лихтенфельс и, проезжая по развалинам на своем велосипеде, он наткнулся на полицая, который остановил его. На вопрос, кто он и откуда, Васька ответил, что сын барона со Штаффельштайна и назвал фамилию барона. Уплатил марку штрафу и поспешил скорее уехать. Выправляя из дому, мать всегда за него беспокоилась, всегда наказывала, чтобы он был осторожен, аккуратен, внимателен, что малейшая неосторожность влечет за собой гибель, и он говорил ей всегда: «Не бойся мама, я все знаю, все </p>
+      </div>
+    </body>
+  </text>
+</TEI>

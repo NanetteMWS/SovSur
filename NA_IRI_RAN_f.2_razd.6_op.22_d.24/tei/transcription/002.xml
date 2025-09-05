@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Воспоминания о фашистской неволе</p>
+        <p/>
+        <p>Листи до дівчини.</p>
+        <p>(Лист перший)</p>
+        <p>До тебе, милая дівчино,</p>
+        <p>До тебе, рибко золота,</p>
+        <p>Оце беруся таким чином</p>
+        <p>Писати першого листа.</p>
+        <p/>
+        <p>Працюю я на залізниці</p>
+        <p>Із шести ранку – до шести…</p>
+        <p>А, взагалі, моя зірнице,</p>
+        <p>Так саме мучусь, як і ти.</p>
+        <p/>
+        <p>А ти в барона, синвозора,</p>
+        <p>Оплакуєш своє життя.</p>
+        <p>Не плач, голубко, скоро-скоро</p>
+        <p>До нас дні волі прилетять.</p>
+        <p/>
+        <p>Землячко моя синвоока!</p>
+        <p>Тут на чужині пригадай,</p>
+        <p>Як сорок другого ще року</p>
+        <p>Ми покидали рідний край.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

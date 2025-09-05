@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.30 оборот" xml:space="default"/>
+        <p> И когда он не справлялся, выбивался с сил, то немец его ругал, даже замахивался вилами и топором. Миша никак не уступал и, как только немец хватался за вилы, Миша во весь рост вставал перед ним тоже с вилами и ожидал минуты боя, но тот опускал тот же час свои вилы. Однажды на шум этот сбежался весь двор. Отец с Мишей стояли среди толпы немцев. Шеф в споре схватил топор и замахнулся на отца, ставшего в защиту Миши, но Миша, схватив лопату, набросился было на шефа, но тот снова, как и всегда отстранился. </p>
+        <p>Миша с Васькой любили подшутить, разыграть немцев. Однажды вечером они бродили по лесу и, возвращаясь поздно домой, чуть ли не натолкнулись на хозяйку, с которой Миша не мог встречаться, он всегда избегал ее, как страшного зверя, вот так и в этот раз, они, заметив хозяйку решили избежать ее и </p>
+      </div>
+    </body>
+  </text>
+</TEI>

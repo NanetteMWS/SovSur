@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.61 оборот" xml:space="default"/>
+        <p> что я лишилась ума. С трудом мне удалось убедить их, что я совершенно здорова, напрасно они так думают, и что правда американские танки за рекой. </p>
+        <p>В восемь часов мы кончили работу и сразу все трое побежали к реке. Уже начинало темнеть. По ту сторону реки в деревне слышались крики, шум, гул моторов машин. Мы спустились к самой воде и начали прислушиваться, все еще не могли никак поверить, что американцы здесь. Наконец, убедившись, что это точно были американцы, мы запрыгали от радости, что завтра мы будем свободны, что нам остается одну ночку еще перемучиться. Мы взяли длинную палку, навязали на нее новые белые платочки и начали ими махать, кричать, но было уже темно и никто нас не слышал. Мы, постояв еще немного, побежали домой, чтобы рассказать дома, что точно американцы здесь.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

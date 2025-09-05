@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.85" xml:space="default"/>
+        <p> Старухи бежали на пункты с криком и слезами, иногда упрашивали полицию, охранявшую их детей за колючей проволокой, и полиция разрешала бежать, но через некоторое время они снова попадали туда же.</p>
+        <p>Ночью происходили облавы и тогда угоняли всех, ночующих даже случайно у родственников или приезжих. В таких случаях оставались маленькие дети, или человек пропадал без вести и лишь через некоторое время присылал письмо из Германии.</p>
+        <p>В июле м-це 1943 года подбирали остальное население на базарах, по улицам, делали цепи из полиции и жандармерии, а вслед за ними шли грузовые машины, куда забирали людей, которых увозили без необходимой одежды и совсем раздетых.</p>
+        <p>Одновременно проводились агитации за добровольный отъезд в Германию. Вывешивались плакаты, демонстрировались кинофильмы на производствах, где показывали в каких «прекрасных» условиях живут добровольно уехавшие, и на каждом производстве был представитель по добровольной вербовке в Германию.</p>
+        <p>Добровольцев провожали с оркестрами и отдельными поездами, обещая им «золотые горы», но это было только первые месяцы пребывания немцев на Украине.</p>
+        <p>Жизнь была очень тяжелой и было много таких, которые пошли на эти провокации.</p>
+        <p>Спустя полгода, до первых писем к своим родным, не находилось больше охотников добровольно </p>
+      </div>
+    </body>
+  </text>
+</TEI>

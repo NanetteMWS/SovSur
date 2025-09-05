@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> На оборонительных сооружениях работало, примерно, 45 тысяч человек, это люди в оставшихся 9-ти неполных районах. Сделали 2 миллиона кубометров земляных работ. Срубили, вынесли на руках и вложили в дело 60 тыс. кубометров деловой древесины, которая пошла на оборонительные сооружения: блиндажи, доты, дзоты. Кроме того, наши люди работали частично в Ворошиловградской и Курской областях, часть товарищей отправили в оперативные группы Воронежского фронта.</p>
+        <p>Во всех этих мероприятиях бюро Обкома партии принимало участие. Среди городских работников принимали участие товарищи Смирнов, Селиванов, Евсеев, Войтович, Копычев, Терехов, Иванов, Рыжков, Гливенко. Все эти люди в настоящее время работают в Харькове и Харьковской области.</p>
+        <p>Секретарь горкома комсомола тов. Балакирева – одна из наиболее активных подпольщиков. За время оккупации Харькова и Украины немцами она прошла почти всю Украину, была в Киеве, Донбассе, Харькове и провела огромнейшую работу.</p>
+        <p>В Харькове все время работал подпольный областной комитет партии.</p>
+        <p>По инициативе колхозников Двуречанского района Харьковской области, внесших от 50 до 100 тысяч рублей в фонд Верховного Главнокомандования, с огромным энтузиазмом и подъемом развернулось поступление средств в фонд Верховного Главнокомандования. Эту инициативу подхватили </p>
+      </div>
+    </body>
+  </text>
+</TEI>

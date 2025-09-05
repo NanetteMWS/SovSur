@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.71" xml:space="default"/>
+        <p> «… в городе Рудня больше 2350 душ были расстреляны и живыми зарыты. Особенно больше детей. </p>
+        <p>В районе Каспли повешено наших 14 человек красноармейцев за отказ от работы, они были измучены от голода. </p>
+        <p>В деревне Морозовка Руднянского района было повешено и расстреляно мирное население за отказ сбора продуктов для немецких извергов».</p>
+        <p>(Из письма командира партизанского отряда И.Л. Финкельштейна)</p>
+        <p/>
+        <p>«Однажды по ряду селений прошел карательный отряд, который расстрелял на своем пути за один только день около сотни людей. </p>
+        <p>В деревне Городянка каратели подожгли избу, в которой находилось 9 бойцов. </p>
+        <p>В селении Гречишная за 30 минут пребывания немцев в деревне было расстреляно 7 человек. </p>
+        <p>В деревне Вельдюгино немцы расстреляли все оставшееся мужское население вплоть до стариков. </p>
+        <p>В Подпорах, Гряде и Гродянке немцы расстреливали, вешали детей и женщин».</p>
+        <p>(Из письма штаба партизанского отряда Знаменского района Смоленской области).</p>
+        <p/>
+        <p>«Фашистские изверги за время оккупации района причинили много зверств трудящимся. Деревни Беленино, Хомиянка, Запозно, Курчебово, Бартенево полностью сожгли, как занятые партизанами; Левково, Лугуново [пропуск места для слова] с/с половина сожжены, и в деревне Левково расстреляно 6 партизан: один мальчик 12-ти лет и старик 75 лет, в деревне Ведоса Комаровского сельсовета сожгли бывшую канцелярию колхоза, где находились партизаны, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

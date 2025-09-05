@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.30 оборот" xml:space="default"/>
+        <p> «Слава Рабоче-Крестьянской Красной Армии и Воздушно-Морскому Флоту, одержавшим победу над врагом!»</p>
+        <p>«Слава советскому народу, народу-победителю»</p>
+        <p>«Мы вас ждем с германской неволи»</p>
+        <p>«Путь на Родину» и т.п.</p>
+        <p>С каждым встречающим воином хотелось побеседовать, услышать свежее слово об Родине, обменяться мнениями и т.п. Таким беседам не было конца – вопрос летел за вопросом, ответ за ответом.</p>
+        <p>Этот день 10 июня был самым счастливым, веселым и радостным. На всю жизнь он останется в моей памяти.</p>
+        <p>После разгрома гитлеровских армий, началось экономическое разоружение Германии. В этом экономическом разгроме я принял активное участие. Через некоторое время я пошел служить в ряды РККА.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000840">
+      <titleStmt>
+        <title>Стенограмма беседы с Николаем Харченко</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 90-94.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.91" xml:space="default"/>
+        <p/>
+        <p>
+          <hi rendition="#i">Стенограмма</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">воспоминаний</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Харченко Николая </hi>
+          <hi rendition="#i">Макаровича</hi>
+          <hi rendition="#i"> о событиях на Украине периода немецкой оккупации.</hi>
+        </p>
+        <hi rendition="#i">Стенограмма</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">воспоминаний</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Харченко Николая </hi>
+        <hi rendition="#i">Макаровича</hi>
+        <hi rendition="#i"> о событиях на Украине периода немецкой оккупации.</hi>
+        <p>
+          <hi rendition="#i">22 января 1946 г.</hi>
+        </p>
+        <hi rendition="#i">22 января 1946 г.</hi>
+        <p/>
+        <p>Харченко Николай Макарович. 1906 года рождения. г. Мелитополь, Запорожской области. Пасова 19. Работаю в гортопе, заведующий складом угля. Во время немецкой оккупации работал в горстройконторе, рабочим.</p>
+        <p>6 октября 1941 г. был оккупирован город. 8/Х был издан приказ относительно евреев, чтобы собраться для отправки в определенную местность. Все они явились во двор городской мельницы. Собралось свыше 7 тыс. человек. Сразу дали им белые звезды и распустили домой, чтобы взять с собой хорошие, самые лучшие вещи, и сказали, что будут их отправлять в определенные местности. 9 или 10 октября собрали всех евреев. После этого стали ходить карательные отряды искать евреев и там, где находили, расстреливали на месте. Тех русских, кто их скрывал, тоже расстреливали. Потом, за Константиновкой, в 7 км был противотанковый ров. Там их всех расстреляли.</p>
+        <p>Потом начали издавать приказы относительно запрещения хождения по улицам до 5 часов. Затем вся молодежь должна была пройти регистрацию. Часть прошла регистрацию и тут же их начали арестовывать и сажать в тюрьму и отправили в Севастопольский лагерь. Потом начали расстреливать. Был случай, когда был убит один немец на станции. Там было человек 20 расстреляно, на станции Мелитополь. В 1942 году был издан приказ закрыть школы от 7 классов и выше. Вся эта молодежь направлялась в Германию и все это были молодые люди, кончившие от 7 до 10 классов. Всех этих людей </p>
+      </div>
+    </body>
+  </text>
+</TEI>

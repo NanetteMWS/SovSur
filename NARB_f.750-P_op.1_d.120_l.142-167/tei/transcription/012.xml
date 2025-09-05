@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000887">
+      <titleStmt>
+        <title>Стенограмма беседы с Михаилом Климковичем от 3 сентября 1943 года</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 120. Л. 142-167.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.165 оборот" xml:space="default"/>
+        <p>
+          <hi rendition="#i"> Вообще говоря – немцы, поставив интеллигенцию в такое же бесправное положение, как и рабочих и крестьян, не обеспечив ей прожиточного минимума, не привлекли интеллигенции к себе. Разрушение культурных учреждений, зверства и бесчинства над мирным населением, пренебрежительное отношение ко всем </hi>
+          <hi rendition="#i">инонациональностям</hi>
+          <hi rendition="#i"> отталкивает интеллигенцию от немцев.</hi>
+        </p>
+        <hi rendition="#i"> Вообще говоря – немцы, поставив интеллигенцию в такое же бесправное положение, как и рабочих и крестьян, не обеспечив ей прожиточного минимума, не привлекли интеллигенции к себе. Разрушение культурных учреждений, зверства и бесчинства над мирным населением, пренебрежительное отношение ко всем </hi>
+        <hi rendition="#i">инонациональностям</hi>
+        <hi rendition="#i"> отталкивает интеллигенцию от немцев.</hi>
+        <p>
+          <hi rendition="#i">Из всех групп интеллигенции прочно на службе у немцев только</hi>
+           землемеры и агрономы. 
+        </p>
+        <hi rendition="#i">Из всех групп интеллигенции прочно на службе у немцев только</hi>
+         землемеры и агрономы. 
+      </div>
+    </body>
+  </text>
+</TEI>

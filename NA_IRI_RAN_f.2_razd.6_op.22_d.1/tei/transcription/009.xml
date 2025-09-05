@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p>
+           руках. Сестра была еврейка. Бедная, неизвестная сестра простирала руки палачам, умоляя пощадить ее жизнь. Этой душераздирающей 
+          <hi rendition="#s">сцены</hi>
+           трагедии нельзя забыть.
+        </p>
+        <hi rendition="#s">сцены</hi>
+         трагедии нельзя забыть.
+        <p>18-19 летняя девушка со слезами на глазах продолжала умолять пощадить ее молодую жизнь. Палачи молчали. Злобные и садистские лица были бесчеловечно жестоки. Сестра продолжала умолять. Ответом ей последовало два выстрела в голову. Так погибла неизвестная, но славная дочь страны Советов.</p>
+        <p>4-го июля рано утром нам на 5-ть человек дали не больше 200 грамм плесневелого белого хлеба и погнали в другой лагерь. По дороге в этот лагерь, три товарища натерли себе ноги и сели снять с себя ботинки, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

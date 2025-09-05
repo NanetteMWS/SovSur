@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000214">
+      <titleStmt>
+        <title>Стенограмма беседы с Елизаветой Пахомовой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 13. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Запись беседы с Пахомовой Елизаветой Карловной, подпольный работник в г. Симферополе в период немецкой оккупации, сейчас директор Центральной областной библиотеки. Симферополь, ул. Розы Люксембург, д. 30</p>
+        <p>Записала научный сотрудник Трусова.</p>
+        <p/>
+        <p>Родилась в г. Евпатории. Отец рабочий почты. В 1912 г. окончила гимназию и стала народной учительницей. До 1920 г. работала учительницей в Евпатории. Муж участник Октябрьской революции, в 1918 г. был арестован немецкой контрразведкой в Керчи, сидел в тюрьме. Из тюрьмы бежал. В 1919 г. я получила из Харькова сведения о муже, что он жив и дерется в Сибири против армии Колчака. Потом никаких сведений о нем не имела. В 1934 г. я вышла замуж. Мой муж Георгий Аванесов работал в войсках НКВД. В 1941 г. он был мобилизован и отправлен в г. Николаев. Получила от него несколько писем, а сейчас ничего не знаю о нем – жив ли он и где находится.</p>
+        <p>События 1941 года застали меня врасплох. В 1941 г., когда предлагали и когда можно было, я из Симферополя не эвакуировалась, позже, когда пришли немцы, хотела уйти в лес, но не было связи, так и осталась в оккупированном городе.</p>
+        <p>Жизнь началась страшная. 2 ноября у меня в квартире был обыск. Немцам сказали, что мой муж работал в войсках НКВД. Пришли с обыском, искали документы, фотографировали все, что им было нужно, и ушли. Меня не тронули.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

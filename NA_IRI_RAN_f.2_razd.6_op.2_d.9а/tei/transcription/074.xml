@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.85" xml:space="default"/>
+        <p> «Когда немцы наступали на Всходский район, то грабежи и изуверства их были неописуемы», – сообщает старший политрук Лопата. – «Они забирали скот, птицу, открывали сундуки, откапывали ямы с вещами и хлебом. Людей расстреливали без опроса. Так, в деревне Зиновино за ранение немца они собрали поголовно все мужское население деревни в 25 человек и среди улицы на глазах всех родных их расстреляли. В деревне Медведки они заперли на крючок в доме одну семью и подожгли его, в горящий дом немец бросил трехлетнего ребенка. Во Всходах немцы расстреляли жену бывшего служащего почты Стержантова, восьмилетнего ребенка и 9 подростков только за то, что Стержантова не оказалось дома, когда за ним пришли немцы. Ребят обвинили в том, что они якобы знали где он, но не сказали об этом.</p>
+        <p>[…]</p>
+        <p>«При наступлении немцев мужское население во Всходском районе ушло в лес. Немцы под видом партизан забрали из леса мужчин и отправили их в Рославль, где проводил “вербовку” этого населения на работу в Германию. Тех, кто дает согласие на поездку в Германию, тому дают хлеб, а кто не дает этого согласия, те пухнут с голода».</p>
+        <p>(Из доклада старшего политрука Лопаты, август 1942 г.)</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

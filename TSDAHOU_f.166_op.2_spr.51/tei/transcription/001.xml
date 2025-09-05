@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000545">
+      <titleStmt>
+        <title>Стенограма бесіди зі Степаном Банахом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 2. Спр. 51.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.1" xml:space="default"/>
+        <p/>
+        <p>Стенограма запису спогадів д-ра математичних наук, декана фізико-математичного факультету професора Львівського університету Степана Степановича Банаха.</p>
+        <p/>
+        <p>Бесіду вів вчений секретар Комісії Історії Вітчизняної війни кандидат наук Гак Д.В.</p>
+        <p>Стенографувала Шестопалова Г.В.</p>
+        <p/>
+        <p>19.9.1944 року.</p>
+        <p/>
+        <p>Я народився в 1892 р. в Кракові. Гімназію закінчив в Кракові. У Львові закінчив університет в 1920 р., а титул проф. в 1922 р.</p>
+        <p>Від 1922-1923 р. був проф. в Львівському університеті, від 1939-1941 р. був професором і деканом на фізико-математичному факультеті в Львівському університеті ім. Івана Франка. Від 1941-44 р. за німців працював в противотифозному інституті Вайгла як кормитель вошей. Зараз я знову професор і декан фізико-математичного факультету.</p>
+        <p>Через три дні по приході німців арештували кілька визначних людей науки, а саме: Бартеля, Ролевича, Ломницького, Стожика. Деяких з них заарештовано з жінками, з дітьми. Тоді я відразу зорієнтувався про відношення німців до людей.</p>
+        <p>Наукова праця була цілковито неможлива в такій атмосфері. Товариські відносини поміж поодинокими людьми були дуже утруднені, бо в кожній зустрічі товаришів німці добачали підпільну роботу. Я міг тільки працювати особисто і непродуктивно. Бракувало всього – і їжі, і опалення, а найважливіше з всього, що я весь час стояв під погрозою арештувань.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

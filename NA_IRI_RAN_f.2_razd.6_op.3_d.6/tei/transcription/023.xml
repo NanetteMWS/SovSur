@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.12 оборот" xml:space="default"/>
+        <p> 18 декабря.</p>
+        <p>Зверства немецких оккупантов.</p>
+        <p>Один раз пришли немцы и привели переводчика. Немцы говорят: кипяти кофию нам, но он стал. Тогда немец пошел и сказал своему офицеру, офицер выгнал его в погреб. Но когда немецкий обоз уехал, он пришел опять домой и жил пока пришла Красная армия. Немцы, когда отступали, и установили везде пулеметы. Один раз наша разведка, когда разведывала, ее ранили, и она все равно перешла к своим и рассказала, что там везде пулеметы, и тогда наши обошли кругом, и немцы начали поджигать дома. Здравствуйте, братья и сестры, бейте врага в грудь и спину.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> толкнул меня, и с диким смехом и ревом они вышли с квартиры.</p>
+        <p>После пятинедельного скитания здесь, мы вынуждены были снова вернуться в город. В городе было все разрушено. Вместо былых громадных зданий были развалины, улицы все загромождены были, толпы нашего народа работали по расчищению города. Очень много было разрушений, почти неузнаваемым стал Могилев. Ни воды, ни света не было. Квартира наша, где жили мы до войны, была сожжена, осталось от нее только пепелище. Мы поселились в городе, в полуразрушенном городе. Немецкие бандиты хозяйничали и перестраивали все на свой лад, устанавливали свои порядки, издавали приказы, выгоняли народ на работы, избивали, расстреливали, кто противился. Ловили людей, которые укрывались от работы, сажали их в магазинные витрины, к груди </p>
+      </div>
+    </body>
+  </text>
+</TEI>

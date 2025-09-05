@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Лист до землячок</hi>
+        </p>
+        <hi rendition="#u">Лист до землячок</hi>
+        <p>Пишу листа вам дівчата,</p>
+        <p>А серденько в’яне.</p>
+        <p>Дозвольте вам передати</p>
+        <p>Привіт полум’яний.</p>
+        <p/>
+        <p>Життя моє вам відомо,</p>
+        <p>Таке, як і ваше.</p>
+        <p>Ревматизм кістки всі ломить,</p>
+        <p>Третій місяць кашель.</p>
+        <p/>
+        <p>В нашім таборі аж триста</p>
+        <p>Таких же нещасних.</p>
+        <p>На кожного два фашиста</p>
+        <p>Вартових зубастих.</p>
+        <p/>
+        <p>Замучені, босі, голі</p>
+        <p>Другий рік бідуєм.</p>
+        <p>Другий рік уже в неволі</p>
+        <p>Ми вошей годуєм.</p>
+        <p/>
+        <p>Від світання до смеркання</p>
+        <p>Рук не покладаєм.</p>
+        <p>А позаду поліцейський</p>
+        <p>Підганя нагаєм.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

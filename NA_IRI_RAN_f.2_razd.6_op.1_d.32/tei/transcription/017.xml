@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> оккупантов. 16/XII-41 г. в Рогачеве состоялось первое собрание партийного актива, на котором уже обсуждался вопрос о подготовке к весеннему севу. («Правда», 20/XII-41 г. №352. Вадим Кожевников, Собрание партийного актива в Рогачеве).</p>
+        <p>В течение первых 10 дней после освобождения Малоярославца (12/I-41 г.) во всех населенных пунктах района была восстановлена работа сельсоветов и правлений колхозов («Вечерняя Москва», 22/I-42 г.).</p>
+        <p>В первые дни после освобождения в Наровском районе был произведен учет семян и инвентаря, при чем в селах было найдено 27 тракторов («Москоский большевик» 30/I-42 г. №24).</p>
+        <p>Одновременно с приходом частей Красной армии в Солнечногорск вернулись из партизанских отрядов руководители партийных и советских организаций.</p>
+        <p>В середине января 1942 г. в Солнечногорском районе приступили к работе </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> Мы всячески старались помогать нашим погибающим людям. Всякий раз мать собирала кусочки хлеба, соли, картофеля, свеклы, а также обувь, одежду, и все это посылала Мишей и Васькой передать военнопленным. Они подбегали и раздавали, делили все товарищам. Но однажды немец поймал старшего Мишу и избил его. После чего мальчики не раскаялись, а еще более настойчивее и отважнее подходили, и уже не по поручению мамаши, а сами, подбирали все и передавали, несмотря на опасность. </p>
+        <p>Жизнь в городе была тяжелой, даже невыносимой. Продовольствия не было. Получали по 200 г хлеба в сутки, и больше ничего. Отец пошел было работать снова на тот же самый завод плотником, но вскоре бросил. Мы сидели дома без всякой работы, но сидеть так дальше невозможно было, т.к. ходили немцы, или полиция и безработных забирали и угоняли </p>
+      </div>
+    </body>
+  </text>
+</TEI>

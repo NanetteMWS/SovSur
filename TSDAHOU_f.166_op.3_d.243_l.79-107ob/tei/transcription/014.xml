@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000827">
+      <titleStmt>
+        <title>Стенограмма беседы с Флорисой Галецкой, ее воспоминания и переписка</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 79-107 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, memoir, letter">
+        <pb cert="high" n="Л.92" xml:space="default"/>
+        <p> Сборник «Непокоренные в борьбе» собирался т. Шевченком до освобождения еще с 1942 г. и сохранялся в черновиках, часть в сапогах под подкладкой, а часть в лагере под лестницей. Переписан также после освобождения в г. Болькенхайне (Польша).</p>
+        <p>Тов. Шевченко, как руководитель и воспитатель русского народа в борьбе против фашизма, после освобождения не прекращал свою работу. Он вел большую массовую и культурную работу с репатриантами в пути к своей родине, он работал агитатором в лагере репатриированных, и репатрианты знают хорошо т. Шевченко, и никто его не забудет, кто видел или слышал про него.</p>
+        <p>Многие приходили к тов. Шевченко и обращалась как к учителю, он никогда не отказывался, всегда давал совет и помощь товарищам.</p>
+        <p/>
+        <p>Писала воспоминание о работе подпольной организации на территории Германии Флориса Иосифовна Галецкая.</p>
+        <p/>
+        <p>гор. Чернигов, ул. Попудренко, 86.</p>
+        <p>13-го декабря 1945 г.</p>
+        <p>
+          г. Киев 
+          <hi rendition="#i">Галецкая</hi>
+        </p>
+        <hi rendition="#i">Галецкая</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

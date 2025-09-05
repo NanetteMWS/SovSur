@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000841">
+      <titleStmt>
+        <title>Стенограмма беседы с Владимиром Тихоновичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 95-100.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.100" xml:space="default"/>
+        <p> Когда пришли родственники расстрелянных, начали искать их, находили трупы в колодцах. А в одном колодце нашли несколько трупов. Одну старуху по фамилии Лапочкину извлекали из колодца по частям, оказалось, что она была разрублена и брошена в колодец.</p>
+        <p>Много мне пришлось самому как священнику совершать обряды погребения. Были эвакуированные из Севастополя расстрелянные. Никого из родственников у них не было. Так они были погребены.</p>
+        <p>Вспоминаю еще один случай.</p>
+        <p>В с. Вознесеновка был отдельный комендант. Один крестьянин выдавал дочь замуж. На свадебном пиршестве, конечно, собираются крестьяне и приходят одетые в лучших костюмах. Явился на это пиршество и наш комендант, но только в необычайном костюме: совершенно голый и с револьвером в руках. Приставал к женщинам, гонялся за ними, стрелял в воздух, разогнал всех, напился так, что его едва отвели на квартиру.</p>
+        <p>
+          <hi rendition="#i">23.</hi>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i">.46 г. Протоирей В. Тихонович</hi>
+        </p>
+        <hi rendition="#i">23.</hi>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i">.46 г. Протоирей В. Тихонович</hi>
+        <p>
+          Вел стенограмму 
+          <hi rendition="#i">В. Котов</hi>
+           Котов
+        </p>
+        <hi rendition="#i">В. Котов</hi>
+         Котов
+        <p>Стенографировала Залесная</p>
+      </div>
+    </body>
+  </text>
+</TEI>

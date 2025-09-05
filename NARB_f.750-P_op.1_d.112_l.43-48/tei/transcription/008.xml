@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000875">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лесничим</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 43-48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.47 оборот" xml:space="default"/>
+        <p> Штурм.</p>
+        <p>(Бой за укрепленный пункт Купинск 16 мая 1944 г.)</p>
+        <p/>
+        <p>Встает рассвет над тихою рекою</p>
+        <p>И за рекой видны фашистов доты…</p>
+        <p>И бьет оттуда миномет,</p>
+        <p>И нервно строчат пулеметы.</p>
+        <p/>
+        <p>В цепи пред боем тишина,</p>
+        <p>Но лишь сигнал разведки был замечен, –</p>
+        <p>«Ребята! – наши там!» – Ура!» –</p>
+        <p>Взметнулась цепь с врагом для близкой встречи.</p>
+        <p/>
+        <p>– «Ура!»</p>
+        <p>…Какая сила в слове прозвучала?!</p>
+        <p>И наших предадево воинственный в них дух!</p>
+        <p>С ним на огонь, огнем же освещая</p>
+        <p>Форсировали мы реку.</p>
+        <p/>
+        <p>И быстро двигались вперед.</p>
+        <p>Бои и прежде у нас бывали,</p>
+        <p>Но опыта брать штурмом дот</p>
+        <p>Немного в нашем арсенале.</p>
+        <p/>
+        <p>Уж вел огонь лишь главный дот,</p>
+        <p>Фашисты прочно там засели…</p>
+        <p>И партизаны шли вперед,</p>
+        <p>На штурм последней цитадели.</p>
+        <p/>
+        <p>Крепка цементная стена,</p>
+        <p>И густ огонь из каждой щели…</p>
+        <p>Но крепче мстителей рука!…</p>
+        <p>И в дот гранаты полетели.</p>
+        <p/>
+        <p>Ко входу Белуш прыгнул сразу:</p>
+        <p>«Сюда ребята, Максим вот!»</p>
+        <p>И юноша голубоглазый</p>
+        <p>На «Максим» рванулся вперед.</p>
+        <p/>
+        <p>И он геройски отдал долг</p>
+        <p>И жизнь тебе – страна родная…</p>
+        <p>И падал по-суворовски – вперед,</p>
+        <p>Своей грудью «максим» накрывая.</p>
+        <p/>
+        <p>Но пулеметчика того</p>
+        <p>Скосил Кадовбик с автомата</p>
+        <p>И бросился стремглав в проход,</p>
+        <p>И крикнул он: «За мной, ребята!»</p>
+        <p/>
+        <p>Свинцом смертельным поливая,</p>
+        <p>Исход борьбы решает он:</p>
+        <p>Семь гитлеровцев он сражает,</p>
+        <p>Семь гитлеровцев пали навзничь,</p>
+        <p>Предсмертный испуская стон.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

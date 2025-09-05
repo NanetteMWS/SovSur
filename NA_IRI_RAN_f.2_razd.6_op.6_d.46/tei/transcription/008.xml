@@ -1,0 +1,468 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000999">
+      <titleStmt>
+        <title>Стенограмма беседы с Алексеем Гехтманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 46.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p>
+           что они будут давать полтора пуда сахара за десят
+          <hi rendition="#s">ку</hi>
+          <hi rendition="#i">ь</hi>
+          <hi rendition="#i"> рублей</hi>
+           золот
+          <hi rendition="#s">а</hi>
+          <hi rendition="#i">ом</hi>
+           
+          <hi rendition="#s">и</hi>
+           никаких других денег они не принимали. 
+          <hi rendition="#s">И вот пошла беготня по городу, прямо</hi>
+           
+          <hi rendition="#i">Жители города </hi>
+          <hi rendition="#i">забегали</hi>
+          <hi rendition="#i">, ища</hi>
+           на улицах 
+          <hi rendition="#i">валюту</hi>
+           
+          <hi rendition="#s">спрашивали, у кого есть золото</hi>
+          <hi rendition="#s">.</hi>
+           Целый ряд других продуктов так 
+          <hi rendition="#s">ими и</hi>
+           
+          <hi rendition="#i">же они</hi>
+           продавал
+          <hi rendition="#s">ся</hi>
+          <hi rendition="#i">и</hi>
+           
+          <hi rendition="#i">на золото</hi>
+          .
+        </p>
+        <hi rendition="#s">ку</hi>
+        <hi rendition="#i">ь</hi>
+        <hi rendition="#i"> рублей</hi>
+         золот
+        <hi rendition="#s">а</hi>
+        <hi rendition="#i">ом</hi>
+         
+        <hi rendition="#s">и</hi>
+         никаких других денег они не принимали. 
+        <hi rendition="#s">И вот пошла беготня по городу, прямо</hi>
+         
+        <hi rendition="#i">Жители города </hi>
+        <hi rendition="#i">забегали</hi>
+        <hi rendition="#i">, ища</hi>
+         на улицах 
+        <hi rendition="#i">валюту</hi>
+         
+        <hi rendition="#s">спрашивали, у кого есть золото</hi>
+        <hi rendition="#s">.</hi>
+         Целый ряд других продуктов так 
+        <hi rendition="#s">ими и</hi>
+         
+        <hi rendition="#i">же они</hi>
+         продавал
+        <hi rendition="#s">ся</hi>
+        <hi rendition="#i">и</hi>
+         
+        <hi rendition="#i">на золото</hi>
+        .
+        <p>
+          Если вы хотели пойти по 
+          <hi rendition="#i">любому</hi>
+           направлению 
+          <hi rendition="#s">Люботина</hi>
+           
+          <hi rendition="#i">в села и деревни на «</hi>
+          <hi rendition="#i">менку</hi>
+          <hi rendition="#i">»</hi>
+          , то вы шли как по бульвару
+          <hi rendition="#i">;</hi>
+           
+          <hi rendition="#s">С одной стороны</hi>
+           шли 
+          <hi rendition="#s">потоки</hi>
+           
+          <hi rendition="#i">сотни</hi>
+           людей в одну сторону и такое же количество в 
+          <hi rendition="#s">другую</hi>
+           
+          <hi rendition="#i">обратную</hi>
+          . Иногда вы могли 
+          <hi rendition="#s">видеть совершенно умирающих людей</hi>
+           
+          <hi rendition="#i">встретить умирающих по дороге людей</hi>
+          . 
+          <hi rendition="#s">Это</hi>
+           он
+          <hi rendition="#i">и</hi>
+           купил
+          <hi rendition="#i">и или обменяли </hi>
+          себе крупы, муки, нес
+          <hi rendition="#i">ли</hi>
+           и свали
+          <hi rendition="#s">лся</hi>
+          <hi rendition="#i">лись</hi>
+          <hi rendition="#i"> на землю совершенно обессиленные</hi>
+          .
+        </p>
+        <hi rendition="#i">любому</hi>
+         направлению 
+        <hi rendition="#s">Люботина</hi>
+         
+        <hi rendition="#i">в села и деревни на «</hi>
+        <hi rendition="#i">менку</hi>
+        <hi rendition="#i">»</hi>
+        , то вы шли как по бульвару
+        <hi rendition="#i">;</hi>
+         
+        <hi rendition="#s">С одной стороны</hi>
+         шли 
+        <hi rendition="#s">потоки</hi>
+         
+        <hi rendition="#i">сотни</hi>
+         людей в одну сторону и такое же количество в 
+        <hi rendition="#s">другую</hi>
+         
+        <hi rendition="#i">обратную</hi>
+        . Иногда вы могли 
+        <hi rendition="#s">видеть совершенно умирающих людей</hi>
+         
+        <hi rendition="#i">встретить умирающих по дороге людей</hi>
+        . 
+        <hi rendition="#s">Это</hi>
+         он
+        <hi rendition="#i">и</hi>
+         купил
+        <hi rendition="#i">и или обменяли </hi>
+        себе крупы, муки, нес
+        <hi rendition="#i">ли</hi>
+         и свали
+        <hi rendition="#s">лся</hi>
+        <hi rendition="#i">лись</hi>
+        <hi rendition="#i"> на землю совершенно обессиленные</hi>
+        .
+        <p>
+          <hi rendition="#s">Потом</hi>
+           началась эвакуация из Харькова населения 
+          <hi rendition="#i">в места, где дешевле жить. На </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">2 слова непонятно</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> и немцы и их прислужники.</hi>
+           
+          <hi rendition="#s">У меня был знакомый,</hi>
+           
+          <hi rendition="#i">Мне известно, что гражд.</hi>
+           Хинкулов
+          <hi rendition="#i">, который</hi>
+           
+          <hi rendition="#s">Он</hi>
+           приехал в Полтаву, все продал и вернулся оттуда еще более похудевшим 
+          <hi rendition="#i">от голода</hi>
+          . Я говорил: пускай десять тысяч русских бомб меня убьют, но только чтобы русские отсюда выгнали этих наглецов. Они очень преследовали всякие разговоры.
+        </p>
+        <hi rendition="#s">Потом</hi>
+         началась эвакуация из Харькова населения 
+        <hi rendition="#i">в места, где дешевле жить. На </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">2 слова непонятно</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> и немцы и их прислужники.</hi>
+         
+        <hi rendition="#s">У меня был знакомый,</hi>
+         
+        <hi rendition="#i">Мне известно, что гражд.</hi>
+         Хинкулов
+        <hi rendition="#i">, который</hi>
+         
+        <hi rendition="#s">Он</hi>
+         приехал в Полтаву, все продал и вернулся оттуда еще более похудевшим 
+        <hi rendition="#i">от голода</hi>
+        . Я говорил: пускай десять тысяч русских бомб меня убьют, но только чтобы русские отсюда выгнали этих наглецов. Они очень преследовали всякие разговоры.
+        <p>
+          Как только немцы сюда пришли, они обратили внимание на дом специалистов. 
+          <hi rendition="#s">Я туда не пошел жить, далеко было.</hi>
+           Дней через 10-12 они явились туда, многих профессоров арестовали. Был такой хирург 
+          <hi rendition="#i">проф.</hi>
+           Шевандин. Жена его за месяц-два уехала к сыну в Ленинград. 
+          <hi rendition="#i">Говорят,</hi>
+           она оттуда уехала с сыном в Казань. 
+          <hi rendition="#s">Здесь</hi>
+           
+          <hi rendition="#i">В Харькове</hi>
+           она поручила 
+          <hi rendition="#i">своей</hi>
+           сестре ухаживать за своим мужем. В один прекрасный день приехали 
+          <hi rendition="#i">немцы,</hi>
+           всех 
+          <hi rendition="#s">забрали</hi>
+           
+          <hi rendition="#i">арестовали многих профессоров</hi>
+           и куда они делись, неизвестно. 
+          <hi rendition="#s">Также </hi>
+          <hi rendition="#s">захватили</hi>
+           
+          <hi rendition="#i">Были</hi>
+          <hi rendition="#i"> арестованы</hi>
+           Какушкин
+          <hi rendition="#s">а</hi>
+          , Воробьев
+          <hi rendition="#s">а</hi>
+           и профессор
+          <hi rendition="#s">а</hi>
+           Недохлебов
+          <hi rendition="#s">а</hi>
+          . 
+          <hi rendition="#i">Последний был арестован позже.</hi>
+           
+          <hi rendition="#s">Уже спустя недели три-четыре</hi>
+           приезжают к нему на квартиру, спрашивают:
+        </p>
+        <hi rendition="#s">Я туда не пошел жить, далеко было.</hi>
+         Дней через 10-12 они явились туда, многих профессоров арестовали. Был такой хирург 
+        <hi rendition="#i">проф.</hi>
+         Шевандин. Жена его за месяц-два уехала к сыну в Ленинград. 
+        <hi rendition="#i">Говорят,</hi>
+         она оттуда уехала с сыном в Казань. 
+        <hi rendition="#s">Здесь</hi>
+         
+        <hi rendition="#i">В Харькове</hi>
+         она поручила 
+        <hi rendition="#i">своей</hi>
+         сестре ухаживать за своим мужем. В один прекрасный день приехали 
+        <hi rendition="#i">немцы,</hi>
+         всех 
+        <hi rendition="#s">забрали</hi>
+         
+        <hi rendition="#i">арестовали многих профессоров</hi>
+         и куда они делись, неизвестно. 
+        <hi rendition="#s">Также </hi>
+        <hi rendition="#s">захватили</hi>
+         
+        <hi rendition="#i">Были</hi>
+        <hi rendition="#i"> арестованы</hi>
+         Какушкин
+        <hi rendition="#s">а</hi>
+        , Воробьев
+        <hi rendition="#s">а</hi>
+         и профессор
+        <hi rendition="#s">а</hi>
+         Недохлебов
+        <hi rendition="#s">а</hi>
+        . 
+        <hi rendition="#i">Последний был арестован позже.</hi>
+         
+        <hi rendition="#s">Уже спустя недели три-четыре</hi>
+         приезжают к нему на квартиру, спрашивают:
+        <p>– А где ваш муж?</p>
+        <p>Жена говорит:</p>
+        <p>– Пошел к профессору Ломакину.</p>
+        <p>– Так, пожалуйста, проводите нас к нему.</p>
+        <p>Сели в машину, поехали и с тех пор муж и жена исчезли. Пошли в гестапо, там говорят:</p>
+        <p>– Нет таких, вероятно, англичане увезли их.</p>
+        <p>
+          <hi rendition="#s">Так очень </hi>
+          <hi rendition="#s">часто</hi>
+          <hi rendition="#s"> бывало.</hi>
+           
+          <hi rendition="#i">Такие факты исчезновения русской интеллигенции происходили очень часто.</hi>
+           
+          <hi rendition="#s">А домой</hi>
+           приход
+          <hi rendition="#s">или</hi>
+          <hi rendition="#i">я</hi>
+           
+          <hi rendition="#i">на квартиру</hi>
+           
+          <hi rendition="#s">и</hi>
+           грабили, 
+          <hi rendition="#i">и</hi>
+           забирали все решительно, 
+          <hi rendition="#i">заявляя</hi>
+          : «Наше трофейное имущество, все нам принадлежит». 
+          <hi rendition="#s">Такая была политика по отношению к известным людям.</hi>
+           У профессора Ломакина сын 
+          <hi rendition="#s">был</hi>
+           
+          <hi rendition="#i">служил</hi>
+           в Красной армии в пограничных войсках, и 
+          <hi rendition="#s">он</hi>
+           
+          <hi rendition="#i">в первые же дни войны</hi>
+           исчез. Они долго мучились, не знали, убит он или нет. В один прекрасный день 
+          <hi rendition="#s">вдруг</hi>
+           он
+          <hi rendition="#i">и</hi>
+           получают письмо: «В таком-то месте я нахожусь» и внизу только подпись – «ваш сын такой-то», 
+          <hi rendition="#s">вот что разрешали </hi>
+          <hi rendition="#s">только</hi>
+          . Все эти письма были 
+          <hi rendition="#s">сфабрикованы</hi>
+           
+          <hi rendition="#i">уже отпечатаны заранее. Разрешалось лишь подписаться</hi>
+          .
+        </p>
+        <hi rendition="#s">Так очень </hi>
+        <hi rendition="#s">часто</hi>
+        <hi rendition="#s"> бывало.</hi>
+         
+        <hi rendition="#i">Такие факты исчезновения русской интеллигенции происходили очень часто.</hi>
+         
+        <hi rendition="#s">А домой</hi>
+         приход
+        <hi rendition="#s">или</hi>
+        <hi rendition="#i">я</hi>
+         
+        <hi rendition="#i">на квартиру</hi>
+         
+        <hi rendition="#s">и</hi>
+         грабили, 
+        <hi rendition="#i">и</hi>
+         забирали все решительно, 
+        <hi rendition="#i">заявляя</hi>
+        : «Наше трофейное имущество, все нам принадлежит». 
+        <hi rendition="#s">Такая была политика по отношению к известным людям.</hi>
+         У профессора Ломакина сын 
+        <hi rendition="#s">был</hi>
+         
+        <hi rendition="#i">служил</hi>
+         в Красной армии в пограничных войсках, и 
+        <hi rendition="#s">он</hi>
+         
+        <hi rendition="#i">в первые же дни войны</hi>
+         исчез. Они долго мучились, не знали, убит он или нет. В один прекрасный день 
+        <hi rendition="#s">вдруг</hi>
+         он
+        <hi rendition="#i">и</hi>
+         получают письмо: «В таком-то месте я нахожусь» и внизу только подпись – «ваш сын такой-то», 
+        <hi rendition="#s">вот что разрешали </hi>
+        <hi rendition="#s">только</hi>
+        . Все эти письма были 
+        <hi rendition="#s">сфабрикованы</hi>
+         
+        <hi rendition="#i">уже отпечатаны заранее. Разрешалось лишь подписаться</hi>
+        .
+        <p>
+          <hi rendition="#s">Например, одного сына</hi>
+           
+          <hi rendition="#i">Одного русского молодого гражданина насильно</hi>
+           отправ
+          <hi rendition="#i">или</hi>
+           в Германию. Он сказал: «Если будет очень хорошо, я напишу удовлетворительно, если будет плохо, я напишу хорошо» и он оттуда написал: «Живу хорошо», значит плохо, не кормили и били. Условия там были ужасающие. Все они были в лагерях, 
+          <hi rendition="#s">шли</hi>
+           
+          <hi rendition="#i">ходили</hi>
+           с надписью «ост». 
+          <hi rendition="#i">У нас в Харькове </hi>
+          <hi rendition="#i">на очень короткое время начали курсировать </hi>
+          <hi rendition="#i">трамв</hi>
+          <hi rendition="#i">. вагоны, на</hi>
+           в трамваях было написано: «Первый вагон только для немцев, второй – для 
+          <hi rendition="#s">русских</hi>
+           
+          <hi rendition="#i">остальных</hi>
+          ».
+        </p>
+        <hi rendition="#s">Например, одного сына</hi>
+         
+        <hi rendition="#i">Одного русского молодого гражданина насильно</hi>
+         отправ
+        <hi rendition="#i">или</hi>
+         в Германию. Он сказал: «Если будет очень хорошо, я напишу удовлетворительно, если будет плохо, я напишу хорошо» и он оттуда написал: «Живу хорошо», значит плохо, не кормили и били. Условия там были ужасающие. Все они были в лагерях, 
+        <hi rendition="#s">шли</hi>
+         
+        <hi rendition="#i">ходили</hi>
+         с надписью «ост». 
+        <hi rendition="#i">У нас в Харькове </hi>
+        <hi rendition="#i">на очень короткое время начали курсировать </hi>
+        <hi rendition="#i">трамв</hi>
+        <hi rendition="#i">. вагоны, на</hi>
+         в трамваях было написано: «Первый вагон только для немцев, второй – для 
+        <hi rendition="#s">русских</hi>
+         
+        <hi rendition="#i">остальных</hi>
+        ».
+        <p>
+          Бывали такие факты: придет какой-нибудь больной, достанет из-за голенища «
+          <hi rendition="#i">Социалистич</hi>
+          <hi rendition="#i">.</hi>
+           Харьковщину», почитаешь ее 
+          <hi rendition="#i">с удовольствием</hi>
+          .
+        </p>
+        <hi rendition="#i">Социалистич</hi>
+        <hi rendition="#i">.</hi>
+         Харьковщину», почитаешь ее 
+        <hi rendition="#i">с удовольствием</hi>
+        .
+        <p>
+          Профессор Федоров мой пациент. Я его как-то встретил на улице. 
+          <hi rendition="#s">И его жена была моей пациенткой.</hi>
+        </p>
+        <hi rendition="#s">И его жена была моей пациенткой.</hi>
+        <p>– Как вы живете?</p>
+        <p>– Спички делаем и больше ничего.</p>
+        <p>
+          Потом я вдруг узнаю, что его расстреляли. Я спросил одного профессора 
+          <hi rendition="#i">в чем он обвинялся:</hi>
+           Он 
+          <hi rendition="#s">сделал</hi>
+           
+          <hi rendition="#i">допустил</hi>
+           большую 
+          <hi rendition="#s">глупость</hi>
+           
+          <hi rendition="#i">неосторожность</hi>
+          , 
+          <hi rendition="#i">ответили мне</hi>
+          , наклеивал на спичечные коробки русские этикетки: русский танк давит немцев. Так они и расстреляли его 
+          <hi rendition="#i">и жену за это</hi>
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i"> Так ли это? Наверно не знаю.</hi>
+        </p>
+        <hi rendition="#i">в чем он обвинялся:</hi>
+         Он 
+        <hi rendition="#s">сделал</hi>
+         
+        <hi rendition="#i">допустил</hi>
+         большую 
+        <hi rendition="#s">глупость</hi>
+         
+        <hi rendition="#i">неосторожность</hi>
+        , 
+        <hi rendition="#i">ответили мне</hi>
+        , наклеивал на спичечные коробки русские этикетки: русский танк давит немцев. Так они и расстреляли его 
+        <hi rendition="#i">и жену за это</hi>
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i"> Так ли это? Наверно не знаю.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.53" xml:space="default"/>
+        <p> О зверствах немцев во время оккупации.</p>
+        <p>Немцы в нашу деревню пришли 11-го октября. Они как пришли, сразу начали отбивать амбары и брать все, что им попадает на глаза. Через неделю немцы приехали на машинах и стали брать коров, свиней, кур, телят. Они разграбили колхозную пасеку, колхозный свинарник, где было больше 30 свиней, которые каждая весила 5 пудов, а может и больше. Они так же забрали колхозных коров, 180 овец, 100 телят. Но кроме колхозного, идиоты обобрали все и у мирных жителей. Они отбирали теплые вещи: валенки, шубы. Немцы брали все, что им нужно и не нужно. Они несли с собой детские валенки, которые им совершенно не нужны. Немцы очень боялись наших самолетов. Однажды над деревней появились 3 наших штурмовика. Немцы, заметя их, стали прятаться, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000783">
+      <titleStmt>
+        <title>Документы Минского подпольного городского комитета КП(б)Б</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 42.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Личный состав группы №1, работающий на ГЭС №2 и в электросети г. Минска</hi>
+        </p>
+        <hi rendition="#u">Личный состав группы №1, работающий на ГЭС №2 и в электросети г. Минска</hi>
+        <p>1. Гневко Дмитрий – руководитель группы кабельной электросети г. Минска, техник-электрик.</p>
+        <p>2. Солнце Леонид – электрик-механик, технический отдел минского электрохозяйства.</p>
+        <p>3. Кобелянский Иван Николаевич – старший инженер технического отдела минского электрохозяйства, инженер-теплотехник.</p>
+        <p>4. Комарова Лидия – чертежница технического отдела.</p>
+        <p>5. Комарова Елена Кондратьевна – учительница.</p>
+        <p>6. Эдик – электротехник, эвакуированный из Смоленска.</p>
+        <p/>
+        <p>8 февраля 1944 г.</p>
+        <p>Командир спецгруппы Минского горкома МГК</p>
+        <p>Ал. Осадчий</p>
+        <p>Ответственный за группу Абрилиман</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

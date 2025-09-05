@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.6 оборот" xml:space="default"/>
+        <p> Картоплю, друззі, я вітаю:</p>
+        <p>Слава чудесному пюре!</p>
+        <p>Капусту просто проклинаю,</p>
+        <p>А брукву чорт хай забере.</p>
+        <p/>
+        <p>
+          <hi rendition="#u">До дівчат!</hi>
+        </p>
+        <hi rendition="#u">До дівчат!</hi>
+        <p>Я без дівчат не можу жити,</p>
+        <p>Я мрію про дівчат завжди,</p>
+        <p>Коли накормлений і ситий</p>
+        <p>І геть далекий від нужди.</p>
+        <p/>
+        <p>Тоді дівчата вас кохаю,</p>
+        <p>Коли гарненько попоїм,</p>
+        <p>Коли кишки маршів не грають</p>
+        <p>В голоднім череві моїм.</p>
+        <p/>
+        <p>Коли ж голодний я буваю</p>
+        <p>Й по вуха вскочу у біду,</p>
+        <p>Тоді я більше вже кохаю</p>
+        <p>Картоплю, моркву, баланду.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

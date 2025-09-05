@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00001003">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Тимчуком</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л. 48-59 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.59 оборот" xml:space="default"/>
+        <p> болеют, вы все погибните. Опомнитесь и опять получите права гражданства».</p>
+        <p>Нам приходилось не только в бригаде работать.</p>
+        <p>Очень много они вывезли оружия. Отдали бригаде Титкова около 500 винтовок.</p>
+        <p>Я вышел с остатками, человек 600 в северную часть Вилейской области. Разгромили мы железную дорогу Крулевчизна-Поставы. На протяжении целого месяца немцы ею не пользовались. Это уже задание получили в помощь Красной армии.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

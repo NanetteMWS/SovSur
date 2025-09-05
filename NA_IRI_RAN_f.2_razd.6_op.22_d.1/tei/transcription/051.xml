@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.52" xml:space="default"/>
+        <p> На дворе шел все тот же мокрый и тяжелый снег.</p>
+        <p>Ночью Петра разбудили два немецких полицейских и препроводили в полицейский участок. Петр был обросший, а седина, заработанная в фашистском плену, и худоба очень старили его. Ему в то время было не менее 60 лет. В полицейском участке он заявил, что он не военнопленный, а цивильный, т.е. гражданский, и убежал, т.к. «наш» лагерь разбомбили под Берлином, в каком городе он был, – не помнит, что он Петр Смирнов, приехал в Германию работать добровольно. Брехне Петра, видимо, поверили, но для полного выявления личности через Гестапо его посадили в камеру, где сидело 2 украинца и один француз. С этого дня Петр превратился в </p>
+      </div>
+    </body>
+  </text>
+</TEI>

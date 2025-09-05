@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000092">
+      <titleStmt>
+        <title>Письма и стихи Марии Македонской</title>
+        <author>
+          <persName>Мария Кирилловна Македонская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter, poem_or_song">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Ост – означает Запад, который носили на груди все наши люди.</p>
+        <p/>
+        <p>Ост.</p>
+        <p>Ласковой, нежной улыбкой</p>
+        <p>Ты повстречала меня</p>
+        <p>В синем жекете, белом берете,</p>
+        <p>Ост на груди у тебя.</p>
+        <p/>
+        <p>Порой ночной,</p>
+        <p>Нам не встречаться с тобой.</p>
+        <p>Но не забыть мне улыбки нежной</p>
+        <p>Девушки милой родной.</p>
+        <p/>
+        <p>Ты улыбалася нежной улыбкой</p>
+        <p>И говорила, шутя,</p>
+        <p>Ост оторвется, память сотрется,</p>
+        <p>Ты позабудешь меня</p>
+        <p/>
+        <p>Может с тобою мы встретимся снова,</p>
+        <p>Ведь время у нас впереди.</p>
+        <p>В синем жекете, белом берете,</p>
+        <p>Но без Оста на груди</p>
+        <p/>
+        <p>Новая встреча</p>
+        <p>Поезд промчался стрелою,</p>
+        <p>Я выхожу на перон.</p>
+        <p>В синей шинеле, синей рубахе,</p>
+        <p>Кто-то вошел у вагон.</p>
+        <p/>
+        <p>Маленький скромненький летчик</p>
+        <p>Мне улыбнулся с окна</p>
+        <p>
+          Вспомнила (
+          <hi rendition="#s">встречи</hi>
+          ) речи
+        </p>
+        <hi rendition="#s">встречи</hi>
+        ) речи
+        <p>Прежние встречи</p>
+        <p>Его партизанский отряда.</p>
+        <p/>
+        <p>И мне не раз снилось в предутренний час,</p>
+        <p>Рабские годы</p>
+        <p>Партизанские отряды</p>
+        <p>И улыбку сверкающих глаз.</p>
+        <p/>
+        <p>Вот мы с тобою встретились снова</p>
+        <p>Помнишь свои ли ты слова</p>
+        <p>В синем жекете, белом берете,</p>
+        <p>Но на груди без Оста.</p>
+        <p/>
+        <p>Снова расстанемся летчик с тобою</p>
+        <p>Жду с нетерпеньем живет.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

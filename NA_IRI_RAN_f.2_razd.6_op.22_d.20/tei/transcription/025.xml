@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.13 оборот" xml:space="default"/>
+        <p> антифашистскую и антивласовскую пропаганду – разоблачить цель Власова, как изменника Родины, не пустить людей на власовский путь: на путь изменников.</p>
+        <p>Приведу еще один пример. В 1944 году наша группа «железнодорожников» и большинство членов ЦКБ были в г. Бамберге, где был и я, работая вже на фабрике. В одно воскресенье председатель ЦКБ т. Шевченко вызвал связного от Лихтенфельского городского КБ – Шидловская Зина. На собравшим совещании присутствовали: Шевченко, Кисиль, Приймак и Друзь. Здесь были даны указания для Лихтенфельского городского КБ (где был председателем Невидомский) и поручено Шидловской З. организовать новый городской Штафельштайнский КБ. Со своим заданием она позже отлично справилась.</p>
+        <p>При выпуске новой листовки в нас сзывались совещания. На таком совещании обсуждали содержание листовки, давали </p>
+      </div>
+    </body>
+  </text>
+</TEI>

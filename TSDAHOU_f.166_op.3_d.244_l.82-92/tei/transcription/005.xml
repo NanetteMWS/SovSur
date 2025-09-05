@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.87" xml:space="default"/>
+        <p> и явно умирающих несколько человек.</p>
+        <p>В вагоне было темно, все кричали, плакали, а солдаты смеялись, угрожая заслать на самые тяжелые работы.</p>
+        <p>В городе Катовице, Верхняя Силезия, нас сдали на распределительный пункт и оттуда отправили по лагерям или биржам соседних городов.</p>
+        <p>Через полтора месяца я попала в город Гиртберг, Нижняя Силезия. Лагерь представлял собой целый ряд бараков одноэтажных, построенных временно, где в комнате находилось до 80 человек. По сторонам стояли будки для охранников. Вся эта территория была загорожена колючей проволокой.</p>
+        <p>По отбору работников на определенные производства работала медицинская комиссия ежедневно по утрам, куда вызывали по очереди женщин, девушек и мужчин. Были люди в возрасте от 16 до 40 лет.</p>
+        <p>После осмотра комиссией под охраной отправляли поездами или машинами на место назначения. Приезжали представители немецких фирм по отбору рабочей силы. Они представляли свое требование, которое те старались удовлетворить.</p>
+        <p>Между представителями фирм и комиссией происходил спор по вопросу удовлетворения их полностью рабочей силой, потому что рабочих не хватало. В первую очередь удовлетворяли требования фирм, фабрик, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

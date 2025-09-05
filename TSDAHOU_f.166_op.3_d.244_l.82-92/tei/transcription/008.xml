@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.90" xml:space="default"/>
+        <p> следил лагерь-фюрер.</p>
+        <p>Между национальностями наблюдалась всегда солидарность в отношении помощи друг другу. Французы и бельгийцы получали большие пайки, получали лекарства, посылки. Они всегда делились с другими национальностями. У голландцев были свои тайные радио, и они всегда нам сообщали о приближении советских войск.</p>
+        <p>Были случаи, когда немки относились благосклонно к французам, помогали им материально, но их за это строго наказывали. Одну немку засудили и насильственно отправили в другой город.</p>
+        <p>Мы были совершенно изолированы в отношении жизни, только по воскресным дням нас отпускали в церковь. Немецкое население в разговоры с нами никогда не вступало. Они считали нас завоеванными рабами, называли нас свиньями.</p>
+        <p>Поляки не имели права ездить трамваями, а все остальные – только на площадках со знаком «ОСТ» на отвороте пальто. Кто такого знака не носил, полиция штрафовала. Мы должны были исполнять все то, что нам приказывали.</p>
+        <p>Переходить с фабрики на фабрику никто не имел права. Для этого нужно было иметь большие связи или же приходилось долго хлопотать, причем иметь серьезные причины для перевода на другую фабрику.</p>
+        <p>Перед нашим освобождением отношение немцев к </p>
+      </div>
+    </body>
+  </text>
+</TEI>

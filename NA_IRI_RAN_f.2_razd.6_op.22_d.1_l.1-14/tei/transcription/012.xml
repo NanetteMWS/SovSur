@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.12" xml:space="default"/>
+        <p> Адреса Е.О.А. «Воля»</p>
+        <p>1. Киев, Короленко 51 или Бердянск, Енгельса 24 – Подопригора Алексей Васильевич (Яров, Василевич);</p>
+        <p>2. Черниговская обл. г. Прилуки, Кустовцы, Нижебереговая вул. – Максим Петрович Тысенко (Правденко);</p>
+        <p>3. Тула, Революции 76 – Фаудин Александр;</p>
+        <p>4. Калининская обл. Ржевский район д. Власова – Лебедева Ольга Петровна; </p>
+        <p>5. Сталинская обл. Марьинский район, г. Красногоровка, ул. Ленина, линия № 4 – Пилипчук Стефан Прокофьевич;</p>
+        <p>6. Черниговская обл. Станция Бахмач село Бахмач 2 – Варвара Михайловна Корпан (Козлова, Шумская);</p>
+        <p>7. Калинин, 10 пос. Гостекстильская 23/5 кв. 8 – Суворина Анна Ивановна; </p>
+        <p>8. Куйбышев, Ярмолочная 19 – Козлова Мария для Петра Якушкина (Ростов);</p>
+        <p>9. Калининская обл. г. Ржев, ул. Декабристов кв. 115 д. 41 – Лисичкина Мария Д. (найти);</p>
+        <p>10. Калинин За Тверцой ул. Новбережская д. 13 а/2 – Емельянова Зоя И.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000182">
+      <titleStmt>
+        <title>Стенограмма интервью с Пелагеей Колобаевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 36-41, 49-52 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.41" xml:space="default"/>
+        <p> убили.</p>
+        <p>Когда наши пришли, этот староста жил у себя дома, его потом арестовали. Колхозники боялись, потому ходили работать. Если первый раз не выйдешь на работу, то 10 розог, второй – 15, а потом могут расстрелять или повесить.</p>
+        <p>Когда утром немцы пришли обратно, народ был в подвалах. Немцы спрашивают: «Красные были у вас?». Народ говорит, мы не видели никаких красных. Немцы спрашивают: «Где нам пройти на Ясную Поляну?». Только ушли, пришла наша красная разведка. Их встретили со слезами. Показали, где немцы клали мины. Они брали мужчин, когда закладывали мины, так что некоторые мужчины знали. Рассказали, что здесь ехать нельзя, и они пошли в наступление другим путем. Зашли с другой стороны. Немцы били из Щекина, наши из леса. Они заняли город Щекино.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">К сему</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Колобаева</hi>
+        </p>
+        <hi rendition="#i">К сему</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Колобаева</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

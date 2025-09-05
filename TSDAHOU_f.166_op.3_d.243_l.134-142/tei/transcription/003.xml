@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.137" xml:space="default"/>
+        <p> полицией. С верхних улиц собрали полторы тысячи человек. Брали женщин с маленькими детьми. На следующий день их расстреляли. Мы были на нижней улице.</p>
+        <p>Я со своим ребенком пошла в немецкую комендатуру покупать пропуск, чтобы перейти на румынскую сторону. Сын мой похож на еврея. В комендатуре увидела Трукенброта. Он сидел в отдельном кабинете. Я поняла, что это главный начальник. Переводчик сразу посмотрел на моего сына. Я говорю:</p>
+        <p>– Чего вы так смотрите?</p>
+        <p>– Я бы сказал, что у вас еврейский ребенок.</p>
+        <p>– Ну, конечно.</p>
+        <p>Я спросила, как получить пропуск. Он сказал, пойдите на ул. Сталина, там получите пропуск. Я решила, что мне больше не надо показываться. Муж достал мне пропуск у одной русской женщины. Я перешла деревянный мост и начала проживать на румынской территории.</p>
+        <p>9-го января 1942 года мне принесли ребенка моего брата. В этот день была убита жена брата со вторым ребенком и все остальные евреи, кроме 30 специалистов, оставленных для немецкой комендатуры – сапожники, портные.</p>
+        <p>На немецкой стороне жили евреи до момента, когда наши одержали победу под Сталинградом. Тогда были уничтожены все остальные евреи, кроме четырех человек, которые остались в живых – художник, заготовщик. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

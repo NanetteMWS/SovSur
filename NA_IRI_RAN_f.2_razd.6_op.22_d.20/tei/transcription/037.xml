@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.19 оборот" xml:space="default"/>
+        <p> Каждый, кто был в германской неволе, сможет привести много характерных этому примеров.</p>
+        <p>Взрывчатые вещества и оружие сами больше и легше доставали при транспортировке его, вскрывая вагоны днем и ночью во время тревоги и налетов. Кроме этого, часто обирали склады.</p>
+        <p>18 км от Бамберга в конце 1944 г. был обобран небольшой склад, где были автоматы, винтовки, наганы и обмундирование. По неточным данным, эти 5 человек ушли к партизанским отрядам в Мангаймский округ.</p>
+        <p>Три раза нападали на военный склад в Швайнфурте. Несмотря на длинновременный розыск, полиция так ничего не смогла снайти. Добыв оружие, сумели его и спрятать. Оно было в тех местах, где не могла найти полиция, и где можно было взять сразу же при потребности. Находясь на железной дороге, нам приходилось жить в вагонах – мы прятали его между стенки вагонов, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

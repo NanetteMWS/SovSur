@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000974">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Богдановым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.8 оборот" xml:space="default"/>
+        <p> Во второй приход в марте 1943 г. Институт занимался демонтажем малого Ван-Грааффа и отправкой оборудования, инструмента и биб- лиотеки в Мюнхен. </p>
+        <p>Было вывезено во второй раз: малый Ван-Граафф, водопроводное оборудование (сифоны, раковины и т.д.). </p>
+        <p>Был начат демонтаж большого Ван-Грааффа.</p>
+        <p>Из механической мастерской были вывезены оставшиеся токарные и строгальные станки. </p>
+        <p>Было увезено за все время оккупации 4 автомашины (3 грузовых и одна легковая).</p>
+        <p>Мин в зданиях заложено не было, но был заготовлен бензин для поджога высоковольтного корпуса. Однако этот вопрос не был согласован между немцами, т.к. бензин был расхищен стоявшей затем в ВВК немецкой артиллерийской частью. </p>
+        <p>Также был уничтожен и Инженерно-строительный институт, который после немецкого хозяйничанья был занят итальянским лазаретом.</p>
+        <p>По распоряжению главврача этого лазарета ценнейшая библиотека Института была выброшена во двор во время ненастной погоды. Конечно, большинство книг погибло, и только небольшую часть их удалось спасти.</p>
+        <p/>
+        <p>Доцент ХММИ инженер Богданов.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

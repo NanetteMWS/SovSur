@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.56 оборот" xml:space="default"/>
+        <p> слезы катились по щекам нашим.</p>
+        <p>Возвратившись, мы пошли на работу, где нас встретили бранью, руганью. Окончив свою работу, мы пришли домой, и к нам прибежали с мебельной фабрики Василий Чижик и Сережа. Они сообщали, что фронт недалеко, что они слышали от немцев, что днями будут здесь американцы. Нам просто не верилось, что так скоро, но фронт был уже совсем близко. Мы принялись рыть себе окоп, чтобы можно было где спрятаться от пуль. Немцы зарывали вещи, продукт в землю, а мы им помогали с целью, чтобы потом быстро можно было найти. </p>
+        <p>
+          Уже в следующее воскресенье мы видим отступающих немцев, которых было полно здесь, в лесу, и которые не укреплялись здесь, в лесу. В это воскресенье после обеда мы 
+          <hi rendition="#s">были</hi>
+           собрались, были на лугу, много девушек, ребят, и выжидали, пока немцы отступят, а потом до слуха нашего 
+        </p>
+        <hi rendition="#s">были</hi>
+         собрались, были на лугу, много девушек, ребят, и выжидали, пока немцы отступят, а потом до слуха нашего 
+      </div>
+    </body>
+  </text>
+</TEI>

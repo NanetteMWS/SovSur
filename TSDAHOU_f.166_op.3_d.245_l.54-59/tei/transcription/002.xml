@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000826">
+      <titleStmt>
+        <title>Стенограмма беседы с Верой Пономаревой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 54-59.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.56" xml:space="default"/>
+        <p> который состоял из чистокровных немцев-рейхсдойч.</p>
+        <p>Городская управа непосредственно подчинялась гебитскомиссару. Правда, в некоторых вопросах давала свои распоряжения и ортскомендатура, но это касалось отдельных вопросов: найти квартиру для вступающих войск, приготовить конюшни для лошадей и т.д.</p>
+        <p>В городской управе был небольшой штат, во главе был бургомистр – начальник города, городской голова, как иногда его называли, его заместитель, бухгалтер, помощник бухгалтера, кассир. Весь штат состоял из 10 человек. Секретарем управления являлся заместитель бургомистра. Подотделом являлся паспортный стол, который находился в одном помещении и подчинялся городской управе. Паспорта оформлял начальник паспортного стола, но подписывал бургомистр и ставилась печать городской управы.</p>
+        <p>Украинская полиция управе не подчинялась, подчинялась жандармерии и ортскомендатуре.</p>
+        <p>До некоторой степени подчинялся городской управе дорожный отдел, строительная контора, больницы и школы. Работало всего 4 школы и то не все время.</p>
+        <p>Председателем городской управы был фольксдойч, бывший учитель немецкого языка в школе Шейфеле, зам. – тоже фольксдойч, заместители очень часто менялись. Был Келлер, Вариентин и др.</p>
+        <p>Первый приказ городской управы был такой: </p>
+      </div>
+    </body>
+  </text>
+</TEI>

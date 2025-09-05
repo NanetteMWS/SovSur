@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.69" xml:space="default"/>
+        <p> Наконец, мы получили право поездки на Родину. 20 июля выехали мы со станции Оппельн. Через пару дней мы были уже на своей родной земле. Материнской теплотой и лаской повеяли на нас родные города и села, поля леса, родной народ встречал нас, кругом были свои. 27 июля мы приехали на станцию родного Могилева. Выйдя с вагона мы твердо и уверенно шли по родной освобожденной земле.</p>
+        <p/>
+        <p>Многоуважаемый т. Коган.</p>
+        <p>Ваше письмо мы получили, за которое сердечно Вас благодарим. С небольшим опозданием даю ответ. Брат Михаил работает в районе, и мы ждали его для того, чтобы вместе фотографироваться. Сегодня я посылаю Вам три фотокарточки и совсем небольшой дополнительный материал. Это все, что я могу еще добавить. К сожалению, у меня не сохранилось больше ничего.</p>
+        <p>Прошу извинения за неполный дополнительный материал.</p>
+        <p>Привет от Михаила, т. Дарьи М., Михаила, Василия, Дуси, Зины.</p>
+        <p>Просим Вас, пишите по возможности ответ.</p>
+        <p>24/XI-46 г.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

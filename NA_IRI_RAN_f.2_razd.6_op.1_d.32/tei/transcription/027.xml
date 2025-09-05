@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.23" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">Примером в этом </hi>
+          <hi rendition="#s">[</hi>
+          <hi rendition="#s">1 слово непонятно</hi>
+          <hi rendition="#s">]</hi>
+        </p>
+        <hi rendition="#s">Примером в этом </hi>
+        <hi rendition="#s">[</hi>
+        <hi rendition="#s">1 слово непонятно</hi>
+        <hi rendition="#s">]</hi>
+        <p>Бюро Сокольнического РК ВКП(б) одобрила инициативу работниц «Кр. Богатыря» и приняло решение организовать на предприятиях и среди жителей района сбор вещей для жителей освобожденных районов (Моск. больш. 20/XII-41 г. №300)</p>
+        <p>22/XII-41 г. на арматурном заводе №1, на заводе им. Молотова, на фабрике им. Калинина и мн. Другие предприятиях Моск. района также начался сбор одежды и обуви для освоб. районов («Моск. больш.» 23/XII-41 г. №302).</p>
+        <p>
+          Движение с каждым днем расширялось. С горячим братским сочувствием трудящиеся столицы старались чем могли помочь жителям освобожденных районов. К началу января от трудящиеся Москвы поступило около 300 т. различных предметов, значительная часть которых были уже 
+          <hi rendition="#s">к нача</hi>
+           к этому времени, к началу января доставлены в Клин, Истру, Солнечногорск, Кр. Поляну и др. освоб. районы области («Правда» 8 и 14/I-42 г. №8 и 14).
+        </p>
+        <hi rendition="#s">к нача</hi>
+         к этому времени, к началу января доставлены в Клин, Истру, Солнечногорск, Кр. Поляну и др. освоб. районы области («Правда» 8 и 14/I-42 г. №8 и 14).
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

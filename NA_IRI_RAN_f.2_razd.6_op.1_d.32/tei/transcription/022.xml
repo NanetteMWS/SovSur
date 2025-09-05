@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p> обеспечивалось специальными электро- и ветродвигателями. Средний удой на корову составлял 4½ т. литров.</p>
+        <p>В с. Петелино процветала свиноферма. Колхоз «Красный маяк», где ежегодно выращивали 23-24 [1 слово неразборчиво] поросенки на матку.</p>
+        <p>В с. Яропольце была гидроэлектростанция, построенная еще в 1920 г. с помощью и при личном участии В.И. Ленина, которая послужила образцом для ряда колхозных электростанций – немцы все разрушили.</p>
+        <p>
+          <hi rendition="#i">После</hi>
+           
+          <hi rendition="#s">После изгнания немецких оккупантов</hi>
+           
+          <hi rendition="#i">их изгнания</hi>
+           колхозники увидели пепелище на месте цветущих 
+          <hi rendition="#s">МТФ</hi>
+           колхозов.
+        </p>
+        <hi rendition="#i">После</hi>
+         
+        <hi rendition="#s">После изгнания немецких оккупантов</hi>
+         
+        <hi rendition="#i">их изгнания</hi>
+         колхозники увидели пепелище на месте цветущих 
+        <hi rendition="#s">МТФ</hi>
+         колхозов.
+        <p>
+          <hi rendition="#s">[</hi>
+          <hi rendition="#s">1 слово непонятно</hi>
+          <hi rendition="#s">]</hi>
+          <hi rendition="#s"> чудесно быстро восст</hi>
+        </p>
+        <hi rendition="#s">[</hi>
+        <hi rendition="#s">1 слово непонятно</hi>
+        <hi rendition="#s">]</hi>
+        <hi rendition="#s"> чудесно быстро восст</hi>
+        <p>
+          <hi rendition="#s">Колхозники своим трудом очистили фашистам</hi>
+           Чудесно быстро восстанавливая колхозное хозяйство, колхозники 
+          <hi rendition="#i">тем самым</hi>
+           мстили ненавистным врагам, боролись с ним.
+        </p>
+        <hi rendition="#s">Колхозники своим трудом очистили фашистам</hi>
+         Чудесно быстро восстанавливая колхозное хозяйство, колхозники 
+        <hi rendition="#i">тем самым</hi>
+         мстили ненавистным врагам, боролись с ним.
+        <p>А борьбе с фашистами они научились у славной Панфиловской дивизии, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

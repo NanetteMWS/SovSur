@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000838">
+      <titleStmt>
+        <title>Стенограма бесіди з Пилипом Фрідманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 246. Арк. 77-89.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.88" xml:space="default"/>
+        <p> а з політичної точки зору.</p>
+        <p>
+          СС почало своє урядування в справі євреїв з того, що перевіряли посвідки праці і клали печать на ці посвідки. Це все провадилося по містах роботи. Кому печатки не давали, зараз же забирали до концлагерів. Євреї думали, що це вже кінець і що євреї, які мають печатку, залишаються в живих. Раптово 10 серпня 1942 р. началася велика акція, найбільша у Львові, яка була організована в такий спосіб: великі сили СС, гестапо
+          <hi rendition="#i">, </hi>
+          <hi rendition="#i">Шуц</hi>
+          <hi rendition="#i">п</hi>
+          <hi rendition="#i">оліцай</hi>
+           і української поліції взяли участь в акції. Ця акція тривала 
+          <hi rendition="#s">більше чим два</hi>
+           
+          <hi rendition="#i">коло </hi>
+          <hi rendition="#i">три</hi>
+          <hi rendition="#i"> два</hi>
+           тижні. Ходили по хатах, забирали з підприємств і разом переводили їх до концлагеру на Янівське, а потім висилали до Белзца, де їх нищили порядком спалення в газових камерах. 55.000 чоловік загинуло в цій акції. Вона закінчилася 21-22 серпня.
+        </p>
+        <hi rendition="#i">, </hi>
+        <hi rendition="#i">Шуц</hi>
+        <hi rendition="#i">п</hi>
+        <hi rendition="#i">оліцай</hi>
+         і української поліції взяли участь в акції. Ця акція тривала 
+        <hi rendition="#s">більше чим два</hi>
+         
+        <hi rendition="#i">коло </hi>
+        <hi rendition="#i">три</hi>
+        <hi rendition="#i"> два</hi>
+         тижні. Ходили по хатах, забирали з підприємств і разом переводили їх до концлагеру на Янівське, а потім висилали до Белзца, де їх нищили порядком спалення в газових камерах. 55.000 чоловік загинуло в цій акції. Вона закінчилася 21-22 серпня.
+        <p>
+          Майно тих євреїв, які були знищені, забирали німці. Тим часом керівник СС, генерал бригади Кацман видав розпорядження про утворення гетто. До 7-го жовтня всі євреї мусіли залишити свої помешкання в місті і оселитися в гетто. На гетто було призначено досить невелика частина передмістя Замарстинова, яке було оточене від півдня залізничним полотном, від заходу вул. Замарстинівською, від сходу вул. Варшавською. Це місце було занадто мале 
+          <hi rendition="#s">до</hi>
+           
+          <hi rendition="#i">для</hi>
+           40.000 євреїв, які ще тоді залишалися у Львові. В одній кімнаті повинно було жити 10-15 чоловік. Офіційно відводили три кубічних метри на душу, але і того не було. Тому в гетто загинуло багато людей від різних хвороб.
+        </p>
+        <hi rendition="#s">до</hi>
+         
+        <hi rendition="#i">для</hi>
+         40.000 євреїв, які ще тоді залишалися у Львові. В одній кімнаті повинно було жити 10-15 чоловік. Офіційно відводили три кубічних метри на душу, але і того не було. Тому в гетто загинуло багато людей від різних хвороб.
+        <p>
+          Коло 18-го листопада німці зробили нову акцію, а саме всі люди, які працювали в військових підприємствах, одержали таблиці з номером і літерою «
+          <hi rendition="#i">W</hi>
+          »
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">W</hi>
+          <hi rendition="#i">=</hi>
+          <hi rendition="#i">Wehrmacht</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">R</hi>
+          <hi rendition="#i">=</hi>
+          <hi rendition="#i">R</hi>
+          <hi rendition="#i">ü</hi>
+          <hi rendition="#i">s</hi>
+          <hi rendition="#i">tung</hi>
+          . Інші, які працювали в підприємствах, важних для оборонної промисловості, одержали таблиці 
+        </p>
+        <hi rendition="#i">W</hi>
+        »
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">W</hi>
+        <hi rendition="#i">=</hi>
+        <hi rendition="#i">Wehrmacht</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">R</hi>
+        <hi rendition="#i">=</hi>
+        <hi rendition="#i">R</hi>
+        <hi rendition="#i">ü</hi>
+        <hi rendition="#i">s</hi>
+        <hi rendition="#i">tung</hi>
+        . Інші, які працювали в підприємствах, важних для оборонної промисловості, одержали таблиці 
+      </div>
+    </body>
+  </text>
+</TEI>

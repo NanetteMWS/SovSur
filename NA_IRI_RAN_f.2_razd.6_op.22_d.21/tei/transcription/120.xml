@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.61" xml:space="default"/>
+        <p> спрятали оружие, трое ребят скрывавшихся у нас, удрали в лес, но их заметили, и вскоре одного с них поймали, а двух не нашли. </p>
+        <p>Мы сильно тревожились за судьбу товарищей. Работа не клеилась, были взволнованными, а хозяйка все время ругала, ворчала. Но, тут снова я услышала шум, визг и крик в дому. Дочка хозяйки, которая работала на поле, прибежала домой бледная, страшная и такой крик подняла, что она видела американские танки за рекой. Я в свою очередь справила крик и выскочила на улицу, меня поймали немцы, держат, и думали, что мне плохо, дурно стало, но я вырвалась, прибежала домой и кричала, прыгала от радости, а никто еще ничего не знал и на меня смотрели с недоумением. Я кричу, что американские танки здесь, а мне не верят, думают, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

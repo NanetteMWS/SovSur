@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.50" xml:space="default"/>
+        <p> проделать с нами. Оказывается, лес, в который нас послали, находясь сейчас же позади их передовых линий, неминуемо должен был усиленно обстреливаться нашей артиллерией. Немцы это знали и нарочно послали тысячи женщин, стариков и детей под обстрел наших пушек. К счастью, прошлою ночью нас обнаружили наши переодетые разведчики. Они сообщили командованию, и огонь советских орудий был перенесен через нас на истринское поле. Снова случай избавил нас от гибели, которую «на прощанье» готовили нам гитлеровские «лучшие, отборные СС». </p>
+        <p>Еще ночь переночевали мы в окопе, в лесу, а затем вышли на дорогу и стали пробираться к Москве. </p>
+        <p>За время ночевки в лесу замерзло четыре младенца. По дороге к Москве две самых холодных ночи провела я в церкви при сожженной деревне Дарне, о которой говорит в своей ноте В.М. Молотов. Здесь беженцы питались убитыми лошадьми. Путь был очень труден. Шоссе по краям было минировано; часто попадались нам трупы несчастных беженцев, подорвавшихся на минах, обогреться было негде – все деревни до Снегирей при отступлении были выжжены осатанелыми немцами. Навстречу нам непрерывной вереницей шли наши доблестные войска. Они гнали гитлеровскую орду все дальше и дальше, и это нам придавало новые силы. В дер. Подкорино военная машина подобрала меня с дочерью и доставила в Москву, куда я прибыла 14 декабря 1941 г.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

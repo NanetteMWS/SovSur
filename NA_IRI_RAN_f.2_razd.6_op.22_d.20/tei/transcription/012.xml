@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p>
+           карманчике (сзади в брюках) 20-30 сантиметровую кожаную плетку, которая была внутри наполненная железными шариками. Заметив что-нибудь не по-своему 
+          <hi rendition="#i">его</hi>
+          , в его руках появлялась она и затем ложилась на нашем теле, где попало. После такого удара невозможно было дотронуться к той части тела, где был нанесен он.
+        </p>
+        <hi rendition="#i">его</hi>
+        , в его руках появлялась она и затем ложилась на нашем теле, где попало. После такого удара невозможно было дотронуться к той части тела, где был нанесен он.
+        <p>Несмотря на строгую охрану, нечеловеческое отношение и условия жизни, через год (весной 1943 г.) нас начали небольшими группами по 6-12 человек пускать свободно на прогулку в течении 3-7 часов. Необходимо отметить, что эта прогулка сыграла значительную роль в объединении подпольной антифашистской организации.</p>
+        <p>Осенью 1943 г. нашу команду «железнодорожников» (так называли нас окружающие товарищи) вывезли работать в другое место, за 150 км от старого, в г. Арнштайн, а потом в г. Шонунген возле г. Швайнфурта, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

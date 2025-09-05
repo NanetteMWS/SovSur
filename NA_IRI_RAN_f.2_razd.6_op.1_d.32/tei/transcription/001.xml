@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">Напечатать в 3-х экземплярах.</hi>
+        </p>
+        <hi rendition="#s">Напечатать в 3-х экземплярах.</hi>
+        <p>
+          <hi rendition="#s">Прошу при перепечатке материала ссылки на источники, перенести в сноски</hi>
+          <hi rendition="#s">.</hi>
+        </p>
+        <hi rendition="#s">Прошу при перепечатке материала ссылки на источники, перенести в сноски</hi>
+        <hi rendition="#s">.</hi>
+        <p>
+          <hi rendition="#s">Б. Лихтер</hi>
+        </p>
+        <hi rendition="#s">Б. Лихтер</hi>
+        <p>
+          <hi rendition="#s">8/</hi>
+          <hi rendition="#s">IV</hi>
+          <hi rendition="#s">-44 г.</hi>
+        </p>
+        <hi rendition="#s">8/</hi>
+        <hi rendition="#s">IV</hi>
+        <hi rendition="#s">-44 г.</hi>
+        <p>
+          <hi rendition="#s">Приложение</hi>
+          <hi rendition="#s">: 4 таблицы.</hi>
+        </p>
+        <hi rendition="#s">Приложение</hi>
+        <hi rendition="#s">: 4 таблицы.</hi>
+        <p>Оккупационный режим и восстановление в деревнях Московской области.</p>
+        <p>IV.1944 г. – материал составлен старшим научным сотрудником Комиссией Б. Лихтер.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

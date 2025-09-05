@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.40" xml:space="default"/>
+        <p> к колхозному строю, к социал. родине) на производственные успехи.</p>
+        <p>VIII. Сельскохозяйственный 1943 год прошел с еще большим успехом. По определению т. Тарасова, «область неплохо провела весенний сев и уборку урожая. План сева выполнен на 108,4%, план посадки картофеля – на 102,6%. При этом, несмотря на ряд серьезных трудностей, посевные площади в освобожденных районах заметно увеличены по сравнению с 1942 г. Задания по тракторным работам уже к 10/XI МТС выполнили на 122%, сэкономив горючего на 500 тысяч рублей. МТС дали около 4-х миллионов рублей экономии.</p>
+        <p>Значительно лучше и организованнее прошли нынче заготовки сельскохозяйственных продуктов. Область в целом досрочно выполнила план сдачи картофеля и овощей государству, продав сверх плана 60 тысяч тонн картофеля. При этом сверхплановая сдача и закупки продовольствия продолжаются во всех без исключения районах» («Моск. больш.» 12/XII-43 г. №293).</p>
+        <p>Клинский район в 1943 г. к 1/XI – сдал госпоставки зерна, картофеля, овощей, льна – раньше довоенных лет.</p>
+        <p>В Московской области в 1943 г. прошел с </p>
+      </div>
+    </body>
+  </text>
+</TEI>

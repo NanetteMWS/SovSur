@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000279">
+      <titleStmt>
+        <title>Воспоминания Октябрины Гудимовы</title>
+        <author>
+          <persName>Октябрина Павловна Гудимова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 65.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> и стал спрашивать: сколько мне лет, почему я грязная; заставлял не плакать, а смеяться и, пробормотав «гут», «гут» ушел вместе с унтер-офицером.</p>
+        <p>К вечеру комнатушка была загружена людьми. Несмотря на разбитые окна и разваленную печку, в комнате было жарко, дышать было тяжело. У входа стоял патруль. В комнату вернулись мужчины, которые были на тяжелых работах. Их там впрягали в повозки со снарядами и заставляли возить. Кто был не в силах тащить тяжелый груз, того били.</p>
+        <p>Начинало темнеть. Женщины, особенно девушки, «гримировались». Так как на меня обратил внимание солдат, мне пришлось мазаться больше всех: лицо натирали мусором с пола, мелом со стенок; одежду тоже.</p>
+        <p>В половине 8-го вечера в комнату вошли прежние солдат с унтером и начали выбирать </p>
+      </div>
+    </body>
+  </text>
+</TEI>

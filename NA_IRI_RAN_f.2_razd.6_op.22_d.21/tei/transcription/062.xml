@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.32" xml:space="default"/>
+        <p> партизаны, как трудится наш народ на фабриках, заводах, как девушки-студентки пошли работать на заводы, как учатся в школах, так меня это все интересовало, так внимательно я слушала, боясь пропустить слово, и другой раз так заслушаюсь, что забываю, где я и что со мной. Мне запомнился один момент, когда я в слезах было бросилась к радио и обнимала его обеими руками, когда прочли письма фронтовиков, и один с них писал: «Дорогие родители, мы стоим у самой вражеской границе, перед нами вражеская земля, как на ладони и т.д.», и заканчивалось это письмо: «Скоро, скоро, колеса советской пушки прокатятся по вражеской земле». Услыхав это, я прыгала, бросалась к радио, смеялась и плакала, но меня никто не видел, и я была довольно этим. После я себя ругала и стыдила за невыдержанность. Все это я передавала в лагерь, где девушки </p>
+      </div>
+    </body>
+  </text>
+</TEI>

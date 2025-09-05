@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> 18 декабря</p>
+        <p>
+          Когда немецкие оккупанты ворвались в нашу деревню, они стали отбирать коров. К нам пришли и сказали: матока, корову. Мы сказали нет, они сказали: если найдем, тогда капут. Они пошли на двор и увели корову и больше не пришли. Когда немцы совсем уехали, мать скорей схоронила валенки. Потом пришли другие немцы и стали искать валенки. Я сидела на печке и подожмала ноги, чтобы немцы не взяли валенки. Потом немец увидел меня и влез на печку, я не знала, что мне тогда осталось делать. Немец стащил меня с печки и разул. Взял валенки и пошел, мать 
+          <hi rendition="#s">бопеш</hi>
+           побежала за ним. Он остановился в сенях 
+        </p>
+        <hi rendition="#s">бопеш</hi>
+         побежала за ним. Он остановился в сенях 
+      </div>
+    </body>
+  </text>
+</TEI>

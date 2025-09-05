@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000999">
+      <titleStmt>
+        <title>Стенограмма беседы с Алексеем Гехтманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 46.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p>
+           Институт не работал. Был такой 
+          <hi rendition="#i">проф.</hi>
+           Ветухов. Между прочим, 
+          <hi rendition="#i">по-</hi>
+          <hi rendition="#i">моему</hi>
+          , он большой болван. Когда мы все голодали, в список ученых, 
+          <hi rendition="#i">нуждающихся в снабжении </hi>
+          <hi rendition="#i">хотя бы единовременным пайком</hi>
+           попал и я. Он вычеркнул, написав «жид». Это был один из тех моментов, который страшно меня 
+          <hi rendition="#s">волновал</hi>
+           
+          <hi rendition="#i">поразил и взволновал</hi>
+          . Раз Ветухов написал, значит завтра придут и расстреляют меня без всякого суда. Этот Ветухов после того, как к нему начали ходить, просить 
+          <hi rendition="#i">быть осторожнее,</hi>
+           
+          <hi rendition="#s">хотел что-то</hi>
+           
+          <hi rendition="#i">ничего не</hi>
+           сдела
+          <hi rendition="#s">ть</hi>
+          <hi rendition="#i">л</hi>
+          , 
+          <hi rendition="#s">но он ничего не сделал.</hi>
+           
+          <hi rendition="#i">проф. </hi>
+          <hi rendition="#i">Ветухов</hi>
+          <hi rendition="#i"> заявлял, что все документы могут быть ворованы, фальшивые и т.д. Как мог профессор так относиться к </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">1 слово непонятно</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> вопросу и советскому гражданину мне и до сих пор непонятно. </hi>
+          <hi rendition="#i">Во время немецкой оккупации появилось очень много самозванцев; последние </hi>
+          <hi rendition="#i">называли себя профессорами, доцентами и т.д. не имея на это никакого права; т. напр. </hi>
+          <hi rendition="#i">завед</hi>
+          <hi rendition="#i">. Здравотделом </hi>
+          <hi rendition="#i">докт</hi>
+          <hi rendition="#i">. Добровольский стал величать себя профессором; дабы всех уверить в этом, он, как профессор, собирал на заседание профессоров; но все заканчивалось лишь тем, что профессора собирались и </hi>
+          <hi rendition="#i">расходились</hi>
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#s">У нас оставалась группа</hi>
+          <hi rendition="#s"> профессоров. Например, Добровольский почему-то называл себя профессором. Он просто врач. Раз пять мы собирались</hi>
+          <hi rendition="#s">, этим дело кончалось.</hi>
+           Как только немцы вошли, первым долгом начали грабить 
+          <hi rendition="#i">на улице </hi>
+          <hi rendition="#i">мирн</hi>
+          <hi rendition="#i">. население</hi>
+          . Например, нужно было мне пройти через мост. Меня спрашивают: «аус вейс?» Я достаю 
+          <hi rendition="#s">портмоне</hi>
+           
+          <hi rendition="#i">бумажник</hi>
+          . Он говорит: «
+          <hi rendition="#s">Портмоне</hi>
+           
+          <hi rendition="#i">Бумажник</hi>
+           хорош
+          <hi rendition="#s">ее</hi>
+          <hi rendition="#i">ий</hi>
+          » и к себе в карман. Я спрашиваю: «Что же такое?» Он: «вэк, вэк» и я 
+          <hi rendition="#s">пошел</hi>
+           
+          <hi rendition="#i">должен был уйти</hi>
+          . В аптек
+          <hi rendition="#i">е</hi>
+          <hi rendition="#s">ах</hi>
+           они 
+          <hi rendition="#i">грабили</hi>
+           все, 
+          <hi rendition="#i">особенно</hi>
+           наркоти
+          <hi rendition="#s">ки</hi>
+          <hi rendition="#i">ч</hi>
+          <hi rendition="#i">. вещества</hi>
+           
+          <hi rendition="#s">взяли</hi>
+          , 
+          <hi rendition="#i">затем</hi>
+           продавали их на базаре, а деньги присваивали себе. Немцы колоссальные спекулянты. 
+          <hi rendition="#s">Весь Харьков спекулировал.</hi>
+           
+          <hi rendition="#i">Они в Харькове спекулировали всем.</hi>
+           Все, что хотите, продавали. Немцы 
+          <hi rendition="#s">только</hi>
+           доставали или воровали, а продавали 
+          <hi rendition="#i">через</hi>
+           женщин
+          <hi rendition="#s">ы</hi>
+           и дет
+          <hi rendition="#s">ишки</hi>
+          <hi rendition="#i">ей</hi>
+          . За каждым немцем, как только он появлялся, 
+          <hi rendition="#i">составлялся</hi>
+           хвост детишек в возрасте от 10 до 15 лет.
+        </p>
+        <hi rendition="#i">проф.</hi>
+         Ветухов. Между прочим, 
+        <hi rendition="#i">по-</hi>
+        <hi rendition="#i">моему</hi>
+        , он большой болван. Когда мы все голодали, в список ученых, 
+        <hi rendition="#i">нуждающихся в снабжении </hi>
+        <hi rendition="#i">хотя бы единовременным пайком</hi>
+         попал и я. Он вычеркнул, написав «жид». Это был один из тех моментов, который страшно меня 
+        <hi rendition="#s">волновал</hi>
+         
+        <hi rendition="#i">поразил и взволновал</hi>
+        . Раз Ветухов написал, значит завтра придут и расстреляют меня без всякого суда. Этот Ветухов после того, как к нему начали ходить, просить 
+        <hi rendition="#i">быть осторожнее,</hi>
+         
+        <hi rendition="#s">хотел что-то</hi>
+         
+        <hi rendition="#i">ничего не</hi>
+         сдела
+        <hi rendition="#s">ть</hi>
+        <hi rendition="#i">л</hi>
+        , 
+        <hi rendition="#s">но он ничего не сделал.</hi>
+         
+        <hi rendition="#i">проф. </hi>
+        <hi rendition="#i">Ветухов</hi>
+        <hi rendition="#i"> заявлял, что все документы могут быть ворованы, фальшивые и т.д. Как мог профессор так относиться к </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">1 слово непонятно</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> вопросу и советскому гражданину мне и до сих пор непонятно. </hi>
+        <hi rendition="#i">Во время немецкой оккупации появилось очень много самозванцев; последние </hi>
+        <hi rendition="#i">называли себя профессорами, доцентами и т.д. не имея на это никакого права; т. напр. </hi>
+        <hi rendition="#i">завед</hi>
+        <hi rendition="#i">. Здравотделом </hi>
+        <hi rendition="#i">докт</hi>
+        <hi rendition="#i">. Добровольский стал величать себя профессором; дабы всех уверить в этом, он, как профессор, собирал на заседание профессоров; но все заканчивалось лишь тем, что профессора собирались и </hi>
+        <hi rendition="#i">расходились</hi>
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#s">У нас оставалась группа</hi>
+        <hi rendition="#s"> профессоров. Например, Добровольский почему-то называл себя профессором. Он просто врач. Раз пять мы собирались</hi>
+        <hi rendition="#s">, этим дело кончалось.</hi>
+         Как только немцы вошли, первым долгом начали грабить 
+        <hi rendition="#i">на улице </hi>
+        <hi rendition="#i">мирн</hi>
+        <hi rendition="#i">. население</hi>
+        . Например, нужно было мне пройти через мост. Меня спрашивают: «аус вейс?» Я достаю 
+        <hi rendition="#s">портмоне</hi>
+         
+        <hi rendition="#i">бумажник</hi>
+        . Он говорит: «
+        <hi rendition="#s">Портмоне</hi>
+         
+        <hi rendition="#i">Бумажник</hi>
+         хорош
+        <hi rendition="#s">ее</hi>
+        <hi rendition="#i">ий</hi>
+        » и к себе в карман. Я спрашиваю: «Что же такое?» Он: «вэк, вэк» и я 
+        <hi rendition="#s">пошел</hi>
+         
+        <hi rendition="#i">должен был уйти</hi>
+        . В аптек
+        <hi rendition="#i">е</hi>
+        <hi rendition="#s">ах</hi>
+         они 
+        <hi rendition="#i">грабили</hi>
+         все, 
+        <hi rendition="#i">особенно</hi>
+         наркоти
+        <hi rendition="#s">ки</hi>
+        <hi rendition="#i">ч</hi>
+        <hi rendition="#i">. вещества</hi>
+         
+        <hi rendition="#s">взяли</hi>
+        , 
+        <hi rendition="#i">затем</hi>
+         продавали их на базаре, а деньги присваивали себе. Немцы колоссальные спекулянты. 
+        <hi rendition="#s">Весь Харьков спекулировал.</hi>
+         
+        <hi rendition="#i">Они в Харькове спекулировали всем.</hi>
+         Все, что хотите, продавали. Немцы 
+        <hi rendition="#s">только</hi>
+         доставали или воровали, а продавали 
+        <hi rendition="#i">через</hi>
+         женщин
+        <hi rendition="#s">ы</hi>
+         и дет
+        <hi rendition="#s">ишки</hi>
+        <hi rendition="#i">ей</hi>
+        . За каждым немцем, как только он появлялся, 
+        <hi rendition="#i">составлялся</hi>
+         хвост детишек в возрасте от 10 до 15 лет.
+        <p>------</p>
+        <p>
+          [
+          <hi rendition="#i">П</hi>
+          <hi rendition="#i">одпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">П</hi>
+        <hi rendition="#i">одпись</hi>
+        ]
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> С какой целью происходило разрушение? Оказывается, штатскомиссариат и другие учреждения оккупантов заняли по преимуществу здания с центральными отоплением в Липках и других районах, в которых не было печей, и вот для постройки печей началась разборка печей и печных приборов в Лавре, а для их отопления более пригодным материалом оказались не дрова, нарубленные где-либо в лесу, а дерево – балки, полы, потолки, перегородки из Лавры. Невероятно, но факт.</p>
+        <p>
+          Какай же смысл в этом разрушении? Ответ на этот вопрос мы можем получить, обратившись к событиям, сопровождающим бегство оккупантов из Киева. Что разрушается, что жжется оккупантами при бегстве из Киева. Взрываются, сжигаются и полностью уничтожаются университет со всеми музеями, библиотеками, архивами и кабинетами, библиотека Академии Наук, библиотека 
+          <hi rendition="#i">им.</hi>
+           ВКП (б), школы и больницы… Только безмерною злобою и подлой местью можно объяснить все эти факты.
+        </p>
+        <hi rendition="#i">им.</hi>
+         ВКП (б), школы и больницы… Только безмерною злобою и подлой местью можно объяснить все эти факты.
+        <p>Как развивались события, что происходило в Лавре с момента оккупации Киева?</p>
+        <p>Все события, сопровождающие разрушению Лавры, можно разделить на периоды:</p>
+        <p>I. Первые дни пребывания немцев в Киеве и Лавре с 19 сентября по 15 октября 1941 года.</p>
+        <p>
+          ІІ. Первый период 
+          <hi rendition="#s">немецкой</hi>
+           оккупации: «Охрана» Лавры немецкой полицией с 15 октября 1941 года до августа 1942 года.
+        </p>
+        <hi rendition="#s">немецкой</hi>
+         оккупации: «Охрана» Лавры немецкой полицией с 15 октября 1941 года до августа 1942 года.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

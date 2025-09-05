@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.76" xml:space="default"/>
+        <p> проголодав 10-15 дней, умирали или были расстреляны по дороге, при попытке накопать картофеля или вырвать мерзлый бурак. Мы, пленные, были поставлены в такое положение, что нас били и убивали за все: вышел из колонны оправиться – убивают, забежал в лужу утолить жажду – тоже убивают. В результате приходилось оправляться там, где стоишь, не отходя от места, и тут же рыли руками ямы для того, чтобы в них скапливалась грязная жижа, ее пили и из нее варили подчас суп, и то не всегда, так как костры разводить не разрешалось под предлогом “светомаскировки”».</p>
+        <p>(Из письма товарищу Сталину от народных мстителей Смоленской области)</p>
+        <p/>
+        <p>«5 апреля немцы сожгли деревню Ветницы. Сгорело 320 домов (остался один погреб), убили 9 стариков и двух женщин. </p>
+        <p>6 апреля немцами сожжена деревня Лужницы. Все 270 домов сгорели. Находившихся в деревне 79 мужчин согнали в одно место и расстреляли их, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.22 оборот" xml:space="default"/>
+        <p> что сделал ЦКБ.</p>
+        <p>В мае 1944 г. мне было поручено от ЦКБ организовать городской КБ в Бамберге. Взять, таким путем, здесь руководство всей антифашистской работы.</p>
+        <p>Симулируя работой, «болея» по целым неделям, я добился своего – в конце июня этого года меня перевели работать на фабрику в г. Бамберг. Жить пришлось в лагере «Вайда», который оказался самым удобным для выполнения моего задания. Жители лагеря работали небольшими группами по разным предприятиям этого города и даже округа. Таким путем, я имел возможность охватить весь город и его округ.</p>
+        <p>Порученное задание я выполнил. В первую очередь, был организован городской КБ, а потом окружной, председателем которого был я под псевдонимом П. Квитко, члены: Иванов В. (он же председателем городского КБ), Ольховский Федор и Кузмин П.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

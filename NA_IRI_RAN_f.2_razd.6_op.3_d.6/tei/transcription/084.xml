@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.47" xml:space="default"/>
+        <p> 12 декабря</p>
+        <p>
+          Товарищи граждане, немцы у нас грабили все, что увидит себе на глазах. Они у нас взяли поросенка и убили его на дворе и понесли его на машину. Еще они у нас отрезали от шубы полу и завернули свои поганые ноги. Еще они у нас взяли две пары валенок с галошами, но мать побегла и хотела 
+          <hi rendition="#s">вять</hi>
+           взять валенки, но фашист закричал сакрамент. Но мать воротилась домой и заплакала. Еще они у нас истребили всю пасеку и забирали мед
+          <hi rendition="#s">ь</hi>
+           з
+          <hi rendition="#s">абирали</hi>
+           себе. Они таскали мед ведрами и жрали его как собаки. Они у нас сожгли 
+          <hi rendition="#s">восем</hi>
+           12 домов. Еще у нас жили пять фашистов, и они у меня просили рус огурцов, но я им не говорил, но они меня выгнали на улицу. Но наша Красная армия отомстит за все, и будут гнать и громить фашистов до самой смерти.
+        </p>
+        <hi rendition="#s">вять</hi>
+         взять валенки, но фашист закричал сакрамент. Но мать воротилась домой и заплакала. Еще они у нас истребили всю пасеку и забирали мед
+        <hi rendition="#s">ь</hi>
+         з
+        <hi rendition="#s">абирали</hi>
+         себе. Они таскали мед ведрами и жрали его как собаки. Они у нас сожгли 
+        <hi rendition="#s">восем</hi>
+         12 домов. Еще у нас жили пять фашистов, и они у меня просили рус огурцов, но я им не говорил, но они меня выгнали на улицу. Но наша Красная армия отомстит за все, и будут гнать и громить фашистов до самой смерти.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Уварово – последний осв. район – 22/I-1942 г. – первым – 7/XII – Яхрома Дмитровского р.</p>
+        <p>
+          I. 
+          <hi rendition="#s">Период немецкой</hi>
+        </p>
+        <hi rendition="#s">Период немецкой</hi>
+        <p>27 районов Моск. области полностью и 10 районов частично, что составляет 42% всей территории области, подверглись немецкой оккупации.</p>
+        <p>
+          <hi rendition="#s">Время немецкой продолжалось</hi>
+           Период немецкой оккупации был 
+          <hi rendition="#s">разным</hi>
+           различным по продолжительности в отдельных оккупированных районах, так, в Дмитровском районе фаш. оккупанты были всего 12 дней, Наро-Фоминске – 66 дней (Наро-Фоминск был оккупирован 21/Х – освобожден Красной армией 26/XII-), Солнечногорске – 8-10 дней (занят – 28/XI, освобожден – 8-10/XII-41 г.), Боровский район был оккупирован одним из первых в Московской области, 14/Х-41 г. – 
+          <hi rendition="#s">освобожден, а последний освоб. район Моск.</hi>
+           Уваровский район, 
+          <hi rendition="#s">последний осво</hi>
+           был освобожден последним, 
+          <hi rendition="#s">в</hi>
+           22/I-42 г. 
+          <hi rendition="#s">Таким образом фашис</hi>
+           в общем период немецкой оккупации продолжался не больше
+          <hi rendition="#s"> 3-х месяцев</hi>
+           3, 
+          <hi rendition="#s">3 1/2 месяцев</hi>
+           (2-я пол. октября 41 г. – 1-я пол. января 42 г.) (по данным районной печати).
+        </p>
+        <hi rendition="#s">Время немецкой продолжалось</hi>
+         Период немецкой оккупации был 
+        <hi rendition="#s">разным</hi>
+         различным по продолжительности в отдельных оккупированных районах, так, в Дмитровском районе фаш. оккупанты были всего 12 дней, Наро-Фоминске – 66 дней (Наро-Фоминск был оккупирован 21/Х – освобожден Красной армией 26/XII-), Солнечногорске – 8-10 дней (занят – 28/XI, освобожден – 8-10/XII-41 г.), Боровский район был оккупирован одним из первых в Московской области, 14/Х-41 г. – 
+        <hi rendition="#s">освобожден, а последний освоб. район Моск.</hi>
+         Уваровский район, 
+        <hi rendition="#s">последний осво</hi>
+         был освобожден последним, 
+        <hi rendition="#s">в</hi>
+         22/I-42 г. 
+        <hi rendition="#s">Таким образом фашис</hi>
+         в общем период немецкой оккупации продолжался не больше
+        <hi rendition="#s"> 3-х месяцев</hi>
+         3, 
+        <hi rendition="#s">3 1/2 месяцев</hi>
+         (2-я пол. октября 41 г. – 1-я пол. января 42 г.) (по данным районной печати).
+        <p>II. Несмотря на короткий срок оккупации фашистские бандиты нанесли оккупиро-</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

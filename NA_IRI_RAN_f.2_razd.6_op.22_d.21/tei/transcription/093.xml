@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.47 оборот" xml:space="default"/>
+        <p>
+           работу и уходим в лес. Нам так хотелось встретить этих ребят, нам так хотелось помогать 
+          <hi rendition="#s">или</hi>
+           им, и они бы могли к нам заходить т.к. мы жили в этом темном лесу, мы были изолированы почти от немцев, главное, от хозяйки, и наш уголок был приютом для преследуемых немецкими фашистами, к нам собирались, к нам заходили, у нас скрывались, и мы всем помогали, шли на верную смерть. Когда с лагеря военнопленных бежал один товарищ, он был инвалид, его ловили, искали, и он прибежал к нам. Мы спрятали его у себя в комнатке, накормили, он ночевал у нас, рано утром он снова ушел. Пошел пробираться к фронту. Позже немного устроили побег сразу трое и тоже прибежали к нам, мы им помогли, чем могли, только и эти трое отправились на встречу фронту, но их всех поймали, держали в концлагерях.
+        </p>
+        <hi rendition="#s">или</hi>
+         им, и они бы могли к нам заходить т.к. мы жили в этом темном лесу, мы были изолированы почти от немцев, главное, от хозяйки, и наш уголок был приютом для преследуемых немецкими фашистами, к нам собирались, к нам заходили, у нас скрывались, и мы всем помогали, шли на верную смерть. Когда с лагеря военнопленных бежал один товарищ, он был инвалид, его ловили, искали, и он прибежал к нам. Мы спрятали его у себя в комнатке, накормили, он ночевал у нас, рано утром он снова ушел. Пошел пробираться к фронту. Позже немного устроили побег сразу трое и тоже прибежали к нам, мы им помогли, чем могли, только и эти трое отправились на встречу фронту, но их всех поймали, держали в концлагерях.
+        <p>Темным вечером мы выйдем с Дусей, другой </p>
+      </div>
+    </body>
+  </text>
+</TEI>

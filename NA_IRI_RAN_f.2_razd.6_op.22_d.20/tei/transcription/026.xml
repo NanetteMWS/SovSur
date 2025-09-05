@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> поправки и изменения. Тем, кто не мог быть на совещании, передавали обо всем в письменной или же уственной форме.</p>
+        <p>Необходимо отметить и важно было, что некоторые члены организации имели возможность кой-когда выезжать и выходить в другие места, что много пособляло нашей подпольной работе.</p>
+        <p>Мне вдалось два раза съездить на расстояние 25 км. В марте 1945 г. от председателя ЦКБ я получил, находясь в г. Бамберге, обращение ЦКБ и несколько листовок, которые были сброшены во время налетов. Это я должен был передать в Штафельштайнский городской КБ. Посколько связной, Евдокименко Н., не имела возможности поехать туда, я решил поехать сам, выбрав для этого выходной день. Приодевшись почище, утром, когда было еще темно, я сбежал с лагеря и поездом добрался к предназначенному месту. На совещании Штафельштайнского городского КБ я передал все матерьялы и поездом возвратился назад в свой лагерь.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

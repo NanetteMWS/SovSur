@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> Побачте, друззі, незабаром</p>
+        <p>Він знову змінить свій маршрут.</p>
+        <p>На інший табір ціль ударить,</p>
+        <p>А таборів багато тут.</p>
+        <p>Крім Муни, Боша, Цімермана,</p>
+        <p>Окрім хороших цих дівчат</p>
+        <p>Відкриті двері для Івана</p>
+        <p>В густонаселений Гауштадт.</p>
+        <p/>
+        <p>Щодо дівчат він, мовить можна,</p>
+        <p>Узяв між нами перший приз.</p>
+        <p>В неділю, друззі, майже кожну</p>
+        <p>Із ним трапляється сюрприз.</p>
+        <p/>
+        <p>Налижеться завжди до краю</p>
+        <p>Горілки кріпкої ханжі,</p>
+        <p>А потім блазень обригає</p>
+        <p>Штани позичені чужі.</p>
+        <p/>
+        <p>Мене Іван не долюбляє,</p>
+        <p>Хоч ми в кімнаті з ним одній,</p>
+        <p>Коли я дома не буваю,</p>
+        <p>То він хвилині радий тій.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

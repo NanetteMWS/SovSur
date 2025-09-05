@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000111">
+      <titleStmt>
+        <title>Материалы городского отдела образования г. Мелитополя периода оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 11. Д. 7.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> Копия.</p>
+        <p>Школа №11</p>
+        <p>Міська Управа</p>
+        <p>Відділ культури й народної освіти</p>
+        <p>№1187</p>
+        <p>1.ХІІ.1942 р.</p>
+        <p>м. Мелітополь</p>
+        <p>вул. К.Маркса</p>
+        <p>П.п. завідуючим шкіл м. Мелітополя</p>
+        <p/>
+        <p>Паливо школі належить використовувати виключено для опалення школи, ні в якому разі не використовувати для особистих потреб персоналу школи.</p>
+        <p/>
+        <p>Начальник Відділу</p>
+        <p>Культури й Народньої Освіти (Руньский)</p>
+        <p/>
+        <p>згідно: секретарь (Шатунова)</p>
+        <p>верно: Завгороно Красников</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

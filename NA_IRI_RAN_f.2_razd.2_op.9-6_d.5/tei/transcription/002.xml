@@ -1,0 +1,486 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000426">
+      <titleStmt>
+        <title>Стенограмма беседы с Захаром Изотовым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. II. Оп. 9/6. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1 оборот" xml:space="default"/>
+        <p/>
+        <p>
+          *
+          <hi rendition="#s">– Ес</hi>
+          <hi rendition="#s">ть</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">у нас</hi>
+          <hi rendition="#s"> такое </hi>
+          <hi rendition="#s">мнение послать</hi>
+          <hi rendition="#s"> т</hi>
+          <hi rendition="#s">еб</hi>
+          <hi rendition="#s">я </hi>
+          <hi rendition="#s">секретарем райкома партии.</hi>
+        </p>
+        <hi rendition="#s">– Ес</hi>
+        <hi rendition="#s">ть</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">у нас</hi>
+        <hi rendition="#s"> такое </hi>
+        <hi rendition="#s">мнение послать</hi>
+        <hi rendition="#s"> т</hi>
+        <hi rendition="#s">еб</hi>
+        <hi rendition="#s">я </hi>
+        <hi rendition="#s">секретарем райкома партии.</hi>
+        <p>
+          <hi rendition="#s">В</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">августе </hi>
+          <hi rendition="#s">1936</hi>
+          <hi rendition="#i">8</hi>
+          <hi rendition="#s"> г. был направлен</hi>
+          <hi rendition="#s"> на работу</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">вторым </hi>
+          <hi rendition="#s">секретарем Авдеевского райкома партии. Проработал там </hi>
+          <hi rendition="#s">п</hi>
+          <hi rendition="#s">о 26 </hi>
+          <hi rendition="#s">я</hi>
+          <hi rendition="#s">нваря 1941</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">г</hi>
+          <hi rendition="#s">. </hi>
+          <hi rendition="#s">26 января как </hi>
+          <hi rendition="#s">раз проводились</hi>
+          <hi rendition="#s"> довыборы в </hi>
+          <hi rendition="#s">В</hi>
+          <hi rendition="#s">ерховный совет</hi>
+          <hi rendition="#s">. С ян</hi>
+          <hi rendition="#s">варя</hi>
+          <hi rendition="#s"> 1</hi>
+          <hi rendition="#s">941 г. направили меня секретарем </hi>
+          <hi rendition="#s">Я</hi>
+          <hi rendition="#s">мского райкома партии Сталинской</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">об</hi>
+          <hi rendition="#s">л</hi>
+          <hi rendition="#s">асти.</hi>
+           Работал до начала войны там, т.е. пока территория не стала под угрозой немецкой оккупации.
+        </p>
+        <hi rendition="#s">В</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">августе </hi>
+        <hi rendition="#s">1936</hi>
+        <hi rendition="#i">8</hi>
+        <hi rendition="#s"> г. был направлен</hi>
+        <hi rendition="#s"> на работу</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">вторым </hi>
+        <hi rendition="#s">секретарем Авдеевского райкома партии. Проработал там </hi>
+        <hi rendition="#s">п</hi>
+        <hi rendition="#s">о 26 </hi>
+        <hi rendition="#s">я</hi>
+        <hi rendition="#s">нваря 1941</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">г</hi>
+        <hi rendition="#s">. </hi>
+        <hi rendition="#s">26 января как </hi>
+        <hi rendition="#s">раз проводились</hi>
+        <hi rendition="#s"> довыборы в </hi>
+        <hi rendition="#s">В</hi>
+        <hi rendition="#s">ерховный совет</hi>
+        <hi rendition="#s">. С ян</hi>
+        <hi rendition="#s">варя</hi>
+        <hi rendition="#s"> 1</hi>
+        <hi rendition="#s">941 г. направили меня секретарем </hi>
+        <hi rendition="#s">Я</hi>
+        <hi rendition="#s">мского райкома партии Сталинской</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">об</hi>
+        <hi rendition="#s">л</hi>
+        <hi rendition="#s">асти.</hi>
+         Работал до начала войны там, т.е. пока территория не стала под угрозой немецкой оккупации.
+        <p>
+          Ознакомился с 
+          <hi rendition="#s">активом</hi>
+           партийным, советским, колхозным хозяйством, 
+          <hi rendition="#i">активом</hi>
+          , вошел в курс дела. 
+          <hi rendition="#i">Но </hi>
+          <hi rendition="#i">много</hi>
+          <hi rendition="#i"> долго работать не пришлось. Немецко-фашистские захватчики напали на нашу страну рано утром 22/</hi>
+          <hi rendition="#i">VI</hi>
+          <hi rendition="#i">.-</hi>
+          <hi rendition="#i">41 г.</hi>
+           
+          <hi rendition="#s">Началась война. Тут речь тов.</hi>
+           Молотова по радио в первый день войны, затем 3 июля выступление товарища Сталина по радио, призыв к населению, ко всему советскому народу. В первую очередь он касается партийных работников и всех коммунистов, комсомольцев, всех честных советских людей, чтобы стать на защиту родины, организовывать партизанские отряды, конные и пешие, диверсионные группы.
+        </p>
+        <hi rendition="#s">активом</hi>
+         партийным, советским, колхозным хозяйством, 
+        <hi rendition="#i">активом</hi>
+        , вошел в курс дела. 
+        <hi rendition="#i">Но </hi>
+        <hi rendition="#i">много</hi>
+        <hi rendition="#i"> долго работать не пришлось. Немецко-фашистские захватчики напали на нашу страну рано утром 22/</hi>
+        <hi rendition="#i">VI</hi>
+        <hi rendition="#i">.-</hi>
+        <hi rendition="#i">41 г.</hi>
+         
+        <hi rendition="#s">Началась война. Тут речь тов.</hi>
+         Молотова по радио в первый день войны, затем 3 июля выступление товарища Сталина по радио, призыв к населению, ко всему советскому народу. В первую очередь он касается партийных работников и всех коммунистов, комсомольцев, всех честных советских людей, чтобы стать на защиту родины, организовывать партизанские отряды, конные и пешие, диверсионные группы.
+        <p>
+          Затем 18 июля было решение политбюро ЦК ВКП(б). Ознакомили нас с этим решением, 
+          <hi rendition="#i">мы</hi>
+           начали организовывать истребительные батальоны. В районном центре был организован истребительный батальон, отдельные группы были организованы по сельским советам. Были назначены командиры, политруки этих групп. Начали проводить учебу с людьми, приступили к выпуску на заводе гранат. Начали изготавливать противотанковые мины, получили оружие в небольшом количестве, недостаточном. У нас было больше 200 человек подобрано в истребительный батальон. 
+          <hi rendition="#s">Мы</hi>
+          <hi rendition="#s"> получили всего 40 винтовок </hi>
+          <hi rendition="#s">на это количество людей. Решили </hi>
+          <hi rendition="#s">эти</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">винтовки дер</hi>
+          <hi rendition="#s">жа</hi>
+          <hi rendition="#s">ть </hi>
+          <hi rendition="#s">в </hi>
+          <hi rendition="#s">одном месте. Их нужно было раскрепить</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">по группам. </hi>
+          <hi rendition="#s">Мы </hi>
+          <hi rendition="#s">раскрепили по 2-3 винтовки на группу</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> но держали их в</hi>
+          <hi rendition="#s"> одном </hi>
+          <hi rendition="#s">месте</hi>
+          <hi rendition="#s">.</hi>
+          *
+        </p>
+        <hi rendition="#i">мы</hi>
+         начали организовывать истребительные батальоны. В районном центре был организован истребительный батальон, отдельные группы были организованы по сельским советам. Были назначены командиры, политруки этих групп. Начали проводить учебу с людьми, приступили к выпуску на заводе гранат. Начали изготавливать противотанковые мины, получили оружие в небольшом количестве, недостаточном. У нас было больше 200 человек подобрано в истребительный батальон. 
+        <hi rendition="#s">Мы</hi>
+        <hi rendition="#s"> получили всего 40 винтовок </hi>
+        <hi rendition="#s">на это количество людей. Решили </hi>
+        <hi rendition="#s">эти</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">винтовки дер</hi>
+        <hi rendition="#s">жа</hi>
+        <hi rendition="#s">ть </hi>
+        <hi rendition="#s">в </hi>
+        <hi rendition="#s">одном месте. Их нужно было раскрепить</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">по группам. </hi>
+        <hi rendition="#s">Мы </hi>
+        <hi rendition="#s">раскрепили по 2-3 винтовки на группу</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> но держали их в</hi>
+        <hi rendition="#s"> одном </hi>
+        <hi rendition="#s">месте</hi>
+        <hi rendition="#s">.</hi>
+        *
+        <p>
+          Вызывали командиров, политруков, проводили с ними занятия, и когда их подготовили, они уже на местах проводили занятия с бойцами. Мы испытывали на месте самодельные мины, «гробики», как их называли. Мы предполагали эти мины подкладывать под железнодорожное полотно и на дороге для танков. 
+          <hi rendition="#i">Испытание делали так:</hi>
+           
+          <hi rendition="#i">н</hi>
+          а узкоколейной железной дороге на шахте мы подкладываем мину под полотно железной дороги, под рельсу. 
+          <hi rendition="#s">Делаетс</hi>
+          <hi rendition="#s">я неболь</hi>
+          <hi rendition="#s">шо</hi>
+          <hi rendition="#s">й</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">ящик, в этот ящик вставля</hi>
+          <hi rendition="#s">ется</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">капс</hi>
+          <hi rendition="#s">уль</hi>
+          <hi rendition="#s">, бо</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">к делается из </hi>
+          <hi rendition="#s">пружины</hi>
+          <hi rendition="#s">, внутри тол, дел</hi>
+          <hi rendition="#s">ается </hi>
+          <hi rendition="#s">чоб</hi>
+          <hi rendition="#s">. Ко</hi>
+          <hi rendition="#s">гд</hi>
+          <hi rendition="#s">а </hi>
+          <hi rendition="#s">гру</hi>
+          <hi rendition="#s">з</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">адавливает на этот </hi>
+          <hi rendition="#s">чоб</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#s">он</hi>
+          <hi rendition="#s"> нажимает </hi>
+          <hi rendition="#s">на </hi>
+          <hi rendition="#s">чеку, </hi>
+          <hi rendition="#s">чека</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">с</hi>
+          <hi rendition="#s">оск</hi>
+          <hi rendition="#s">акивает, бо</hi>
+          <hi rendition="#s">ек ударяет в</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">капсуль</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#s">капсуль</hi>
+          <hi rendition="#s"> воспламеняется, моментально делается</hi>
+          <hi rendition="#s"> взрыв</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> и</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">летят </hi>
+          <hi rendition="#s">рел</hi>
+          <hi rendition="#s">ьсы</hi>
+          <hi rendition="#s"> с</hi>
+          <hi rendition="#s">о </hi>
+          <hi rendition="#s">вс</hi>
+          <hi rendition="#s">ем </hi>
+          <hi rendition="#s">груз</hi>
+          <hi rendition="#s">ом, </hi>
+          <hi rendition="#s">делается</hi>
+          <hi rendition="#s"> крушение.</hi>
+           Эффект эти мины производили большой. 
+          <hi rendition="#s">Мы </hi>
+          <hi rendition="#s">их</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">с</hi>
+          <hi rendition="#s">п</hi>
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#s">тыв</hi>
+          <hi rendition="#s">али еще в д</hi>
+          <hi rendition="#s">ругом случае. Подложили под </hi>
+          <hi rendition="#s">копе</hi>
+          <hi rendition="#s">левскую</hi>
+          <hi rendition="#s"> вагонетку,</hi>
+          <hi rendition="#s"> куда тонны две нагружали</hi>
+          <hi rendition="#s">.</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">М</hi>
+          <hi rendition="#s">ина </hi>
+          <hi rendition="#s">эту</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">вагонетку раз</hi>
+          <hi rendition="#s">орвала на кусочки. </hi>
+          <hi rendition="#s">Эти кус</hi>
+          <hi rendition="#s">ки от</hi>
+          <hi rendition="#s">несло</hi>
+          <hi rendition="#s"> за 2-3 к</hi>
+          <hi rendition="#s">м</hi>
+          <hi rendition="#s">.</hi>
+          <hi rendition="#s"> Мы народу рассказ</hi>
+          <hi rendition="#s">ыв</hi>
+          <hi rendition="#s">али </hi>
+          <hi rendition="#s">на</hi>
+          <hi rendition="#s"> занятиях</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#s">какова сила взрыва.</hi>
+        </p>
+        <hi rendition="#i">Испытание делали так:</hi>
+         
+        <hi rendition="#i">н</hi>
+        а узкоколейной железной дороге на шахте мы подкладываем мину под полотно железной дороги, под рельсу. 
+        <hi rendition="#s">Делаетс</hi>
+        <hi rendition="#s">я неболь</hi>
+        <hi rendition="#s">шо</hi>
+        <hi rendition="#s">й</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">ящик, в этот ящик вставля</hi>
+        <hi rendition="#s">ется</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">капс</hi>
+        <hi rendition="#s">уль</hi>
+        <hi rendition="#s">, бо</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">к делается из </hi>
+        <hi rendition="#s">пружины</hi>
+        <hi rendition="#s">, внутри тол, дел</hi>
+        <hi rendition="#s">ается </hi>
+        <hi rendition="#s">чоб</hi>
+        <hi rendition="#s">. Ко</hi>
+        <hi rendition="#s">гд</hi>
+        <hi rendition="#s">а </hi>
+        <hi rendition="#s">гру</hi>
+        <hi rendition="#s">з</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">адавливает на этот </hi>
+        <hi rendition="#s">чоб</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#s">он</hi>
+        <hi rendition="#s"> нажимает </hi>
+        <hi rendition="#s">на </hi>
+        <hi rendition="#s">чеку, </hi>
+        <hi rendition="#s">чека</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">с</hi>
+        <hi rendition="#s">оск</hi>
+        <hi rendition="#s">акивает, бо</hi>
+        <hi rendition="#s">ек ударяет в</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">капсуль</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#s">капсуль</hi>
+        <hi rendition="#s"> воспламеняется, моментально делается</hi>
+        <hi rendition="#s"> взрыв</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> и</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">летят </hi>
+        <hi rendition="#s">рел</hi>
+        <hi rendition="#s">ьсы</hi>
+        <hi rendition="#s"> с</hi>
+        <hi rendition="#s">о </hi>
+        <hi rendition="#s">вс</hi>
+        <hi rendition="#s">ем </hi>
+        <hi rendition="#s">груз</hi>
+        <hi rendition="#s">ом, </hi>
+        <hi rendition="#s">делается</hi>
+        <hi rendition="#s"> крушение.</hi>
+         Эффект эти мины производили большой. 
+        <hi rendition="#s">Мы </hi>
+        <hi rendition="#s">их</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">с</hi>
+        <hi rendition="#s">п</hi>
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#s">тыв</hi>
+        <hi rendition="#s">али еще в д</hi>
+        <hi rendition="#s">ругом случае. Подложили под </hi>
+        <hi rendition="#s">копе</hi>
+        <hi rendition="#s">левскую</hi>
+        <hi rendition="#s"> вагонетку,</hi>
+        <hi rendition="#s"> куда тонны две нагружали</hi>
+        <hi rendition="#s">.</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">М</hi>
+        <hi rendition="#s">ина </hi>
+        <hi rendition="#s">эту</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">вагонетку раз</hi>
+        <hi rendition="#s">орвала на кусочки. </hi>
+        <hi rendition="#s">Эти кус</hi>
+        <hi rendition="#s">ки от</hi>
+        <hi rendition="#s">несло</hi>
+        <hi rendition="#s"> за 2-3 к</hi>
+        <hi rendition="#s">м</hi>
+        <hi rendition="#s">.</hi>
+        <hi rendition="#s"> Мы народу рассказ</hi>
+        <hi rendition="#s">ыв</hi>
+        <hi rendition="#s">али </hi>
+        <hi rendition="#s">на</hi>
+        <hi rendition="#s"> занятиях</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#s">какова сила взрыва.</hi>
+        <p>
+          <hi rendition="#s">Прошло с месяц.</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">Уже</hi>
+           
+          <hi rendition="#i">В</hi>
+           сентябре поступало указание готовить людей. Фронт 
+          <hi rendition="#s">у</hi>
+          <hi rendition="#s">же</hi>
+           приближа
+          <hi rendition="#s">ет</hi>
+          <hi rendition="#s">ся</hi>
+          <hi rendition="#i">лся</hi>
+           
+          <hi rendition="#s">вплотную</hi>
+          , к Днепру 
+          <hi rendition="#s">подошел.</hi>
+           
+          <hi rendition="#s">Я</hi>
+           
+          <hi rendition="#s">н</hi>
+          <hi rendition="#i">Н</hi>
+          ачина
+          <hi rendition="#s">ю</hi>
+          <hi rendition="#i">ем</hi>
+           создавать на базе истребительного батальона партизанский отряд. 
+          <hi rendition="#s">Народное ополчение мы не создавали. Помимо этого отряда, коммунистов, комсомольцев отбирали и посылали в распоряжение обкома, а обком в распоряжение ЦК. Из этих людей создавались полки, забрасывали людей в тыл. Этому народу пришлось Киев защищать.</hi>
+          <hi rendition="#i"> Столицу Украины город Киев.</hi>
+        </p>
+        <hi rendition="#s">Прошло с месяц.</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">Уже</hi>
+         
+        <hi rendition="#i">В</hi>
+         сентябре поступало указание готовить людей. Фронт 
+        <hi rendition="#s">у</hi>
+        <hi rendition="#s">же</hi>
+         приближа
+        <hi rendition="#s">ет</hi>
+        <hi rendition="#s">ся</hi>
+        <hi rendition="#i">лся</hi>
+         
+        <hi rendition="#s">вплотную</hi>
+        , к Днепру 
+        <hi rendition="#s">подошел.</hi>
+         
+        <hi rendition="#s">Я</hi>
+         
+        <hi rendition="#s">н</hi>
+        <hi rendition="#i">Н</hi>
+        ачина
+        <hi rendition="#s">ю</hi>
+        <hi rendition="#i">ем</hi>
+         создавать на базе истребительного батальона партизанский отряд. 
+        <hi rendition="#s">Народное ополчение мы не создавали. Помимо этого отряда, коммунистов, комсомольцев отбирали и посылали в распоряжение обкома, а обком в распоряжение ЦК. Из этих людей создавались полки, забрасывали людей в тыл. Этому народу пришлось Киев защищать.</hi>
+        <hi rendition="#i"> Столицу Украины город Киев.</hi>
+        <p>
+          <hi rendition="#s">На</hi>
+          <hi rendition="#s"> базе истре</hi>
+          <hi rendition="#s">б</hi>
+          <hi rendition="#s">ительного </hi>
+          <hi rendition="#s">батал</hi>
+          <hi rendition="#s">ьо</hi>
+          <hi rendition="#s">на нача</hi>
+          <hi rendition="#s">ли со</hi>
+          <hi rendition="#s">з</hi>
+          <hi rendition="#s">да</hi>
+          <hi rendition="#s">в</hi>
+          <hi rendition="#s">ать</hi>
+           
+        </p>
+        <hi rendition="#s">На</hi>
+        <hi rendition="#s"> базе истре</hi>
+        <hi rendition="#s">б</hi>
+        <hi rendition="#s">ительного </hi>
+        <hi rendition="#s">батал</hi>
+        <hi rendition="#s">ьо</hi>
+        <hi rendition="#s">на нача</hi>
+        <hi rendition="#s">ли со</hi>
+        <hi rendition="#s">з</hi>
+        <hi rendition="#s">да</hi>
+        <hi rendition="#s">в</hi>
+        <hi rendition="#s">ать</hi>
+         
+      </div>
+    </body>
+  </text>
+</TEI>

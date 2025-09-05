@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.18 оборот" xml:space="default"/>
+        <p> граждан и порабощенных иностранцев, от которых можно было получить сведенья о движении и расписании поездов.</p>
+        <p>Зная прекрасно расписание движений поездов, тт. Шевченко Н.Н. и Капелюшный Михаил под Ашафенбургом пустили под откос два состава с войском СС и военным снаряжением.</p>
+        <p>Пять километров от Бамберга 8 апреля 1945 г. военнопленный Степанович пустил под откос один состав. С помощью железнодорожников было стащено с вагонов взрывчатые вещества. От их были взяты сведенья, когда должен идти этот состав. Благодаря железнодорожникам, порученное ему задание было успешно выполнено.</p>
+        <p>На товарной станции в Нюрнберге работавшими там нашими невольниками под руководством Заики Лены, Сердюк и других было много повреждено вагонов. Об этом они писали т. Шевченку: «Как “подкладем” башмаки – только буфера, рессоры и щепки летят…» </p>
+      </div>
+    </body>
+  </text>
+</TEI>

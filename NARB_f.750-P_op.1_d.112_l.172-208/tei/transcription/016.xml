@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000883">
+      <titleStmt>
+        <title>Стенограмма беседы с Наумом Фельдманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 172-208.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.188" xml:space="default"/>
+        <p>
+           Фель
+          <hi rendition="#i">дман</hi>
+          : В это время я был на востоке.
+        </p>
+        <hi rendition="#i">дман</hi>
+        : В это время я был на востоке.
+        <p>
+          Левина. На следующий день, когда кончилась блокада, 
+          <hi rendition="#i">настает</hi>
+           тишина, и мы не знае
+          <hi rendition="#s">м</hi>
+          <hi rendition="#i">ли</hi>
+           куда двинуться 
+          <hi rendition="#s">и не можем</hi>
+          . Нас спасло то, что 
+          <hi rendition="#s">ребята</hi>
+           
+          <hi rendition="#i">партизаны</hi>
+          -чкаловцы прошли вперед и сказали, что мы здесь. Нас нашли 6-го 
+          <hi rendition="#i">августа</hi>
+          .
+        </p>
+        <hi rendition="#i">настает</hi>
+         тишина, и мы не знае
+        <hi rendition="#s">м</hi>
+        <hi rendition="#i">ли</hi>
+         куда двинуться 
+        <hi rendition="#s">и не можем</hi>
+        . Нас спасло то, что 
+        <hi rendition="#s">ребята</hi>
+         
+        <hi rendition="#i">партизаны</hi>
+        -чкаловцы прошли вперед и сказали, что мы здесь. Нас нашли 6-го 
+        <hi rendition="#i">августа</hi>
+        .
+        <p>
+          Блокада длилась до 5-го августа. Немцы оставили население буквально без всего, все выжгли. В течение двух месяцев население 
+          <hi rendition="#i">«</hi>
+          обстроилось
+          <hi rendition="#i">»</hi>
+          . 
+          <hi rendition="#i">(Начало жить в землянках</hi>
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i">)</hi>
+        </p>
+        <hi rendition="#i">«</hi>
+        обстроилось
+        <hi rendition="#i">»</hi>
+        . 
+        <hi rendition="#i">(Начало жить в землянках</hi>
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i">)</hi>
+        <p>Кончилась блокада. Мы в основном занимались диверсией, мы были связаны с бригадой, а бригада с райцентром.</p>
+        <p>
+          В декабре 1943 года, поскольку было большое пополнение отряда, было больше 600 человек, 
+          <hi rendition="#s">на основании первой </hi>
+          <hi rendition="#s">роты был создан </hi>
+          <hi rendition="#s">отряд Тимошенко,</hi>
+           была создана бригада имени Пономаренко 
+          <hi rendition="#s">и 6</hi>
+           
+          <hi rendition="#i">из 6-и</hi>
+           партизанских отрядов. Наш отряд был шестой по счету и был малочисленным, командиром был Кузьмин. 
+          <hi rendition="#i">Диверс</hi>
+          <hi rendition="#i">. работы</hi>
+           Наш отряд по бригаде занял первое место. 
+          <hi rendition="#i">Во время рельсовой войны</hi>
+           был подорван и сожжен на участке нашей бригады поезд в 60 вагонов, там были и пушки, и тракторы, и т.д.
+        </p>
+        <hi rendition="#s">на основании первой </hi>
+        <hi rendition="#s">роты был создан </hi>
+        <hi rendition="#s">отряд Тимошенко,</hi>
+         была создана бригада имени Пономаренко 
+        <hi rendition="#s">и 6</hi>
+         
+        <hi rendition="#i">из 6-и</hi>
+         партизанских отрядов. Наш отряд был шестой по счету и был малочисленным, командиром был Кузьмин. 
+        <hi rendition="#i">Диверс</hi>
+        <hi rendition="#i">. работы</hi>
+         Наш отряд по бригаде занял первое место. 
+        <hi rendition="#i">Во время рельсовой войны</hi>
+         был подорван и сожжен на участке нашей бригады поезд в 60 вагонов, там были и пушки, и тракторы, и т.д.
+        <p>
+          Первый раз разобрали рельсы на участке Негорелое-Столбцы. 
+          <hi rendition="#s">По</hi>
+          <hi rendition="#s">сле рельсовой войны</hi>
+           группы 
+          <hi rendition="#s">из</hi>
+           
+          <hi rendition="#i">нашего</hi>
+           отряда ходили на диверсионную работу по железной дороге Ошмяны и доходили до Литвы. 
+          <hi rendition="#s">Барановичское соединение занималось больше диверсиями и отряды</hi>
+           «25 лет БССР» 
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">в прошлом п/о</hi>
+           Буденного 
+          <hi rendition="#s">тоже</hi>
+           занимался исключительно диверсиями. У нас в отряде на каждого бойца приходится 4 немца
+          <hi rendition="#i"> убитых, раненых</hi>
+          .
+        </p>
+        <hi rendition="#s">По</hi>
+        <hi rendition="#s">сле рельсовой войны</hi>
+         группы 
+        <hi rendition="#s">из</hi>
+         
+        <hi rendition="#i">нашего</hi>
+         отряда ходили на диверсионную работу по железной дороге Ошмяны и доходили до Литвы. 
+        <hi rendition="#s">Барановичское соединение занималось больше диверсиями и отряды</hi>
+         «25 лет БССР» 
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">в прошлом п/о</hi>
+         Буденного 
+        <hi rendition="#s">тоже</hi>
+         занимался исключительно диверсиями. У нас в отряде на каждого бойца приходится 4 немца
+        <hi rendition="#i"> убитых, раненых</hi>
+        .
+        <p>
+          Фель
+          <hi rendition="#i">дман</hi>
+          . О людях отряда. В основном люди, которые пришли в период 1942-1943 г.г., это люди преданные, боевые. Они шли на борьбу не за страх, а за совесть, шли 
+        </p>
+        <hi rendition="#i">дман</hi>
+        . О людях отряда. В основном люди, которые пришли в период 1942-1943 г.г., это люди преданные, боевые. Они шли на борьбу не за страх, а за совесть, шли 
+      </div>
+    </body>
+  </text>
+</TEI>

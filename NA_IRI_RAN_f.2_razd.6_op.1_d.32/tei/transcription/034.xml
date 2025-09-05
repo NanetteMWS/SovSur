@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.30" xml:space="default"/>
+        <p>
+           V. Большая доля работы пала на МТС освобожденных районов. От МТС сохранились лишь тракторы 
+          <hi rendition="#s">эвакуировать которые</hi>
+           в том количестве, которое удалось эвакуировать на Восток – МРМ (машинно-ремонтные мастерские), здание МТС все было разрушено. Казалось, ничего не осталось для восстановления – но как это было и в колхозах: разыскали потайное, спрятанное, и собрали и починили [1 слово непонятно] исковерканное имущество.
+        </p>
+        <hi rendition="#s">эвакуировать которые</hi>
+         в том количестве, которое удалось эвакуировать на Восток – МРМ (машинно-ремонтные мастерские), здание МТС все было разрушено. Казалось, ничего не осталось для восстановления – но как это было и в колхозах: разыскали потайное, спрятанное, и собрали и починили [1 слово непонятно] исковерканное имущество.
+        <p>
+          Тов. Щербаков на 6-й Сессии 
+          <hi rendition="#s">[</hi>
+          <hi rendition="#s">1 слово непонятно</hi>
+          <hi rendition="#s">]</hi>
+          <hi rendition="#s"> колхозников работа</hi>
+           сказал, что для того чтобы быстрее восстановить хозяйства надо работать от зари до зари и даже с добавкой. «Не надо преувеличивать трудности, – 
+          <hi rendition="#s">говорил Щербаков</hi>
+          <hi rendition="#s">,</hi>
+           – находятся такие люди, – сказал т. Щербаков, – которые заявляют: “Все у нас в районе разрушено, все порушено, все сожгли, все отобрали. Ничего нет, пустое место, и все нам теперь дайте”». 
+        </p>
+        <hi rendition="#s">[</hi>
+        <hi rendition="#s">1 слово непонятно</hi>
+        <hi rendition="#s">]</hi>
+        <hi rendition="#s"> колхозников работа</hi>
+         сказал, что для того чтобы быстрее восстановить хозяйства надо работать от зари до зари и даже с добавкой. «Не надо преувеличивать трудности, – 
+        <hi rendition="#s">говорил Щербаков</hi>
+        <hi rendition="#s">,</hi>
+         – находятся такие люди, – сказал т. Щербаков, – которые заявляют: “Все у нас в районе разрушено, все порушено, все сожгли, все отобрали. Ничего нет, пустое место, и все нам теперь дайте”». 
+        <p>
+          <hi rendition="#s">И как бы отвечая т. Щербакову Сообщили Рассказ</hi>
+           Выступление пред. Нудольского сельсовета, 
+        </p>
+        <hi rendition="#s">И как бы отвечая т. Щербакову Сообщили Рассказ</hi>
+         Выступление пред. Нудольского сельсовета, 
+      </div>
+    </body>
+  </text>
+</TEI>

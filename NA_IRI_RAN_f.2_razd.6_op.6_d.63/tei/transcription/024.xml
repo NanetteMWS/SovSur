@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000689">
+      <titleStmt>
+        <title>Воспоминания школьников Харькова о пребывании в оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 63.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.13 оборот" xml:space="default"/>
+        <p> началась восстановительная работа школы и к 5/IX школа приобрела приветливый, уютный вид и приняла в свои стены своих заботливых питомцев. Занятия начались без опоздания. В работе принимали участие и учителя, и родители, и учащиеся. Даже малютки 1-2 кл. все время просили, чтобы и им давали какую-ниб. работу. Родители и учащиеся старших классов месили глину, таскали камни, мыли парты вместе с учителями. Родители собрали деньги, стекла, принесли железные печки. Собраны были также средства на детей-сирот, кот. не в чем было прийти в школу – эти дети были одеты.</p>
+        <p>Очень много позаботились родители по сбору бензина для привозки угля д/школы.</p>
+        <p>В настоящее время проводится сбор денег и посевного материала для огорода. Много проведено школой воскресников и по восстановительной работе города.</p>
+        <p>Учительница II кл. «Б» 61 шк. Костина Ал. В.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

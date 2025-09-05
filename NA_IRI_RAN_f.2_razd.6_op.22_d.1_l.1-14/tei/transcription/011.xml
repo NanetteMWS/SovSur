@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> несколько винтовок. Англо-американское командование главного этой группы выпустили, остальных расстреляли? без нашего ведома.</p>
+        <p>В. Козлова</p>
+        <p>Т. Козлова</p>
+        <p>Бобков</p>
+        <p>Шуберт.</p>
+        <p>№12. Под руководством Л. Хильмана и 6 девушек наклеены на бочки масла, идущие к фронту, наклейки. На масло для моторов – наклейки для колес, и наоборот. В масло насыпано железных опилок.</p>
+        <p>По всей охваченной Е.О.А. территории ведется испорчивание машин и электромоторов железными опилками.</p>
+        <p>
+          <hi rendition="#i">Была забастовка на фабрике </hi>
+          <hi rendition="#i">Шуманн</hi>
+          <hi rendition="#i"> с 300 человек г. </hi>
+          <hi rendition="#i">Werdau</hi>
+          <hi rendition="#i">, [</hi>
+          <hi rendition="#i">1 слово непонятно</hi>
+          <hi rendition="#i">] которой </hi>
+          <hi rendition="#i">являлася</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Лисицина</hi>
+          <hi rendition="#i"> Дуся, после чего она отсидела в тюрьме 3 месяца в 1943 г.</hi>
+        </p>
+        <hi rendition="#i">Была забастовка на фабрике </hi>
+        <hi rendition="#i">Шуманн</hi>
+        <hi rendition="#i"> с 300 человек г. </hi>
+        <hi rendition="#i">Werdau</hi>
+        <hi rendition="#i">, [</hi>
+        <hi rendition="#i">1 слово непонятно</hi>
+        <hi rendition="#i">] которой </hi>
+        <hi rendition="#i">являлася</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Лисицина</hi>
+        <hi rendition="#i"> Дуся, после чего она отсидела в тюрьме 3 месяца в 1943 г.</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

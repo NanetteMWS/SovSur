@@ -1,0 +1,481 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000977">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгением Катковым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 17.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p> Комиссия истории Великой Отечественной войны.</p>
+        <p>Беседу проводит ст. научный сотрудник В.И. Шунков.</p>
+        <p>Стенографировала стенографистка редакции «Радянська Украина» т. Хенкина.</p>
+        <p>12 октября 1943 г.</p>
+        <p>г. Харьков.</p>
+        <p/>
+        <p>Катков Евгений Севастьянович (профессор, директор управления клиник Харьковского Медицинского института. 1896 г. Украинец, беспартийный).</p>
+        <p/>
+        <p>Прежде всего, мне хотелось бы осветить общий вопрос: как относилась вся наша общественность к приходу немцев, какие группы и круги населения пошли на сотрудничество с немцами и как вела себя вообще наша интеллигенция.</p>
+        <p>
+          <hi rendition="#s">Круг</hi>
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">Круг</hi>
+           
+          <hi rendition="#i">лиц</hi>
+          , которые поддерживали немцев, был
+          <hi rendition="#s">и</hi>
+           очень ограниченны
+          <hi rendition="#i">й</hi>
+          . В своей массе это круг
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#s">котор</hi>
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#s">е </hi>
+          <hi rendition="#s">мы</hi>
+          <hi rendition="#s"> можем</hi>
+           
+          <hi rendition="#i">так</hi>
+           назва
+          <hi rendition="#s">ть</hi>
+          <hi rendition="#i">емых</hi>
+           
+          <hi rendition="#s">к</hi>
+          <hi rendition="#s">р</hi>
+          <hi rendition="#s">уга</hi>
+          <hi rendition="#s">ми</hi>
+           украинских националистов. В основном, наша интеллигенция на работу и 
+          <hi rendition="#s">на</hi>
+           сотрудничество с этим
+          <hi rendition="#s">и</hi>
+           круг
+          <hi rendition="#s">ам</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">ом</hi>
+           украинских националистов не пошла. Это могу утверждать твердо, документально.
+        </p>
+        <hi rendition="#s">Круг</hi>
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">Круг</hi>
+         
+        <hi rendition="#i">лиц</hi>
+        , которые поддерживали немцев, был
+        <hi rendition="#s">и</hi>
+         очень ограниченны
+        <hi rendition="#i">й</hi>
+        . В своей массе это круг
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#s">котор</hi>
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#s">е </hi>
+        <hi rendition="#s">мы</hi>
+        <hi rendition="#s"> можем</hi>
+         
+        <hi rendition="#i">так</hi>
+         назва
+        <hi rendition="#s">ть</hi>
+        <hi rendition="#i">емых</hi>
+         
+        <hi rendition="#s">к</hi>
+        <hi rendition="#s">р</hi>
+        <hi rendition="#s">уга</hi>
+        <hi rendition="#s">ми</hi>
+         украинских националистов. В основном, наша интеллигенция на работу и 
+        <hi rendition="#s">на</hi>
+         сотрудничество с этим
+        <hi rendition="#s">и</hi>
+         круг
+        <hi rendition="#s">ам</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">ом</hi>
+         украинских националистов не пошла. Это могу утверждать твердо, документально.
+        <p>
+          Начну с групп, которые поддерживали немцев. За 
+          <hi rendition="#s">эти</hi>
+           два года 
+          <hi rendition="#i">оккупации</hi>
+          , по моим наблюдениям, в жизни этих групп было два периода – первый период я склонен назвать периодом розовых надежд, 
+          <hi rendition="#s">друго</hi>
+          <hi rendition="#s">й</hi>
+           
+          <hi rendition="#i">второй</hi>
+           период – периодом крушения этих розовых надежд.
+        </p>
+        <hi rendition="#s">эти</hi>
+         два года 
+        <hi rendition="#i">оккупации</hi>
+        , по моим наблюдениям, в жизни этих групп было два периода – первый период я склонен назвать периодом розовых надежд, 
+        <hi rendition="#s">друго</hi>
+        <hi rendition="#s">й</hi>
+         
+        <hi rendition="#i">второй</hi>
+         период – периодом крушения этих розовых надежд.
+        <p>
+          В первый период, когда пришли в Харьков немцы, украинские националисты выступили, 
+          <hi rendition="#s">п</hi>
+          <hi rendition="#s">о-моему</hi>
+          , не особенно большой, 
+          <hi rendition="#s">п</hi>
+          <hi rendition="#s">о кол</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">честву г</hi>
+          <hi rendition="#s">р</hi>
+          <hi rendition="#s">уппой</hi>
+          <hi rendition="#s">, но</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">выступ</hi>
+          <hi rendition="#s">или</hi>
+           
+          <hi rendition="#i">но</hi>
+           
+          <hi rendition="#i">несомненно</hi>
+           организованной группой. Они 
+          <hi rendition="#s">п</hi>
+          <hi rendition="#s">р</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">ж</hi>
+          <hi rendition="#s">де вс</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">го</hi>
+           надеялись, что немецкие штыки принесут самостоятельность Украине, и поэтому первый период, 
+          <hi rendition="#i">точнее</hi>
+          <hi rendition="#i">,</hi>
+           начальный период, был периодом ожидания, когда они ждали вестей из Киева, что вот-вот приедут посланцы от Центрального Украинского правительства и т.д. Они 
+          <hi rendition="#s">вып</hi>
+          <hi rendition="#s">уска</hi>
+          <hi rendition="#s">ли</hi>
+          <hi rendition="#s"> здесь</hi>
+           
+          <hi rendition="#i">организовали выпуск</hi>
+           газет
+          <hi rendition="#s">у</hi>
+          <hi rendition="#i">ы</hi>
+          . 
+          <hi rendition="#s">Газета</hi>
+           
+          <hi rendition="#i">Она</hi>
+           выходила с 
+          <hi rendition="#i">всевозможными</hi>
+           украинскими самостийническими 
+          <hi rendition="#s">всевозмо</hi>
+          <hi rendition="#s">жными</hi>
+           эмблемами. 
+          <hi rendition="#s">А гла</hi>
+          <hi rendition="#s">в</hi>
+          <hi rendition="#s">ное</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">он</hi>
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">Они</hi>
+          <hi rendition="#i"> деятельно</hi>
+           организовали в Харькове «Просвіт
+          <hi rendition="#i">у</hi>
+          ». Председателем этой «Просвіти» был профессор Попов Александр Иванович и профессор Дубровский, негласным идеологом всей этой группы был педагог или юрист Доленко. Лично я с ним не знаком. 
+          <hi rendition="#s">Что касается </hi>
+          <hi rendition="#s">Ду</hi>
+          <hi rendition="#s">бровского </hi>
+          <hi rendition="#s">и</hi>
+           Попова, 
+          <hi rendition="#s">особе</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">но Попо</hi>
+          <hi rendition="#s">ва</hi>
+           я очень хорошо знаю, т.к. в течение многих лет он работал в Педагогическом институте, где я 
+          <hi rendition="#s">то</hi>
+          <hi rendition="#s">же</hi>
+           занимал кафедру.
+        </p>
+        <hi rendition="#s">п</hi>
+        <hi rendition="#s">о-моему</hi>
+        , не особенно большой, 
+        <hi rendition="#s">п</hi>
+        <hi rendition="#s">о кол</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">честву г</hi>
+        <hi rendition="#s">р</hi>
+        <hi rendition="#s">уппой</hi>
+        <hi rendition="#s">, но</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">выступ</hi>
+        <hi rendition="#s">или</hi>
+         
+        <hi rendition="#i">но</hi>
+         
+        <hi rendition="#i">несомненно</hi>
+         организованной группой. Они 
+        <hi rendition="#s">п</hi>
+        <hi rendition="#s">р</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">ж</hi>
+        <hi rendition="#s">де вс</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">го</hi>
+         надеялись, что немецкие штыки принесут самостоятельность Украине, и поэтому первый период, 
+        <hi rendition="#i">точнее</hi>
+        <hi rendition="#i">,</hi>
+         начальный период, был периодом ожидания, когда они ждали вестей из Киева, что вот-вот приедут посланцы от Центрального Украинского правительства и т.д. Они 
+        <hi rendition="#s">вып</hi>
+        <hi rendition="#s">уска</hi>
+        <hi rendition="#s">ли</hi>
+        <hi rendition="#s"> здесь</hi>
+         
+        <hi rendition="#i">организовали выпуск</hi>
+         газет
+        <hi rendition="#s">у</hi>
+        <hi rendition="#i">ы</hi>
+        . 
+        <hi rendition="#s">Газета</hi>
+         
+        <hi rendition="#i">Она</hi>
+         выходила с 
+        <hi rendition="#i">всевозможными</hi>
+         украинскими самостийническими 
+        <hi rendition="#s">всевозмо</hi>
+        <hi rendition="#s">жными</hi>
+         эмблемами. 
+        <hi rendition="#s">А гла</hi>
+        <hi rendition="#s">в</hi>
+        <hi rendition="#s">ное</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">он</hi>
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">Они</hi>
+        <hi rendition="#i"> деятельно</hi>
+         организовали в Харькове «Просвіт
+        <hi rendition="#i">у</hi>
+        ». Председателем этой «Просвіти» был профессор Попов Александр Иванович и профессор Дубровский, негласным идеологом всей этой группы был педагог или юрист Доленко. Лично я с ним не знаком. 
+        <hi rendition="#s">Что касается </hi>
+        <hi rendition="#s">Ду</hi>
+        <hi rendition="#s">бровского </hi>
+        <hi rendition="#s">и</hi>
+         Попова, 
+        <hi rendition="#s">особе</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">но Попо</hi>
+        <hi rendition="#s">ва</hi>
+         я очень хорошо знаю, т.к. в течение многих лет он работал в Педагогическом институте, где я 
+        <hi rendition="#s">то</hi>
+        <hi rendition="#s">же</hi>
+         занимал кафедру.
+        <p>
+          <hi rendition="#s">Они</hi>
+          <hi rendition="#s"> ор</hi>
+          <hi rendition="#s">ганизовали</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">«</hi>
+          <hi rendition="#s">Просві</hi>
+          <hi rendition="#s">т</hi>
+          <hi rendition="#s">у</hi>
+          <hi rendition="#s">».</hi>
+           Надо сказать, что в этот период 
+          <hi rendition="#i">«</hi>
+          <hi rendition="#i">Просвіта</hi>
+          <hi rendition="#i">»</hi>
+           
+          <hi rendition="#s">эт</hi>
+          <hi rendition="#s">о</hi>
+           был
+          <hi rendition="#i">а</hi>
+           единственным культурны
+          <hi rendition="#i">м</hi>
+           огон
+          <hi rendition="#i">ь</hi>
+          <hi rendition="#s">е</hi>
+          к
+          <hi rendition="#i">ом</hi>
+          , который горел в Харькове. Они всячески пытались раздуть его в пламя. Первое, что они предпринимали, это попытка втянуть в «Просвіту» широкие круги нашей интеллигенции. Поскольку это был единственный культурный огонек для научных работников, 
+          <hi rendition="#s">для</hi>
+           культурных работников, привыкших к культурной жизни, 
+          <hi rendition="#i">он</hi>
+           невольно 
+          <hi rendition="#s">он</hi>
+           тянул к себе. Там были и концерты, и доклады, 
+          <hi rendition="#i">и</hi>
+           то, что можно 
+          <hi rendition="#s">б</hi>
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#s">ло</hi>
+           назвать общественно-политической жизнью. И несмотря на все зазывания, широкие круги нашей интеллигенции на это не пошли. В частности, я лично был знаком с профессором Поповым, знал многих из активных деятелей «Просвіти», 
+          <hi rendition="#s">которые</hi>
+           
+          <hi rendition="#i">они</hi>
+           предлагали вступить в «Просвіту» 
+          <hi rendition="#i">и</hi>
+           я 
+          <hi rendition="#s">л</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">чно</hi>
+          , сознательно 
+          <hi rendition="#i">в нее</hi>
+           не пошел 
+          <hi rendition="#s">в </hi>
+          <hi rendition="#s">«</hi>
+          <hi rendition="#s">Просві</hi>
+          <hi rendition="#s">т</hi>
+          <hi rendition="#s">у</hi>
+          <hi rendition="#s">».</hi>
+           
+          <hi rendition="#s">Я лично, сознательно не пошел в «</hi>
+          <hi rendition="#s">Просвіту</hi>
+          <hi rendition="#s">»</hi>
+          , как 
+          <hi rendition="#s">и</hi>
+           очень многие другие, 
+          <hi rendition="#s">к</hi>
+          <hi rendition="#s">ак</hi>
+           и профессура Университета и Ветеринарного института, и того большого числа ВУЗ’ов, которые 
+          <hi rendition="#s">есть</hi>
+           
+          <hi rendition="#i">в силу тех или иных причин остались</hi>
+           в Харькове. 
+          <hi rendition="#s">Профессура в </hi>
+          <hi rendition="#s">Просвіту</hi>
+          <hi rendition="#s"> в</hi>
+          <hi rendition="#s"> основ</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">м</hi>
+          <hi rendition="#s"> не п</hi>
+          <hi rendition="#s">ошла.</hi>
+           
+        </p>
+        <hi rendition="#s">Они</hi>
+        <hi rendition="#s"> ор</hi>
+        <hi rendition="#s">ганизовали</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">«</hi>
+        <hi rendition="#s">Просві</hi>
+        <hi rendition="#s">т</hi>
+        <hi rendition="#s">у</hi>
+        <hi rendition="#s">».</hi>
+         Надо сказать, что в этот период 
+        <hi rendition="#i">«</hi>
+        <hi rendition="#i">Просвіта</hi>
+        <hi rendition="#i">»</hi>
+         
+        <hi rendition="#s">эт</hi>
+        <hi rendition="#s">о</hi>
+         был
+        <hi rendition="#i">а</hi>
+         единственным культурны
+        <hi rendition="#i">м</hi>
+         огон
+        <hi rendition="#i">ь</hi>
+        <hi rendition="#s">е</hi>
+        к
+        <hi rendition="#i">ом</hi>
+        , который горел в Харькове. Они всячески пытались раздуть его в пламя. Первое, что они предпринимали, это попытка втянуть в «Просвіту» широкие круги нашей интеллигенции. Поскольку это был единственный культурный огонек для научных работников, 
+        <hi rendition="#s">для</hi>
+         культурных работников, привыкших к культурной жизни, 
+        <hi rendition="#i">он</hi>
+         невольно 
+        <hi rendition="#s">он</hi>
+         тянул к себе. Там были и концерты, и доклады, 
+        <hi rendition="#i">и</hi>
+         то, что можно 
+        <hi rendition="#s">б</hi>
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#s">ло</hi>
+         назвать общественно-политической жизнью. И несмотря на все зазывания, широкие круги нашей интеллигенции на это не пошли. В частности, я лично был знаком с профессором Поповым, знал многих из активных деятелей «Просвіти», 
+        <hi rendition="#s">которые</hi>
+         
+        <hi rendition="#i">они</hi>
+         предлагали вступить в «Просвіту» 
+        <hi rendition="#i">и</hi>
+         я 
+        <hi rendition="#s">л</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">чно</hi>
+        , сознательно 
+        <hi rendition="#i">в нее</hi>
+         не пошел 
+        <hi rendition="#s">в </hi>
+        <hi rendition="#s">«</hi>
+        <hi rendition="#s">Просві</hi>
+        <hi rendition="#s">т</hi>
+        <hi rendition="#s">у</hi>
+        <hi rendition="#s">».</hi>
+         
+        <hi rendition="#s">Я лично, сознательно не пошел в «</hi>
+        <hi rendition="#s">Просвіту</hi>
+        <hi rendition="#s">»</hi>
+        , как 
+        <hi rendition="#s">и</hi>
+         очень многие другие, 
+        <hi rendition="#s">к</hi>
+        <hi rendition="#s">ак</hi>
+         и профессура Университета и Ветеринарного института, и того большого числа ВУЗ’ов, которые 
+        <hi rendition="#s">есть</hi>
+         
+        <hi rendition="#i">в силу тех или иных причин остались</hi>
+         в Харькове. 
+        <hi rendition="#s">Профессура в </hi>
+        <hi rendition="#s">Просвіту</hi>
+        <hi rendition="#s"> в</hi>
+        <hi rendition="#s"> основ</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">м</hi>
+        <hi rendition="#s"> не п</hi>
+        <hi rendition="#s">ошла.</hi>
+         
+        <p>
+          Был некоторый момент, когда 
+          <hi rendition="#s">наш</hi>
+          <hi rendition="#s">и</hi>
+           оставшаяся 
+          <hi rendition="#s">с</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">лы</hi>
+           
+          <hi rendition="#i">часть</hi>
+           интеллигенции верил
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">а</hi>
+          , что культурная жизнь не будет разрушена, что будут 
+        </p>
+        <hi rendition="#s">наш</hi>
+        <hi rendition="#s">и</hi>
+         оставшаяся 
+        <hi rendition="#s">с</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">лы</hi>
+         
+        <hi rendition="#i">часть</hi>
+         интеллигенции верил
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">а</hi>
+        , что культурная жизнь не будет разрушена, что будут 
+      </div>
+    </body>
+  </text>
+</TEI>

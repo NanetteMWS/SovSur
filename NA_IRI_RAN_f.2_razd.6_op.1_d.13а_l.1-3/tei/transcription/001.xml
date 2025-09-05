@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000660">
+      <titleStmt>
+        <title>Стенограмма беседы с Пелагеей Киселевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 13а. Л. 1-3.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p> Киселева Пелагея Петровна, 1900 года рождения.</p>
+        <p>Сначала пришли они вот как. Как только они входили в деревню, мы делили колхозное сено. Сначала одна партия приехала на автомобилях, потом на подводах, на фурах, потом мотоциклисты. И все три партии пошли шарить по домам, у кого что есть в домах, в ящиках. Не спрашивают, не просят, а прямо идут в омшанники, режут свиней, кур.</p>
+        <p>Мы бросили делить сено, – какой тут дележ кур.</p>
+        <p>Потом стали приезжать на квартиры. Которые стоят сегодня, те не трогают. Как только из другой деревни приезжают, грабят. То, что сумели спрятать, то сохранилось, а остальное все забирают.</p>
+        <p>Мы из белья кое-что попрятали, а скот – корову, овцу, кур – все забрали. Поросенка мы успели сами зарезать, а кур то скотину всю обобрали. Из хозяйственных вещей у нас слишком много не было. Старались как можно побольше на себя надеть. Говорили ребятам: «Давайте все на себя на девать, а то отберут».</p>
+        <p>У меня ребят много – 6 человек, старшему 16 лет, потом 14 лет, потом 12 лет, двое – Люба и Анатолий отправлены в больницу, они обморожены, еще девочка 8 лет.</p>
+        <p>Когда они обратно приехали, еще хуже стало, к печке совершенно не подпускали. Только что корову подою, молоко им подавай. Хлеб пекла невестка. В голландке сварю картофельку, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

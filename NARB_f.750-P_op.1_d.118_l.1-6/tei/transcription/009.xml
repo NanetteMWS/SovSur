@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000636">
+      <titleStmt>
+        <title>Стенограмма беседы со связными партии в Минске</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 118. Л.1-6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> Гайдук. В одном месте мы попали в такое положение: в нас из автоматов пару часов стреляли бывшие рабочие, а сейчас испеченные капиталисты. В Логойском районе мы сбились с дороги. Я пошла спрашивать дорогу, наткнулась на группу людей и сразу почувствовала что-то не то. Я объяснила им, что иду к сестре. Хотя и стыдно спрашивать дорогу, но заблудилась, хочу поспешить и дороги не знаю. Мне говорит: вы не успеет к установленному сроку, уже поздно. Они рассказывают дорогу и затягивают время. Потом я пошла по указанному пути, не успела в лесу скрыться, а по нас из автоматов начали стрелять. Мы еле ноги унесли.</p>
+        <p>Подступы к городу Минску минируют, минируют также основные здания. На этих работах немцы используют еврейское население, привезенное откуда-то из Германии. После производства работы по минированию их расстреливают.</p>
+        <p/>
+        <p>Стенограмма беседы секретарей ЦК КП(б)Б тт. Калинина П.З. и Эйдинова Г.Б. со связниками ЦК КП(б)Б.</p>
+        <p>6.Х.42, д. Тимохино.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

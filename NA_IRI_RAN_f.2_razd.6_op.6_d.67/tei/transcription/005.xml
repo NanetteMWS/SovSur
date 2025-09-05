@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> Знай одно, что времечко настанет,</p>
+        <p>Возвратится друг любимый твой,</p>
+        <p>За торговлю телом и душою</p>
+        <p>Ты ответишь, Катя, головой.</p>
+        <p>Конец.</p>
+        <p/>
+        <p>Раскинулось море широко.</p>
+        <p>Раскинулась площадь вокзала,</p>
+        <p>По ней эшелоны стучат,</p>
+        <p>Они с Украины вывозят</p>
+        <p>В Германию наших девчат.</p>
+        <p>Как вспомню минуты прощанья,</p>
+        <p>Так слезы невольно бегут,</p>
+        <p>И многие их обещанья</p>
+        <p>Придется их там вспомянуть.</p>
+        <p>Не забуду я слез материнских</p>
+        <p>И хмурые лица отцов,</p>
+        <p>Которые нас провожали,</p>
+        <p>Как будто живых мертвецов.</p>
+        <p>Прощай, дорогой городишко.</p>
+        <p>Прощай, дорогая семья.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

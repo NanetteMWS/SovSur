@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000570">
+      <titleStmt>
+        <title>Стенограма бесіди з Михайлом Вовком</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 2. Спр. 219.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.28" xml:space="default"/>
+        <p> Масляк зараз працює директором обласної бібліотеки. А ці 8 євреїв зараз живі живуть у Львові і скоро виїжджають.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">М. Вовк</hi>
+        </p>
+        <hi rendition="#i">М. Вовк</hi>
+        <p>(М. Вовк)</p>
+        <p/>
+        <p>[підпис Марковського]</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

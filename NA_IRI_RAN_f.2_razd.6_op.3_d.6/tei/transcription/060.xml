@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.31 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">Зверство</hi>
+           а посуду покидали – вот они издевались. А другой раз они выгоняли за дверь, но мы уходили к соседке. На другой раз взошли в избу – они у нас все обобрали. А другой раз еще было: мы ушли, он достал, нашли хлеб. И на другой день говорить: пеки, матка, лепешек. Но мать осерчала и сказала, что я не буду печь лепешек. А еще у нас было. Мать раз встала рано картошки варить. Они услыхали, взяли по котелку и подбегли, обобрали все картошки, и мы пошли без обеда.
+        </p>
+        <hi rendition="#s">Зверство</hi>
+         а посуду покидали – вот они издевались. А другой раз они выгоняли за дверь, но мы уходили к соседке. На другой раз взошли в избу – они у нас все обобрали. А другой раз еще было: мы ушли, он достал, нашли хлеб. И на другой день говорить: пеки, матка, лепешек. Но мать осерчала и сказала, что я не буду печь лепешек. А еще у нас было. Мать раз встала рано картошки варить. Они услыхали, взяли по котелку и подбегли, обобрали все картошки, и мы пошли без обеда.
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

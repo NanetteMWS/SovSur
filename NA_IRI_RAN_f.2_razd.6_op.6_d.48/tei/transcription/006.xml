@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> восстановление города.</p>
+        <p>
+          В городе 172 первичные парторганизации (по состоянию на 1 марта 
+          <hi rendition="#i">1944</hi>
+          <hi rendition="#i"> г.</hi>
+          ). Профсоюзных организаций значительно больше, потому что не во всех хозяйственных, культурных организациях есть партийные организации. Есть коммунисты-одиночки, состоящие на учете по уставу партии в райкомах партии, а профсоюзные организации охватили все учреждения.
+        </p>
+        <hi rendition="#i">1944</hi>
+        <hi rendition="#i"> г.</hi>
+        ). Профсоюзных организаций значительно больше, потому что не во всех хозяйственных, культурных организациях есть партийные организации. Есть коммунисты-одиночки, состоящие на учете по уставу партии в райкомах партии, а профсоюзные организации охватили все учреждения.
+        <p>
+          <hi rendition="#s">Условия работы.</hi>
+           Много трудностей в работе по борьбе с последствиями, которые оставили немцы по разложению людей.
+        </p>
+        <hi rendition="#s">Условия работы.</hi>
+         Много трудностей в работе по борьбе с последствиями, которые оставили немцы по разложению людей.
+        <p>Чем это можно подтвердить. Во-первых, немцы старались насаждать мелкое частническую, мелко капиталистическую систему. Особенно ярко это выразилось в торговле. Достаточно сказать, что на сегодняшний день в г. Харькове существует 245 частных магазинов, у которых оборот составляет от 900 тыс. до 5 млн. в год каждого. Это дает полное право сказать, что немцы насаждали частный сектор.</p>
+        <p>
+          При немцах за взятку можно было сделать все, что угодно. Система взяточничества у них была узаконена, поэтому такие явления имеют место еще и сейчас в г. Харькове. Люди, которые сейчас пришли работать в государственные учреждения, 
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">и</hi>
+           стремятся взять взятку. 
+          <hi rendition="#s">Нап</hi>
+          <hi rendition="#s">рим</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">р, такой ф</hi>
+          <hi rendition="#s">акт</hi>
+          <hi rendition="#s">: с</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">йчас</hi>
+          <hi rendition="#s"> с</hi>
+          <hi rendition="#s"> пуском электростанции опр</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">д</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">л</hi>
+          <hi rendition="#s">ен</hi>
+          <hi rendition="#s">ной категории населения </hi>
+          <hi rendition="#s">г. Ха</hi>
+          <hi rendition="#s">р</hi>
+          <hi rendition="#s">ьков</hi>
+          <hi rendition="#s">а ну</hi>
+          <hi rendition="#s">жн</hi>
+          <hi rendition="#s">о </hi>
+          <hi rendition="#s">было</hi>
+          <hi rendition="#s"> д</hi>
+          <hi rendition="#s">ат</hi>
+          <hi rendition="#s">ь свет в квартиры</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> и</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">да</hi>
+          <hi rendition="#s">ж</hi>
+          <hi rendition="#s">е </hi>
+          <hi rendition="#s">в</hi>
+          <hi rendition="#s"> подключении света к </hi>
+          <hi rendition="#s">э</hi>
+          <hi rendition="#s">тим квартирам </hi>
+          <hi rendition="#s">мо</hi>
+          <hi rendition="#s">нт</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">ры, ранее</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">остава</hi>
+          <hi rendition="#s">вшиеся</hi>
+          <hi rendition="#s"> на</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">време</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">но</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">оккупирован</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">ой терр</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">тор</hi>
+          <hi rendition="#s">ии</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> с</hi>
+          <hi rendition="#s">тара</hi>
+          <hi rendition="#s">лись </hi>
+          <hi rendition="#s">взять взятку.</hi>
+        </p>
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">и</hi>
+         стремятся взять взятку. 
+        <hi rendition="#s">Нап</hi>
+        <hi rendition="#s">рим</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">р, такой ф</hi>
+        <hi rendition="#s">акт</hi>
+        <hi rendition="#s">: с</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">йчас</hi>
+        <hi rendition="#s"> с</hi>
+        <hi rendition="#s"> пуском электростанции опр</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">д</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">л</hi>
+        <hi rendition="#s">ен</hi>
+        <hi rendition="#s">ной категории населения </hi>
+        <hi rendition="#s">г. Ха</hi>
+        <hi rendition="#s">р</hi>
+        <hi rendition="#s">ьков</hi>
+        <hi rendition="#s">а ну</hi>
+        <hi rendition="#s">жн</hi>
+        <hi rendition="#s">о </hi>
+        <hi rendition="#s">было</hi>
+        <hi rendition="#s"> д</hi>
+        <hi rendition="#s">ат</hi>
+        <hi rendition="#s">ь свет в квартиры</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> и</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">да</hi>
+        <hi rendition="#s">ж</hi>
+        <hi rendition="#s">е </hi>
+        <hi rendition="#s">в</hi>
+        <hi rendition="#s"> подключении света к </hi>
+        <hi rendition="#s">э</hi>
+        <hi rendition="#s">тим квартирам </hi>
+        <hi rendition="#s">мо</hi>
+        <hi rendition="#s">нт</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">ры, ранее</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">остава</hi>
+        <hi rendition="#s">вшиеся</hi>
+        <hi rendition="#s"> на</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">време</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">но</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">оккупирован</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">ой терр</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">тор</hi>
+        <hi rendition="#s">ии</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> с</hi>
+        <hi rendition="#s">тара</hi>
+        <hi rendition="#s">лись </hi>
+        <hi rendition="#s">взять взятку.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

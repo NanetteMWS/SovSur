@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> В Воениздат г. Москва</p>
+        <p>(литературный отдел)</p>
+        <p/>
+        <p>от медсестры, в данное</p>
+        <p>время исполняю обязанности</p>
+        <p>санинструктора ДКР</p>
+        <p>840 ДЭБ 60 армии</p>
+        <p>Поляковой Раисы Абрамовны</p>
+        <p>1920 года рождения, житель</p>
+        <p>г. Чернигова УССР.</p>
+        <p/>
+        <p>Я Полякова Раиса Абрамовна в 1941 году в июле месяце добровольно пошла на фронт Отечественной войны. Работала я при штабе 123 СД 5 армии, сначала машинисткой, а потом в качестве медсестры (так как я кончала курсы медсестер) по оказыванию помощи нашим бойцам и командирам.</p>
+        <p>В сентябре 1941 г. наша дивизия попала </p>
+      </div>
+    </body>
+  </text>
+</TEI>

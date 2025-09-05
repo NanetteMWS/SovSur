@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.14 оборот" xml:space="default"/>
+        <p> 2 апреля 1945 г. я ездил туда же вторично. Перевозил листовки с сообщением о решениях Крымской конференции, о событиях на фронтах и обращение Бамберзкого городского КБ за апрель месяц. Как первая, так и вторая поездки были проведены вдачно. Мой риск (попасть в руки гестапо или же полевой жандармерии – посколько фронт в это время был близко) себя оправдали и русская пословица: «Риск – благородное дело» – тоже. Решаясь на какое-то важное и опасное дело, мы часто пользовались этой пословицей.</p>
+        <p>На протяжении своей антифашистской работы ЦКБ и низовые КБ встречали на пути людей, которые говорили, что проводить антифашистскую работу невозможно, посколько весь порабощенный народ очень тесно зажат фашистскими организациями и их контролем, что дело – очень трудное: Красная Армия сначала ничего не сделала, а мы здесь – капля в море.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

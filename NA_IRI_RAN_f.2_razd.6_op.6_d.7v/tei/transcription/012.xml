@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000997">
+      <titleStmt>
+        <title>Стенограмма беседы с Львом Николаевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 7v.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p>
+           Тут, в Харькове, вначале точно говорили, что 29-го такого-то месяца должна закончиться война, и 
+          <hi rendition="#s">они</hi>
+           
+          <hi rendition="#i">немцы</hi>
+           были очень удивлены, когда 29-го ничего не наступало, но зато им опять говорили, что 29-го через три месяца они вернутся домой.
+        </p>
+        <hi rendition="#s">они</hi>
+         
+        <hi rendition="#i">немцы</hi>
+         были очень удивлены, когда 29-го ничего не наступало, но зато им опять говорили, что 29-го через три месяца они вернутся домой.
+        <p>
+          Когда я был в Берлине, по распоряжению властей демонстрировали фильм. Назывался он «Побольше вежливости». 
+          <hi rendition="#s">Так</hi>
+           
+          <hi rendition="#i">Раньше</hi>
+           берлинцы – 
+          <hi rendition="#s">я</hi>
+          <hi rendition="#s"> знаю их по 19</hi>
+          <hi rendition="#s">2</hi>
+          <hi rendition="#s">7-</hi>
+          <hi rendition="#s">192</hi>
+          <hi rendition="#s">8 </hi>
+          <hi rendition="#s">г</hi>
+          <hi rendition="#s">. – люди</hi>
+           были очень вежливые, а тут под влиянием войны они стали страшно грубыми даже по отношению друг к другу. Этот фильм демонстрировался во всех кино. Он имел целью призвать берлинцев к большей вежливости. Так что настроение у них тяжелое. Приходилось беседовать с швейцаром отеля и т.д. Даже тогда (а это был
+          <hi rendition="#i">о</hi>
+           
+          <hi rendition="#s">момент</hi>
+           
+          <hi rendition="#i">до разгрома под</hi>
+           
+          <hi rendition="#s">до</hi>
+           Сталинград
+          <hi rendition="#i">ом</hi>
+          ) 
+          <hi rendition="#s">до отступления</hi>
+           у некоторых не было веры в победу, и 
+          <hi rendition="#i">они</hi>
+           думали, что 
+          <hi rendition="#i">немцы</hi>
+           будут 
+          <hi rendition="#s">разгромлены</hi>
+           
+          <hi rendition="#i">побеждены</hi>
+          . Я слышал от этого швейцара. Он высказался в этом направлении, что не верит в победоносное окончание войны. Это был апрель – начало мая, когда дела немцев были очень хороши.
+        </p>
+        <hi rendition="#s">Так</hi>
+         
+        <hi rendition="#i">Раньше</hi>
+         берлинцы – 
+        <hi rendition="#s">я</hi>
+        <hi rendition="#s"> знаю их по 19</hi>
+        <hi rendition="#s">2</hi>
+        <hi rendition="#s">7-</hi>
+        <hi rendition="#s">192</hi>
+        <hi rendition="#s">8 </hi>
+        <hi rendition="#s">г</hi>
+        <hi rendition="#s">. – люди</hi>
+         были очень вежливые, а тут под влиянием войны они стали страшно грубыми даже по отношению друг к другу. Этот фильм демонстрировался во всех кино. Он имел целью призвать берлинцев к большей вежливости. Так что настроение у них тяжелое. Приходилось беседовать с швейцаром отеля и т.д. Даже тогда (а это был
+        <hi rendition="#i">о</hi>
+         
+        <hi rendition="#s">момент</hi>
+         
+        <hi rendition="#i">до разгрома под</hi>
+         
+        <hi rendition="#s">до</hi>
+         Сталинград
+        <hi rendition="#i">ом</hi>
+        ) 
+        <hi rendition="#s">до отступления</hi>
+         у некоторых не было веры в победу, и 
+        <hi rendition="#i">они</hi>
+         думали, что 
+        <hi rendition="#i">немцы</hi>
+         будут 
+        <hi rendition="#s">разгромлены</hi>
+         
+        <hi rendition="#i">побеждены</hi>
+        . Я слышал от этого швейцара. Он высказался в этом направлении, что не верит в победоносное окончание войны. Это был апрель – начало мая, когда дела немцев были очень хороши.
+        <p>
+          Берлин по сравнению с 1927-1928 г. произв
+          <hi rendition="#s">одит</hi>
+          <hi rendition="#i">ел</hi>
+           
+          <hi rendition="#i">на меня</hi>
+           хорошее впечатление в том отношении, что 
+          <hi rendition="#i">там появилось</hi>
+           много новых подземных дорог, транспорт значительно увеличился, но население, магазины и т.д. производят удручающее впечатление. Потом, 
+          <hi rendition="#i">ночью</hi>
+           – темнота полная, затемнение. При мне не было вылетов. Но когда я был в 
+          <hi rendition="#s">показательном</hi>
+           лагере 
+          <hi rendition="#i">около Берлина</hi>
+          , 
+          <hi rendition="#s">т</hi>
+          <hi rendition="#s">о</hi>
+           появился один английский аэроплан, 
+          <hi rendition="#s">который ничего</hi>
+           
+          <hi rendition="#i">н</hi>
+          <hi rendition="#i">о бомб он</hi>
+           не сбросил.
+        </p>
+        <hi rendition="#s">одит</hi>
+        <hi rendition="#i">ел</hi>
+         
+        <hi rendition="#i">на меня</hi>
+         хорошее впечатление в том отношении, что 
+        <hi rendition="#i">там появилось</hi>
+         много новых подземных дорог, транспорт значительно увеличился, но население, магазины и т.д. производят удручающее впечатление. Потом, 
+        <hi rendition="#i">ночью</hi>
+         – темнота полная, затемнение. При мне не было вылетов. Но когда я был в 
+        <hi rendition="#s">показательном</hi>
+         лагере 
+        <hi rendition="#i">около Берлина</hi>
+        , 
+        <hi rendition="#s">т</hi>
+        <hi rendition="#s">о</hi>
+         появился один английский аэроплан, 
+        <hi rendition="#s">который ничего</hi>
+         
+        <hi rendition="#i">н</hi>
+        <hi rendition="#i">о бомб он</hi>
+         не сбросил.
+        <p/>
+        <p>
+          <hi rendition="#i">Проф. Л. Николаев</hi>
+        </p>
+        <hi rendition="#i">Проф. Л. Николаев</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

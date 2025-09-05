@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.121" xml:space="default"/>
+        <p> я рассмотрела, что кругом 4 стены на большом расстоянии и ползти мне нужно к той стене, откуда мы свалились и я поползла туда. С большим трудом, делая последние усилия, я выбралась наверх, в эту минуту меня кто-то окликнул. Это оказался мальчик 14-ти лет, которого звали Мотя. Я приказала ему молчать, и мы поползли вместе. Он во всем меня слушался.</p>
+        <p>Долго мы ползли по поверхности, но уйти нам не удалось, т.к. кругом были яры.</p>
+        <p>Уже начинался рассвет. Нам надо было куда-то спрятаться, мы опустились метра 2, два с половиной вниз за одну из стен расстрела и скрылись в кустах.</p>
+        <p>Когда рассвело, на противоположной стороне со стороны Куреневки мы увидели – немцы вели двух женщин-евреек. Я хорошо знаю, что это были еврейки, т.к. я слышала, как они кричали на еврейском языке. Немцев было семь человек, они по очереди насиловали женщин, потом тут же их кортиками закололи и сбросили вниз. Потом я увидела одну старушку, которая бежала по той же противоположной стороне, и ребенка-мальчика лет шести-семи, который бежал за старушкой и кричал: «Бабушка, я боюсь», а она от него отмахивалась. Два немца догнали их и убили сначала ребенка, а потом старуху.</p>
+        <p>Также я увидела, как подошла какая-то женщина с ребенком на руках, смотрела вниз, смеялась и разговаривала с немцами, которые стреляли.</p>
+        <p>Потом, к вечеру у меня началась галлюцинация: я видела перед собой все время отца, мать, сестру, которые </p>
+      </div>
+    </body>
+  </text>
+</TEI>

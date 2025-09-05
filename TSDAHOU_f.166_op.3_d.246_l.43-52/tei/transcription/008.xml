@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000836">
+      <titleStmt>
+        <title>Стенограмма беседы с Александрой Царенковой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 43-52.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.51" xml:space="default"/>
+        <p> в сутки.</p>
+        <p>15 апреля 1945 года нас освободили английские части. Я заболела от перемены пищи и пролежала месяц в лазарете. Оказалось, что в лагере, где мы сидели, было очень много пищи, но немцы вели политику истребления и потому не кормили людей. Я заболела только потому, что съела кислую капусту.</p>
+        <p>После освобождения нам всем было очень хорошо. Англичане обращались очень вежливо с нами, заботились о нас, хорошо кормили. Но от перемены пищи умерло много людей.</p>
+        <p>Все немцы, которые над нами издевались в лагере, были арестованы англичанами. Коменданта наши люди хотели растерзать, но англичане не разрешили это сделать. Они взяли его на танк и заставили показать весь лагерь. В лагере лежало очень много трупов, т.к. последнее время военнопленных кормили отравленной пищей. Тут же этих немцев заставили носить трупы.</p>
+        <p>В этом лагере арестованы были англичанами Креймер, Геслер, Ирма. Это была женщина маленького роста, ходила всегда с собакой. На вид ей было лет 35.</p>
+        <p>После выздоровления (пролежала я в английском лазарете целый месяц) нас всех отправили на русскую границу и в июне месяце я попала на русскую территорию в город Пархим. Затем нас привезли в г. Фюрстенберг, где был распределительный лагерь. Там выдали нам документы и отправили по домам. Некоторое время нам пришлось еще поработать в военной части. Работала я в этой части до октября, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

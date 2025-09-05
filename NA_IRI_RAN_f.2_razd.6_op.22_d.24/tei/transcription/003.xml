@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p> Як село наше окружили,</p>
+        <p>Як привели нас на перон…</p>
+        <p>І як повезли на чужину</p>
+        <p>Проклять і зойків ешелон.</p>
+        <p/>
+        <p>Цих хижих звірів у жупанах</p>
+        <p>Зметуть з землі, як те сміття</p>
+        <p>І знову світлі і бажані</p>
+        <p>До нас дні волі прилетять.</p>
+        <p/>
+        <p>(Другий лист)</p>
+        <p>Хоч я живу в чужому краю</p>
+        <p>В нужді великий і біді,</p>
+        <p>Проте тебе не забуваю,</p>
+        <p>Люблю так саме, як тоді…</p>
+        <p>Хоч сім картопель споживаю</p>
+        <p>І миску супу, як вода,</p>
+        <p>Проте тебе не забуваю,</p>
+        <p>Моя дівчино молода.</p>
+        <p/>
+        <p>Куди подітися від туги,</p>
+        <p>Як вгамувати біль душі?</p>
+        <p>Пишу тобі листи, подруго,</p>
+        <p>Або пописую вірші.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.65" xml:space="default"/>
+        <p> В лагере мы не работали, отдыхали, нас кормили и давали одежду, но все рвались скорее на Родину, каждому хотелось скорее оставить лагерь. Все с нетерпением ожидали дня окончательного разгрома врага. 9 мая в 12 часов 15 мин. мы услышали по радио радостную долгожданную весть. Война окончена. Гитлеровская Германия сложила оружие. Красная Армия и союзная ей армия окончательно разбили врага на его собственной территории. </p>
+        <p>Спустя несколько времени в лагерь приехал представитель Красной армии капитан Конев. В лагере состоялся митинг. На большой площади собралось несколько тысяч народа, каждому хотелось видеть воина победоносной Красной армии, послушать его. Тов. Конев выступил с речью перед многотысячным народом. По окончании его речи все могли задавать тов. Коневу вопросы. И вопрос был один и тот же во всех: «Скоро ли мы поедем на Родину?»</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

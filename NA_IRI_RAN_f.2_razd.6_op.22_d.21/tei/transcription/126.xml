@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.64" xml:space="default"/>
+        <p> фашистского ига. Не нужно было утром спешить на работу, не боялись уже мы больше, что нас ругать будут, что нас будут мучить, что над нами будут издеваться. </p>
+        <p>На следующий день мы переехали в лагерь, с нами жили единой семьей все товарищи, которые скрывались у нас перед освобождением. В лагере мы имели полную свободу, имели полное право отомстить немцам за все издевательства. Питанием, продуктом нас обеспечивали американцы. Свои ребята стали заботиться об обеспечении. Пробыв две недели в Штаффельштайне в лагере, нас перевезли в Кобург, в более крупный лагерь, где доходило до 17 и выше тысяч народа. В Кобурге в лагере мы встретили всех военнопленных, всех знакомых, тех, которые нас знали только с писем, с рассказов. Все они приходили к нам, знакомились, благодарили </p>
+      </div>
+    </body>
+  </text>
+</TEI>

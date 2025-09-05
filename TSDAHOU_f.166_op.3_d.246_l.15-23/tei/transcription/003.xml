@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p> На этом распределительном пункте я пробыла 3 дня.</p>
+        <p>За это время мы прошли баню, врачебную комиссию. Сделали нам оттиски пальцев, сфотографировали каждого, а затем приделали дощечки с номерами.</p>
+        <p>С этого дня у меня не было ни фамилии, ни имени. Я была №1765 со знаком «ОСТ».</p>
+        <p>После распределения с группой в 240 человек под охраной немецких жандармов я попала в г. Виттенберг.</p>
+        <p>Привели нас в бараки, которые были расположены в глубоком подземелье. Наша комната была холодная и сырая, освещалась тусклым светом двух маленьких окон. Спали на полу на соломе.</p>
+        <p>Так в этих условиях под охраной жандармов мы жили 6 месяцев, работая на фабрике, где вырабатывались детали к винтовкам, пулеметам и др. видам оружия.</p>
+        <p>Впервые, когда нас привели на фабрику, меня поставили возле машины, на которой происходила первичная обработка деталей. Деталь очищалась от ржавчины при помощи едкого масла, которое очень влияло на человеческий организм.</p>
+        <p>Человек, проработав возле этой машины в течении 3-х месяцев, совершенно выбывал из строя, получая туберкулез и другие увечья организма.</p>
+        <p>Меня поставили возле этой машины и сказали, чтобы я работала. Но я, заложив руки за спину, сказала, что работать не буду. Меня били по лицу, по голове, заставляли брать в руки деталь, но я не брала и все говорила, что работать не буду. Меня так били по лицу и голове, что другие девушки не могли смотреть и советовали мне работать. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

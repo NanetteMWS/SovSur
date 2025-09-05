@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.10 оборот" xml:space="default"/>
+        <p> под грязными одеялами мы и ночевать остались. Долго мы не могли уснуть, все говорили между собой, все еще нам не верилось, что мы очутились в этой распроклятой стране, что здесь мы должны будем работать и жить в таких страшных условиях, быть среди этих чужих людей, которые смотрят на нас, как на зверей – все это казалось нам кошмарным сном. Но мы были настолько измученными, уставшими, что все сразу умолкли и уснули. </p>
+        <p>Наутро нас разбудили в 6 часов, снова дали кофе и повели каждого в отдельности на работу. Отца, мать и маленького Ваську отправили работать на поле. Мишу отвели на скотный двор, где указали конюшню, в которой находилось до 60 шт. скота. Меня и Дусю водили везде и указывали, что мы должны делать. Мы должны были чистить сараи курей, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

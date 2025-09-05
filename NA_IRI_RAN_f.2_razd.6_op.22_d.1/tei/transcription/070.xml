@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.71" xml:space="default"/>
+        <p> разбираюсь, где правда, и где ложь». Даже которые добровольцами приехали в Германию работать, то и те пошли на попятную от власовца, а это было в феврале 1945 года. Ихняя попятная была ввиду приближения Красной Армии вполне понятна. Власовец, облизнувшись у нас с вербовкой, он направился наверх к немцам, где и засел с своими друзьями за стол. Шинель и полевая сумка была повешена в полутемном коридоре. Петр использовал удобный случай и залез к нему в сумку, в результате список №16 персонала воинских частей германской армии (изменников СССР) Петром был после освобождения передан 29/V-45 дознавателю сформированного </p>
+      </div>
+    </body>
+  </text>
+</TEI>

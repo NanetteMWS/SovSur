@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000279">
+      <titleStmt>
+        <title>Воспоминания Октябрины Гудимовы</title>
+        <author>
+          <persName>Октябрина Павловна Гудимова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 65.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p> оказалось, что в этой комнатушке помещалось 162 человека.</p>
+        <p>Под конвоем нас увели на Белгород. В Белгороде привели нас в комендатуру и заставили, не нарушая строя, ждать выхода офицера. Было холодно и, чтобы согреться, люди прыгали. В это время вышел офицер и палкой побил впереди стоящих раненых мужчин. Затем грубо приказал белгородским остаться и ждать разрешения на жительство в Белгороде, а всех остальных построили по 3 человека и отвели в белгородскую тюрьму, где уже сидели по 12-15 суток голодные и холодные люди. Я осталась в Белгороде. Через несколько дней я достала пропуск и вернулась в Харьков. И теперь, вспоминая свой белгородский поход, невольно вздрагиваю при воспоминании всех тех ужасов, которые пришлось </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.9 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Мой брат Ваня</hi>
+        </p>
+        <hi rendition="#u">Мой брат Ваня</hi>
+        <p>Я сегодня радостью объят,</p>
+        <p>Никогда так весел не бывал.</p>
+        <p>С Красной Армии родной мой брат</p>
+        <p>Мне сегодня письмецо прислал.</p>
+        <p/>
+        <p>Фото выслал тоже мне мой брат.</p>
+        <p>Молодцом на фото выглядит:</p>
+        <p>Орден и медали две горят</p>
+        <p>На его простреленной груди.</p>
+        <p/>
+        <p>Мать не узнает его теперь.</p>
+        <p>Такой рослый-стройный и плечист.</p>
+        <p>Гвардии примерный офицер,</p>
+        <p>Заслуженный офицер-танкист.</p>
+        <p/>
+        <p>Как мне не гордится братом Ваней,</p>
+        <p>Все в селе про брата говорят.</p>
+        <p>Он освобождал меня с Германии</p>
+        <p>От цепей, от голода, от грат.</p>
+        <p/>
+        <p>Под Берлином три раза был ранен</p>
+        <p>От осколков вражеских гранат,</p>
+        <p>Но остался жив и прежним Ваней</p>
+        <p>Мой родной незаменимый брат.</p>
+        <p/>
+        <p>[Л.10 и Л.10 оборот – отсутствуют]</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

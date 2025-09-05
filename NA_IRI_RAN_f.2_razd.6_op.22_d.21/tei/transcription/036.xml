@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p> они пустили нас. </p>
+        <p>На завтрашний день Васька принес письмо от военнопленных. Они сильно беспокоились за наше благополучие, но домой добрались мы благополучно. В письме Невидомский сообщал целый ряд новостей. Я в своих ответных письмах сообщала в лагерь все новости, которые нам удавалось узнать только от самих немцев или от французов, работающих здесь. Они чаще бывали в городе, у них больше было знакомых, и они всегда рассказывали нам, где немцы отступают, где бомбят Германию и т.д. Они хорошо уже владели немецким языком и больше были связаны с немцами. Часто они приносили листовки, и мы вместе их переводили, затем я их переписывала и посылала в лагерь девушек и в лагерь военнопленных.</p>
+        <p>Рабочие дня наши проходили все в таких же условиях. Много работали, тяжело работали, но уже больше ознакомились со всей окружающей обстановкой, с их порядками, законами, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

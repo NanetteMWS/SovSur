@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.135" xml:space="default"/>
+        <p/>
+        <p>Стенограмма записи воспоминаний Берман Ревекка Ефимовна.</p>
+        <p>О событиях на Украине периода немецкой оккупации</p>
+        <p/>
+        <p>20-го января 1946 года</p>
+        <p/>
+        <p>Беседу проводил старший научный сотрудник Комиссии по истории Отечественной войны на Украине – Гуливец А.И.</p>
+        <p>Стенографистска – Пейсахзон.</p>
+        <p/>
+        <p>28-го июля 1941 года я с братом, его женой и детьми эвакуировалась из Первомайска. В 25 километрах от Первомайска на Лысой Горе мы попали в руки немцам, которые внезапно туда ворвались.</p>
+        <p>Тут же последовал приказ немцев, чтобы все возвратились к себе на родину. Мне пришлось с 6-тилетним ребенком, братом и его семьей пешком вернуться в Первомайск, в Голту.</p>
+        <p>Первомайск разделяется на 3 части – Голта, Богополье, Ольвиополь. Богополье и Ольвиополь отошли к немцам и вошли в Николаевский округ. Голта отошла к румынам и считалась «Транснистрией».</p>
+        <p>В первые дни я зарабатывала на пропитание себе и ребенка стиркой белья итальянцам. Они денег не платили, но давали есть мне и моему ребенку. Национальности моей они не знали. Первое время я скрывала свою национальность.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

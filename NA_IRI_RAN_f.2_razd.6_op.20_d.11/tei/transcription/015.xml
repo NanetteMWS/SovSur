@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000321">
+      <titleStmt>
+        <title>Стенограмма беседы с Вольдемаром Теллингом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 20. Д. 11.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> последние деньги купил билет, и обратно отправиться было не на что. Я решил – пан или пропал, и, когда спросили, чем я занимался в то время, я сказал:</p>
+        <p>– Писал.</p>
+        <p>– А, значит, вы журналист.</p>
+        <p>– Нет, я беллетристикой занимался.</p>
+        <p>– Романы тоже писали?</p>
+        <p>– Да, писал.</p>
+        <p>– А какое название, где печатали?</p>
+        <p>– Не печатал, а так, по рукам ходил.</p>
+        <p>И я не врал, в тюрьме я писал. Я приготовился, что если вплотную зайдет, я и скажу.</p>
+        <p>Что замечательно, по моему мнению, в эстонском рабочем движении в борьбе за советскую власть, что, например, восстание 1 декабря 1924 г., это восстание было не под силу эстонскому пролетариату, разгромленному в гражданской войне 1919-1920 гг., потерявшему огромную часть своих сил перед оккупацией, когда огромная часть пролетариата, особенно таллинского пролетариата, ушла в Советский Союз, где их очень много осело, и все-таки восстание 1 декабря было в духе Октябрьской революции, который был очень силен в нашем пролетариате. Классовая борьба и борьба вообще нашего пролетариата и отличается от борьбы пролетариата других прибалтийских государств своей ожесточенностью, своей принципиальностью. Рабочий класс Эстонии вообще в свое время был более активный, революционный, более ожесточенный в своей борьбе, чем в других прибалтийских республиках, где по количеству рабочий </p>
+      </div>
+    </body>
+  </text>
+</TEI>

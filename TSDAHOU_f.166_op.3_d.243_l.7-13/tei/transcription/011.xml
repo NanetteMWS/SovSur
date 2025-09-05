@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000817">
+      <titleStmt>
+        <title>Стенограмма беседы с Исаем Винницким</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 7-13.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> На фронт ездили и доставали эти машины.</p>
+        <p>Процент работающих женщин на заводе примерно составляет тридцать. В механическом цехе 30% женщин; в литейном цехе 26% женщин; в кузнечном цехе 3%; в авторемонтном цехе 5%. Даже в охране имеем 33 женщины. Женщины работают не хуже, а даже лучше мужчин.</p>
+        <p>В кузнечном и механическом цехах работают в две смены по одиннадцати часов; в литейном цехе работают девять часов. В среднем одиннадцатичасовой рабочий день. Все связано, главным образом, с электроэнергией. Если бы было достаточно электроэнергии, мы бы работали лучше и продукции выпускали бы больше.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">И. Винницкий</hi>
+        </p>
+        <hi rendition="#i">И. Винницкий</hi>
+        <p>
+          <hi rendition="#i">10/</hi>
+          <hi rendition="#i">V</hi>
+          <hi rendition="#i"> 44 г.</hi>
+        </p>
+        <hi rendition="#i">10/</hi>
+        <hi rendition="#i">V</hi>
+        <hi rendition="#i"> 44 г.</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

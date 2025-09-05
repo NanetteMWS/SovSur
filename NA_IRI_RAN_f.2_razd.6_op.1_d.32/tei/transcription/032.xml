@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.28" xml:space="default"/>
+        <p> Моск. обл. около 100 т пудов зерновых, полторы тысячи голов крупного рогатого скота, около 13 тыс. овец, свыше 2 тыс. свиней, 300 лошадей и миллион руб. деньгами. Колхозники Хакассии отправили в Моск. область 34.500 пудов хлеба, тысячу коров, 8400 овец («Комс. правда» 15/III-42 г., №62).</p>
+        <p>17 освобожденных районов Моск. области в результате братской помощи восточных районов Моск. обл. и СССР получили 40% семян потребных для весеннего сева 1942 г. (см. прилагаемую таблицу). Как указано выше колхозники из личных запасов засыпали 45,9% потребных семян. Государственная ссуда потребовалась в размере 14,1% – таким образом весенний сев 1942 г. был полностью обеспечен семенами.</p>
+        <p>Сбор семенного фонда к весеннему севу 1942 г. в освобожденных районах – наглядное доказательство силы колхозного строя.</p>
+        <p>
+          Достойным ответом на помощь восточных районов явился прекрасный почин колхоза «Правда» Высокинического района, который окрепнув за год после освобождения, выделил 10 ц. 
+          <hi rendition="#s">зерновых</hi>
+           семян зерновых для колхозов «Кр. Знамя» Маленского сельсовета 
+        </p>
+        <hi rendition="#s">зерновых</hi>
+         семян зерновых для колхозов «Кр. Знамя» Маленского сельсовета 
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.25 оборот" xml:space="default"/>
+        <p>
+           Этот приказ укрепил веру в победу над фашистской Германией и скорейшее освобождение с фашистской каторги советских граждан и других порабощенных народов. Прочитав его, в меня появился сильнейший патриотизм, любовь к Родине и одновременно невыносимая ненависть к ее врагам – фашистским 
+          <hi rendition="#s">извергам</hi>
+           захватчикам. После этого я смелее и шире развернул антифашистскую деятельность.
+        </p>
+        <hi rendition="#s">извергам</hi>
+         захватчикам. После этого я смелее и шире развернул антифашистскую деятельность.
+        <p>Этот приказ прочли сотни тысяч советских граждан, находящихся в фашистской Германии. Везде он оказал свое влияние, во всех он так отразился.</p>
+        <p>Ежедневной нашей мечтой было: «Что я услышу сегодня о событиях на фронте, Родине и здесь?» «Ну, какие новости слышны у вас?» – был один с первых вопросов при встречах.</p>
+        <p>В свободное время при встречах азартный и спорный разговор был о том, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

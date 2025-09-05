@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.82" xml:space="default"/>
+        <p> огонь трех минометов, двух противотанковых орудий с двух сторон, с заходом во фланг, направляют до 200 человек солдат, вооруженных пулеметами и автоматами. Рота в 35 человек под командованием тов. Бессонова М. упорно сдерживала наступление немцев, и только после того, когда три деревни было зажжено, когда немцы, прикрываясь дымом, образовавшимся от пожара, подошли вплотную к деревне, – рота отступила. </p>
+        <p>Тов. Бессонов был убит и сожжен. Ворвавшись в деревню, немцы увели весь уцелевший от пожара скот, забрали все, что было, из имущества, подожгли все остальные дома и постройки, расстреляли и сожгли 30 человек женщин и детей. 4-х летнего мальчика на глазах у матери бросили в костер, 5-ти месячного ребенка расстреляли из автомата».</p>
+        <p>(Из докладной записки старшего политрука Микрюкова от 6 марта 1942 года)</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.24" xml:space="default"/>
+        <p> Зверство немецких оккупантов. Когда были немцы у нас, как они ходили, как звери какие. Сперва они еще ходили, им было тепло, а тут настали морозы, тогда они стали замерзать. Тогда они стали ходить по домам, стали отбирать валенки, мы стали хоронить. Тогда они стали искать и не нашли. Вот раз пошла мама за водой и позабыла снять валенки. Уже достала воды и было хотела идти домой. Тут шли немцы. Мать скорей хотела идти, но тут немцы её остановили – валенки. А мама говорит: пан, я не понимаю. Тогда они позвали её и показывают на валенки. Она </p>
+      </div>
+    </body>
+  </text>
+</TEI>

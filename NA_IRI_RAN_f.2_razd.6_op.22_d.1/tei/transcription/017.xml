@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p> Как мы завидовали в то время нашим летчикам?! Которые через 2-3 часа опустятся на нашей земле, среди своих, и слезы бессилия и злобы, что мы оторваны волей рока от семьи, от родины, душили нас. У нас не было в ту минуту другой мысли, как только о родине.</p>
+        <p>В этом лагере Петр пробыл 25 дней. 1-го Августа рано утром нас всех разбудили и заявили, что сегодня 3000 человек отправят в Симферополь. С руганью, с дракой стали становиться по 5 человек около ворот, каждый хотел быть впереди, чтобы только вырваться из этого ада. Нас разгоняли ударами палок «русские» полицаи и немецкие солдаты. Но мы вновь собирались, пока не пришло распоряжение выпустить нас за ворота.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

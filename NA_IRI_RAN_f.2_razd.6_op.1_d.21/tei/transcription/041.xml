@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.79" xml:space="default"/>
+        <p> Рассказ Т.И. Очкасовой.</p>
+        <p>«Немцы шли с Фавора, а наши с Истры. Пальба была ужасная, вся крепость дрожала. Все мы в подвале сидели – в монастыре. В первое время я все прибегала в свое помещение (здание совхоза) ночевать, а потом уже невозможно стало. </p>
+        <p>Когда сильный бой начался, немцы с Фавора стали наших артиллерией обстреливать, мы в лес убежали. По дороге-то страсти натерпелись! Пули над головой так и жуждят. C неба в ту пору не было, только из пушек. Мы было к скиту бросились, но во время затишья все в подвал опять побежали, в музей. Снова начался ужасный бой, все так и дрожало. Когда точно пришли немцы – не знаю. В музее, в подвале с нами находились в ту пору бойцы из охраны, человек 15 красноармейцев с начальником. Перед самым приходом немцев начальник с частью бойцов успел убежать; человек 8 бойцов так и остались в подвале с нами.</p>
+        <p>Немцы взошли к нам в подвал, один фонарем светит, и за ним еще 3 идут, по мешкам щупают, у кого какой хлеб с собой был, отбирают, да в свой мешок складывают. Сами по-своему говорят, только, видно, спрашивают: «сакар, сакар» – дескать, сахар давай. Нашелся один, знал по-ихнему (в прошлую войну плену был), объяснил, что нет сахара. За </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000386">
+      <titleStmt>
+        <title>Письмо Натальи Коломеец и открытки-послания Николая Шевченко</title>
+        <author>
+          <persName>Наталия Коломеец</persName>
+        </author>
+        <author>
+          <persName>Николай Николаевич Шевченко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.5 оборот" xml:space="default"/>
+        <p> 5/X-44. Привет, Наташенька!</p>
+        <p>Перед моим отъездом в Roth ты мне передала свой домашний адрес. Где-то я его затерял. Прошу тебя, не откажи, вышли мне его снова. Сама знаешь, теперь время, каждый день может принести изменения.</p>
+        <p>Я лично теперь живу еще в Bamberge. Дела мои неплохи.</p>
+        <p>Время интересное!!</p>
+        <p>Пиши.</p>
+        <p>С приветом, Николай</p>
+        <p>Natalia Kolomeez</p>
+        <p>Belmrach 3</p>
+        <p>Roth b/Nbg</p>
+        <p/>
+        <p>[Л.6 – лицевая сторона открытки]</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

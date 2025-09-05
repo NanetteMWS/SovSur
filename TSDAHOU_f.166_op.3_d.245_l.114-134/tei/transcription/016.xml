@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.130" xml:space="default"/>
+        <p> были дни эвакуации жителей со Слободки в Киев. Эвакуация производилась немцами, т.к. вокруг Слободки были обнаружены партизаны.</p>
+        <p>Выйдя из больницы, я пришла в сторону Шулявки. Я знала место, где бывал муж, мне казалось, что я его там встречу. Но кто-то на меня указал. Какую-то группу проводили людей или из облавы, или арестованных, меня туда подтолкнули и вместе со всеми забрали.</p>
+        <p>
+          Привели нас в Лукьяновскую тюрьму, где просидела 28 суток. Били меня сильно. Там работал полицай Митя, который часто передавал мне лишний кусок хлеба в свое дежурство, папиросы. И вот, когда меня взяли на 
+          <hi rendition="#i">последний</hi>
+           допрос, он меня почти полумертвую, избитую унес. Мы очутились с ним против больницы Калинина, в стороне Шулявки. Причем до этого он прибил немца прикладом, поэтому он унес меня.
+        </p>
+        <hi rendition="#i">последний</hi>
+         допрос, он меня почти полумертвую, избитую унес. Мы очутились с ним против больницы Калинина, в стороне Шулявки. Причем до этого он прибил немца прикладом, поэтому он унес меня.
+        <p>Возле больницы Калинина он посадил меня и сказал:</p>
+        <p>– С тобой далеко я не уйду, мне нужно спешить. Я не полицай, а партизан. Меня зовут Митя.</p>
+        <p>Он поцеловал меня и исчез.</p>
+        <p>И вот больная, избитая, вся в шрамах ушла я пешком на Белую Церковь. Добиралась много дней. По дороге, не доходя до Василькова, мне подарили дранные босоножки, в которых я ходила до осени. Добравшись до Белой Церкви, там работал один из Киевских театров, но фамилий знакомых не оказалось и поэтому я смело </p>
+      </div>
+    </body>
+  </text>
+</TEI>

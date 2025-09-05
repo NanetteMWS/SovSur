@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> чтобы идти босиком. Конвоиры из СС-овцев, как правило, всех отставших расстреливали. Три товарища не вернулись в колонну. Они в упор были расстреляны из автоматов немецкими мерзавцами.</p>
+        <p>В этот же день, не доходя лагеря, колонне сделали 5-минутный привал около речушки. Стояла июльская крымская жара, товарищи изнывали от жары, во ртах у всех пересохло. Хотелось пить и пить. Стали просить разрешения напиться из речки воды. Преследовал отказ и угроза: «Кто выйдет из рядов, будет расстрелян». Несколько товарищей, не выдержав жажды, кинулись к речке. Фашисты по них открыли стрельбу. Четыре товарища навсегда остались лежать, уткнувши свои головы в берег реки. Они были убиты. Человек 15 </p>
+      </div>
+    </body>
+  </text>
+</TEI>

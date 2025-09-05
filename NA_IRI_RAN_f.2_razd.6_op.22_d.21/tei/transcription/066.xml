@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.34" xml:space="default"/>
+        <p> я должна была садить курей, уток, гусей на яйца, то я посадить посадила вместе с хозяйкой, но когда я должна была кормить их, то хозяйка со мной не ходила, и я приду каждый раз, посгоняю курей, переболтаю каждое яйцо, посгоняю гусей в холодную воду и с яичками проделаю тоже самое, а мать придет да еще раз проделает то же, то в конце концов не вышло ни одного цыпленка, ни (гусенка) утенка, только 5 штук гусенок. Так и смотрели всегда, где бы только что во вред сделать. Или при молотьбе отца приставят к машине, так он берет сноп, пересовывает его с места на место, а молотилка впустую ходит, а сзади мы русские, да французы стоим и посмеиваемся, пока кто-нибудь с немцев не обнаружит этого.</p>
+        <p>В это время усиленную работу вел ЦКБ и его низовые организации. Нужно было </p>
+      </div>
+    </body>
+  </text>
+</TEI>

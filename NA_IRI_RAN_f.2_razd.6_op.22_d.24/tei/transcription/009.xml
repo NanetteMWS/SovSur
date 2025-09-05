@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.5 оборот" xml:space="default"/>
+        <p> Як мені тоді хотілось</p>
+        <p>Йому плюнути в лице.</p>
+        <p>Задрижав від лютті тілом</p>
+        <p>І погодився на це.</p>
+        <p/>
+        <p>Не пиши тепер до мене</p>
+        <p>Ні відкриток, ні листів.</p>
+        <p>Вже не вирвуся напевне</p>
+        <p>Із хижацьких пазурів.</p>
+        <p/>
+        <p>Зогнию, мабуть, в кайданах,</p>
+        <p>Від знущань помру мабуть.</p>
+        <p>Любов мою полум’яну</p>
+        <p>У могилу загребуть.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

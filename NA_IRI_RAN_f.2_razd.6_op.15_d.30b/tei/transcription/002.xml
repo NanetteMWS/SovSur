@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000774">
+      <titleStmt>
+        <title>Докладная записка Кузьмы Басько</title>
+        <author>
+          <persName>Кузьма Павлович Басько</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 30б.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> 8. В большом количестве фабриковал бланки с печатями и подписями на предмет выдачи удостоверения родителям, что их дети посланы в Германию, хотя в самом деле дети находились в партизанских отрядах (два таких бланка получила и Гуринович В.В.).</p>
+        <p>9. Проводил работу через сына в школе против вовлечения учеников в союз белорусской молодежи, что дало хорошие результаты: несмотря на то, что СБМ много раз присылал в этот класс своего представителя, ему, несмотря на долгие уговоры, угрозы, просьбы и посулы костюмов и многих привилегий, не удалось вовлечь ни одного соученика моего сына, который учился в 7 классе, в СБМ.</p>
+        <p>10. В своей работе я опирался на:</p>
+        <p>1. Жарова – убит 30.6 44 г., 2. Станкевича – живет в Шнеке, 3. Сабило – ушел в армию, 4. Серафимовича – ушел в партизанский отряд, но, говорят, был немцами пойман и убит, Филипповича – выслан в Германию, 6. Савич Сашу – живет в Минске, 7. Шварц Галю – живет в Минске, 8. Махнача Николая – убит 30.6.44. 9. Путапа – живет в Минске.10. Андреева Владимира – ушел в армию.</p>
+        <p>Подробно же говорил о своих взглядах и о свое работе только с Филипповичем, а остальные без лишних слов и вопросов делали то, что попросишь, хотя ясно видели, что то, что они по моей просьбе делали, идет во вред Германии и на пользу русскому народу, т.е. они знали, что делают опасное, но нужное дело.</p>
+        <p>11. Участвовал в сборе денег на эскадрилью «Советская Беларусь», организованную в Минске через Вальковского.</p>
+        <p>К.Басько.</p>
+        <p>20.8 44.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

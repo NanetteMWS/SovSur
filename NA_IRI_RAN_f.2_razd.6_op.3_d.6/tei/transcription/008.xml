@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p>
+           свин. Мама моя говорит: у меня нет. Тогда они стали искать, но не нашли и ушли. Потом к нам пришли немцы. Стоят они тогда у нас, нашли братика велосипед и стали моего брата пытать. Они стали говорить: где взял велосипед? Потом они на него наставили наган. Они хотели стрелять, но потом к ним подошел офицер, что-то он им сказал, они не стали стрелять. Потом, когда пришли бойцы, мама моя болела и она умерла от 
+          <hi rendition="#s">нем</hi>
+           немецких захватчиков. Товарищи бойцы, вот как издевались немцы над нашим народом. Вот как издевались немцы.
+        </p>
+        <hi rendition="#s">нем</hi>
+         немецких захватчиков. Товарищи бойцы, вот как издевались немцы над нашим народом. Вот как издевались немцы.
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

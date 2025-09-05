@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000688">
+      <titleStmt>
+        <title>Стенограмма беседы с Виктором Чураевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p> За время освобождения г. Харькова прошло два пленума Обкома партии – ХIII и XIV и VII пленум горкома партии.</p>
+        <p>На пленуме горкома партии стоял вопрос об организационно-партийной и партийно-массовой работе в Кагановическом районе и второй вопрос – о производстве товаров широкого потребления.</p>
+        <p>При немцах пошить, отремонтировать могли только спекулянты, а трудовое население не имело этой возможности. Естественно, партийная организация сразу взялась за производство товаров широкого потребления, за изготовление кружек, ложек, вилок, ножей, ведер, корыт и других необходимых вещей домашнего обихода, а также за организацию ремонтно-пошивочных мастерских, бань, парикмахерских и т.д.</p>
+        <p>На XIII-м пленуме Обкома партии стоял вопрос о восстановлении разоренного хозяйства Харькова и Харьковской области.</p>
+        <p>По решению пленума горкома партии нужно было взяться за восстановление производств местного значения, восстановление которых не зависит ни от республики, ни от союза, а целиком от нас. Сейчас в г. Харькове более 100 артелей возобновили свою деятельность.</p>
+        <p>В решении XIII пленума Обкома партии речь идет о восстановлении кирпичных заводов, предприятий стройматериалов, т.е. о восстановлении строительной базы. Сюда входит разработка карьеров, восстановление кирпичных заводов, т.е. восстановление предприятий стройматериалов, которые необходимы для восстановления сел и городов Харьковской области.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

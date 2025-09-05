@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.67" xml:space="default"/>
+        <p>
+           мы в первый раз 
+          <hi rendition="#s">ко</hi>
+           после той страшной, ужасной, кабальной, каторжной жизни, зашли в школу, когда мы в первый раз вновь сели за студенческий стол, когда мы снова свободно слушали преподавателя, когда мы снова получили возможность учиться, принимать участие во всей общественной жизни школы, где мы снова увидели свободный, счастливый советский народ, чувство светлой радости, чувство глубокой благодарности испытывали мы. Дни нашей каторжной жизни мы считаем потерянными годами нашей жизни. Мы во многом были отстали, и теперь мы работаем над собой, чтобы ликвидировать свою отсталость, чтобы стать в одинаковый уровень с другими. Подневольная жизнь вспоминается нам теперь, как какой-нибудь кошмарный сон, оно уходит уже в прошлое, но 
+        </p>
+        <hi rendition="#s">ко</hi>
+         после той страшной, ужасной, кабальной, каторжной жизни, зашли в школу, когда мы в первый раз вновь сели за студенческий стол, когда мы снова свободно слушали преподавателя, когда мы снова получили возможность учиться, принимать участие во всей общественной жизни школы, где мы снова увидели свободный, счастливый советский народ, чувство светлой радости, чувство глубокой благодарности испытывали мы. Дни нашей каторжной жизни мы считаем потерянными годами нашей жизни. Мы во многом были отстали, и теперь мы работаем над собой, чтобы ликвидировать свою отсталость, чтобы стать в одинаковый уровень с другими. Подневольная жизнь вспоминается нам теперь, как какой-нибудь кошмарный сон, оно уходит уже в прошлое, но 
+      </div>
+    </body>
+  </text>
+</TEI>

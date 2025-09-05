@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> уничтожить его прихвостников – полицию.</p>
+        <p/>
+        <p>По приходу в Яготин меня направили в полевую жандармерию, где поступил мне вопрос «Чего Вы шатаетесь, если не пойдете работать в госимение – мы Вас отправим в лагерь», – и меня направили в госимение работать, где работало много русских военнопленных, которых держала полиция на отдельном счету от украинцев и на каждом шагу их преследовали. Жили они в холодных бараках – без окон, за колючей проволокой, а на ночь их замикали и охраняла их украинская полиция.</p>
+        <p>Мне «повезло» устроиться на кухне работать, где готовили пищу для военнопленных, несмотря на преследование полиции, директора имения, я все же сумела помогать военнопленным в части питания.</p>
+        <p>Прошло два с половиной месяца моей работы в госимении, часть из военнопленных связались с партизанами, узнали о положении на фронте, достали </p>
+      </div>
+    </body>
+  </text>
+</TEI>

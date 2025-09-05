@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.60" xml:space="default"/>
+        <p> отошла, как мы услыхали пулеметную стрельбу в лесу. Мы бросили работу, хозяйка снова набросилась на нас, но мы все трое поспешили уйти с огорода. Только мы вышли на дорогу, как из лесу вышли солдат и гитлеровец, которые направились ко двору хозяйки. Я вскочила на кухню и с окна начала прислушиваться к разговору, и до слуха моего долетело, что всех русских поймали в лесу, повели в полицию, одного с них убили и пришли сюда затем, чтобы произвести обыск у русской семьи, которые скрывают партизан и у которых имеется оружие. Услышав это, я опрометью вылетела во двор с другой стороны, тропинкой обогнула дом хозяйки и прибежала домой. Мама, Муся сидели бледные, перепуганные, т.к. они попали под обстрел, мама наварила суп и несла ребятам в лес, как начался обстрел леса, и она, не дойдя несколько метров, вернулась, перепуганная, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

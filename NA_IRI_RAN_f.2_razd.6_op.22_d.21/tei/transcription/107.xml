@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.54 оборот" xml:space="default"/>
+        <p> до нас доходили радостные вести. Шли рука об руку по единой дороге, стремились к одной и той же цели. </p>
+        <p>Миша жил в одиночестве. Ему редко когда удавалось вырваться на воздух, на поле. Он вечно работал в грязи, не имея ни одного воскресенья свободного. Иногда родители предлагали пойти поработать за него, но он не хотел допустить, чтобы папа с мамой пошли выполнять за его работу. С половины четвертого и до 8 часов вечера он возился со скотом, навозом и т.д. Сердце обливалось кровью, когда я видела его, когда он, согнувшись, на спине нес большую корзину с силосом или свеклой, а таких корзин ему надо было перенести до 100 шт. Отец с матерью не могли видеть такого издевательства. У них отняли были их собственных детей и делали с ними то, что хотели. Они видели кругом издевательства, мучения, стоны, горе и слезы порабощенного народа. </p>
+        <p>Когда отец бывал </p>
+      </div>
+    </body>
+  </text>
+</TEI>

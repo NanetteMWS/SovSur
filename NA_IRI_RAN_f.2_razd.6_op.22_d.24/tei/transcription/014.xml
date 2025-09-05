@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Чуєш, дівчино миленька,</p>
+        <p>Не тужи і не скучай.</p>
+        <p>Прийде час і знов до неньки</p>
+        <p>Ти поїдеш в рідний край.</p>
+        <p/>
+        <p>
+          <hi rendition="#u">І знову в рідній стороні</hi>
+        </p>
+        <hi rendition="#u">І знову в рідній стороні</hi>
+        <p>І знову в рідній стороні</p>
+        <p>Повітря п’ю на повні груди,</p>
+        <p>А в грудях серця чіткий бій</p>
+        <p>Давно приспану радість будить.</p>
+        <p/>
+        <p>Позбутися життя страшного</p>
+        <p>З лихої вирватись біди –</p>
+        <p>Це, ніби з дідуся старого</p>
+        <p>Зробитись знову молодим.</p>
+        <p/>
+        <p>Це значить, ніби вдруге жити</p>
+        <p>У краї ріднім дорогім.</p>
+        <p>Більше не мучитись, не гнити</p>
+        <p>В застінках звірів-ворогів.</p>
+        <p/>
+        <p>Раніше ще в тяжкій неволі,</p>
+        <p>В важких цепах невільника,</p>
+        <p>В своїй оселі, в ріднім полі</p>
+        <p>Я лише мріями блукав.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

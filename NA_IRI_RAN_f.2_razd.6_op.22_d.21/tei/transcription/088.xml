@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.45" xml:space="default"/>
+        <p> оставили работать, но начали подсылать шпионов вечером. Все чаще заходили неизвестные люди в форме немецких солдат, разговаривали и по-немецки, и по-русски, подходили к хозяину, спрашивали, как она, Анна, работает, вступали с ней в разговор и уходили. В другой раз подходили к ней под окно, вызывали ее, но она не могла понять в темноте, кто это был, и не выходила навстречу. </p>
+        <p>Когда Мария Зотова прибежала ко мне вечером и рассказала обо всем происшедшем, то на завтрашний день я бросила всякую работу и побежала к т. Невидомскому. Во время тревоги он выбежал с лагеря, и мы с ним пошли за город, где я рассказа ему подробно обо всем. Он сказал, что необходимо нужно проверить оружие, есть ли оно там, если нет, значит это были те самые ребята. Возвратившись домой поздно вечером, я пошла к лагерю, где мне удалось видеть Марию и Гармаша Василия. С ним мы </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.23" xml:space="default"/>
+        <p> На утро между с. Перлеберг и г. Криштат мы увидели наши машины и танки. Мы подошли к ним. Нас окружили бойцы и спрашивали, почему мы так плохо одеты. Потом подкормили нас, и мы пошли дальше. Вместе с другими девушками на подводе мы проехали 60 км от города в с. Легово.</p>
+        <p>Здесь нас оставили работать на сельскохозяйственных работах, а потом направили на завод в г. Обесвальд на работу по отгрузке заводского оборудования в Советский Союз.</p>
+        <p>Потом работали опять на разных сельскохозяйственных работах до того счастливого дня 12-Х-1945 г., когда, получив документы и характеристики от воинской части № 63287, мы уехали на свою родную Советскую Украину.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">Селенчук Татьяна</hi>
+        </p>
+        <hi rendition="#i">Селенчук Татьяна</hi>
+        <p/>
+        <p>
+          Вела стенограмму [
+          <hi rendition="#i">подпись</hi>
+          ] Золоторева
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] Золоторева
+        <p>
+          Стенографировала [
+          <hi rendition="#i">подпись</hi>
+          ] Залесная
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] Залесная
+        <p>11/1-46 г.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p> могучих даже ходить. Был избит, например, игумен Иринарх-Кондаркин, больной туберкулезом, который и умер от побоев 4 ноября 1943 года; в результате изгнания через несколько дней умер и другой монах – Аркадий.</p>
+        <p>Вещи и мебель изгнанных жильцов были разграблены и разбиты. Можно думать, что и само выселение имело собою целью дать возможность отступающим немцам ограбить все мирное население.</p>
+        <p>Таким образом, на небольшом примере Лавры ми видели все виды зверства, издевательства, убийства, грабежа и разрушений немецких оккупантов. Мы видели, ужасались и не могли понять, в чем их смысл, какая их цель. Не видя, трудно было бы поверить, на что способны гитлеровские изверги. Но мы видели все это своими глазами, пережили и уже не забудем никогда, как «злодеи злодействовали злодейски».</p>
+        <p>29.ХІ-1943 г.</p>
+        <p>В. Тверской, уполномоченный Кировского райисполкома по Лавре.</p>
+        <p>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Тверского]</hi>
+        </p>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Тверского]</hi>
+        <p>Архимандрит Валерий Наместник Лавры.</p>
+        <p>
+          <hi rendition="#i">Малая Перещепина, Полтавской обл., Ново-</hi>
+          <hi rendition="#i">Санжарского</hi>
+          <hi rendition="#i"> р-на, средняя школа.</hi>
+        </p>
+        <hi rendition="#i">Малая Перещепина, Полтавской обл., Ново-</hi>
+        <hi rendition="#i">Санжарского</hi>
+        <hi rendition="#i"> р-на, средняя школа.</hi>
+        <p>
+          <hi rendition="#i">Подпись т. Тверского В.</hi>
+          <hi rendition="#i">М. удостоверяю [подпись, печать]</hi>
+        </p>
+        <hi rendition="#i">Подпись т. Тверского В.</hi>
+        <hi rendition="#i">М. удостоверяю [подпись, печать]</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

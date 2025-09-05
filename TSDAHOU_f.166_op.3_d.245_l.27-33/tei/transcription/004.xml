@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.30" xml:space="default"/>
+        <p> такое: 150 гр. кукурузного хлеба в день и 100 гр. подсолнечного масла в месяц.</p>
+        <p>Немецкое население (фольксдойч) получали прекрасный белый хлеб и другие продукты в отдельных магазинах.</p>
+        <p>Однажды был такой случай. Одна гражданка обратилась ко мне за помощью, так как ее выселили из квартиры только потому, что немка не хотела жить с русской под одной крышей. Или, например, понадобилась немцам спортплощадка. Они выселили жителей целого квартала, дома взорвали и устроили себе спорт. площадку. А лучшую улицу Мелитополя – Карла Маркса – предполагали заселить исключительно немецким населением фольксдойч.</p>
+        <p>Когда началась мобилизация в Германию, немцы объявили, что будут брать на срок 6 месяцев, но никто не верил в это и все старались скрываться. Многие из молодежи, чтобы спастись от угона в Германию, курили чай, пили табак, растравляли искусственно раны, которые до сих пор у многих не заживают.</p>
+        <p>
+          В конце 1942 г. гебитскомиссаром был назначен Гейниш, который проявлял свою звериную жестокость по отношению к тем, кто уклонялся от 
+          <hi rendition="#i">поездки в</hi>
+           Германию. Никакие справки о болезни не помогали. Прогнозы русских врачей для него не играли совершенно никакой роли.
+        </p>
+        <hi rendition="#i">поездки в</hi>
+         Германию. Никакие справки о болезни не помогали. Прогнозы русских врачей для него не играли совершенно никакой роли.
+        <p>Немцы устраивали облавы на базарах, кино, театрах. Пойманных приводили на биржу труда, оцепленную </p>
+      </div>
+    </body>
+  </text>
+</TEI>

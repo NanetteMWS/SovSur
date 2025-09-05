@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.24 оборот" xml:space="default"/>
+        <p> работавшие на мебельной фабрике в Штаффельштайне) Невидомского письмо с небольшой запиской к нему, где он писал, чтобы я это письмо свезла в Бамберг т. Шевченко, который работает на железной дороге и живет также в вагонах. Я прочла и подумала, как это сделать? Поехать я должна и поеду, но надо все сначала обдумать. Завтра было воскресенье, несколько часов я имела свободными после обеда, но это меня не устраивало. Я решила поехать без всякого ведома хозяйки. Документов у меня не было, (ост) «OST» я поцепила под рукав, взяла с собой маленького Ваську, он запрятал у себя письмо, и мы отправились в Бамберг. </p>
+        <p>Ехали мы на подножках, народу было слишком много, и все чужие, все поганые нафуфыренные немки, немчуры, немцы, нашего никого не видно, а может и ехал кто-нибудь тоже, так, как и я, притаившись на </p>
+      </div>
+    </body>
+  </text>
+</TEI>

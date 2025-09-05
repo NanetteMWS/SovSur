@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">14 декабря 1942 г.</hi>
+           Листок Комолова Влодимира.
+        </p>
+        <hi rendition="#s">14 декабря 1942 г.</hi>
+         Листок Комолова Влодимира.
+        <p>
+          <hi rendition="#s">Н</hi>
+           Как немцы грабили скот
+        </p>
+        <hi rendition="#s">Н</hi>
+         Как немцы грабили скот
+        <p>
+          Один раз я видел, как немцы приехали в нашу деревню и стали отбирать коров, свиней. Тогда немцы пошли шарить по домам, собрали людей и чтоб
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">ы</hi>
+           они держали коров. И тогда приехала большая машина, немцы набрали коров и стали водить коров в машину. 
+          <hi rendition="#s">гладит</hi>
+           
+          <hi rendition="#s">и</hi>
+           Женщины стали плакать, немцы говорили, что из Германии вам приви
+          <hi rendition="#s">зут</hi>
+          <hi rendition="#i">зут</hi>
+           хороших коров. Тогда немцы дали своих денег один рубль и сказали, что ваши деньги 
+          <hi rendition="#s">стоят</hi>
+           [1 слово зачеркнуто] против наших 
+        </p>
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">ы</hi>
+         они держали коров. И тогда приехала большая машина, немцы набрали коров и стали водить коров в машину. 
+        <hi rendition="#s">гладит</hi>
+         
+        <hi rendition="#s">и</hi>
+         Женщины стали плакать, немцы говорили, что из Германии вам приви
+        <hi rendition="#s">зут</hi>
+        <hi rendition="#i">зут</hi>
+         хороших коров. Тогда немцы дали своих денег один рубль и сказали, что ваши деньги 
+        <hi rendition="#s">стоят</hi>
+         [1 слово зачеркнуто] против наших 
+      </div>
+    </body>
+  </text>
+</TEI>

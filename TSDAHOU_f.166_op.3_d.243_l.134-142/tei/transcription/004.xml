@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.138" xml:space="default"/>
+        <p> Потом они тоже были арестованы, некоторые из них сошли с ума.</p>
+        <p>На румынской стороне нас тоже как-то пришли брать на расстрел, но я с сыном успела выскочить в окно, это было днем. Благодаря тому, что у мужа было много немецких часов в ремонте, его оставили в живых и меня с ребенком также.</p>
+        <p>До июня 1942 года мы проживали у себя на квартире, потом нас забрали в гетто. Гетто было окружено проволокой, охраняли нас украинские полицейские и румынские полицейские.</p>
+        <p>В январе 1943 года у меня уже было двое детей. Я и муж были высланы в лагерь Богдановку, в 40 километрах от Первомайска. Везли нас туда лошадьми. Сопровождали румынские жандармы. Выслали туда 30 человек евреев. Мы укрывались, думали, что нас оставят. За это меня избивали.</p>
+        <p>Лагерь был жуткий. В открытом поле стоял свинарник. Окна были совсем открыты, снегу было полно. Есть было нечего. Люди умирали от голода и холода. Когда мы приехали, на следующий день умерло три человека. Еды не давали никакой. Ели то, что каждый имел или выменивал на свои вещи.</p>
+        <p>Каждый имел значок: белая звезда на груди и на плечах. Уйти нельзя было. Если жандарм поймал еврея в деревне, избивал его до полусмерти, так что никто не уходил никуда. Охраны не было. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

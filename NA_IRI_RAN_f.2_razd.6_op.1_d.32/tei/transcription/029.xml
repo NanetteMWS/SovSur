@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.25" xml:space="default"/>
+        <p>
+           На другой день после освобождения, 20/I, 
+          <hi rendition="#s">в Можайск было отправлено на грузовых машинах до 15 т. предметов одежды, выделенных из</hi>
+           в Можайск из Ленинского района г. Москвы были отправлены 2 машины трехтонки с теплыми вещами и сдано на центр. склад для отправки. 3 т. штук разной одежды («За больш. колхозы» Можайск, 28/I-42 г. №1).
+        </p>
+        <hi rendition="#s">в Можайск было отправлено на грузовых машинах до 15 т. предметов одежды, выделенных из</hi>
+         в Можайск из Ленинского района г. Москвы были отправлены 2 машины трехтонки с теплыми вещами и сдано на центр. склад для отправки. 3 т. штук разной одежды («За больш. колхозы» Можайск, 28/I-42 г. №1).
+        <p>
+          <hi rendition="#s">Помощь</hi>
+           Шефы помогали не только одеждой. Отдельные предприятия и организации помогали восстанавливать разрушенные предприятия, ж. дор. пути и станции, школы, больницы, жилые дома. 
+          <hi rendition="#s">Напр.</hi>
+           Профорганизации г. Москвы приблизительно за 3 месяца отправили 112 т томов для библиотек освобожденных районов («Моск. больш.» 24/III-42 г. №69).
+        </p>
+        <hi rendition="#s">Помощь</hi>
+         Шефы помогали не только одеждой. Отдельные предприятия и организации помогали восстанавливать разрушенные предприятия, ж. дор. пути и станции, школы, больницы, жилые дома. 
+        <hi rendition="#s">Напр.</hi>
+         Профорганизации г. Москвы приблизительно за 3 месяца отправили 112 т томов для библиотек освобожденных районов («Моск. больш.» 24/III-42 г. №69).
+        <p>Для помощи осв. районам в г. Москве проводились воскресники. Напр. 1/III-42 г. в Советском районе Москвы на воскреснике, в котором главными участниками были комсомольцы, школьники и пионеры,</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

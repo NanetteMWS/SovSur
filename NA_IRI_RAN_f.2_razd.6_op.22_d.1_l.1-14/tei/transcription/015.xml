@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.15" xml:space="default"/>
+        <p> г. Zwickau.</p>
+        <p>На протяжении 2½ года с количества преданных антифашистов попалось в руки зверям фашистам одна Екатерина Михайловна Ефремовна – Курская обл. г. Голофеевка. После тяжело перенесенных побоев – по 3 раза в ночь, – ее заключили в концлагерь пожизненно по адресу:</p>
+        <p>Екатерина Ефремова (V-13017)</p>
+        <p>(г) Ораниенбург, б. Берлин, Постлагернд</p>
+        <p>о которой не имеем известия.</p>
+        <p>2. Лисицина Дуся за утворенную забастовку с 300 чел. на фабрике Шуман г. Verdau – отсидела 3 месяца в тюрьме. </p>
+        <p>Остальные живые встретили победителей отечественной войны. Многие терпели побои резиной, в том числе я и моя подруга Таиса Кригер – еврейка, попавшая в плен с партизанского отряда Егорова II-й Минской бригады Кутузова, с которой я имела знакомство, и передано было известие до выезда в Германию.</p>
+        <p/>
+        <p>В.М. Корпал 18/IX-45 г.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

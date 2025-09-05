@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.39" xml:space="default"/>
+        <p> В районе за 1942 г. прошли переподготовку 486 человек. Много принято лучших людей в партию, и среди них прославленный партизан Моск. обл. – Герой Сов. Союза Ил. Ник. Кузин.</p>
+        <p>В Дмитровском районе во время уборки было послано в колхозы 207 агитаторов, из них – 46 чел. были присланы Дзержинским РК г. Москвы.</p>
+        <p>За 1942 г. в Коммунистическом районе были выдвинуты впервые на руководящую работу 275 чел. На районных курсах были обучены 85 рук. колхозов, 300 бригадиров, 180 звеньевых, 71 машинист, 120 животноводов.</p>
+        <p>В Клинском районе 40 чел. парт. и беспартийных партизан были выдвинуты на руководящую работу; 95 чел. были впервые выдвинуты на работу председателями колхозов, из них половина женщин.</p>
+        <p>
+          Подбирая и воспитывая руководящие кадры, проводя широкую политико-
+          <hi rendition="#s">восп.</hi>
+           агитац. работу, развивая огонь социалистического соревнования партийные организации сыграли решающую роль в успехах 1942 г. умело направляя чувства колхозников (ненависти к врагу, яркого осознания и любви 
+        </p>
+        <hi rendition="#s">восп.</hi>
+         агитац. работу, развивая огонь социалистического соревнования партийные организации сыграли решающую роль в успехах 1942 г. умело направляя чувства колхозников (ненависти к врагу, яркого осознания и любви 
+      </div>
+    </body>
+  </text>
+</TEI>

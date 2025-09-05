@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000182">
+      <titleStmt>
+        <title>Стенограмма интервью с Пелагеей Колобаевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 36-41, 49-52 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.51" xml:space="default"/>
+        <p> Трудно представить себе эти прошлые дни, когда в нашу д. прибыли фашистские разбойники. Этот день был 7-го ноября, великий праздник Октябрьской революции. Гитлеровские бандиты захозяйничали на нашей территории, они заходили в дома колхозников и стали грабить все, что им попадалось в руки. Брали хлеб, картошку, мясо и другие домашние вещи. В это время так хотелось увидеть своих красноармейских бойцов и рассказать им, что делают немецкие разбойники. Я помню 15 ноября вечером ко мне в дом пришли три наши красные бойца, и товарищи прожили у меня три дня. Я им помогала, рассказывала, что немцы делают, сколько их здесь находится, сколько стоит машин. Этих товарищей пришлось укрывать от немцев и потом проводить их [1 слово непонятно] в Тулу.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

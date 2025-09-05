@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.27" xml:space="default"/>
+        <p> Германская неволя и тоска об родине отражалась в песнях советских граждан. За пример этому могут быть такие песни:</p>
+        <p>«У саду при долине</p>
+        <p>Громко пел соловей,</p>
+        <p>А я мальчик у неволе</p>
+        <p>С молодых юных лет».</p>
+        <p>«Развяжите мои крылья,</p>
+        <p>Дайте в воздух раз взлетать,</p>
+        <p>Развяжите мои руки,</p>
+        <p>Дайте родину ввидать».</p>
+        <p/>
+        <p>В песнях отражалась жизнь и гибель воинов Красной Армии в германском плену:</p>
+        <p>«По широким степям Украины,</p>
+        <p>Где были большие бои,</p>
+        <p>Товарищ, нас гонят далеко – </p>
+        <p>Подальше от Русской земли.</p>
+        <p>Сегодня нет ветра, и солнце палит,</p>
+        <p>И пыль под ногами клубится,</p>
+        <p>А в пленников силы нет дальше идти,</p>
+        <p>Конвой подгоняет сердито.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.29 оборот" xml:space="default"/>
+        <p> с аптечкой домашней, то электрическую плитку разобьет, и ряд других мелочных повреждений, за которые каждый день возникали споры, за что она нас всегда ругала, пробовала жаловаться отцу, но отец был целиком и полностью на нашей стороне. Нам так и хотелось сделать обязательно ей, хозяйке, назло, во вред. Хоть она и ругала нас, но мы не обращали на это никакого внимания. В ответ ей по-русски как засыпешь, а она тогда еще хуже бесится. </p>
+        <p>Утречком, бывало, приходишь на работу, они еще все спят, а тут столько работы – и печки надо растопить, и ботинки их надо чистить, и домашнюю птицу присмотреть, и картофель чистить, все сразу. И такое зло нас разберет, и такая ненависть к ним этим гнусным, ничтожным людишкам, что мы для того, чтобы хоть чем-нибудь раздражить, разозлить их, такой шум </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.39 оборот" xml:space="default"/>
+        <p> было стащить, а мать расправляла в тот или иной лагерь. Когда во время воздушной тревоги девушек и ребят выпускали с фабрики для укрытия, то они бежали все в нее, забегали к нам, и мать старалась не выпустить ни одного человека, чтобы не покормить, или хотя бы попоить чаем.</p>
+        <p>Мы помогали ребятам устраивать побеги, доставали географические карты, компасы, словари, вольные костюмы, обеспечивали питанием – все это Васька перевозил и умело передавал. Пользуясь суматохой немцев во время тревоги, мы чаще могли встречаться, а также чаще могли проникать в лагерь, или с лагеря к нам. Чаще приезжали ребята, работавшие по деревням окрестным с тем, чтобы узнать, услышать новое и распространить в деревне. Несмотря на ужасающее наше положение, на бесправие мы все же могли </p>
+      </div>
+    </body>
+  </text>
+</TEI>

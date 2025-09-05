@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.128" xml:space="default"/>
+        <p> его к мужу в Киев.</p>
+        <p>Полиции еще не было, она являлась к восьми часам. Я видела, как гестаповцы выскочили из машины и направились прямо ко мне в парадное. На босую ногу, в галошах, набросив только летний жакет, я выбежала на чердак (это был третий этаж, там больше никто не жил). Сын мой еще спал. Я боялась, что, если схвачу ребенка, он наделает крику и мы оба погибли. Я не взяла его с собой. Я думала, что гестаповцы посмотрят, что меня нет дома, уйдут. Но они ожидали, очевидно, думали, что я куда-то близко вышла, т.к. ребенок спит, и я скоро вернусь.</p>
+        <p>Я сняла галоши и осторожно, босиком спустилась вниз на улицу. Пробежала ко второму дому, только там одела галоши и пустилась бегом в лес.</p>
+        <p>Я просидела очень долго, пока не увидела, как машина гестаповцев уехала. Я боялась вернуться обратно и пошла на Киев. Я разорвала на себе сорочку и замотала ноги вместо чулок.</p>
+        <p>Дойдя до Дарницкого моста, у меня потребовали пропуск. Но врачи, находящиеся на заводе, написали мне на всякий случай направление, якобы я направляюсь по болезни в больницу. Я предъявила эту справку и мне поверили и даже посадили на проезжавшую машину, которая довезла меня до Киева.</p>
+        <p>В Киеве я устроила через свою двоюродную сестру Тосю свидание с мужем. Он дал мне свои ботики, валенки, кожушок и отвел меня ночевать к моей теперешней сотруднице – артистке Поповой. У нее я жила 10 суток, все в ожидании, что мне привезут сына.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

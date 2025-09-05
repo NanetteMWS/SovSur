@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000652">
+      <titleStmt>
+        <title>Стенограмма беседы с Еленой (Галиной) Мазаник</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л.88-120.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.109" xml:space="default"/>
+        <p> Надя говорит: «Меня Таня знает. Давай убьем Кубе». Я говорю, что тяжело мне. Я говорю Наде: «Я с тобой не могу ни о чем разговаривать в отношении убийства». Я говорю: «Дай мне возможность поговорить с командиром отряда». Она говорит: «Я этого сделать не могу». Я говорю: «Я пошлю сестру». А Таня в это время работала в другой немецкой части. Я говорю Тане: «Идет разговор в отношении убийства. Таня, ты уверена, что она из отряда?». Таня говорит: «Я не знаю, я ее по Институту знаю». Таня говорит: «Галина, ты сама смотри. Я Надю знаю только по Институту. Может быть, она немцам донесет, может быть, меня выгонят». Надя не дала возможности мне видеться с командиром, не дала возможности и сестре пойти. Но Наде я сказала, что я ненавижу немцев, что я бы хотела убить его. Я начала бояться ее. Там я работала, все усилия положила, чтобы войти в доверие. Уже прошло около 2-х лет. Они уже мне верили, а с Надей я боялась.</p>
+        <p>Тут же мне подворачивается Маруся Осипова. Она мне сразу встречу сделала с командиром партизанского отряда. Я, чтобы отделаться от Нади, согласилась с Осиповой. Надя шумела очень много, и я ее боялась. И так осталось с Надей не то и не другое. Не доверяла я Наде. Я решила через сестру с Осиповой действовать.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

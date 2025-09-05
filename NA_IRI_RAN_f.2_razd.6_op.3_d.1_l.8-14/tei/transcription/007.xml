@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000181">
+      <titleStmt>
+        <title>Стенограмма беседы с Марией Козыревой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 8-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> Кто разъехался по району, а весна подойдет, все соберутся, все пойдут работать. Скот, который эвакуирован, пока не вернется. Но он вообще вернется. Есть бумага, куда сдали. Красноармейцы, которые проезжали, плохих лошадей оставляли, а хороших брали. Они и картофель брали для питания, а скот был угнан. Теперь все готовятся к посевной кампании. Собрали все семена. Оставили такое количество, которое приходится на трудодни. Картошка есть, но на семена немного не хватит. Но государство как-то поможет. У некоторых было зарыто, а у некоторых не было зарыто. Все готовятся к посевной кампании, потому что надо работать, чтобы немец больше на нашу землю не вернулся. Мы, женщины, говорим, что, если немец придет, то мы возьмем вилы и с вилами пойдем на него. Я любого немца растерзаю, как он нанес сыну моему 18 ран и оставил лежать убитого. Они у меня все взяли. Самое главное – корова. Она стоит 30.000, это главное – питание для детей. Муж больной, а у нас коровы нет. А сына моего они расстреляли. Когда дошли до большака, то спросили и все время спрашивали сына: «Где деревня Кузьманки?». Он не знал, и они нанесли ему 18 ран. Первая рана из ружья, а остальные из автомата. Он лежал в поле две недели.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">Козырева</hi>
+        </p>
+        <hi rendition="#i">Козырева</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

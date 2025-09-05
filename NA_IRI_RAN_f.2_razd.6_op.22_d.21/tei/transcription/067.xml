@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.34 оборот" xml:space="default"/>
+        <p> предостеречь народ от ловушки, устраиваемую власовцами, нужно было рассеивать все ложные слухи, всякую клевету, распространяемую власовскими пропагандистами и агитаторами, которые разъезжали по лагерям, агитировали народ в «добровольческую армию». Они выпускали газеты на русском, белорусском и украинском языках, где призывали молодежь то же самое в «добровольную армию», клеветали на Советский Союз. Мы старались приложить все усилия для того, чтобы предостеречь массу народа от этой ловушки. Мы вели усиленную антивласовскую и антифашистскую пропаганду, разъясняя, что эта «добровольная армия» является не что иное, как ловушка своего рода, что эта армия будет разгромлена, как и вся немецко-фашистская, как и сама гитлеровская Германия. </p>
+        <p>Мы вели здоровую, правдивую, идейную, справедливую пропаганду и агитацию, и она была такой сильной, такой </p>
+      </div>
+    </body>
+  </text>
+</TEI>

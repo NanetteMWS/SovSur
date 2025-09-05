@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000092">
+      <titleStmt>
+        <title>Письма и стихи Марии Македонской</title>
+        <author>
+          <persName>Мария Кирилловна Македонская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter, poem_or_song">
+        <pb cert="high" n="Л.5 оборот" xml:space="default"/>
+        <p> Ярмо Вы надели на русский народ</p>
+        <p>На вечную муку и горе.</p>
+        <p/>
+        <p>Как вспомнишь рабскую жизнь сначала</p>
+        <p>Не выдержишь, слов не найдешь,</p>
+        <p>Ответишь на муки – страдания,</p>
+        <p>Как наша жила молодежь.</p>
+        <p/>
+        <p>Я помню те дни, когда на коленьях</p>
+        <p>Письмо я писала домой.</p>
+        <p>А руки дрожжали, глаза заливались</p>
+        <p>Горячей кровавой слезой.</p>
+        <p/>
+        <p>Я помню то рабство, я помню те муки,</p>
+        <p>Много пришлось мне терпеть,</p>
+        <p>Теперь мы свободны от горя и скуки</p>
+        <p>Хочу я народу прочесть.</p>
+        <p>М. Макед.</p>
+        <p/>
+        <p>В рабстве</p>
+        <p/>
+        <p>Как тяжело. Кругом, как в тайге,</p>
+        <p>Будьтобы все опустело,</p>
+        <p>Будьто каким-то кольцом</p>
+        <p>Сковано бедное тело.</p>
+        <p/>
+        <p>И рабская скучная жизнь</p>
+        <p>Тянется длинно и вяло,</p>
+        <p>Нет в ней надежды стремится увысь,</p>
+        <p>Нет в ней мечты-идеала.</p>
+        <p/>
+        <p>Будьто давно все состарило здесь,</p>
+        <p>Будьто давно все отжило;</p>
+        <p>Грусть и тоска окружает баррак</p>
+        <p>Свет на нас смотрит не мило.</p>
+        <p/>
+        <p>Где же девались веселье и смех,</p>
+        <p>Джазы, оркестры и пляски?</p>
+        <p>Где же те люди, куда разбрелись?</p>
+        <p>Вспомнишь все – как во сне, как у сказке.</p>
+        <p/>
+        <p>Треплет бедное сердце в груди,</p>
+        <p>Верит в будущее жаждит и рвется.</p>
+        <p>Я верю! Радость нас ждет впереди.</p>
+        <p>Сквозь туман нам порой улыбнется.</p>
+        <p/>
+        <p>И тогда мы – свободны с тобой.</p>
+        <p>Полно, полно слезой умываться.</p>
+        <p>До поры нам кайданы носить,</p>
+        <p>До поры нам врагу покоряться.</p>
+        <p/>
+        <p>Мы врага победим, мы врага разобьем, В это верит наш каждый боец.</p>
+        <p>Разобьем, разгромим мы на вражей земле. Будь жив-здоров наш Отец!</p>
+        <p>М. Макед.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

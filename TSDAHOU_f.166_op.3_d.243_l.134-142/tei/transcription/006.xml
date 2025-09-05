@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.140" xml:space="default"/>
+        <p> Через некоторое время мне удалось мужа вернуть в Первомайск. Я ходила к майору просила, выплакала, чтобы вернули мужа. К Изонеску тоже попала в хорошую минуту, он мне тоже ответил. И подала справку, что девочка умерла, национальность в справке не была указана, он дал разрешение вернуть мужа. В сентябре 1943 года, через два месяца посла возвращения, мужа, меня и сына высылают в лагерь Акмечетки, возле Вознесенска. Там умерло с голоду 20 тысяч человек. Когда мы приехали туда, люди ходили в одних мешках, истощенные, измученные, из 20 тысяч заключенных осталось, может быть, человек 200. Лагерь – это бывший свиносовхоз.</p>
+        <p>Этот майор приехал весной туда, увидел истощенных людей, велел уничтожить лагерь, а людей, которые еще остались в живых, велел разместить по колхозам, чтобы они там работали и питались. Им давали ячменную муку.</p>
+        <p>Этот лагерь был уничтожен весной 1943 года. Лагерь был окопан канавой метров 2,5. 10 человек ходили за водой. Если шел одиннадцатый, полицейский его расстреливал. Охраняли лагерь украинские полицейские.</p>
+        <p>К моменту нашего прихода режим в лагере был легче. Там на каждом шагу можно было найти человеческий череп. Люди ели траву. Мы там пробыли один месяц. Мы там встретили одну артистку из Одесского городского театра Лившиц. Лагерь этот был лагерем смерти. Посылка туда – это было самое страшное наказание. Если префект говорил – я тебя посылаю в лагерь </p>
+      </div>
+    </body>
+  </text>
+</TEI>

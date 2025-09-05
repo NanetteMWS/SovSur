@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000891">
+      <titleStmt>
+        <title>Сообщение Сивко</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 121. Л. 226-227 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.227 оборот" xml:space="default"/>
+        <p> – В Жодино ни одного состава. У немцев система такова: если пустят один поезд, то через каждые 10-15 минут идет состав за составом.</p>
+        <p>Эйдинов. Население в Борисове плохо живет, меняет вещи на продукты?</p>
+        <p>– Да.</p>
+        <p>Калинин. О парторганизации вам неизвестно в Борисове?</p>
+        <p>– Нет.</p>
+        <p>Эйдинов. Надежные квартиры в Борисове?</p>
+        <p>– Имел письмо одной девушки к матери, но не пришлось побывать у нее.</p>
+        <p>Эйдинов. Какой адрес?</p>
+        <p>– Ново-Борисов, проспект Революции, д. №86, – Царик Прасковья Захаровна. Дочь Валентина. Напротив ее дома находится полиция, рядом дом горкома, около дома вишневый сад. У нее дома остался сын, бывший комсомолец, был секретарем комсомольской организации стеклозавода им. Дзержинского, зовут его Аркадий, работает на транспорте шофером.</p>
+        <p>Эйдинов. Напишите записку этой старушке, что, дескать, самому не удалось быть, шлю горячий привет.</p>
+        <p>– Рядом живет сволочь, фамилия [1 слово непонятно]. Ее мужа выслали, он репрессирован соввластью. Живет она во второй половине дома, настроена очень плохо. Три ее дочери вышли замуж за наших лейтенантов.</p>
+        <p>У меня есть друг украинец. Он давно живет в Борисове, работает на заводе «Металлист». Мне партизаны говорили о нем очень плохо. Но я его знал, как хорошего человека. Его зовут Поленчук Яков Матвеевич.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

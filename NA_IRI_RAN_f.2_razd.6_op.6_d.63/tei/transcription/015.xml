@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000689">
+      <titleStmt>
+        <title>Воспоминания школьников Харькова о пребывании в оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 63.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Во время оккупации я была в городе Харькове. Немцы, когда заняли Харьков, то позволили ходить только до 4 часов вечера. На второй день к нам пришла соседка и позвала нас к себе, и мы пошли и остались у нее ночевать. В 6 часов мы легли спать, но мама не могла заснуть и вдруг послышался крик. Мама посмотрела в окно и потом сказала, что немцы поймали двух мужчин в гражданской одежде. Мы стали смотреть, что будет дальше. Немцы их били розгами, пытали что-то и все время светили фонарями на дом. Утром, когда мы встали, увидели, что на дереве, на столбе, против наших окон, висели люди, которых немцы тогда поймали. На одном висела дощечка и было написано: «Я комиссар», а </p>
+      </div>
+    </body>
+  </text>
+</TEI>

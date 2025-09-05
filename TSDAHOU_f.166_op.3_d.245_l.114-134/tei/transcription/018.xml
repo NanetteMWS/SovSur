@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.132" xml:space="default"/>
+        <p> до моего прихода на его глазах расстреляли его жену-еврейку и убили трехмесячного ребенка.</p>
+        <p>Много раз мне приходилось бегать из села в село, из города в город. Обо всем этом меня всегда своевременно предупреждал Афанасьев.</p>
+        <p>Летом 1943 года мы с театром им. Шевченко приехали в Ружин, где находилось еврейское гетто – 38 евреев было в нем. Они работали все в портняжеской мастерской. Находились на учете, каждый день полицай приходил проверять все ли на месте. Подать им что-либо не было возможности, не разрешали. Их предупреждали, что, если один из них исчезнет – расстреляют всех. Они работали совершенно бесплатно на всю окружность.</p>
+        <p>
+          Я все-таки как артистка предъявила требования коменданту. Я разорвала юбку нарочно, мне хотелось поговорить с ними. Я пришла к коменданту и сказала, что у меня разорвана юбка, а вечером нужно выступать, ее необходимо починить. Он мне разрешил, чтобы они починили юбку, я сделала вид, что иду на базар, взяла с собой корзину, собрала продукты: хлеб, деньги, сверху положила свою юбку и пронесла. Афанасьев стоял на улице, разговаривал с полицаем, приглашая его в театр. В это время я вошла. Я поздоровалась со всеми за руку, отчего они все растрогались, расплакались, так как кроме пощечин ни
+          <hi rendition="#s">когда</hi>
+           
+          <hi rendition="#i">от кого</hi>
+           доброго слова не слышали. Когда я передала им продукты 
+        </p>
+        <hi rendition="#s">когда</hi>
+         
+        <hi rendition="#i">от кого</hi>
+         доброго слова не слышали. Когда я передала им продукты 
+      </div>
+    </body>
+  </text>
+</TEI>

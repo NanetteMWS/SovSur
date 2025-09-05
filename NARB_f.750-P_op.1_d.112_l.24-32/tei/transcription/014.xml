@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000874">
+      <titleStmt>
+        <title>Стенограмма беседы с Николаем Казачковым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 24-32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.32" xml:space="default"/>
+        <p> сеть школьная развивается. Сейчас имеется одна белорусская школа десятилетка, затем имеется белорусская семилетка. Имеется русская школа, в которой пока есть 8-й класс и как будто бы начала работать вечерняя школа для взрослых и для молодежи, занятых на производстве. Обучение без отрыва от производства. Есть школа ФРЗО и школа медсестер. Теперь производится некоторая разгрузка.</p>
+        <p>В педагогическом персонале острый недостаток, особенно в квалифицированных работниках, и не только в Слониме и, как заведующий отделом народного образования рассказывал, что вообще с учителями плохо. В Барановичах есть зубной вуз, но туда принимают кончивших девять классов.</p>
+        <p>Молодежь за время оккупации сильно отстала. Математик говорит, что в десятом классе они не знают курс девятого класса. У него положение катастрофическое. У меня тоже положение катастрофическое, потому что во время немецкой оккупации они русского языка не учили. Истории целую четверть не было. Историю проходили аховски, под лозунгом: Белоруссия не Россия. По физике и химии тоже отставание.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

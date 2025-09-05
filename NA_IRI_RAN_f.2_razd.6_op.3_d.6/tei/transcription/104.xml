@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.60" xml:space="default"/>
+        <p> Зверства немцев во время оккупации.</p>
+        <p>Нас оккупировали 10 октября 1941 г. Немцы, как только пришли в деревню, стали сразу брать в сараях сено. Они разломали магазин, и брали там разную мелочь.</p>
+        <p>Они ходили по дворам и брали все, что находили. Эти звери простояли у нас 4 месяца, но нам кажется, что они у нас были 2 года. Мы сейчас не можем даже представить, как живут те люди, которые находятся в лапах грабителя уже 2-ой год.</p>
+        <p>Когда у нас был этот проклятый зверь, то мы были при нем как животное в клетке: мы не выходили на улицу, а все сидели на печи, а если мы слезали, то они кричали: «Матка, фють, фють на печь».</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

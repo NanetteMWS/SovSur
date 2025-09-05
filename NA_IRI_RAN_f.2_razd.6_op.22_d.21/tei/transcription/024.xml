@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> как мама хорошо готовила кушать по-русски, и так все было вкусно, и как мы свободно жили, никого не боялись, свободно разговаривали, ходили, пели наши советские песни, песни про Сталина, про Родину. А там, на каторге, в Германии мы были лишены всего. Нас лишили звания человека. Мы не могли свободно сделать ни одного движения, о свободном времени мы не могли даже и думать. Нам запрещали разговаривать между собой во время работы, нас презирали и называли «свиньями, собаками». Никуда мы не выходили. В воскресенье мы тоже работали без всякого выходного, не получали ни одной свободной минутки. Всегда мы были такими измученными, усталыми, чуть могли таскать свои ноги. </p>
+        <p>Вскоре заболел наш Васька. От тяжелой непосильной работы у него получилось растяжение жил на левой руке, и ему сделали операцию и </p>
+      </div>
+    </body>
+  </text>
+</TEI>

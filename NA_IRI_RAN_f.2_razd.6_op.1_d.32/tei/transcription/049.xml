@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.45" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">царской России</hi>
+          <hi rendition="#s">, бы</hi>
+          <hi rendition="#s">ло разрушено наполовину Кр. Кур</hi>
+           общая продукция с/х-ва в 1920 г. составляла около половины довоенной (Кр. Курс ист. ВКП(б), стр. 237), а в XII-1927 г. на 13 съезде 
+          <hi rendition="#s">т. Молотов</hi>
+           в решениях по с/х-ву съезд констатировал, что «сельское х-во в общем и целом перешагнуло довоенный уровень валовой продукции, хотя по зерну еще не достигло этого уровня» (Стен. Отчет 15-го съезда, стр. 1306). «А ведь довоенный уровень – как указывается в Кр. Курсе ист. ВКП(б) – это был урожай нищенской, царской российской деревни» (стр. 237).
+        </p>
+        <hi rendition="#s">царской России</hi>
+        <hi rendition="#s">, бы</hi>
+        <hi rendition="#s">ло разрушено наполовину Кр. Кур</hi>
+         общая продукция с/х-ва в 1920 г. составляла около половины довоенной (Кр. Курс ист. ВКП(б), стр. 237), а в XII-1927 г. на 13 съезде 
+        <hi rendition="#s">т. Молотов</hi>
+         в решениях по с/х-ву съезд констатировал, что «сельское х-во в общем и целом перешагнуло довоенный уровень валовой продукции, хотя по зерну еще не достигло этого уровня» (Стен. Отчет 15-го съезда, стр. 1306). «А ведь довоенный уровень – как указывается в Кр. Курсе ист. ВКП(б) – это был урожай нищенской, царской российской деревни» (стр. 237).
+        <p>Если вспомнить также, что еще в 1937 году животноводство еще отставало от довоенного уровня (Кр. Курс ист. ВКП(б), стр. 321), то даже по этим косвенным данным (прямых сравнительных данных по Моск. обл. не имею) можно понять изумительные темпы восстановления.</p>
+        <p>Основной причиной этих быстрых, для заграницы кажущихся чудом, темпов является сила, преимущество колх. строя.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

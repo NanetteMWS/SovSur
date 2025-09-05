@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000984">
+      <titleStmt>
+        <title>Стенограмма беседы с Павлом Введенским</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 41.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p> вывезли, но все это уже в разрозненном виде, сильно потрепанном и, конечно, уже не так скоро годится для использования. Они, главным образом, интересовались американской и английской литературой, а на русском забирали только потому, что не хотели оставить ее здесь. По общественным наукам все было брошено, их не интересовало.</p>
+        <p>
+          Книги мы прятали. Библиотеку нашу особенно усиленно вывозили. У меня 
+          <hi rendition="#s">около</hi>
+           
+          <hi rendition="#i">лично</hi>
+           5 тыс. томов было, погибли во время пожара.
+        </p>
+        <hi rendition="#s">около</hi>
+         
+        <hi rendition="#i">лично</hi>
+         5 тыс. томов было, погибли во время пожара.
+        <p/>
+        <p>
+          Уехала, так называемая квази-интеллигенция, т.е. те, которые при немцах занимались исключительно спекулятивными делами и наживали деньги. Спекуляция здесь невероятно процветала, только и жил тот, кто занимался ею. Из наших работников – Казакевич. Он был комиссионером по продаже наших вещей немцам на продукты питания. У него, конечно, накапливались ценности. Затем, представители всяких комиссионных магазинов. Были и Управские магазины, и частные. По частным я знаю Бирюкова. За время немецкой оккупации он сделался буквально миллионером. Казакевич так и назывался – «научным комиссионером». Когда 
+          <hi rendition="#i">6 марта 1943 года</hi>
+           возвратились немцы, он меня приветствовал:
+        </p>
+        <hi rendition="#i">6 марта 1943 года</hi>
+         возвратились немцы, он меня приветствовал:
+        <p>– Ну, что же, не удалось сделаться народным комиссаром? </p>
+        <p>Я говорю:</p>
+        <p>– А я и не собирался.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">Подпись (Введенский П.И.)</hi>
+        </p>
+        <hi rendition="#i">Подпись (Введенский П.И.)</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

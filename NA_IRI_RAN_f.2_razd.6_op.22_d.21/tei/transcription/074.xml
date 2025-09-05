@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.38" xml:space="default"/>
+        <p> в комнату зашла снова хозяйка.</p>
+        <p>Узнав о том, что Шевченко находится снова в Бомберге, а его вместе со всеми ребятами гоняли в другой город на работу, я вечером поехала снова с Васькой к нему. Было темно и лил сильный дождь, когда мы вылезли с поезда. С трудом отыскали мы тот эшелон, тот поезд, где жил т. Шевченко. То и дело натыкались в темноте на груды всякого лома, на стоящие вагоны на пути, но, наконец, нашли. Ребята, побежали сказать т. Шевченко, что к нему приехала его «племянница», так знали меня ребята там, и Шевченко вышел нам навстречу. Он был рад встретить нас и был поражен неожиданным нашим появлением. Но только мы успели зайти в вагон, как сюда прибежал немец, шеф их. Он начал расспрашивать кто я, откуда, а я отвечала, что здесь я работаю у одного крестьянина и </p>
+      </div>
+    </body>
+  </text>
+</TEI>

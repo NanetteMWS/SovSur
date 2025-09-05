@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> 11. Калинин 10, пос. Гостекстильская д. 29/3 кв. 113 – Глицук Зинаида П.;</p>
+        <p>12. Калинин, ул. Энгельса д. №25 кв. №3 – Лисицина Дуся (Е.С.);</p>
+        <p>13. Новосибирск, почтамт – Шешуков Михаил Викт. (Мельников);</p>
+        <p>14. Воронежская обл. г. Борисоглебск, ул. Кирсановская д. 53 – Любченко Иван Д.;</p>
+        <p>15. Б.С.С.Р. Полесская обл., Житковичский район, д. Кольно – Костюк Андрей (Для Леонида Хильман);</p>
+        <p>16. Новосибирск, Кольцова №128 – Фроликов Николай Григорьевич;</p>
+        <p>17. Запорожская обл., г. Бердянск, Дачная №48 – Паутов Владимир Т.;</p>
+        <p>18. Запорожская обл., г. Бердянск, Средний переулок № 14 – Сердюк Павел;</p>
+        <p>Эти 18 человек – основной костяк «Воли», из которых был избран комитет в составе 6 человек со следующих номеров: 2, 4, 5, 6, 7, 8</p>
+        <p>и центр с трех человек с номеров 1, 2, 3.</p>
+        <p>Глава центра – № 1.</p>
+        <p>Глава комитета – № 2, секретарь –№ 4.</p>
+        <p>
+          Имели связь с заместителем Тельмана 
+          <hi rendition="#s">Ненке</hi>
+           Ненске – Саксония г. Цвикау, имели связь через главу центра – Подопригора.
+        </p>
+        <hi rendition="#s">Ненке</hi>
+         Ненске – Саксония г. Цвикау, имели связь через главу центра – Подопригора.
+        <p>19. Партизанка отряда Егорова II-ой Минской бригады им. Кутузова Кригер Таиса Мих. – Минск, Старовиленская 59 кв. 7.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

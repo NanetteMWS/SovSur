@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p> Каждый ожидал скорейшего конца этой страшной мучительной истории. Чудом спаслись мы в этот день. Очевидно, получив приказ, немцы стали продвигаться вперед, оставив нас и мужчин. Тогда весь народ небольшими группами начал расходиться. Дома было все разрушено, перевернуто, корова была ранена. С первых же дней и начались издевательства, каторжная мучительная жизнь. Немцы ходили по деревне, забирали лучшую одежду, собирали масло, яйца, ловили кур, избивали и убивали население. Ворвавшись в избу хозяйки, где помещались мы, немцы стали искать чего-то. Нашли у хозяйки овес и забрали его. Потом начали рыться в наших вещах, забрали лучшую одежду и, напоровшись на гитару, стали заставлять меня играть на ней, но я, не подымая глаз на них, заявила, что играть я не буду. Один с них </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p> Не меньше их полетело в Бамберге от умелых рук наших «железнодорожников».</p>
+        <p>Советские граждане чудили чудеса так же и на эродромах. В г. Ротх было сорвато часть эродрома, где погибло 15 самолетов.</p>
+        <p>Возле Вицбурга с эродрома улетела самолетом группа работавших там военнопленных, между которыми было часть летчиков. Судьба их неизвестна, ибо в поиски их бросились истребители.</p>
+        <p>Работавшим в сельском хозяйстве вдобно было оказывать сопротивление своим непосредственным поработителям-хозяевам.</p>
+        <p>Возле Нюрнберга т. Коненко уничтожил 10 га ржи, 2 лошади и 3 быка. Чтобы не попасть в руки полиции, он сбежал.</p>
+        <p>В деревне Предлинген под Мюнхеном членом КБ Яновской было уничтожено около 150 га хлеба. Возле Фюрта молодой парень Давиденко (точно не помню) поломал трактор и молотилку. Сам вынужден был сбежать.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

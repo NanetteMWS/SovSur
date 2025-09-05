@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.21" xml:space="default"/>
+        <p> или купить картофель, что нам строго запрещалось.</p>
+        <p>Однажды мы купили в одном немецком дворе картофель и возвращались полем, где стояли запущенные постройки. Оттуда вышли жандармы, о которых мы даже и не подозревали, и подозвали нас к себе. Забрали у нас картофель, хлеб, оштрафовали по 10 марок и заставили вести их туда, где мы купили этот картофель. Но мы туда их не повели, потому что знали, что другой раз нам ничего не продадут. За это нас жестоко избили.</p>
+        <p>Не могу забыть такой случай, говорит гражданка Селинчук, – рядом с нашим лагерем находился завод Цейвеля удушающих газов, где работали исключительно русские. Там же был цех выделки мануфактуры. Один парень, будучи раздетым, взял три метра материала и дал одной девушке пошить ему рубаху.</p>
+        <p>Немцы узнали об этом, забрали его, страшно били и выпалили на голове крест. Дальнейшая судьба его мне неизвестна. А девушку бросили в глубокий темный подвал, куда спустили собаку-овчарку, которая вырвала ей грудь, погрызла лицо и тело. После ужасных мучений девушка умерла.</p>
+        <p>Спустя год после пребывания в Германии начались налеты американских самолетов. По гудку первой тревоги немцы уходили в убежище, а мы должны были работать. Лишь по сигналу в 3 гудка, когда уже была бомбежка, нас выводили в убежища.</p>
+        <p>Так продолжалось все время.</p>
+        <p>Когда американцы дошли до р. Эльба, то всех </p>
+      </div>
+    </body>
+  </text>
+</TEI>

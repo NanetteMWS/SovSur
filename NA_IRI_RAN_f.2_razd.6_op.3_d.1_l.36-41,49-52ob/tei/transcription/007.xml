@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000182">
+      <titleStmt>
+        <title>Стенограмма интервью с Пелагеей Колобаевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 36-41, 49-52 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.49" xml:space="default"/>
+        <p> Дополнение к рассказу Колобаевой.</p>
+        <p>14 декабря немцы стали отправлять свои машины и свою армию из деревни и подожгли деревню. Заходят в каждый дом, высыпают сена, поливают бензином и поджигают дом. Взрывали мосты. Взрывали мосты, которые плохо горели. Кто пытался тушить пожар и [1 слово непонятно] свои дома, в тех стреляли из автоматов. Я тоже пыталась потушить свой дом, в меня немец нацелился и выстрелил, но не попал. Дом сгорел. Сгорело зерно около 50 пуд, картофель и все имущество. Так сгорела вся деревня, 46 домов. Колхозные постройки, конюшни, амбар с хлебом около 150 цнт., школа. 1500 цнт. кормов. Лошадей немцы угнали часть только, и 2 человека с ними – Филипп Григорьевич Мехончев и Буянов Михаил Исаевич – они так и не вернулись до сих пор. Судьбу их никто не знает. Немцы не уходили до тех пор, пока не убедились, что все дома действительно горят. Только тогда они ушли </p>
+      </div>
+    </body>
+  </text>
+</TEI>

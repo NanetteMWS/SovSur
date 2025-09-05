@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000418">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лисиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 15-35.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.34" xml:space="default"/>
+        <p>
+           Их было не меньше полка в селе Панино. Шла Беловская армия. Немцы не все ушли. Танкетки и танки стреляли 
+          <hi rendition="#i">по ним</hi>
+          . Тогда один из немцев берет спичку и поджигает со стороны. Мальчик 15 лет взял винтовку и выстрелил.
+        </p>
+        <hi rendition="#i">по ним</hi>
+        . Тогда один из немцев берет спичку и поджигает со стороны. Мальчик 15 лет взял винтовку и выстрелил.
+        <p>Немцы панически отступали. Красноармейцы очень быстро шли от Каширы и никак не могли их догнать.</p>
+        <p>
+          Когда пришла Красная армия, сколько было радостных слез! Женщины командиров обнимают, целуют. Провожали когда нашу армию на запад, то 7 км шли пешком. Такой был подъем духа, такой энтузиазм 
+          <hi rendition="#i">русских женщин!</hi>
+        </p>
+        <hi rendition="#i">русских женщин!</hi>
+        <p>Начала восстанавливаться власть. С первого же дня школы начали работать. Я сейчас заведую парткабинетом. У нас район – прифронтовая полоса. У нас власть военная и гражданская.</p>
+        <p>
+          Во время немецкой оккупации Плавск был пересылочным пунктом. Там много людей погибло. Немцы давали питание – похлебку из гречихи. Люди были в холодном помещении. Каждый день 2-3 человека или задушат друг друга, греясь, или помирают с голода. Не разрешают давать заключенным что-либо в руки, а только бросать через загородку. Если же кто-либо в руки дает из крестьян, то получает резиновой дубинкой 
+          <hi rendition="#i">удар</hi>
+          .
+        </p>
+        <hi rendition="#i">удар</hi>
+        .
+        <p>
+          Был один немецкий комендант первое время, тот входил в положение, человек по 15 в день отпускал, а другой комендант – ни одного, собака, 
+          <hi rendition="#i">не пустил</hi>
+          . Есть разговоры по району, что первым комендантом был немецкий коммунист, но пока это не проверено.
+        </p>
+        <hi rendition="#i">не пустил</hi>
+        . Есть разговоры по району, что первым комендантом был немецкий коммунист, но пока это не проверено.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

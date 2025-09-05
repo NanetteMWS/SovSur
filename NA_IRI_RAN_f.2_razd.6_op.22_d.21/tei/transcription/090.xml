@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.46" xml:space="default"/>
+        <p> случае, а то на виселицу. </p>
+        <p>Когда один раз в лесу на горе работали наши русские, и с ними немцы, заготовляли дрова и в большой куче узких серебристых, блестящих, длинных бумаг, которые сбрасывали американские самолеты во время ночных налетов, был обнаружен наган, то это сразу было заявлено в полицию и многих с наших тогда таскали, хотя мы об этом и не знали. Это было просто находкой.</p>
+        <p>Анна сильно переживала. Она каждый день ожидала, что за ней явится полицай и не могла дождаться, когда придут снова эти ребята, с которыми она обязательно ушла бы в лес. Но ребята больше не являлись. Одно время Невидомский было сообщил, что они находятся в окрестностях Лихтенфэльс, военнопленные их встречали, и что они должны быть и у нас. Мы с нетерпением ожидали их появления. </p>
+        <p>Вечером мы спешили быстрее кончить работу. Хозяйка нас всегда ругала и заставляла работать. Как только мы </p>
+      </div>
+    </body>
+  </text>
+</TEI>

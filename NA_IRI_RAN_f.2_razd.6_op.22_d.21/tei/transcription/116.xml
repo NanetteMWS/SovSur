@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.59" xml:space="default"/>
+        <p> Нужно было ожидать. Ребята все обещались соблюдать спокойствие. </p>
+        <p>Мы ушли снова домой, но долго не ложились спать. Часто выходили на двор, за рекой поблескивали огни, раздавались нечастые глухие выстрелы. На утро мы ушли на работу, но меня весь день что-то тревожило, я волновалась, все падало у меня с рук, мне хотелось бросить все и уйти, мне были пуще прежнего противны все немцы, я была усталой после бессонной ночи, и мне так хотелось с немцами ругаться, а особенно с хозяйкой. Я вышла колоть дрова на двор и слышу в лесу крик, шум и выстрелы. Я сразу поняла, что это ребята наши, которые вчера обещались сохранить спокойствие, а сегодня они нарушили свое обещание. Выстрелы донеслись и до хозяйки. Она, подозревая нас в связи, набросилась на нас, Дусю и меня, что там мои русские партизаны, почему </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> сообщил, что в Штаффельштайне работают наши военнопленные. Я вся загорелась желанием видеть их, поговорить с ними, мне казалось, что у них я найду какую-то защиту, что им я могу пожаловаться и за себя, и за всех этих девушек, томящихся в лагере. Васька рассказал, что с ними постовой, как он кричит на них, когда они останавливаются, чтобы передохнуть, какие они все измученные, голодные. Меня какая-то сила влекла к бедному, страдающему народу. Я не могла никак бросить работы, чтобы уйти к ним, но потом, поговорив с Дусей, мы решили, в чем бы ни стало, сбегать к ним. Я решила притвориться больной, чему хозяйка всегда поверит т.к. я со здоровьем была слаба, очень часто болела и была большинство больная, чем здоровая. Я подошла к хозяйке и спросила разрешения уйти в город к доктору, и в связи с тем, что я совсем слаба, одна не зайду, чтобы она разрешила и Дусе пойти со мной.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000883">
+      <titleStmt>
+        <title>Стенограмма беседы с Наумом Фельдманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 172-208.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.190" xml:space="default"/>
+        <p>
+           Они самостоятельно действовали и как будто дрались с немцами. А потом оказалось, что они имели задание, чтобы выследить наши отряды, убивать партизан. В
+          <hi rendition="#s"> каждой деревне</hi>
+           
+          <hi rendition="#i">некоторых деревнях</hi>
+           у них были резервы. Это потом все разоблачилось. Узнали и окружили их лагерь, обезоружили. Населению предложили, кто хочет, может идти в отряд, руководителей 
+          <hi rendition="#i">этих банд</hi>
+           переправили на самолете в штаб. А потом банда Нуркевича уже открыто действовала 
+          <hi rendition="#i">против нас</hi>
+          . Часть населения их поддерживала. Мы тогда уже действовали в западной.
+        </p>
+        <hi rendition="#s"> каждой деревне</hi>
+         
+        <hi rendition="#i">некоторых деревнях</hi>
+         у них были резервы. Это потом все разоблачилось. Узнали и окружили их лагерь, обезоружили. Населению предложили, кто хочет, может идти в отряд, руководителей 
+        <hi rendition="#i">этих банд</hi>
+         переправили на самолете в штаб. А потом банда Нуркевича уже открыто действовала 
+        <hi rendition="#i">против нас</hi>
+        . Часть населения их поддерживала. Мы тогда уже действовали в западной.
+        <p>В момент соединения с частями Красной армии, 6-го июля, мы передали Красной армии очень много хлеба, жиров, скота, лошадей. Встретились мы с ними в Налибоках.</p>
+        <p>
+          Мы предполагали принять бой 
+          <hi rendition="#i">с отступающими немцами</hi>
+          , но получилось, что нас 
+          <hi rendition="#i">Кр</hi>
+          <hi rendition="#i">. </hi>
+          <hi rendition="#i">арм</hi>
+          <hi rendition="#i">.</hi>
+           опередили. Немецкие части, которые шли на запад – Раков через Пущу, 
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">ни</hi>
+           были встречены отдельными 
+          <hi rendition="#i">партиз</hi>
+          <hi rendition="#i">.</hi>
+           отрядами, на территории которых проходили, они с ними имели бои. Наш отряд и вообще бригада интернировали около 2 тысяч немцев.
+        </p>
+        <hi rendition="#i">с отступающими немцами</hi>
+        , но получилось, что нас 
+        <hi rendition="#i">Кр</hi>
+        <hi rendition="#i">. </hi>
+        <hi rendition="#i">арм</hi>
+        <hi rendition="#i">.</hi>
+         опередили. Немецкие части, которые шли на запад – Раков через Пущу, 
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">ни</hi>
+         были встречены отдельными 
+        <hi rendition="#i">партиз</hi>
+        <hi rendition="#i">.</hi>
+         отрядами, на территории которых проходили, они с ними имели бои. Наш отряд и вообще бригада интернировали около 2 тысяч немцев.
+        <p>
+          <hi rendition="#s">Надо отметить характерный мом</hi>
+          <hi rendition="#s">ент, эт</hi>
+          <hi rendition="#s">о было еще </hi>
+          <hi rendition="#s">в 1943 г</hi>
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">ду </hi>
+          <hi rendition="#s">около Старого </hi>
+          <hi rendition="#s">С</hi>
+          <hi rendition="#s">ела, мы взорвали машину не</hi>
+          <hi rendition="#s">мцев.</hi>
+        </p>
+        <hi rendition="#s">Надо отметить характерный мом</hi>
+        <hi rendition="#s">ент, эт</hi>
+        <hi rendition="#s">о было еще </hi>
+        <hi rendition="#s">в 1943 г</hi>
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">ду </hi>
+        <hi rendition="#s">около Старого </hi>
+        <hi rendition="#s">С</hi>
+        <hi rendition="#s">ела, мы взорвали машину не</hi>
+        <hi rendition="#s">мцев.</hi>
+        <p>Мы получили задание от Красной армии прочесать леса вместе с бойцами, вернее, окружение, которое было в Пуще, нам было поручено ликвидировать, а Красная армия ушла вперед. В Пуще мы были до 14-го числа, вели борьбу с оставшимися немцами.</p>
+        <p>
+          Потом прибыли в Минск 
+          <hi rendition="#s">для</hi>
+           
+          <hi rendition="#i">на</hi>
+           парад
+          <hi rendition="#s">а</hi>
+          , а после парада вернулись в Пущу для расформирования.
+        </p>
+        <hi rendition="#s">для</hi>
+         
+        <hi rendition="#i">на</hi>
+         парад
+        <hi rendition="#s">а</hi>
+        , а после парада вернулись в Пущу для расформирования.
+        <p>
+          <hi rendition="#i">1/</hi>
+          <hi rendition="#i">II</hi>
+          <hi rendition="#i">-48 Фельдман</hi>
+        </p>
+        <hi rendition="#i">1/</hi>
+        <hi rendition="#i">II</hi>
+        <hi rendition="#i">-48 Фельдман</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.8 оборот" xml:space="default"/>
+        <p> II. Организация ЦКБ.</p>
+        <p>Попав в Германию, мы вынуждены были исполнять разные работы вплоть до того, что вырабатывали оружие и снаряды. Руки не подымались к этой позорной работе, сердце разрывалось в куски. От позора мы краснели и чернели.</p>
+        <p>Исполняя эти позорные работы, находясь в таком состоянии, у нас была постоянная мысль, как бы вырваться отсюда, как бы организовать диверсии, подпольные организации и начать борьбу с поработителями внутри ихней страны.</p>
+        <p>Одним с таких лучших организаторов и руководителей оказался Шевченко Николай Николаевич, прославившийся под фамилией Железнов. Он находился вместе со мной, в лагере «железнодорожников».</p>
+        <p>Под его руководством 7.11.1942 г. была организована антифашистская организация </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000233">
+      <titleStmt>
+        <title>Стенограмма беседы с сотрудниками Картинной галереи им. Шевченко и Художественного института г. Харькова</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 44.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p> представить список, кто будет сейчас уходить с Институтом. Я спросил, что я должен сделать, объявление или на словах сообщить? «Можно на словах». Я пришел, сказал, что объявлена эвакуация. Мне задают вопрос:</p>
+        <p>– А вы едете?</p>
+        <p>– Я, – говорю, – никуда не поеду.</p>
+        <p>Единственное, что нас пугало – ужасы боя. Там стояли, говорят, вагоны, и будто бы была свободная посадка, но добровольцев не было, кроме тех, кто ехал из страха, паники.</p>
+        <p/>
+        <p>Тов. Иванов. Первые три-четыре дня жуткая посадка была, все было забито. Платили деньги, только бы сесть. Но это было среди торгового класса, спекулянтов.</p>
+        <p/>
+        <p>Профессор Симонов. Была агитация и такая, что придут большевики, они вас за то, что вы тут остались, будут наказывать, на паспорте будет штамп, что враг народа. Это, как ни говорите, на людей действовало. Многие этому, правда, не верили, особенно после того, как в марте была Красная армия. В это время здесь было небольшое совещание. На этом совещании были Бажан, Корнейчук. Потом приехал Хрущев Н.С. Выступали, говорили, что распространение этих слухов ложно, каждый человек работал, потому что спасал свою жизнь. </p>
+        <p>
+          Все-таки эта агитация была довольно сильной, и немцы на этом играли. Прямо говорили: не уйдете, убьют вас. Это, конечно, тоже влияло 
+          <hi rendition="#i">на психику исстрадавшихся людей</hi>
+          . 
+          <hi rendition="#i">А. Симонов</hi>
+        </p>
+        <hi rendition="#i">на психику исстрадавшихся людей</hi>
+        . 
+        <hi rendition="#i">А. Симонов</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

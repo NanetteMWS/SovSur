@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000417">
+      <titleStmt>
+        <title>Стенограмма беседы с Ефремом Шемякиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 42-48.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.48" xml:space="default"/>
+        <p> получил от немцев по заслугам.</p>
+        <p>Сейчас перемена большая вот в каком отношении: к власти симпатии стало больше, больше ценят и к колхозу стали лучше относиться. Это сейчас же скажется на работе. Работа утроится. Я раньше работал по сбору вещей в фонд обороны. До прихода немцев приходилось уговаривать людей, а теперь, после немцев, несмотря на то, что немцы у нас обобрали население, я собрал в фонд обороны чуть ли не вдвое больше прежнего. Приходишь, уже не агитируешь как раньше: «Красная армия борется за нас, ей нужна теплая одежда, вещи». Не нужно сейчас агитировать. Приходишь – сами отдают последнее. Заметно, что люди перевоспитались.</p>
+        <p>Сейчас почти все школы начали работать, за исключением моей школы. Моя не открыта. Близко школа Акимо-Ильиновская Узловского района. Туда ходят мои дети. Я не нашел помещения. Сейчас учеников немного. Во всех 4 классах – 15. Разъехались по родным, потому что нет помещения. Школы работают в уцелевших помещениях. Большинство на частных квартирах. Часть школ начали занятия недели через две после ухода немцев, но часть сильно потрепали. У нас было плохое положение со стеклом на квартирах и в школах, так что они открылись примерно в начале февраля. Большинство школ открылось, потому что это требование школ от населения, снизу, последние школы, которые открыты, это уже сверху. В нашем селе несмотря на то, что мало учеников, просили открыть школу. Родители приходили на собрание и ставили два раза вопрос. В основном все школы работают.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">2/</hi>
+          <hi rendition="#i">IV</hi>
+          <hi rendition="#i"> 42.</hi>
+          <hi rendition="#i"> Шемякин</hi>
+        </p>
+        <hi rendition="#i">2/</hi>
+        <hi rendition="#i">IV</hi>
+        <hi rendition="#i"> 42.</hi>
+        <hi rendition="#i"> Шемякин</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

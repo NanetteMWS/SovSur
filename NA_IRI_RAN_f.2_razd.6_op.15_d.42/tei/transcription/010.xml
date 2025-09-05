@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000783">
+      <titleStmt>
+        <title>Документы Минского подпольного городского комитета КП(б)Б</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 42.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> Секретарю Минского городского комитета партии тов. Савельеву.</p>
+        <p>При этом представляю список рабочих и служащих з-да «Звезда», «Ворошилова». Сведения добыты через агента «X».</p>
+        <p>Приложение: список на одном листе только адресату, командир спецгруппы Ал. Осадчий.</p>
+        <p>Дальше идет список 9 человек с минусом (х) и 25 без минуса.</p>
+        <p>
+          <hi rendition="#u">Список</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">рабочих</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">и</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">служащих</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">дрожжевого</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">завода</hi>
+        </p>
+        <hi rendition="#u">Список</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">рабочих</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">и</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">служащих</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">дрожжевого</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">завода</hi>
+        <p>г. Минск на 26 января 1944 г. (список на 91 чел.)</p>
+        <p>Показаны условные обозначения: + – наш человек, стоящий за советскую власть, или даже партизанский работник. - враг, находится на стороне немцев. Птичка – нейтральный человек. Минусом помечено 11 чел., нейтральных – 3, два под вопросом, остальные – с плюсом (+).</p>
+        <p>(х – означает сволочь)</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

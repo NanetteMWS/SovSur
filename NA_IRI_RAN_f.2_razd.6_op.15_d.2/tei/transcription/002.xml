@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000761">
+      <titleStmt>
+        <title>Стенограмма беседы с Марией Дубовик</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 2.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p> сами выразили желание поехать. Детей повезли в Ковно. Заведующая отделом их сопровождала. Некоторые ребята бежали с дороги, бежали также и два добровольца. Мы их прятали.</p>
+        <p>Как обстояло дело с питанием. В 1941 г. кормили мы ребят неважно, кормили 3 раза в день, но в очень ограниченном количестве. Днем затирка, вечером чай с патокой. В 1942 г. – 1943 г. питание улучшилось, выдавали нам иногда мясо.</p>
+        <p>В последнее время перед приходом наших питание опять ухудшилось. Паек был скудный, давали требуху, мясо выдавали редко, да и то конину. Спасал нас огород и дрожжи, которые нам выдавали, мы указывали большее количество детей, получаемые дрожжи меняли на другие продукты. В воспитание детей немцы не вмешивались. Их идеологическое руководство выражалось лишь в присылке портретов Гитлера и различных лозунгов к праздникам 1 мая и другим. Ребята эта лозунги употребляли на кораблики, змей и т.д. Ребята были настроены против немцев, иногда пели советские песни. Нам приходилось соблюдать большую осторожность, так как могли быть предатели. Дети нас с полуслова понимали. В конце 1943 года Минск бомбили, ребята жили в бункерах. Мы им туда носили пищу. Теперь наш детдом будет для мальчиков, школьников 1-го и 2-го класса. Остальные ребята от нас уйдут.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

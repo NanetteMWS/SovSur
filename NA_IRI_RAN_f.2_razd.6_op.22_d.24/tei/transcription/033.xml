@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.19 оборот" xml:space="default"/>
+        <p> ***</p>
+        <p>В невеличке віконце до хати</p>
+        <p>Шкряба дощик осінній тіль-тіль.</p>
+        <p>Як приємно в цей час спочивати,</p>
+        <p>Поринувши в пухову постіль.</p>
+        <p/>
+        <p>І завжди в такі тихі хвилини</p>
+        <p>У минуле сягають думки.</p>
+        <p>Бистрокрилими птицями минуть</p>
+        <p>В ту країну, де мучивсь роки.</p>
+        <p/>
+        <p>… Ось бараки стоять, як примари,</p>
+        <p>У колючім сплетінні дротів,</p>
+        <p>У яких не один мій товариш</p>
+        <p>Своє юне життя вкоротив.</p>
+        <p/>
+        <p>Он повисла тюрма над рікою</p>
+        <p>У страшній гробовій тишині,</p>
+        <p>У якій я на стінах рукою</p>
+        <p>Карбував свої лічені дні.</p>
+        <p/>
+        <p>Ось в уяві встає «Руссен віззен»,</p>
+        <p>Повен крові людської, убивств,</p>
+        <p>Де мене Бец із Шубертом різав,</p>
+        <p>Де здоров’я своє загубив.</p>
+        <p/>
+        <p>І почнеш сам себе утішати:</p>
+        <p>Чорні дні ці минули давно.</p>
+        <p>А знадвору тихенько до хати</p>
+        <p>Шкряба дощик осінній в вікно.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

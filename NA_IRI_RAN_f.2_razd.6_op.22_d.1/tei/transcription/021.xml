@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.22" xml:space="default"/>
+        <p> дереву с ногу толщиной и нести в лагерь. Для Петра эта работа была очень тяжела, он себя хотел зарубить топором, но товарищи его отговорили, а комендант с пилки деревьев послал его обрубывать сучья.</p>
+        <p>Били здесь немилосердно. Один из товарищей – армянин заболел, и его несмотря на высокую температуру 39° утром стали гнать на работу, его били прутьями по чем попало. Избив его до того, что он вместо крика, т.е. он уже не кричал, а только хрипел, его бросили обратно в сарай. Особенно сильно бил его один полицай – молодой и толстый из города Кизыл-Орда Казахской С.С.Р., </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.32 оборот" xml:space="default"/>
+        <p> не меньше меня прыгали и радовались. </p>
+        <p>Каждый раз Дуся, под предлогом какой-либо причины, забегала ко мне и спрашивала, что нового, а другой раз я ей включала радио, а сама стояла на посту. Но вскоре меня лишили этого удовольствия. Хозяйка вернулась, хотя еще и не совсем была вылечилась, и меня вернули снова на старую работу. </p>
+        <p>
+          Хуже всего я ненавидела работать в дому, и особенно каждое утро чистить ботинки, туфли, сапоги. Я всегда приятнее себя чувствовала, когда я чистила сараи, я была одна, или с мамой, которая мне помогала смотреть домашнюю птицу, или, если мама работала в то время на поле, когда я чистила сараи, то хозяйка посылала немку мне в помощь. Перв
+          <hi rendition="#s">ая</hi>
+          ое время она не хотела работать вместе со мной, с русской, и говорила: «Как это я буду работать вместе с русской? Я же ведь немка». Но в последствии, 
+        </p>
+        <hi rendition="#s">ая</hi>
+        ое время она не хотела работать вместе со мной, с русской, и говорила: «Как это я буду работать вместе с русской? Я же ведь немка». Но в последствии, 
+      </div>
+    </body>
+  </text>
+</TEI>

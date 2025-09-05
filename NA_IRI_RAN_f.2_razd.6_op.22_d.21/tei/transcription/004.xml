@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> работах, помогали колхозникам. Пробыли мы в этой деревушке около пяти недель. Немецкие самолеты бомбили город, расстреливали по дорогам мирное население. Пробраться в город невозможно было. По дороге задерживали, в город не пропускали. Части Красной армии отходили с запада. Много машин бойцов и командиров шло через эту деревушку. Они останавливались на отдых, мы их кормили здесь, поили молоком, и они снова уходили. Вскоре наши отошли километров за 6-8 от этой деревушки, а на следующий день на поле километрах в двух мы увидели страшное зрелище. В овсе, во ржи, как дикие звери, прятались и ползали чужеземцы в зеленых измазанных мундирах. Они устанавливали свои пулеметы, орудия в сторону деревни, в сторону города. Спустя несколько времени, начался обстрел деревни. Мы сидели в земле и ничего не могли больше видеть. Вся земля содрогалась от </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Невозможно девушке будет оправдать.</p>
+        <p>Молодые девушки, скоро ведь вернемся мы,</p>
+        <p>И тогда за родину последний вспыхнет бой,</p>
+        <p>И родным и матерям много будет радости,</p>
+        <p>Жены за измену ответят головой.</p>
+        <p>Конец.</p>
+        <p/>
+        <p>В далекий край</p>
+        <p>В далекий край ребята уезжают,</p>
+        <p>Чем встретят их тревожные года?</p>
+        <p>Любимый город в синей дымке тает</p>
+        <p>Осталась мать, на сердце грусть, в глазах слеза.</p>
+        <p>Пусть ее слезы льются на прощанье,</p>
+        <p>Утри печаль с безусого лица,</p>
+        <p>Граница ждет тебя на востанье,</p>
+        <p>Такого смелого, умелого бойца.</p>
+        <p>Дрались ребята, в дыму задыхаясь,</p>
+        <p>Свистали пули, смерть с собой неся.</p>
+        <p>Они в атаке жаркой вспоминали</p>
+        <p>Про дом родной, зеленый сад, ее глаза.</p>
+        <p>[Л.2 об.] Когда ж домой товарищ мой вернется,</p>
+        <p>Разбита грудь, оторвана рука.</p>
+        <p>Тогда ему уже не улыбнутся</p>
+        <p>Такие милые, красивые глаза.</p>
+        <p>Калек не любят очи голубые,</p>
+        <p>Здоровье все потеряно в боях.</p>
+        <p>Вы защищали города родные,</p>
+        <p>Но навсегда закрыты вам ее глаза.</p>
+        <p>Конец.</p>
+        <p/>
+        <p>Воздушный бой товарищ принимает.</p>
+        <p>В ушах гремит моторов разговор.</p>
+        <p>Любимый образ перед ним летает,</p>
+        <p>Звено врага, вершины гор и солнца взор.</p>
+        <p>В широкий верх помчались самолеты.</p>
+        <p>Враги сошлись, огня свинцовый [шквал].</p>
+        <p>Ударил сверху юного пилота,</p>
+        <p>Качнулся он, и задрожал в руках штурвал.</p>
+        <p>Все вспомнил он в предсмертное мгновенье.</p>
+        <p>Огонь в груди и баков шумный взрыв.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

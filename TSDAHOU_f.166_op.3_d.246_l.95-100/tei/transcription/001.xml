@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000841">
+      <titleStmt>
+        <title>Стенограмма беседы с Владимиром Тихоновичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 95-100.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.96" xml:space="default"/>
+        <p/>
+        <p>Стенограмма</p>
+        <p>
+          Гр. Тихонович 
+          <hi rendition="#i">Владимир Иванович, житель с. </hi>
+          <hi rendition="#i">Вознесенки</hi>
+          <hi rendition="#i"> Мелитопольского р-на Запорожской области. Священник. Родился в 1879 году.</hi>
+        </p>
+        <hi rendition="#i">Владимир Иванович, житель с. </hi>
+        <hi rendition="#i">Вознесенки</hi>
+        <hi rendition="#i"> Мелитопольского р-на Запорожской области. Священник. Родился в 1879 году.</hi>
+        <p/>
+        <p>Как только пришли немцы, не прошло 3-4-х дней, как начались массовые расстрелы евреев. Сначала всех евреев согнали на государственную мельницу в г. Мелитополь. Согнали их туда, объявляя, что они будут посланы на работы. Потом, когда собралась большая группа евреев, их посадили на машины и отправили за город к противотанковым рвам между селами Вознесенкой и Константиновкой.</p>
+        <p>Там начался массовый расстрел. Ров проходит очень близко от жилых домов, так что люди видели и слышали, что там происходило.</p>
+        <p>Рассказывают, что когда людей привезли сюда, то они поняли, что их ожидает. Дети прижались к матерям, но немцы отрывали их от матерей и бросали живьем в ров. А маленьких хватали за ноги, ударяли и бросали в ров. Потом закапывали, мобилизовывая жителей. Знаю одного паралитика еврея, который появлялся в городе на автоматической тележке. Его привезли на тележке, бросили живьем в ров, а тележка осталась и долго была забавой для детей местных жителей.</p>
+        <p>Особенно памятен такой случай. Рядом со мной жила соседка лет 23-х, еврейка. Муж ее был мобилизован, а она осталась в Мелитополе. В то время, когда пришли немцы, она родила. Не прошло 3-4 дней, как она была арестована, не оправившись после родов. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

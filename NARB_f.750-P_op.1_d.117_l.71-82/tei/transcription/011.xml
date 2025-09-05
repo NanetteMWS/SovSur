@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000635">
+      <titleStmt>
+        <title>Стенограмма беседы с Эдуардом Лавриновичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 117. Л.71-82.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.82" xml:space="default"/>
+        <p> Ждали до 10 часов утра, так как ночью более усиленная охрана. Солнце уже поднялось. Видим – все снялись с постов. Спустя еще час часовой пошел покурить, и дверь проволочная раздвинута. Мы на полном ходу с сарая туда. В это время немец вышел из машинного отделения, мы его из автомата счесали, огонь посылали в окна и стали выбегать фрицы через окна. В результате этого боя 16 чел. было убито и 8 чел. мы забрали в плен. Из своих – двое было тяжело ранено, мы выгрузили вооружение, продукты питания, обмундирование и все это забрали, тащили на себе. Заложили 48 кг тола и водокачку сорвало вместе с фундаментом.</p>
+        <p>После этого немцы начали обстреливать деревню и лес. Деревню всю сожгли. Мы, не имея ни одного человеко-потерь, взорвали водокачку.</p>
+        <p>2-го октября 1943 года мы соединились с частями Красной армии.</p>
+        <p>Лавринович Э.В.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.8 оборот" xml:space="default"/>
+        <p> Тепер настала та година,</p>
+        <p>В яку одержав я, мов в казці,</p>
+        <p>Святі права громадянина</p>
+        <p>В союзі рівноправних націй.</p>
+        <p/>
+        <p>
+          <hi rendition="#u">До поезії</hi>
+        </p>
+        <hi rendition="#u">До поезії</hi>
+        <p>Ти для мене – єдиная втіха.</p>
+        <p>Ти для мене – подруга одна.</p>
+        <p>В рідний край я з тобою приїхав</p>
+        <p>Моя рідна, моя чарівна.</p>
+        <p/>
+        <p>Знаю добре: мене ти не зрадиш.</p>
+        <p>Ще настане колись такий день,</p>
+        <p>Що вберу тебе в пишні наряди</p>
+        <p>Моїх кращих веселих пісень.</p>
+        <p/>
+        <p>На чужинні в жахливій неволі</p>
+        <p>Я тобі, тобі тільки одній</p>
+        <p>Викладав ті нечуванні болі,</p>
+        <p>Що в душі накіпали моїй.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>
+          Беседа с 
+          <hi rendition="#s">работниками</hi>
+           
+          <hi rendition="#i">сотрудниками</hi>
+           музея-
+          <hi rendition="#i">усадьбы</hi>
+           Л.Н. Толстого 
+          <hi rendition="#s">в</hi>
+           Ясн
+          <hi rendition="#s">ой</hi>
+          <hi rendition="#i">ая</hi>
+          <hi rendition="#i"> </hi>
+          Полян
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">а</hi>
+        </p>
+        <hi rendition="#s">работниками</hi>
+         
+        <hi rendition="#i">сотрудниками</hi>
+         музея-
+        <hi rendition="#i">усадьбы</hi>
+         Л.Н. Толстого 
+        <hi rendition="#s">в</hi>
+         Ясн
+        <hi rendition="#s">ой</hi>
+        <hi rendition="#i">ая</hi>
+        <hi rendition="#i"> </hi>
+        Полян
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">а</hi>
+        <p/>
+        <p>26 декабря 1941 г.</p>
+        <p/>
+        <p>Присутствовали: Члены Комиссии Академии Наук СССР: Член- корреспондент АН – И. Минц, академик-архитектор Щусев А., профессор Кондрашов Д., Толстая С.А., Бодалев И.И., историк Городецкий Е., Чеботаревская Е.В.;</p>
+        <p>
+          сотрудники дома-музея: Щеголев С.И. – хранитель 
+          <hi rendition="#s">музея</hi>
+           дома-музея Л.Н. Толстого в Ясной Поляне, Щеголева М.И. – научный сотрудник, Маркина М.П. – смотритель дома-музея, Кандаурова А.И. – смотритель дома-музея, Теплова Г.А., Кузьмина А.В. – кассир, Клавдия Литвинова – ученица 8 класса Яснополянской школы.
+        </p>
+        <hi rendition="#s">музея</hi>
+         дома-музея Л.Н. Толстого в Ясной Поляне, Щеголева М.И. – научный сотрудник, Маркина М.П. – смотритель дома-музея, Кандаурова А.И. – смотритель дома-музея, Теплова Г.А., Кузьмина А.В. – кассир, Клавдия Литвинова – ученица 8 класса Яснополянской школы.
+        <p/>
+        <p>
+          Щеголев С.И. 
+          <hi rendition="#s">2</hi>
+          <hi rendition="#s">8 октября я провел послед</hi>
+          <hi rendition="#s">нюю экскурсию.</hi>
+        </p>
+        <hi rendition="#s">2</hi>
+        <hi rendition="#s">8 октября я провел послед</hi>
+        <hi rendition="#s">нюю экскурсию.</hi>
+        <p>
+          27 октября к нам явилась большая воинская часть, расположившаяся в усадьбе. Вместе с частью прибыли десятки всевозможных машин. Это был день, когда наши части отступали по направленно к Туле. 
+          <hi rendition="#s">Вместе</hi>
+          <hi rendition="#s"> с этой</hi>
+          <hi rendition="#s"> час</hi>
+          <hi rendition="#s">тью</hi>
+          <hi rendition="#s"> п</hi>
+          <hi rendition="#s">ри</hi>
+          <hi rendition="#s">ехал полковник </hi>
+          <hi rendition="#s">Бе</hi>
+          <hi rendition="#s">скин</hi>
+          <hi rendition="#s">, который остановился у нас на квартире.</hi>
+        </p>
+        <hi rendition="#s">Вместе</hi>
+        <hi rendition="#s"> с этой</hi>
+        <hi rendition="#s"> час</hi>
+        <hi rendition="#s">тью</hi>
+        <hi rendition="#s"> п</hi>
+        <hi rendition="#s">ри</hi>
+        <hi rendition="#s">ехал полковник </hi>
+        <hi rendition="#s">Бе</hi>
+        <hi rendition="#s">скин</hi>
+        <hi rendition="#s">, который остановился у нас на квартире.</hi>
+        <p>
+          <hi rendition="#s">В усадьбе царило смятение.</hi>
+           Мы, 
+          <hi rendition="#i">работники музея</hi>
+          , боялись за сохранность музея. Нам казалось, что за неимением места воинские части займут помещение музея. Но этого не случилось, и в этом-то и сказалось трогательное отношение наших людей к музею.
+        </p>
+        <hi rendition="#s">В усадьбе царило смятение.</hi>
+         Мы, 
+        <hi rendition="#i">работники музея</hi>
+        , боялись за сохранность музея. Нам казалось, что за неимением места воинские части займут помещение музея. Но этого не случилось, и в этом-то и сказалось трогательное отношение наших людей к музею.
+        <p>Некоторые красноармейцы не знали, где они находятся. Мы рассказали им, что это яснополянский дом-музей Льва Николаевича Толстого. На входной двери музея у нас был вывешен декрет ЦИКа о Ясной Поляне, и он создавал определенное отношение к дому-музею. Красноармейцы и командиры </p>
+      </div>
+    </body>
+  </text>
+</TEI>

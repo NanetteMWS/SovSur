@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000634">
+      <titleStmt>
+        <title>Стенограмма беседы с Афанасием Болховитиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 117. Л.10-21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.21" xml:space="default"/>
+        <p> В том числе коммунистов – 33, комсомольцев – 23 чел., женщин – 2 чел.</p>
+        <p>В числе представленных к награде дважды представлены 12 человек.</p>
+        <p>На сегодняшний день решение правительства по материалам, представленным к награде, отряду неизвестны. Это является весьма отрицательным моментом, так как самая награда поднимает дух партизан.</p>
+        <p>
+          <hi rendition="#u">Положение в Гомеле</hi>
+          .
+        </p>
+        <hi rendition="#u">Положение в Гомеле</hi>
+        .
+        <p>19 августа 1941 г. немцы вошли в город.</p>
+        <p>Гомель представляет груду развалин и руин. Сохранился только один залинейный район, но и то в связи с сосредоточением там войск немецких советская авиация бомбит этот район.</p>
+        <p>Советская улица, Кооперативная, Комсомольская – все совершенно разрушены.</p>
+        <p>Музей в парке Паскевича – там был Дом Партактива – имел повреждения, состояния его теперь не знаю. Парк немцы превратили в немецкое кладбище.</p>
+        <p>Самый вокзал еще до войны развалили с целью надстройки верхнего этажа, он так и остался.</p>
+        <p>Железнодорожный клуб имеет серьезные повреждения, но там даже кино работает, специально для немцев.</p>
+        <p>Здание управления дороги, говорят, сохранилось.</p>
+        <p>Лично я был в Гомеле 18 августа 1941 г. С тех пор я там не был.</p>
+        <p>Мосты все сохранены. Они были первоначально при отступлении нашей армии взорваны, но недостаточно – их быстро восстановили.</p>
+        <p>Населения в Гомеле осталось очень мало.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

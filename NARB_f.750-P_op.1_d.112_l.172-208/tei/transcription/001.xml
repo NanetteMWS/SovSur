@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000883">
+      <titleStmt>
+        <title>Стенограмма беседы с Наумом Фельдманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 172-208.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.173" xml:space="default"/>
+        <p/>
+        <p>Сектор истории советского общества института истории АН СССР</p>
+        <p>
+          Стенограмма беседы с тов. Фель
+          <hi rendition="#i">дман</hi>
+           Наумом Львовичем.
+        </p>
+        <hi rendition="#i">дман</hi>
+         Наумом Львовичем.
+        <p/>
+        <p>г. Минск, 28 января 1948 года.</p>
+        <p>Беседу вела тов. Еловцан Ф.Л.</p>
+        <p>Писала – Фомичева.</p>
+        <p/>
+        <p>
+          Фель
+          <hi rendition="#i">дман</hi>
+           Наум Львович – председатель Минского областного союза кооперации инвалидов. В партизанском отряде – комиссар партизанского отряда «25 лет БССР», бригады имени Пономаренко.
+        </p>
+        <hi rendition="#i">дман</hi>
+         Наум Львович – председатель Минского областного союза кооперации инвалидов. В партизанском отряде – комиссар партизанского отряда «25 лет БССР», бригады имени Пономаренко.
+        <p>Представлялся к наградам – орденом Красной Звезды и Красного знамени. Первое представление было в конце 1942 г.</p>
+        <p>1900 года рождения, еврей, член партии с 1919 года. Родился в местечке Журавичи, Гомельской губернии. По профессии заготовщик. Пошел работать по найму с 8-ми летнего возраста по этой специальности, раньше учеником, потом подмастерьем. На самостоятельный хлеб перешел с 1911 года, т.е. с 11 лет. Работал по 1914 год в местечке Корма, Гомельской области, потом переехал в Гомель.</p>
+        <p>
+          В начале империалистической войны в Гомеле встретился с товарищами и начиная с 1917 года я начал принимать активное участие в рабочем движении. Участвовал в отдельных стачках. В начале 1918 года уже пошел со многими другими товарищами и по работе, и по дружбе, в партизанский отряд (
+          <hi rendition="#s">в Гомеле</hi>
+           в
+          <hi rendition="#i">оевали</hi>
+           тогда 
+          <hi rendition="#s">бы</hi>
+          <hi rendition="#s">ли</hi>
+           немц
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">ами</hi>
+          <hi rendition="#i">,</hi>
+           гайдамак
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">ами</hi>
+           и т.д.), 
+        </p>
+        <hi rendition="#s">в Гомеле</hi>
+         в
+        <hi rendition="#i">оевали</hi>
+         тогда 
+        <hi rendition="#s">бы</hi>
+        <hi rendition="#s">ли</hi>
+         немц
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">ами</hi>
+        <hi rendition="#i">,</hi>
+         гайдамак
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">ами</hi>
+         и т.д.), 
+      </div>
+    </body>
+  </text>
+</TEI>

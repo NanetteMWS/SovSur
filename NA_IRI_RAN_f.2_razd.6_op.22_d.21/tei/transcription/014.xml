@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> мы должны работать, и сказал, что отправит всю семью в Германию. Отец начал было просить, но комендант выгнал его за дверь. </p>
+        <p>А на следующий день подъехали на машине четыре немецких солдата, схватили нас и увезли на станцию, где в это время стоял эшелон с нашим народом для отправки на каторжные работы в Германию. Нас погрузили в вагон, где было полно уже людей. В вагоне было тесно, темно и сыро. Многие плакали, прощались с собравшимся народом, со своими родными. Нас строго охранял конвой. Я молча стояла в уголочке вагона, какое-то страшное чувство, тоска томила меня. Прижавшись, с боку меня, стояла Дуся. Мама с папой держали за руки двух меньших братьев. Я смотрела в сторону родного города, мне хотелось запомнить каждый знакомый дом, деревце, кустик, я хотела еще вернуться туда, где так недавно была я, к тем </p>
+      </div>
+    </body>
+  </text>
+</TEI>

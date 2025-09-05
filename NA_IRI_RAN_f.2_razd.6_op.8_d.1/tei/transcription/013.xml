@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9 оборот" xml:space="default"/>
+        <p> карту, компас – сообщили мне, что уходят, дали и мне маршрут к фронту, попрощались со мной и ушли ночью переходить фронт – перед ними не была преградой колючая проволока и замок полиции.</p>
+        <p>Через некоторое время – спустя неделю – и я ухожу переходить фронт, дирекции мотивируя, что иду на родину в Чернигов, а сама пошла по маршруту Сумы-Курск-Воронеж.</p>
+        <p>По дороге встречалось видеть немало издевательства немцев над населением, расстрелы, виселицы. В каждом районном центре парк культуры и отдыха – служил могилой расстрелянных и виселицей лучших советских граждан. Глаза не могли видеть, а уши не могли слушать эти страдания людей, не хотелось верить, что недавно цветущая Украина преобразовалась в долину смерти, разрухи и нищеты.</p>
+        <p>В голове кружилась лишь одна мысль – </p>
+      </div>
+    </body>
+  </text>
+</TEI>

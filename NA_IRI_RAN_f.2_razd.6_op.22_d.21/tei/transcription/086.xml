@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.44" xml:space="default"/>
+        <p> десант. Со слов других товарищей мне было известно, что американские самолеты спустили 280 человек русских. Многие ребята рассказывали, что встречались с ними, беседовали, они их угощали шоколадом, консервой, папиросами. Ребята знакомили их с местностью, указывали где располагаются какие фабрики, хотя, где мы жили, там не было крупных фабрик. Одна из крупнейших была – это льнофабрика, на которой работало свыше 100 человек, а то все мелкочастнические, где работало по 18-20 человек. Много работало по деревням, у хозяевов.</p>
+        <p>Анна Бушлатова также познакомилась, была с десантниками, которые ходили в окрестностях Штаффельштайна, и поздно вечером они пришли в деревушку, которая была расположена неподалеку от леса, в которой и работала Анна. Ребята подошли, начали разговаривать с Анной, когда она, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.15" xml:space="default"/>
+        <p> Іване чуєш, схаменись!</p>
+        <p/>
+        <p>Петро – земляк твій також любить,</p>
+        <p>Але не десять, а одну.</p>
+        <p>Цілує її, коле губи</p>
+        <p>Об загорожу дротяну.</p>
+        <p/>
+        <p>Бери, Іване, приклад з нього,</p>
+        <p>Не зводь із розуму дівчат.</p>
+        <p>З любов’ю напряму дурного</p>
+        <p>Пора, земляче вже кінчать.</p>
+        <p/>
+        <p>Цікаво дуже і забавно</p>
+        <p>Не знаю де набрати слів</p>
+        <p>Про випадок, що був недавно</p>
+        <p>В однім з жіночих таборів.</p>
+        <p/>
+        <p>Це було в «Боші» в зимній вечір</p>
+        <p>Уже відомий вам Іван,</p>
+        <p>Втягнувши голову у плечі</p>
+        <p>Перемахнув через паркан.</p>
+        <p/>
+        <p>І блискавично непомітно</p>
+        <p>До них в барак орлом шугнув</p>
+        <p>В сиру кімнату непривітну</p>
+        <p>От номер я її забув.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

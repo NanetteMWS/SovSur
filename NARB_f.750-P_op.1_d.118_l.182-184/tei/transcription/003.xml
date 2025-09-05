@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000638">
+      <titleStmt>
+        <title>Стенограмма беседы с Андреем Брушковым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 118. Л.182-184.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.184 оборот" xml:space="default"/>
+        <p> поговорили с ней. Вагон оцепили колючей проволокой и дочь нашу увезли.</p>
+        <p>
+          После отъезда дочери я продолжал работу до освобождения 
+          <hi rendition="#i">Минска</hi>
+          . Был связан с партизанским отрядом и вел работу по выявлению предателей, собирал сведения. Я был также связан с парашютно-десантной группой осведомителей НКГБ. Мне удалось выявить членов Белорусской рады Кондратовича и Голубовича. Моя квартира являлась подпольной квартирой. Через знакомую моей дочери Зину Романенко, которая работала в генеральном комиссариате, я доставал бланки документов, пропусков «аусвайсов», прятал их, зарывал в песке, а потом передавал в партизанский отряд.
+        </p>
+        <hi rendition="#i">Минска</hi>
+        . Был связан с партизанским отрядом и вел работу по выявлению предателей, собирал сведения. Я был также связан с парашютно-десантной группой осведомителей НКГБ. Мне удалось выявить членов Белорусской рады Кондратовича и Голубовича. Моя квартира являлась подпольной квартирой. Через знакомую моей дочери Зину Романенко, которая работала в генеральном комиссариате, я доставал бланки документов, пропусков «аусвайсов», прятал их, зарывал в песке, а потом передавал в партизанский отряд.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

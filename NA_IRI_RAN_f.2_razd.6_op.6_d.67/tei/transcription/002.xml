@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.1 оборот" xml:space="default"/>
+        <p> И за корку хлеба немцам отдались.</p>
+        <p>Где-то там у берега по просторной Волгою</p>
+        <p>Был убит за родину парень молодой.</p>
+        <p>Развевает русые ветер его волосы,</p>
+        <p>Словно кто родимое теребит рукой,</p>
+        <p>Вышивает старанно дождик хаты белые,</p>
+        <p>Засыпает медленно мать сыра земля,</p>
+        <p>Но не забывайте вы, что за вас деремся мы,</p>
+        <p>Не один погибнет здесь парень молодой.</p>
+        <p>Под немецких куколок вы прически сделали.</p>
+        <p>Красками подкрасились, крутя головой,</p>
+        <p>Но не нужны соколам эти куклы крашены,</p>
+        <p>И пройдет с презрением парень молодой.</p>
+        <p>И вернутся соколы, прилетят к вам быстрые,</p>
+        <p>Как тогда вы выйдете соколов встречать?</p>
+        <p>Ведь торговлю куклами и торговлю крисками</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

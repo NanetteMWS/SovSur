@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.131" xml:space="default"/>
+        <p> вошла в театр и предложила свои услуги. Но так как у меня был аховый вид, я сказала, что я эвакуирована со Слободки (об этом везде знали) и меня приняли. Костюмерша узнала меня, т.к. у нее мы брали костюмы еще в 1926 году, но, к счастью, она не знала моей национальности. Мужа она знала хорошо, но он русский. Она забрала меня к себе ночевать. Когда ложились спать, пришлось раздеться, я была без блузки в одном жакете. Она подарила мне блузку. Поработала я там месяц, полтора. Потом театр уехал в Киев, а мне ехать в Киев нельзя.</p>
+        <p>
+          В Ракитном, 40 километров за Белую Церковь, требовалась переводчица, т.к. я за это время выучила немецкий язык (учила его по словарям) я рискнула и поехала туда. Там поработала две недели. Мои переводы оказались неправильными. Начали подозревать, что я еврейка, стали преследовать меня и я оттуда бежала снова в Белую Церковь. Приехав туда, я застала второй киевский театр, он считался – Областной театр имени Шевченко. Там оказался мой старый друг Николай Цыганков. Он сделал вид, что не знает меня совершенно. Днем я бывала на работе, а вечером он с женой принимали меня у себя, кормили. Я пристроилась к ихнему театру. Вскоре появилась артистка Кольцова, с которой мы работали еще в 1934 году, и 
+          <hi rendition="#s">увидела</hi>
+           
+          <hi rendition="#i">выдала</hi>
+           меня.
+        </p>
+        <hi rendition="#s">увидела</hi>
+         
+        <hi rendition="#i">выдала</hi>
+         меня.
+        <p>Машинист сцены театра Афанасьев, когда стали преследовать меня внутри театра, среди артистов, он просто заявил – если кто меня обидит, будет иметь дело с ним. Он взял меня под свою защиту, т.к. у него незадолго </p>
+      </div>
+    </body>
+  </text>
+</TEI>

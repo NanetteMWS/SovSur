@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.14 оборот" xml:space="default"/>
+        <p> Він, навіть, думає за грати</p>
+        <p>Мене загнати, то з тих пір</p>
+        <p>У кого ж буде позичати</p>
+        <p>Штани в неділю на «шпацір»</p>
+        <p/>
+        <p>Я був у таборі багатий,</p>
+        <p>Про свято мав одні штани</p>
+        <p>Та й то надію уже втратив,</p>
+        <p>Що в дійсності мої вони.</p>
+        <p/>
+        <p>Мої потерті штаненята</p>
+        <p>Безжалісно таскали всі.</p>
+        <p>Не в силі ми були дістати</p>
+        <p>І латки у фашистських псів.</p>
+        <p/>
+        <p>Тепер біда з моїм Іваном,</p>
+        <p>А ну на прив’яз хоч бери:</p>
+        <p>Щораз під бошівським парканом</p>
+        <p>Він марно губить вечори.</p>
+        <p/>
+        <p>Згадай Іване, хоч востаннє,</p>
+        <p>Про дні, що зникли, як в тумані</p>
+        <p>Про дні щасливі спом’яни,</p>
+        <p>Як нам гулялось колись,</p>
+        <p>Як нам жилося до війни</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

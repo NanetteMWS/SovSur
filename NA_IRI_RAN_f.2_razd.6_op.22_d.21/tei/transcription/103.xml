@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.52 оборот" xml:space="default"/>
+        <p> не мог слышать этого и с плачем прибегал домой, кричал, злился, а мать его уговаривала, что «пусть они теперь радуются, но придет время, когда они будут плакать, а мы будем радоваться». Васька иногда уже понимал, когда его старший брат выполнял грязную, тяжелую, непосильную работу, когда он таскал на спине большие кормовые корзины, когда он вывозил на тачке навоз, обливаясь горячим потом, когда он целыми днями в пропитанном грязью и потом комбинезоне в деревяшках на ногах работал в конюшне в грязи и пыли, где испортил свое здоровье, когда он усталым, измученным засыпал, сидя за ужином. Чувство мести выросло у него уже в те дни, когда его положили на операционный стол. Он тогда уже понял все и готов был делать все и делал все, что ему поручали. Он оправдал себя на своем посту – пост связиста, аккуратного почтальона. Он не подвел ни нас, ни множество людей.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

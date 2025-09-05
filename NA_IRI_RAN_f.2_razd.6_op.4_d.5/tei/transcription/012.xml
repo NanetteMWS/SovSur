@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">благо</hi>
+          <hi rendition="#s">получно</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">отделались испугом</hi>
+          <hi rendition="#s">.</hi>
+          <hi rendition="#s"> Один немецкий солдат был ранен. День был страшный, боялись за судьбу дома-музея</hi>
+          .
+        </p>
+        <hi rendition="#s">благо</hi>
+        <hi rendition="#s">получно</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">отделались испугом</hi>
+        <hi rendition="#s">.</hi>
+        <hi rendition="#s"> Один немецкий солдат был ранен. День был страшный, боялись за судьбу дома-музея</hi>
+        .
+        <p>
+          6 ноября. Немцы хозяйничают в усадьбе вовс
+          <hi rendition="#i">ю</hi>
+          .
+        </p>
+        <hi rendition="#i">ю</hi>
+        .
+        <p>7 ноября. С 11 часов утра до 4 часов дня беспрерывная пальба немецкой артиллерии, установленной около детского сада.</p>
+        <p>8 ноября. Тула в осаде. Идут упорные бои. Немцы все время твердят: «Туле капут». В госпиталь поступает большое количество раненых. Проносится слух, что в обход Тулы идут наши части.</p>
+        <p>9 ноября. Требуют освободить под госпиталь весь музей. Опять все вещи переносятся в другое место – сваливаются в одну кучу, в столовой, часть вещей переносится в подвал, в ледник, во двор и на веранду. Что же останется от дома Толстого! Была большая тревога за судьбу вещей. Все это происходит под непрерывную трескотню пулеметов и гул орудийных залпов. Около школы упало несколько фугасных бомб.</p>
+        <p>Видя, что музею угрожает опасность, я направился в штаб к Демидову. Штаб расположился в школе. Школа имела ужасный вид. Я нашел комнату, где помещался штаб, и хотел объяснить все Демидову, но тот резко оборвал меня и заявил: «Музей нас мало интересует» и добавил: «Вообще, то, что создано большевиками, нас не интересует». Я пытался говорить о том, что музей сохранен в таком виде, как его оставила семья Толстого и просил обеспечить хотя какую-нибудь охрану его. Мне ответили, что никакая охрана обеспечена не будет, что «музей нам не нужен, а жизнь солдат нам дороже». Говорились общие фразы о том, что сейчас война, которая несет с собой неизбежные разрушения. При этом было подчеркнуто, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

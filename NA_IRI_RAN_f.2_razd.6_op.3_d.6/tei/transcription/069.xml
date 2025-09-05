@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.36 оборот" xml:space="default"/>
+        <p> Алексеевой Антониды, ученицы III класса</p>
+        <p>14-го декабря</p>
+        <p>
+          К
+          <hi rendition="#s">ак</hi>
+          <hi rendition="#i">ог</hi>
+          да немецки
+          <hi rendition="#s">й</hi>
+          <hi rendition="#i">е</hi>
+           оккупан
+          <hi rendition="#s">д</hi>
+          <hi rendition="#i">т</hi>
+          ы ворвались в нашу деревню и нач
+          <hi rendition="#s">я</hi>
+          <hi rendition="#i">а</hi>
+          ли искать св
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          ней. Они св
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          ней не нашли, так стали отбирать коров. К нам пришли и говорят: матка, корову. Мать сказала: нет
+          <hi rendition="#s">ь</hi>
+          . Один фриц пошел на двор и увел корову. К
+          <hi rendition="#s">ак</hi>
+          <hi rendition="#i">ог</hi>
+          да немцы отступали, пришли к нам и говорит: мат
+          <hi rendition="#i">ь</hi>
+          ка 
+          <hi rendition="#i">«</hi>
+          курки яйки
+          <hi rendition="#i">»</hi>
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i"> </hi>
+          Мать сказала: взял немецкий солдат. Немец тогда разозлился, но не сказал н
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          чего. Тогда к нам приехали и говорит: мат
+          <hi rendition="#s">ь</hi>
+          ка, стол. Он взял стол и стали обедат
+          <hi rendition="#i">ь</hi>
+          . Наша кошка си
+          <hi rendition="#s">т</hi>
+          <hi rendition="#i">д</hi>
+          ит под столом и мяукает. Они так поймали кошку и привязали. Кошка оборвалась и убежала. Так котик приш
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">е</hi>
+          л домой. Фрицы поймали, пр
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          вязали за лапы и застрелили.
+        </p>
+        <hi rendition="#s">ак</hi>
+        <hi rendition="#i">ог</hi>
+        да немецки
+        <hi rendition="#s">й</hi>
+        <hi rendition="#i">е</hi>
+         оккупан
+        <hi rendition="#s">д</hi>
+        <hi rendition="#i">т</hi>
+        ы ворвались в нашу деревню и нач
+        <hi rendition="#s">я</hi>
+        <hi rendition="#i">а</hi>
+        ли искать св
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        ней. Они св
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        ней не нашли, так стали отбирать коров. К нам пришли и говорят: матка, корову. Мать сказала: нет
+        <hi rendition="#s">ь</hi>
+        . Один фриц пошел на двор и увел корову. К
+        <hi rendition="#s">ак</hi>
+        <hi rendition="#i">ог</hi>
+        да немцы отступали, пришли к нам и говорит: мат
+        <hi rendition="#i">ь</hi>
+        ка 
+        <hi rendition="#i">«</hi>
+        курки яйки
+        <hi rendition="#i">»</hi>
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i"> </hi>
+        Мать сказала: взял немецкий солдат. Немец тогда разозлился, но не сказал н
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        чего. Тогда к нам приехали и говорит: мат
+        <hi rendition="#s">ь</hi>
+        ка, стол. Он взял стол и стали обедат
+        <hi rendition="#i">ь</hi>
+        . Наша кошка си
+        <hi rendition="#s">т</hi>
+        <hi rendition="#i">д</hi>
+        ит под столом и мяукает. Они так поймали кошку и привязали. Кошка оборвалась и убежала. Так котик приш
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">е</hi>
+        л домой. Фрицы поймали, пр
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        вязали за лапы и застрелили.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

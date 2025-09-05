@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p>
+           Беспощадно уничтожали немцы крупный рогатый скот. 
+          <hi rendition="#s">Из</hi>
+           По этим же 17 районам из 59.781 коровы на 1/I-41 г. осталось 985 коров – 1,6% к 20/I-42 г. Эвакуировано 56,7%.
+        </p>
+        <hi rendition="#s">Из</hi>
+         По этим же 17 районам из 59.781 коровы на 1/I-41 г. осталось 985 коров – 1,6% к 20/I-42 г. Эвакуировано 56,7%.
+        <p>
+          В некоторых районах в момент освобождения было катастрофическое положение с колхозным животноводством, так, например, в Истринском районе из 3067 колхозных коров на 1/I 41 г. осталось на 1/I-42 г. 
+          <hi rendition="#u">одна корова</hi>
+          <hi rendition="#i">? </hi>
+          на весь район.
+        </p>
+        <hi rendition="#u">одна корова</hi>
+        <hi rendition="#i">? </hi>
+        на весь район.
+        <p>
+          <hi rendition="#s">Немецкие оккуп Колхозные семен</hi>
+        </p>
+        <hi rendition="#s">Немецкие оккуп Колхозные семен</hi>
+        <p>Колхозные семенные фонды были разорены настолько, что к 20/II-42 г. в колхозах 17 осв. районах Московской обл. было 80 тыс. центнеров семенного картофеля, что составляло всего 10% семян, необходимых для посева, около 8 тысяч центнеров семян зерновых и бобовых культур, или около 4%.</p>
+        <p>Страшное разорение отдельных отраслей с-х. Как видно, например, из того, что в Малоярославецком районе, где к 1/Х-41 г. насчитывалось 2109 пчелосемей, к 1/I-42 г. Осталось только 186.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

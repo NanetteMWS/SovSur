@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000321">
+      <titleStmt>
+        <title>Стенограмма беседы с Вольдемаром Теллингом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 20. Д. 11.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.7 оборот" xml:space="default"/>
+        <p> когда были учителем в Петсери, и теперь?».</p>
+        <p>Я подумал-подумал и брякнул:</p>
+        <p>– Был в тюрьме.</p>
+        <p>– А кто же вы, правый? </p>
+        <p>– Нет, коммунист.</p>
+        <p>Сначала он как будто потерял сознание, но все же опомнился и сказал быстро, быстро, быстро:</p>
+        <p>– Идите к такому-то, он вас устроит, но ни слова не говорите, кто вы, ни в каком случае.</p>
+        <p>Он сдержал свое слово, которое дал вначале. Он послал меня в Общество красного креста, которое возглавлял в 1938 г. генерал. Чтобы получить место в приюте или в школе, я затратил последние 10 крон на свой костюм. Меня вызвали, чтобы посмотреть, как я выгляжу. Я зашел, все было хорошо. Вдруг тоже задали вопрос:</p>
+        <p>– Что же вы делали в то время?</p>
+        <p>Сказал, что был в тюрьме. Гробовое молчание между этими господами. Вдруг этот генерал сказал:</p>
+        <p>– А вы и не поседели за это время?</p>
+        <p>– Я уже с молодости седой, больше седеть нечего.</p>
+        <p>Потом решили, что я не умею управлять оркестром и сказали:</p>
+        <p>– А ведь нам нужен именно управляющий оркестром. К сожалению, нам нужен дирижер, управляющий оркестром.</p>
+        <p>Когда домашним учителем был, там хорошее место было, были богатые люди. Там тоже товарищи по школе помогли, но я уж решил держать язык за зубами, так как на </p>
+      </div>
+    </body>
+  </text>
+</TEI>

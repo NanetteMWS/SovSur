@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> Отец с матерью первыми познакомились с девушками. Когда они пришли с больницы от Васьки и рассказали нам, что здесь работают тоже русские девушки, нам так хотелось побежать туда, видеть и поговорить с ними, но время свободного не было. В воскресенье нам дала хозяйка два часа свободного времени. Мы побежали к лагерю девушек. </p>
+        <p>
+          Лагерь представлял собой длинный деревянный барак, обнесенный колючей проволокой. Когда мы подошли к девушкам, они все бросились к проволоке. Постовой закричал на нас, но мы не уходили, а продолжали разговаривать. Девушки коротко рассказали о своем положении, мы рассказали о себе, указали, где мы работаем, поделились мнением, своей каторжной бесправной жизнью. Ближе мы познакомились с Надеждой Евдокимовой. Девушки рассказали, как жестоко с ними обраща
+          <hi rendition="#s">ются</hi>
+          лись 
+        </p>
+        <hi rendition="#s">ются</hi>
+        лись 
+      </div>
+    </body>
+  </text>
+</TEI>

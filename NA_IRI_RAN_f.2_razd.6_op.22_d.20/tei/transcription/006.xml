@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> 40-50 человек в вагоны и, с охраной по 2 полицая на каждый, были отправлены в Киев. После врачебной комиссии, которая проводилась для маскировки, 29 мая мы были отправлены эшелоном по направлении Германии.</p>
+        <p>Между нами было большинство молодежи, начиная от 14 лет. Одни с нас были забраты с дому или работы, другие схвачены полицией на улице или в лесу, третьи забратые в форме принудительной вербовки.</p>
+        <p>Встречались в единочных случаях и такие, что ехали добровольно. Это были люди, потерявшие ориэнтацию в жизни, или же вообще ненормальные. Примерно – Линник Петр. Ему подскочил однажды момент неудачной жизни. Он решил сменить ее на другую во что бы то ни стало. Он уехал добровольно в Германию, ибо другой жизни никакой не смог снайти.</p>
+        <p>Другие, голодуя, не имея куска хлеба, вынуждены были въехать добровольно в Германию, поверив гитлеровской пропаганде. Их в основном везли </p>
+      </div>
+    </body>
+  </text>
+</TEI>

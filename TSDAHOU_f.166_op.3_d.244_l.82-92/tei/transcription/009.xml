@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.91" xml:space="default"/>
+        <p> нам и в первую очередь мастеров резко изменилось. Нас перестали заставлять так усиленно работать, давали иногда добавочное питание, стали вступать с нами в разговоры и не так строго требовать дисциплину. Нам выдали новую одежду и меньше стало случаев, когда садили за всякую малейшую провинность в тюрьму.</p>
+        <p>По фабрикам, заводам и лагерям ходили специальные агитаторы из украинцев-националистов, эмигрантов, которые запугивали рабочих, говорили, что «с приходом советских войск не будет учитываться степень виновности, а всех накажут как изменников родины», а поэтому, если фабрика будет эвакуироваться, нам необходимо следовать за ней. На такие агитации рабочие не реагировали, за исключением одиночек. Это были фольксдойче и другие подобные им.</p>
+        <p>С приближением фронта бросили листовки, которые сейчас же собирались местным населением и уничтожались, но все-таки попадали и нам в руки.</p>
+        <p>Возле Бреслау был случай, когда с приближением фронта всех иностранных рабочих сгоняли в один пункт, расстреливали, давили танками, а потом объявляли, что это сделали советские войска. Это было для того, чтобы устрашать остальных.</p>
+        <p>Мы об этом знали и когда в первых числах мая приблизился фронт и был объявлен приказ всех рабочих перевезти ночью на сборный пункт под Гиршбергом. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

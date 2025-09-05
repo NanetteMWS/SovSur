@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.73" xml:space="default"/>
+        <p> Те немцы, что у меня стояли, хотели уехать с вечера, но заночевали. Наутро же погрузились они на машину, и айда. Как стали немцы уходить, еще с вечера зажгли они воротничковую фабрику. С утра же начали дома зажигать. Дом изнутри обливали, зажигали и все стекла выбивали. Начали они жечь город от станции Истра. Первыми запалили дома «Плодо-овощ-союза», Миронова и милиционера, а потом пошли жечь подряд, под ветер. Когда стали зажигать дома, погнали население из города. Сначала гнали к Волоколамску, а потом, видно, набрали и стали к Москве выгонять. Из нашего окопа, на Пушкинской, также всех хотели выгнать. Но учительница одна, пожилая, по-ихнему их уговорила. Завели немцы ее в окоп и нас пустили. Пять суток семейство мое в окопе ночевало, а я на воле спал. В окопе ни места, ни воздуха не хватало. Мой дом одним из последних поджигали. Только занялось, а кругом кричат: «Наши пришли» – разведка. Если б наши чуть упредили – уцелели бы мои дома (плачет). Ведь два дома у меня сожгли – мой и сына. Сын-то в своем так и не пожил. Когда монастырь взрывали и жгли – я не видел – не в себе был, за семейство боялся, а тут и дома подожгли, совсем ума лишился.</p>
+        <p>поселок Дедовск, Истринский Райисполком.</p>
+        <p>24 января 1942 г.</p>
+        <p>Правильность записи рассказа Д.П. Прунцева Комиссия подтверждает.</p>
+        <p/>
+        <p>Члены Комиссии:</p>
+        <p>Киселев С.В., Смирнов А.П., Блаватский В.Д., Горюнова Е.И., Евтюхова Л.А., Закс А.Б.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

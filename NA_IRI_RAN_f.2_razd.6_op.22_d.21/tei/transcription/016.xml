@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> полезное для своей Родины и своего народа. Неужели пройдет все бесследно, чему учили меня в школе? А ведь будучи в школе, я хорошо училась, стремилась как можно больше приобрести знаний. Я строила планы на будущее, как я окончу среднее, а потом и высшее учебное заведение, потом буду работать и работать хорошо, честно, так, как я и училась, чтоб с меня брали всегда пример, и как все мои подруги, мои товарищи, братья и сестры все станут такими благородными, честными, культурными, знающими людьми, и как они все будут трудиться на благо своего народа. Как счастлива и радостна, весела жизнь будет в нашей стране!» </p>
+        <p>Я начала вспоминать свою жизнь в прошлом. Как хорошо уже мы жили перед войной. У нас хватало всего, мы ни в чем не нуждались. А как весело, как хорошо было в школе. Каждый из нас ощущал эту теплую заботу нашей партии и правительства, личную заботу дорогого </p>
+      </div>
+    </body>
+  </text>
+</TEI>

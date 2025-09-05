@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000649">
+      <titleStmt>
+        <title>Стенограмма беседы с Геннадием Будаем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л.19-35.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.35" xml:space="default"/>
+        <p> Были познанцы – это сволочь. Итальянцы были, французы были, но это были единицы. Немцы были и надо сказать, что некоторые немцы дрались замечательно.</p>
+        <p>Был один молодой немец. Его хотели в Берлине расстрелять, но вместо этого послали сюда на фронт. Он был в Столбцах. Со Столбцов удрал к партизанам. Хорошо воевал, на все операции ходил. Однажды, рассказывали, в бою одним из первых поднялся против немцев. Кричит по-немецки и стреляет из автомата.</p>
+        <p>Была группа, засланная из тыла по специальной задаче разложения немецких гарнизонов. У нас выпускалась литература на немецком языке. Привлекли к этому делу всех немцев, которые были здесь.</p>
+        <p>Интересный случай.</p>
+        <p>Немцам надо было охранять урожай от партизан. Для этого они построили дзот возле леса на берегу реки. Ничего не могли сделать с этим охранением. Подберутся партизаны, обстреляют дзот, немцы спрячутся в него. Два подрывника, хорошие ребята, решили взорвать этот дзот. Они пробрались к этому дзоту, заминировали его как следует и начали охотиться на немцев. Выбрали удобный момент, подошли к этому дзоту и открыли по нему огонь. Немцы – в дзот и взорвались вместе с дзотом.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

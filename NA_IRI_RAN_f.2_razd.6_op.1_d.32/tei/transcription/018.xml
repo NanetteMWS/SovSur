@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p>
+           25 сельсоветов и 65 правлений колхозов. В Звенигородском, Ново-Петровском, Истринском и др. районах была восстановлена работа большинства сельсоветов и правлений колхозов («Правда», 14/I-42 г. №14). 
+          <hi rendition="#i">Такова типичная картина восстановления органов сов. </hi>
+          <hi rendition="#i">в</hi>
+          <hi rendition="#i">ласти в осв</hi>
+          <hi rendition="#i">обожденных</hi>
+          <hi rendition="#i"> районах</hi>
+          .
+        </p>
+        <hi rendition="#i">Такова типичная картина восстановления органов сов. </hi>
+        <hi rendition="#i">в</hi>
+        <hi rendition="#i">ласти в осв</hi>
+        <hi rendition="#i">обожденных</hi>
+        <hi rendition="#i"> районах</hi>
+        .
+        <p>
+          IV. 
+          <hi rendition="#s">Весенний сев 1942 г. был</hi>
+           
+          <hi rendition="#i">О</hi>
+          дним из важнейших этапов восстановления освобожденных районов 
+          <hi rendition="#i">области – был весенний сев 1942 г.</hi>
+        </p>
+        <hi rendition="#s">Весенний сев 1942 г. был</hi>
+         
+        <hi rendition="#i">О</hi>
+        дним из важнейших этапов восстановления освобожденных районов 
+        <hi rendition="#i">области – был весенний сев 1942 г.</hi>
+        <p>Не было машин, тягла, семян. Измученные люди жили в землянках, иногда за десятки километров от родного колхоза, в соседних селах.</p>
+        <p>Но было ясно, что от того, насколько успешно будет проведен сев и затем уборка урожая, зависит, насколько быстро восстановится прежняя счастливая колхозная жизнь, какая была до немецкой оккупации.</p>
+        <p>Колхозники горели нетерпеливым желанием скорее загладить, искоренить тяжелые следы, варварски нанесенные немецкими мерзавцами цветущему колхозному </p>
+      </div>
+    </body>
+  </text>
+</TEI>

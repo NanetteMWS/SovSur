@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000827">
+      <titleStmt>
+        <title>Стенограмма беседы с Флорисой Галецкой, ее воспоминания и переписка</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 79-107 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, memoir, letter">
+        <pb cert="high" n="Л.91" xml:space="default"/>
+        <p> работает педагогом. Подпольной организацией (ЦКБ), а также городскими и лагерными комитетами проводилась большая агитация и борьба против изменников своей родины и против власовской армии. За каждое воззвание нужно было ожидать смерти, если бы был пойман немцами, то т. Шевченко в каждом письме предупреждал на осторожность.</p>
+        <p>Подпольных организаций на территории Германии была целая сеть, а центральный комитет борьбы был только один, которым руководил и давал свои указания т. Шевченко Николай Николаевич (Железнов).</p>
+        <p>Адреса всех членов ЦКБ и участников, записанные в книге «Не покоренные в борьбе».</p>
+        <p>Советские граждане, бывшие в рабстве в Германии, писали стихи, рассказы, сборники о своей жизни и хранили эти записки в черновиках, закапывали в землю и другими путями. Один из таких сборников был проработан т. Шевченком еще до освобождения и передан Шидловской Зине (адрес ее знает Зотова Мария из г. Новозыбкова).</p>
+        <p>Другой сборник был переписан из черновиков после освобождения в фильтровочном лагере г. Болькенхайн (Польша) тов. Марков, Симонов Ф.И., Селиванов Ф.И. и ответственным одним редактором т. Шевченком Н.Н. Помогали составлению этого сборника: Галецкая, Зотова, Валяева, Лопата Иван, Шевченко И.П., художник. Книга назв. «От смерти к жизни» и II часть «Станы рабов в фашистской Германии».</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

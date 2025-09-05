@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.12 оборот" xml:space="default"/>
+        <p> какую-либо брюкву или капусту, грамм по 200 хлеба, после чего мы снова брались за работу. С родителями мы виделись только вечером. На работе нами управляли все: и сама хозяйка, и немки, и дети, и дед старый, и гоняли нас, как гончих собак, с одной работы на другую. Мы не понимали немецкого языка, что усложняло нашу жизнь и работу. Часто мы делали совсем не то, что нужно было делать, тогда нас ругали и в знак наказания заставляли еще больше, позорнее работать. </p>
+        <p>Вечером, после работы, мы собирались в своей коморке, жаловались друг дружке на свою жизнь, сидели, вспоминали жизнь прошедшую, свою Родину, всех своих родных и знакомых, вспоминали нашу квартиру, мебель в ней, сравнивали ее с той ничтожной, маленькой, темной и грязной, в которой мы жили. Вспоминали, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

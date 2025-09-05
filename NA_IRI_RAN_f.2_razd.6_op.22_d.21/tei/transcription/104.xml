@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.53" xml:space="default"/>
+        <p> Мария Зотова – член комитета, одна из активнейших участниц во всей проводимой работе, которая вела широкую антифашистскую, антивласовскую пропаганду внутри лагеря. Мария была заинтересована своей работой. Она прочитывала письма, листовки, обращения, которые мы получали, в лагере девушкам, проводила беседы, гордо держала себя перед врагом. Не один раз ее называли немцы «большевичкой», ненавидели ее за это, заставляли больную выходить на работу, но она решила до последних сил, до последнего издоха вести борьбу с ненавистным врагом. Я очень понимала Марию, и мы шли с ней по одному пути, к одному стремились мы, мы боролись за освобождение нашего народа, мы хотели видеть наш народ свободным, независимым. Мы часто бывали с ней вместе, беседовали о прошлых счастливых студенческих днях, о тех радостных и светлых, о таком бесправной нечеловеческой </p>
+      </div>
+    </body>
+  </text>
+</TEI>

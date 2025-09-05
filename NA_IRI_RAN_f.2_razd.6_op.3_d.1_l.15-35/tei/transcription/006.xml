@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000418">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лисиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 15-35.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.20" xml:space="default"/>
+        <p> расстановка силы, проверка документов, давать распоряжение отрядам, куда надо выходить. Политических прав не давалось ни тем, ни другим. Староста давал им распоряжения, и они обязаны были их выполнять.</p>
+        <p>Как проводили работу. Председатели колхозов на собрании сказали, что народ на молотьбу можно организовать, а сплошь и рядом не организовали. </p>
+        <p>Как проводили молотьбу. Молотьбу старались организовать в тот момент, когда немецких солдат нет, и делили хлеб между собой, а засыпки не производили. Немец не брал зерна из колхозов, не было такого приказа, ему достаточно было элеватора, а как только немцы приходят, то мужчины убегают, а женщины тоже бросают работу, уходят за мужчинами. </p>
+        <p>Такая же картина была с русской полицией. Скажет староста отвести – отведут, а других мер придумать не могли. Может быть, были случаи, но я не слыхал.</p>
+        <p>
+          Как брали скот. В первую очередь, взялись при приходе за гусей. Это первая их забава: гуси, мед, пчелы. Мне пришлось идти по селу Уткино нашего Плавского района, и я напал на гестаповцев. Куда деваться? Уходить опасно, прямо на них иду. Если вы напротив идете: «Пан, – скажет, – гут, гут». Если на фронт: «Рус бомбы бросает». Если вы 
+          <hi rendition="#s">дальше</hi>
+           
+          <hi rendition="#i">от немца</hi>
+           пойдете 
+          <hi rendition="#i">в сторону</hi>
+          , получите в спину. 
+          <hi rendition="#s">Если своротишь, а немцы идут по дороге,</hi>
+          <hi rendition="#s"> то тоже рискуешь быть подстреле</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">ным. Если идешь напрямую, то про</hi>
+          <hi rendition="#s">ходишь мимо.</hi>
+           Прошел 
+          <hi rendition="#i">мимо</hi>
+           5
+          <hi rendition="#i">-ти</hi>
+           человек гестаповцев 
+          <hi rendition="#s">проехали</hi>
+          . Вдруг 
+          <hi rendition="#s">сразу по мне один</hi>
+           
+          <hi rendition="#i">слышу выстрел</hi>
+          . Оказалось, не по мне, а по гусям. 
+          <hi rendition="#s">Вижу</hi>
+          <hi rendition="#s">,–</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">валяются гуси. Чисто одетые гестаповцы</hi>
+           
+          <hi rendition="#i">Гестаповцы</hi>
+           подстелили гусей 12 штук, подняли и пошли. Гусями не только гестаповцы занимались, но и их проходящая армия. Когда доб
+          <hi rendition="#s">ивали</hi>
+          <hi rendition="#i">рали</hi>
+           гусей, 
+        </p>
+        <hi rendition="#s">дальше</hi>
+         
+        <hi rendition="#i">от немца</hi>
+         пойдете 
+        <hi rendition="#i">в сторону</hi>
+        , получите в спину. 
+        <hi rendition="#s">Если своротишь, а немцы идут по дороге,</hi>
+        <hi rendition="#s"> то тоже рискуешь быть подстреле</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">ным. Если идешь напрямую, то про</hi>
+        <hi rendition="#s">ходишь мимо.</hi>
+         Прошел 
+        <hi rendition="#i">мимо</hi>
+         5
+        <hi rendition="#i">-ти</hi>
+         человек гестаповцев 
+        <hi rendition="#s">проехали</hi>
+        . Вдруг 
+        <hi rendition="#s">сразу по мне один</hi>
+         
+        <hi rendition="#i">слышу выстрел</hi>
+        . Оказалось, не по мне, а по гусям. 
+        <hi rendition="#s">Вижу</hi>
+        <hi rendition="#s">,–</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">валяются гуси. Чисто одетые гестаповцы</hi>
+         
+        <hi rendition="#i">Гестаповцы</hi>
+         подстелили гусей 12 штук, подняли и пошли. Гусями не только гестаповцы занимались, но и их проходящая армия. Когда доб
+        <hi rendition="#s">ивали</hi>
+        <hi rendition="#i">рали</hi>
+         гусей, 
+      </div>
+    </body>
+  </text>
+</TEI>

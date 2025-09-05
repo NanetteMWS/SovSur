@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.119" xml:space="default"/>
+        <p> Додатки до щоденника гром. села Мельники Чигиринського району Мироненка Арсенія Івановича.</p>
+        <p>До початку війни Мироненко Арсеній Іванович був охоронником врожаю в урочищі Баскакове села Мельники (з 1-го травня 1941 року до 22 червня цього ж року працював тут).</p>
+        <p>Неділя. 22 червня базар в Медведівці. Я з базару пішов на свій участок в урочище. Прийшовши до табору Яловників (молодняка) мені сповістили колгоспники, що почалася війна. Германія напала на Радянську Україну і бомбила Київ і Житомир. На другий день була оголошена мобілізація по Чигиринському району. Цілими колонами мобілізовані відправляються до села Матвіївки. Через деякий час мені сповістив голова колгоспу про призначення мене завідувачем овцеферми (150 штук овець було в колгоспі). Звичайно, краще мені було бути охоронником, але треба було йти на цю роботу, бо вона значно відповідальніша і нікому було її виконувати. Почувається, що війна ставить нові вимоги, наближується фронт.</p>
+        <p>З початку липня в колгоспі було зібрано збори парторгом Плаченко і Красотою. Було зачитано промову товариша Сталіна від 3 липня, а вечером вже було скликано всіх завідувачів ферм і актив колгоспу. Тут була поставлена доповідь про дальніші завдання в зв’язку з війною і конкретно про евакуацію худоби на Лівобережну Україну. За моєю пропозицією було виділено одного відповідального по евакуації худоби Холода Бориса Маркіяновича.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

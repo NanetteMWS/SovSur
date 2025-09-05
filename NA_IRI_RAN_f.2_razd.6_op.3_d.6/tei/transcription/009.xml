@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> Бобылевой Марии.</p>
+        <p>14-го декабря.</p>
+        <p>
+          Товарищи бо
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+          цы, над нами издевались немцы, они сымали с людей валенки и шубы, они брали кур, коров, уничтожали людей, они издевались над молодыми девушками и над жен
+          <hi rendition="#s">ч</hi>
+          <hi rendition="#i">щ</hi>
+          инами, и над маленькими детишками. 
+          <hi rendition="#i">О</hi>
+          ни людей бросали в огонь, уничтожали, кололи штыками. Они брали свиней
+          <hi rendition="#i">,</hi>
+           а у кого нету, искали штыками. Товарищи бо
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+          цы
+          <hi rendition="#i">,</hi>
+           вы нас сп
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          сли от смерти
+          <hi rendition="#i">. </hi>
+          <hi rendition="#i">У</hi>
+           нас немцы пожгли много домов. Товарищи бо
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+          цы, 
+          <hi rendition="#i">о</hi>
+          ни з
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">а</hi>
+          гоняют люде
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+           в сарай и жг
+          <hi rendition="#s">уть</hi>
+          <hi rendition="#i">ли</hi>
+          . Товарищи бо
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+          цы, 
+        </p>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+        цы, над нами издевались немцы, они сымали с людей валенки и шубы, они брали кур, коров, уничтожали людей, они издевались над молодыми девушками и над жен
+        <hi rendition="#s">ч</hi>
+        <hi rendition="#i">щ</hi>
+        инами, и над маленькими детишками. 
+        <hi rendition="#i">О</hi>
+        ни людей бросали в огонь, уничтожали, кололи штыками. Они брали свиней
+        <hi rendition="#i">,</hi>
+         а у кого нету, искали штыками. Товарищи бо
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+        цы
+        <hi rendition="#i">,</hi>
+         вы нас сп
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        сли от смерти
+        <hi rendition="#i">. </hi>
+        <hi rendition="#i">У</hi>
+         нас немцы пожгли много домов. Товарищи бо
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+        цы, 
+        <hi rendition="#i">о</hi>
+        ни з
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">а</hi>
+        гоняют люде
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+         в сарай и жг
+        <hi rendition="#s">уть</hi>
+        <hi rendition="#i">ли</hi>
+        . Товарищи бо
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+        цы, 
+      </div>
+    </body>
+  </text>
+</TEI>

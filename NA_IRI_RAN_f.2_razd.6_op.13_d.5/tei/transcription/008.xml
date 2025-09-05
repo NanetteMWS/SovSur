@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000214">
+      <titleStmt>
+        <title>Стенограмма беседы с Елизаветой Пахомовой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 13. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.8" xml:space="default"/>
+        <p> были улицы Карла Либкнехта, Карла Маркса и Розы Люксембург. Я должна была следить, какие изменения произошли в учреждениях немцев в этом районе, что делается в лазарете, в ремонтной мастерской, на складах. На моей ответственности лежало доставлять в лес газеты «Голос Крыма» и татарскую газету. В лес, помимо газет, посылали книги, немецкую литературу. К празднику 8-го марта мы послали в лес женщинам много подарков: вышитое красное знамя, мыло, платки, украли на молочном заводе несколько килограмм сливочного масла. Март 1944 г. был тяжелым месяцем для работников крымского подполья. Провал одной группы шел за другим провалом. Настроение было тревожное. Арестовали железнодорожную группу, арестовали Досычева Толю, Скрипниченко. Относительно поведения Скрипниченко у нас тяжелые подозрения, что она предательница, провокатор. Вела себя она странно, подозрительно, у нее много было денег, словом, доказательств прямых нет, но мы считаем, что она была провокатором, хотя немцы ее тоже расстреляли.</p>
+        <p>Повторяю, провал шел за провалом, надо было идти в лес. Мы просили Мусю Волошину также уйти в лес, но она не хотела оставлять работу, боялась, что без нее скорее погибнут.</p>
+        <p>«Это не выход из положения», – отвечала она на предложение уйти в лес.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

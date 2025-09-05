@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000827">
+      <titleStmt>
+        <title>Стенограмма беседы с Флорисой Галецкой, ее воспоминания и переписка</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 79-107 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, memoir, letter">
+        <pb cert="high" n="Л.82" xml:space="default"/>
+        <p> Автобиография</p>
+        <p/>
+        <p>Голецкая Флориса Йосифовна родилась в 1921 году в гор. Горьком (б. Нижний Новгород) в семье служащих.</p>
+        <p>Отец работал в морфлоте на торговом судне, мать воспитывала детей. В 1926 г. отец по случаю аварии погиб, а я, мать, три сестры и брат с матерью были посланы в г. Москву на жительство. Мать в г. Москве работала при институте иностранных языков.</p>
+        <p>В 1928 г. мать умерла, а нас отправили в Ленинградский детский дом на воспитание, и позже меня и старшую сестру Людмилу послали с Ленинградского детдома в г. Марьина Горка, Минской области (БССР).</p>
+        <p>В г. Марьина Горка я воспитывалась до 1937 г. Окончила фельдшерскую школу в городе Могилеве (БССР). В 1939 г. работала санитарным инспектором при Наркомздраве в Минске. В начале войны 1941 г. училась в Мединституте в г. Минске, попала под оккупацию немцев 7-го июля 1941 г. 95 за гор. Минском.</p>
+        <p>Была возвращена в г. Минск в лагерь военнопленных – откуда я бежала. 15 августа я встретила свою сестру Людмилу Жук – она была в партизанском отряде в Минской области. По ее приглашению я поступила разведчицей в этот же партизанский отряд.</p>
+        <p>В ноябре м-це сестра была повешена немцами на улице Минска.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

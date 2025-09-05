@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.37" xml:space="default"/>
+        <p> Рассказ научной сотрудницы Московского областного музея, археолога Кузнецовой Елизаветы Васильевны (ныне зав. библиотекой в селе Нахабино Истринского района Московской области).</p>
+        <p>Не считая одной бомбы, упавшей близ Корсаковского моста, до 18.XI 1941 г. Истра жила относительно спокойно. 18 ноября в 7 час. утра впервые немцы бомбили город. Из очень большого количества бомб разорвалось только четыре, разрушившие 7-8 домов. С 22 ноября город систематически подвергался минометным обстрелам. 25 ноября по городу пошли слухи, что деревня Бужарово (в 8 км от Истры) взята немцами.</p>
+        <p>В час дня я зашла в горсовет узнать, каково положение города. Я не могла выехать из города в этот день из-за разных дел. В горсовете подтвердили взятие Бужарова и сказали, что население может поступать, как хочет, но что лучше уйти, так как город объявлен на осадном положении. </p>
+        <p>Вернувшись в Музей, стала собираться. Ко мне пришли научный сотрудник Музея биолог Равина и ее мать. Вместе задумали мы испечь лепешек на день и на дорогу. В три часа дня начался воздушный бой, а затем начался минометный обстрел. Канонада все усиливалась, и наконец снаряды и мины стали рваться на территории монастыря. Разрывы настолько участились, что невозможно было не только перейти из дома в бомбоубежище в подвал под Музеем, но опасно стало сидеть за столом. Пришлось прервать завтрак, заложить окна матрацем и мебелью, а самим </p>
+      </div>
+    </body>
+  </text>
+</TEI>

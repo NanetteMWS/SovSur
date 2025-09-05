@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000279">
+      <titleStmt>
+        <title>Воспоминания Октябрины Гудимовы</title>
+        <author>
+          <persName>Октябрина Павловна Гудимова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 65.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p> молодых девушек. Я была спрятана в углу под мешками идущих людей, но солдат всех расталкивал и нашел меня. Лицо его переказилось зверской улыбкой и возгласом радости. Я сделала вид, что не слышу и не вижу. Они постояли еще в комнате и ушли, наступая на сидящих на полу людей.</p>
+        <p>По уходе этих варваров всем стало понятно, что жертвой этой ночи буду я и еще одна женщина, которую наметил себе унтер. Я мазала лицо и одежду еще больше. Я не знала, что мне делать, но я твердо решила, что с этой комнатушки живой я ночью не выйду. Я перешла во второй угол, где сидели преимущественно старики и дети, и улеглась вдоль стены; на меня положили мешки, детей, и старухи сели на мои ноги. </p>
+        <p>Когда совсем стемнело, в комнату вошли хищные коршуны и с помощью спичек стали искать свои жертвы. Унтер очень </p>
+      </div>
+    </body>
+  </text>
+</TEI>

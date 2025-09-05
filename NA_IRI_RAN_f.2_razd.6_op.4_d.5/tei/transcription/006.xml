@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000186">
+      <titleStmt>
+        <title>Стенограмма бесед с сотрудниками музея-усадьбы Ясная Поляна</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 4. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">Щеголева Мария Ивановна. </hi>
+          <hi rendition="#s">Несколько кур спаслись от немцев. Они </hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">спуга</hi>
+          <hi rendition="#s">нно </hi>
+          <hi rendition="#s">забились куда-</hi>
+          <hi rendition="#s">то</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> и когда все стихло, они неизвестно </hi>
+          <hi rendition="#s">отку</hi>
+          <hi rendition="#s">да</hi>
+          <hi rendition="#s"> вдруг</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">появились. Мы </hi>
+          <hi rendition="#s">немедленно спр</hi>
+          <hi rendition="#s">ятали их на чердаке и держали их вплоть до ухода немцев</hi>
+          .
+        </p>
+        <hi rendition="#s">Щеголева Мария Ивановна. </hi>
+        <hi rendition="#s">Несколько кур спаслись от немцев. Они </hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">спуга</hi>
+        <hi rendition="#s">нно </hi>
+        <hi rendition="#s">забились куда-</hi>
+        <hi rendition="#s">то</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> и когда все стихло, они неизвестно </hi>
+        <hi rendition="#s">отку</hi>
+        <hi rendition="#s">да</hi>
+        <hi rendition="#s"> вдруг</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">появились. Мы </hi>
+        <hi rendition="#s">немедленно спр</hi>
+        <hi rendition="#s">ятали их на чердаке и держали их вплоть до ухода немцев</hi>
+        .
+        <p>
+          <hi rendition="#s">Кандаурова А.И.</hi>
+           К нам в квартиру притащили одиннадцать зарезанных кур и 
+          <hi rendition="#s">сказали</hi>
+           жестами предложили нам начать их щипать. Я сказала, что не понимаю. Тогда один из немцев взял меня за голову и с такой силой пригнул меня к мешку с курами, что я сразу поняла, что мне нужно делать. Пришлось щипать кур. 
+          <hi rendition="#i">К</hi>
+          ак же не щипать, если они чуть мне голову не оторвали.
+        </p>
+        <hi rendition="#s">Кандаурова А.И.</hi>
+         К нам в квартиру притащили одиннадцать зарезанных кур и 
+        <hi rendition="#s">сказали</hi>
+         жестами предложили нам начать их щипать. Я сказала, что не понимаю. Тогда один из немцев взял меня за голову и с такой силой пригнул меня к мешку с курами, что я сразу поняла, что мне нужно делать. Пришлось щипать кур. 
+        <hi rendition="#i">К</hi>
+        ак же не щипать, если они чуть мне голову не оторвали.
+        <p>
+          Когда шла эта охота за курами, то на деревне уже гонялись за коровами. Поймают корову, берут ее в кольцо, на рога набрасывают веревку, другой за
+          <hi rendition="#s">ворачивают</hi>
+          <hi rendition="#i">кручивают</hi>
+           хвост и гонят. Можно было наблюдать такие картины, как на выручку корове бегут колхозники. 
+          <hi rendition="#i">Н</hi>
+          емцы тащат корову на усадьбу, бабы отбивают ее, неистово кричат при этом. Был даже такой случай, когда бабам удалось отбить у немцев корову и не дать им увести ее. Коров немцы тащили прямо к госпиталю, здесь же распластывали 
+          <hi rendition="#s">ее</hi>
+           
+          <hi rendition="#i">их</hi>
+           и туши подвешивали. Все это повторялось почти ежедневно. 
+          <hi rendition="#s">Из музейных коров нам удалось сохранить только одну.</hi>
+        </p>
+        <hi rendition="#s">ворачивают</hi>
+        <hi rendition="#i">кручивают</hi>
+         хвост и гонят. Можно было наблюдать такие картины, как на выручку корове бегут колхозники. 
+        <hi rendition="#i">Н</hi>
+        емцы тащат корову на усадьбу, бабы отбивают ее, неистово кричат при этом. Был даже такой случай, когда бабам удалось отбить у немцев корову и не дать им увести ее. Коров немцы тащили прямо к госпиталю, здесь же распластывали 
+        <hi rendition="#s">ее</hi>
+         
+        <hi rendition="#i">их</hi>
+         и туши подвешивали. Все это повторялось почти ежедневно. 
+        <hi rendition="#s">Из музейных коров нам удалось сохранить только одну.</hi>
+        <p/>
+        <p>Щеголев С.И. 31 октября. Требуют открыть литературный музей, очистить его от мебели для устройства там госпиталя. Мебель и экспозиции сваливаются в кучи в полном беспорядке. Только что кончили эту работу, как новое требование – освободить комнаты бытового музея и комнаты, которые заняты вещами. Опять мебель и вещи в еще большем беспорядке сдвигается в другую комнату. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

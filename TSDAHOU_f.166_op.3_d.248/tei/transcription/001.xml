@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Председателю правительственной комиссии по расследованию злодеяний немецких оккупантов.</p>
+        <p/>
+        <p>На фоне величайших и разнообразнейших злодеяний, совершенных немецкими оккупантами, разрушение Лавры является сравнительно небольшим, но все же очень характерным событием.</p>
+        <p>Когда во время налета англо-американской авиации на Кельн был поврежден Кельнский собор, фашисты подняли неистовый вой о варварстве союзников, не щадящих памятников мировой культуры.</p>
+        <p>Мы не будем говорить, какой памятник наиболее ценен – Кельнский собор или Киево-Печерская Лавра, во всяком случае для украинца и русского Лавра является и древнейшим, и величайшим памятником нашей культурной истории. Если же принять во внимание условия, в которых происходило это разрушение, то они будут новым, тяжелым и позорным обвинением немецких оккупантов. Каковы же были условия разрушения Лавры?</p>
+        <p>Фронт от Киева удалился, не было ни артиллерийского обстрела, ни воздушной бомбардировки, военная обстановка совершенно не требовала уничтожения Успенского Собора и других строений Лавры. Таким образом, условия, в которых разрушалась Лавра, были почти что совершенно мирными и кроме Успенского Собора, погибшего от взрыва, вся остальная Лавра была разрушена кирками, топорами, пилами…</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

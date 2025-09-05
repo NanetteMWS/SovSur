@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.23 оборот" xml:space="default"/>
+        <p> грубый общий разговор – кто мог донести в полицию? Многие прекрасно знали, чья это работа. Я сказал: «Ребята, посмотрите внимательно – виновник сидит между нами. От стыда он прячет свои глаза в миску, в брюкву. Он сейчас краснеет». Все обратили внимание на Мороза – действительно он был совсем красный, опустив глаза в миску меж брюкву. Через некоторое время он говорил Иванову: «Ты на меня не обижайся – это сделал не я». При освобождении он вынужден был сбежать.</p>
+        <p>С течением времени коллектив лагеря становился все дружнее и дружнее. Члены организации (особенно Кузмин П.) смело проводили свою агитационную работу: читали листовки, проводили беседы. Предатели прекратили свою работу, а Виговский (бывший предатель), побывав в штрафном лагере, повернулся в противоположную сторону: начал проводить антифашистскую работу.</p>
+        <p>Однажды в лагерь приехал власовский агитатор. Его обсмеяли, засыпав репликами </p>
+      </div>
+    </body>
+  </text>
+</TEI>

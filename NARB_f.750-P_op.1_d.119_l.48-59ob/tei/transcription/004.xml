@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00001003">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Тимчуком</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 119. Л. 48-59 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.49 оборот" xml:space="default"/>
+        <p> время нужно было, и она была важнее, чем убить, скажем, двух немцев.</p>
+        <p>Наладили хорошо подпольную организацию. Выпустили мы за август-декабрь 8 листовок тиражом около 25 тыс. Был Зайцев, Оломянюк В.С., славные ребята. Оломянюк студентом КИЖа был, достаточно грамотный. Мы организовали себе радио, слушали и важнейшие политические события, печатали и распространяли среди народа через свою же комсомольскую молодежь, через лиц, которым мы доверяли, как, например, члена партии Калиновского, который сейчас работает в Минском райисполкоме.</p>
+        <p>Все у нас были по имени: Маруся такая-то. У нас было несколько квартир, где встречались, и мы выдавали листовки, как будто полученные из-за линии фронта, потому что в это время выдавать себя, что печатается в Минске, это грозило провалом. Поэтому листовки выпускались от имени политуправления Красной армии.</p>
+        <p>В декабре у нас в городе работало около полсотни человек, которые через свою систему пропускали эти листовки. Была одна Маруся, был Володя. Выйдет с нею, под ручку взялись, пройдут с одного конца до другого и за это время сотни три-четыре листовок разбросают. В темных местах на столбы приклеивали, на базаре расклеивали.</p>
+        <p>К нам приезжали из Белостока знакомые и показывали под секретом:</p>
+        <p>– Смотри, какие листовки бросают наши самолеты.</p>
+        <p>Я прочитал:</p>
+        <p>– Хорошо. Где же вы достали их?</p>
+        <p>В этих листовках писались сводки Совинформбюро, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

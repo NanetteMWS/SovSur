@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.11 оборот" xml:space="default"/>
+        <p>
+           сказали, что здесь живет коммунист Комолов. Тогда мой папа сказал: кто я есть, у меня есть документ. Он показал переводчику документ. Он сказал: собирайся, пойдем с нами. Папа пошел раздемис. Они подвели к 2 этажному дому. Трое немцев зашли в дом, а один остался с ним, а потом они вышли, и переводчик сказал: ну, коммунист, поедем. Они повели его на огород и сказал
+          <hi rendition="#s">и</hi>
+           переводчик: ну, становись к стенке. Папа встал 
+          <hi rendition="#s">к стал</hi>
+           к стенке, они ему сказали: коммунисту первая пуля, и застрелили моего папу. Так 
+          <hi rendition="#s">пог</hi>
+           погиб мой папа.
+        </p>
+        <hi rendition="#s">и</hi>
+         переводчик: ну, становись к стенке. Папа встал 
+        <hi rendition="#s">к стал</hi>
+         к стенке, они ему сказали: коммунисту первая пуля, и застрелили моего папу. Так 
+        <hi rendition="#s">пог</hi>
+         погиб мой папа.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

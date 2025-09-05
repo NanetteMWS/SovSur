@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000695">
+      <titleStmt>
+        <title>Стенограмма беседы с Николаем Дубининым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 40.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p>
+           Жить им разрешали на вольной квартире в городе и ходить пешком 5 км на место службы в сопровождении 
+          <hi rendition="#i">вооруженных</hi>
+           немцев. В тех письмах, которые они писали даже через полгода, говорилось: «Вероятно, скоро мы увидим тот город, в котором живем». Очевидно, им обещали предоставить возможность походить по городу. О материальных условиях были целые вопли. Они жаловались, что приехали в то время, когда уже прошла огородная кампания, и им грозит ужасная зима. Это говорило о том, что питание было совершенно недостаточно. В частности, семья Шкуренко спасалась только тем, что жена и дочь поступили в столовую 
+          <hi rendition="#s">там</hi>
+          .
+        </p>
+        <hi rendition="#i">вооруженных</hi>
+         немцев. В тех письмах, которые они писали даже через полгода, говорилось: «Вероятно, скоро мы увидим тот город, в котором живем». Очевидно, им обещали предоставить возможность походить по городу. О материальных условиях были целые вопли. Они жаловались, что приехали в то время, когда уже прошла огородная кампания, и им грозит ужасная зима. Это говорило о том, что питание было совершенно недостаточно. В частности, семья Шкуренко спасалась только тем, что жена и дочь поступили в столовую 
+        <hi rendition="#s">там</hi>
+        .
+        <p>
+          Оборудование института в основном сохранялось в течение нескольких месяцев, пока о нем не узнал заместитель бургомистра, бывший профессор нашего института Казакевич, химик. Года за три до войны он перешел в другой институт. Благодаря ему часть лабораторий была изъята и передана в другие институты. Следы этого оборудования мы сейчас нашли. Сам он уехал с немцами. Библиотека, к сожалению, была вывезена в Институт прикладной химии, здание которого было разрушено при бомбежке 9 марта 1942 г., и библиотека 
+          <hi rendition="#s">пропала</hi>
+           
+          <hi rendition="#i">сгорела</hi>
+          .
+        </p>
+        <hi rendition="#s">пропала</hi>
+         
+        <hi rendition="#i">сгорела</hi>
+        .
+        <p/>
+        <p>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i">]</hi>
+        </p>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i">]</hi>
+        <p>
+          <hi rendition="#i">18-</hi>
+          <hi rendition="#i">III</hi>
+          <hi rendition="#i">-44 г.</hi>
+        </p>
+        <hi rendition="#i">18-</hi>
+        <hi rendition="#i">III</hi>
+        <hi rendition="#i">-44 г.</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

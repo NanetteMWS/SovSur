@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> искусствовед, был заместителем директора антирелигиозного музея и у него хранились ключи от всех отделов музея. Но эти ключи у него были отобраны в самые первые дни, утром по его заявлению для работы ему выдавались некоторые ключи, а вечером он их сдавал. Этим обстоятельством легко объяснить ночную пропажу экспонатов из музеев, о чем упоминалось выше… Желая сохранить наиболее ценные экспонаты, Н.Н. Черногубов передает из Лавры в музей русского или может быть западноевропейского искусства главнейшую святыню Лавры – чудотворную икону Успения Божьей Матери и Игоревскую икону Божьей матери (этими музеями заведовал профессор Гиляров). Сделать большего Черногубов не успел.</p>
+        <p>В начале октября 1941 года Н.Н. Черногубов исчезает. Рано утром к нему являются вооруженные немцы, заявляют, что его вызывает доктор Кох для поездки с ним по Украине и уводят с собою. С тех пор его никто уже не видел, и только в июле 1943 года случайно нашли его труп в одном из рвов на откосах Днепра за экономическими воротами Лавры. Он был убит выстрелом в затылок и тут же закопан. Очевидно, немцы не хотели иметь свидетеля своего грабежа музея и избавились от него.</p>
+        <p>ІІ. Первый период немецкой оккупации «охрана» Лавры немецкой полицией.</p>
+        <p>(середина октября 1941 г. до июля 1942 г.)</p>
+        <p>В середине октября 1941 года на воротах верхней Лавры </p>
+      </div>
+    </body>
+  </text>
+</TEI>

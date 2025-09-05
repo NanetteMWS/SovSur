@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.44 оборот" xml:space="default"/>
+        <p> провев свою подругу Раю, возвращалась обратно. </p>
+        <p>
+          В разговоре выяснилось, кто эти ребята, и Анна быстро поняла, в чем они нужда
+          <hi rendition="#s">е</hi>
+          ются. Она привела тихонько в свою маленькую комнатку, а сама побежала, чтобы приготовить чего-нибудь покушать ребятам. Спустя несколько минут она возвратилась с продуктом, накормила их, дала с собой и провожала их с комнаты. С тех пор они начали приходить к ней почти ежедневно, и она всегда помогала им во всем, выходила ночью, указывала дорогу. Вскоре было сброшено оружие – винтовки, наганы, патроны, автоматы. Ребята в присутствии Анны зарыли это все в землю, сделали пометку, указали Анне, сколько чего зарыто здесь. 
+        </p>
+        <hi rendition="#s">е</hi>
+        ются. Она привела тихонько в свою маленькую комнатку, а сама побежала, чтобы приготовить чего-нибудь покушать ребятам. Спустя несколько минут она возвратилась с продуктом, накормила их, дала с собой и провожала их с комнаты. С тех пор они начали приходить к ней почти ежедневно, и она всегда помогала им во всем, выходила ночью, указывала дорогу. Вскоре было сброшено оружие – винтовки, наганы, патроны, автоматы. Ребята в присутствии Анны зарыли это все в землю, сделали пометку, указали Анне, сколько чего зарыто здесь. 
+        <p>Но связь Анны с десантом не осталось тайной и для других. Об этом узнали люди не те, которые должны были знать, и это пошло дальше и дошло вплоть до полиции. Анну вызывали на допрос, но она ни в чем не созналась т.к. точных показаний на нее не было. Ее были </p>
+      </div>
+    </body>
+  </text>
+</TEI>

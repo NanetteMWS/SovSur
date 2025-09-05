@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000794">
+      <titleStmt>
+        <title>Стенограмма беседы с Михаилом Сахаровым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 3.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p>
+           если мы или большевики налетят на Харьков и начнут душить газами? Это положение первое. Теперь второе. Если мы будем уходить отсюда, то мы вас все равно заставим уйти, только уйдете с нами под конвоем, семья – в стороне пешим ходом, а дальше работа, на которую мы пошлем. 
+          <hi rendition="#s">Говорил в таком духе.</hi>
+           
+          <hi rendition="#i">Наконец, если вы застрянете здесь, а мы уйдем, то с </hi>
+          <hi rendition="#i">в</hi>
+          <hi rendition="#i">ами расправятся большевики</hi>
+          .
+        </p>
+        <hi rendition="#s">Говорил в таком духе.</hi>
+         
+        <hi rendition="#i">Наконец, если вы застрянете здесь, а мы уйдем, то с </hi>
+        <hi rendition="#i">в</hi>
+        <hi rendition="#i">ами расправятся большевики</hi>
+        .
+        <p>Три молодых человека поддались на эти угрозы и были согласны ехать, но, к их счастью, срок поездки не такой близкий был. Срок их отъезда намечался или в конце августа, или в первых числах сентября. Остальное все понятно. Они тогда чувствовали это как неизбежный рок, что это страшное несчастье, которое совершилось с ними, а теперь они чувствуют себя избавленными от этого величайшего несчастья, празднуют, ликуют и т.д. Правда, я бы на их месте в армию пошел.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">18 / </hi>
+          <hi rendition="#i">III</hi>
+          <hi rendition="#i"> 1944 г.</hi>
+        </p>
+        <hi rendition="#i">18 / </hi>
+        <hi rendition="#i">III</hi>
+        <hi rendition="#i"> 1944 г.</hi>
+        <p>Профессор М.И. Сахаров.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

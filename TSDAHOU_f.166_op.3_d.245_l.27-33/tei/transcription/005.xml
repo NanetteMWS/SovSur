@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.31" xml:space="default"/>
+        <p> полицейскими, и после комиссии сгоняли во двор, а оттуда в лагеря, огороженные проволокой. Были случаи, когда молодежь прыгала на ходу с машины, причем были вывихи и переломы ног. Такие же облавы устраивались по квартирам и предприятиям. Так, например, Галина Мовчан работала на консервном заводе. Однажды завод оцепили и начали вылавливать молодежь для угона в Германию, но Галине Мовчан удалось бежать домой.</p>
+        <p>Ночью к ней явилась полиция, но она другим ходом вышла и скрывалась у меня. Затем она выехала из Мелитополя и вернулась, когда он был освобожден Красной армией.</p>
+        <p>Всего было угнано на каторгу в фашистскую Германию не менее 20 тыс. человек.</p>
+        <p>Был вывешен приказ, что за одного убитого немецкого солдата будет расстреляно 50 человек жителей. Был случай, когда нашли убитым одного немца. В эту же ночь из Мелитопольской тюрьмы к окопам вывели целую группу людей и расстреляли.</p>
+        <p>Затем начали преследовать детей смешанных браков. Не могу забыть картину, когда полицай нес ребенка, а за ним бежала мать и кричала не своим голосом. Это было днем совершенно открыто. Приходили и забирали детей на расстрел. Много матерей было расстреляно вместе с детьми. Так, например, Мотухина, Король с двумя детьми, Самодурова Женя с ребенком, Водопьянова, Мушацкая Зина с двумя детьми.</p>
+        <p>За укрытие евреев и коммунистов также грозил </p>
+      </div>
+    </body>
+  </text>
+</TEI>

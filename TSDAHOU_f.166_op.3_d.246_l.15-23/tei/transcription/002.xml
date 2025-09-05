@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000831">
+      <titleStmt>
+        <title>Стенограмма беседы с Татьяной Селинчук</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 15-23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> На пункте проходили врачебную комиссию. После осмотра врачами (русскими) нашли, что я вполне здорова и отвели в общую толпу.</p>
+        <p>На пункте пробыли 1,5 суток. Ночевали все вместе под открытым небом. Есть ничего не давали, кроме 200 грамм хлеба один раз. Передач никаких не принимали и провожать никого из родственников не допускали.</p>
+        <p>Настроение было тяжелое. Слышались крики, плач. Молодежь, не взирая на жестокую охрану, убегала. А когда ехали трамваем на вокзал бросались с трамвая.</p>
+        <p>16/VI-1942 г. нас вывезли из Киева.</p>
+        <p>В дороге были 8 суток. Ехали в грязных товарных теплушках с дверями, закрытыми на замок, по 45 человек в вагоне, под охраной с 2-х сторон.</p>
+        <p>На остановках выводили по несколько человек под охраной.</p>
+        <p>В дороге 4 суток совершенно ничего не давали есть, остальные дни давали по 300 грамм хлеба и на некоторых станциях один раз в сутки суп и больше ничего.</p>
+        <p>Настроение в дороге было ужасное. Люди знали, что едут на гибель – плакали, кричали.</p>
+        <p>На восьмые сутки нас выгрузили из вагонов в окрестностях Берлина, не доезжая 6 км, и под охраной немецких жандармов повели пешком на главный распределительный пункт.</p>
+        <p>Пункт представлял собой огромный двор, обнесенный колючей проволокой с проходящим в ней током. Во дворе построены бараки с комнатами, в которые сгонялись 150-200 человек.</p>
+        <p>Спали на 3-х этажных нарах, на которых была солома.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

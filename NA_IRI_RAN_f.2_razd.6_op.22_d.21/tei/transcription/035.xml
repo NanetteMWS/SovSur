@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.18 оборот" xml:space="default"/>
+        <p> и подробно ознакомиться с местом расположения лагеря. Имея в воскресенье четыре часа свободного времени, мы пошли в Лихтэнфельс, где располагался лагерь. Это 7 км от Штаффельштайна. Мы не сразу нашли этот лагерь, сначала нашли лагерь гражданских, где нам удалось точнее узнать о расположении лагеря военнопленных. Когда мы подошли к лагерю, ребята, сидевшие на крыше, на столбах, узнали нас и бросились было к воротам, но ворота были заперты, и мы в щелочку начали переговариваться. И не заметили мы, как сюда подошли два полицаи. Военнопленные отхлынули от забора, а я не успела оглянуться, как чья-то сильная рука схватила меня за плечо. Я оглянулась. Перед нами стояли два, все в крестах, полицаи. Он тряс меня за плечи, что-то кричал, но я ничего не понимала и, после долгой волокиты о нас, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

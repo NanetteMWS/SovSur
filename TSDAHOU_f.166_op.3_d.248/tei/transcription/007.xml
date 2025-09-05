@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.7" xml:space="default"/>
+        <p> были лаврская ризница, в нем был и знаменитый музей Харитоненко, коллекции которого оценивались чуть ли не в миллион рублей золотом. Но к моменту взрыва оставались ли эти ценности в Соборе или же уже были вывезены? Опять-таки, дать решительный ответ невозможно. Но одно несомненно, что с момента закрытия Лавры немецкой полицией и поздно вечером и рано утром из святых ворот Лавры выезжали большие крытые автомобили, груженные неизвестно чем. Только одно известно, что когда немецкая полиция перестала «охранять» Лавру, в Лавре не осталось ни одного музейного экспоната, ни одной библиотечкой книги – все было полностью разграблено, не осталось даже никакой мебели – ни шкафов, ни столов – ничего; все, что могло быть вывезено – было вывезено.</p>
+        <p>Что же находилось в Лавре к моменту ее занятия немецкой полицией?</p>
+        <p>В это время в Лавре находились музеи: антирелигиозный, который включал в себе все лаврские ценности и ее ризницу. Музей Киевской духовной академии, ризницы и ценности монастырей – Михайловского, Выдубецкого, Никольского и др.; музей харьковского сахарозаводчика Харитоненко; исторический музей; театральный музей; музей революции; музей Потоцкого; Всеукраинская историческая библиотека, библиотека Лавры; архивы, панорамы, например, знаменитая «Голгофа»; передвижная выставка скульпторов Украины и т.д.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

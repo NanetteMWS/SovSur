@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000630">
+      <titleStmt>
+        <title>Стенограмма беседы с Алексеем Максименко</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 116. Л.186-189.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.189" xml:space="default"/>
+        <p> Через наших незаметных людей мы выловили очень много шпионов, которые имели специальное задание проникать в партизанские отряды, агентов гестапо, которых разоблачали и отправляли куда следует. Наши незаметные люди очень помогали нам. С нами работали и некоторые бургомистры, и некоторые люди из полиции, и власовцы-народники, которые находились в немецких частях. Наши люди были и на складах с бензином, на складах с боеприпасами, на жел. дор. и шоссейном транспорте, буквально везде. Все, что можно было, мы использовали, и что можно проводить, проводили, где можно было тормозить, вредить врагу, тормозили, делали все, что являлось отрицательным в работе немцев и оккупационных немецких властей.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

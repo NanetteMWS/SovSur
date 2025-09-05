@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.21" xml:space="default"/>
+        <p> О боевом и диверсионном действии для ЦКБ в большинстве сообщалось. ЦКБ неоднократно отмечал в своих воззваниях и обращениях важнейшие подвиги и призывал на этих примерах остальных к подвигам и борьбе.</p>
+        <p>Антифашистская работа советских граждан на территории Германии достигла таких размеров, что Завкель сам создал приказ против ЦКБ и КБ, обещая за голову Железнова (то есть т. Шевченка) и Галецкой Ф. 5, а потом 10 тысяч марок.</p>
+        <p>Антисоветская, власовская газета «Труд» в начале марта 1945 г. писала о нашей организации приблизительно так: «… Много нам мешают те группы людей, что называют себя всевозможными руководителями, патриотами Родины и освободителями порабощенных…»</p>
+        <p>О боевых действиях советских граждан отметили в начале мая 1945 г. Люксембургская радиостанция «Голос объединенных наций». Здесь сообщалось, что небольшая вооруженная </p>
+      </div>
+    </body>
+  </text>
+</TEI>

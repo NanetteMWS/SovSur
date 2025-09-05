@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000059">
+      <titleStmt>
+        <title>Листовки времен нацистской оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 52.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official, propaganda_material">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Befehl</p>
+        <p>betr. Ablieferung von Milch, Rahm, Butter, Eier, Gemüse, Obst und Honig.</p>
+        <p>Auf Grund der Verordnung des Befehlshabers für das rückwärtige Heeresgebiet Mitte über das Verbot von Lohn und Preiserhöhungen vom 9. Juli 1941 wird mit sofortiger Wirkung folgendes festgesetzt:</p>
+        <p>I. Milch.</p>
+        <p>1. Ablieferungsbestimmungen.</p>
+        <p>Sämtliche anfallende Milch der Obschydwor und Semskydwor (Kolchose und Sowchose) ist bei der nächstgelegenen Sammelstelle-Bahmstation oder Molkerei abzuliefern.</p>
+        <p>Soweit Bauern des Obschydwor oder Arbeiter des Semskydwor keine eigene Kuh haben, deren Milch zur Deckund des Eigenbedarfes herangezogen werden kann, sind die Leiter der Betriebe berechtigt diesen pro arbeitende Person und Tag ¼ Liter Milch gegen Anrechnung zu liefern.</p>
+        <p>Die Benutzung eigener Rahmstationen ist nur ausnahmsweise mit Genehmigung des zuständigen Kreislandwirts zugelassen. Ein Antrag ist vom Leiter der Betriebe selbst zu stellen.</p>
+        <p>Magermilch kann von den Rahmstationen bezw. Molkereien zurückgeliefert werden, wenn diese Milch nicht für die Käseherstellung bezw. Ernährung der städt. Bevölkerung benötigt wird.</p>
+        <p>Ein freier Verkauf oder Tausch von Milch, Rahm oder Butter ist strengstens untersagt. Das Kolchosmitglied ist verpflichtet, die nicht für den eigenen Haushalt benötigte Milchmenge bei den Sammelstellen gegen Bezahlung abzuliefern.</p>
+        <p>2. Preisbestimmungen</p>
+        <p>Der Erzeuger erhält für die abgelieferte Milch frei Rahmstation oder Molkerei bezw. Sammelstelle einen Preis von 0,40 Rubel je Liter unter Zugrundelegung eines Fettgehaltes von 3,9%. Bei Anlieferung von Milch mit einem geringeren Fettgehalt wird ein entsprechender Abzug gemacht.</p>
+        <p>Für die evtl. zurückgelieferte Magermilch ist ein Preis von 0,10 Rubel je Liter zu zahlen.</p>
+        <p>Die Bezahlung von Milch erfolgt alle 10 Tage durch Abrechnung.</p>
+        <p>II. Eier.</p>
+        <p>1. Ablieferungsbestimmungen.</p>
+        <p>Sämtliche in den Obschydwor und Semskydwor anfallenden Eier sind nach Abzug des Eigenbedarfs bei nächstgelegenen Milchsammelstelle, Rahmstation oder Molkerei laufend abzuliefern.</p>
+        <p>Ein freier Verkauf oder Tausch von Eiern ist strengstens untersagt.</p>
+        <p>2. Preisbestimmungen.</p>
+        <p>Bei der Eierablieferung wird frei Sammelstelle pro Stück ein Preis von 0,20 Rubel bezahlt.</p>
+        <p>III. Gemüse und Obst.</p>
+        <p>1. Ablieferungsbestimmungen.</p>
+        <p>Das anfallende Gemüse und Obst ist laufend bei der dafür bestimmten Obst-und Gemüsesammelstelle abzuliefern.</p>
+        <p>2. Preisbestimmungen.</p>
+        <p>Es gelten folgende Preise:</p>
+        <p>Kohl … 30 Rubel je 100 kg</p>
+        <p>Gurken … 100</p>
+        <p>Tomaten … 100</p>
+        <p>Möhren … 18</p>
+        <p>Äpfel 1. Sorte … 42</p>
+        <p>2. … 30</p>
+        <p>3. … 18</p>
+        <p>IV. Honig.</p>
+        <p>1. Ablieferungsbestimmungen.</p>
+        <p>Die vorhandenen Honigbestände sind sofort bei der nächstgelegenen Molkerei oder Rahmstationen abzuliefern.</p>
+        <p>2. Preisbestimmungen.</p>
+        <p>Der Preis beträgt frei Molkerei oder Rahmstationen 13-16 Rubel je kg nach Qualität.</p>
+        <p>V. Allgemeine Bestimmungen.</p>
+        <p>Die Leiter der Obschydwor und Semskydwor sind für die Durchführung der obigen Anordnung vor allem auch für die restlose Erfüllung der Ablieferungspflicht verantwortlich.</p>
+        <p>Verstösse werden nach den Militärgesetzen bestraft.</p>
+        <p>Die Anordnung tritt mit sofortiger Wirkung in Kraft.</p>
+        <p>Alle entgegengesetzten Bestimmungen und Preise sind aufgehoben.</p>
+        <p>22. August 1941. Der Befehlshaber des Gebietes.</p>
+        <p>Друк. Гар. Упр. Зак. 237-30.000</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.43" xml:space="default"/>
+        <p>
+           IX. Осенью 1942 г. и особенно в 1943 г. развернулось строительство колхозных домов. Целые деревни, сожженные немцами, возрождались вновь. Многие из них возрождались с помощью шефов. Напр. деревня Рыжково Боровского района, в которой после поджога немцев чудом сохранилась только одна конюшня. 
+          <hi rendition="#s">В деревне</hi>
+           Коллектив наркомата пищевой промышленности к 
+          <hi rendition="#s">21-й</hi>
+           25-й годовщине Окт. революции отстроил 6 новых домов в деревне. В каждую квартиру передали 2 стола, 3 табуретки, по две металлические кровати, ведра, бочки для воды, тазы, постельное белье, одеяла, скатерти и т.д. Жильцы, войдя в новые дома, плакали от волнения («Веч. Москва», 7/XI-43 г.).
+        </p>
+        <hi rendition="#s">В деревне</hi>
+         Коллектив наркомата пищевой промышленности к 
+        <hi rendition="#s">21-й</hi>
+         25-й годовщине Окт. революции отстроил 6 новых домов в деревне. В каждую квартиру передали 2 стола, 3 табуретки, по две металлические кровати, ведра, бочки для воды, тазы, постельное белье, одеяла, скатерти и т.д. Жильцы, войдя в новые дома, плакали от волнения («Веч. Москва», 7/XI-43 г.).
+        <p>По сообщению т. Черноусова (секр. [2 слова непонятно]) на Х сессии Верх. Совета СССР, в феврале 1944 г. и т. Щербакова, в речи на совещании передовиков с/х-ва Моск. обл., в марте 1944 г., к этому времени было восстановлено и построено 22.760 домов колхозников из 77.246 домов, сожженных фашистскими бандитами, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

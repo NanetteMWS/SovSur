@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000835">
+      <titleStmt>
+        <title>Стенограмма беседы с Михаилом Соколовым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 28-42.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.42" xml:space="default"/>
+        <p> посол Украинской Республики в 1918 году в Париже. Он возглавлял отдел народного просвещения и являлся наибольшим идейным вдохновителем националистической группировки. Кроме того, был председатель Центрального бюро доктор Луцкий. Он являлся посредником между местной властью и немецким командованием. Этот Серафимович женился в Виннице на одной винничанке и уехал с ней. Был еще один Смерека. Он замещал Омельяновича-Павленко, когда тот уезжал в карательные экспедиции. Он был крупный националист, свирепо расправлялся с народом. Из местного населения проявил себя особенно Мифадовский, сын попа, молодой мальчик. Он подобрал себе штат бандитов, которые грабили людей путем всякого шантажа, старались добыть себе золото. Одного знакомого бухгалтера арестовали только за то, что у него было золотое обручальное кольцо и золотые часы, и выпустили, когда он отдал эти вещи.</p>
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          Опрашивал тов. Котов [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>
+          Стенографировал [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

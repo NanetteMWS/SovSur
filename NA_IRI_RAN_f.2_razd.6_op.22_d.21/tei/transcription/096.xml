@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.49" xml:space="default"/>
+        <p> будут в бешенстве бегать и не находить себе места, и потом на них упадет сверху бомба и всех их разнесет по кускам, и хозяйку с ее семьей, которая так мучила нас, и всех этих беженцев, которые наехали сюда, которые прятались от заслуженного ими наказания, которые так боялись смерти. И я, лежа в постели, все слыхала, как летали, пикировали тут самолеты, но потом не удержалась, я вылезла с постели, и босая, полураздетая я выскочила на двор, чтобы взглянуть, как рушатся немецкие города и села. И только я выскочила на двор, как все загремело вокруг, на Лихтенфельс посыпались бомбы, на Штаффельштайн градом посыпались пули, начался обстрел льнофабрики, мебельной, а я все стояла и ждала, что вот, вот сейчас упадет бомба прямо в дом хозяйки, и больше мне не надо будет работать, там все разобьет, и ту </p>
+      </div>
+    </body>
+  </text>
+</TEI>

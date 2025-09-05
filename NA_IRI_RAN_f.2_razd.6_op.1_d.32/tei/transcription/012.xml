@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> глазах ее 4-х детей и жителей деревни за то, что она хотела взять у немца свое одеяло, чтобы согреть замерзавших в землянке детей.</p>
+        <p>В селе Покровском Ново-Петр. района немцы учинили дикую расправу над престарелыми инвалидами, живущими в доме для инвалидов. В коридоре дома было найдено 180 трупов, у многих стариков были отрублены головы. 430 человек инвалидов погибли от голода, холода и жестоких пыток.</p>
+        <p>В этом же районе в с. Никольском работала детская психиатрическая больница. Ворвавшись в село, немцы расстреляли лежавших в кроватках малышей, а остальных уморили голодом.</p>
+        <p>За 24 дня пребывания в Клинском районе (с 15/XI-41 г. до 18/XII-41 г.) фашистские злодеи сожгли живыми 7 чел., расстреляли 113 чел., повесили 17 чел., заморозили 412 чел., искалечили до потери трудоспособности 27 чел., а еще несколько десятков человек замучили пытками и истязаниями.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000639">
+      <titleStmt>
+        <title>Стенограмма беседы с Малитовой и Дмитриевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 118. Л.205-217.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.211" xml:space="default"/>
+        <p> Когда мы пришли на эту сторону фронта, мы увидели и нам стало как-то странно, что тут много листовок и других агитационных материалов, а там, где они особенно нужны, ибо народ живет как в темном лесу и знает только один источник – немецкую информацию, там этих листовок нет.</p>
+        <p/>
+        <p>Дмитриева</p>
+        <p>Малитова</p>
+        <p>25 сентября 1942 г.</p>
+        <p>г. Москва.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

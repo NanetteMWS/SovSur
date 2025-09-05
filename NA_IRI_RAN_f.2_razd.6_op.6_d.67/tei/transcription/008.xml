@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.6" xml:space="default"/>
+        <p> Молодые девушки немцами увлекались,</p>
+        <p>Позабыли девушки о своих парнях,</p>
+        <p>Только лишь родителям горе прибавлялося,</p>
+        <p>Горько плачут матери о своих сынах.</p>
+        <p/>
+        <p>Лейтенантов-летчиков, девушки, любили вы</p>
+        <p>И словами верности вы всегда клялись,</p>
+        <p>Но в пору тяжелую соколы забылися,</p>
+        <p>И за пайку хлеба вы немцам продались.</p>
+        <p/>
+        <p>[Л.6 об.] Записано со слов медицинской сестры госпиталя 2176 66-й армии в Воронежской области 5 мая 1943 г. гвардии майором П.А. Зайончковским.</p>
+        <p>Сообщено т. Белкину 29 мая 1943 г.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p> мытье полов в полиции можно было разрушать сколько угодно. Обращение к полиции с просьбой прекратить разрушения всегда оканчивались тем, что полиция ловила хищников, забирала их в полицию, где виновники мыли полы, и тем все дело и оканчивалось.</p>
+        <p>Из всего сказанного ясно, что вся верхняя Лавра и 49-й корпус нижней Лавры были полностью разрушены немецкими оккупантами. Что же было разрушено немецкими оккупантами?</p>
+        <p>Не считая Успенского Собора, взорванного еще в ноябре 1941 г., разрушена почти полностью Никольская церковь больничного монастыря (она была разрушена в феврале-марте 1943 г.); сильно повреждены церкви Благовещенская и трапезная; сильно повреждена Лаврская трапеза (трапезная церковь и лаврская трапеза еще сохранили чудесную живопись художников Попова и Ижакевича); почти полностью уничтожено 33 корпуса жилых домов верхней Лавры и один корпус (№49) Лавры нижней – всего 34 корпуса, сильно повреждены 4 башни в лаврской стене. Полностью уничтожены все надворные постройки, сараи, уборные и проч.; повреждена дренажная система; на территории Лавры появились провалы почвы, мостовые повреждены текучими водами.</p>
+        <p>За это же время удалось выявить настоящее отношение немецких оккупантов к духовенству и монашествующим. Обычно они рекламировали свое сочувственное отношение </p>
+      </div>
+    </body>
+  </text>
+</TEI>

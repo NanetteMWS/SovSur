@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000699">
+      <titleStmt>
+        <title>Стенограмма беседы с Хеней Голдхирш</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 8. Л. 2-3.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> Галиция очищена от евреев и гетто ликвидированы, а остались только штрафные лагеря. Лагеря существовали до 22 июля 43 г. 23 июля немцы 2.500 евреев, причем самых молодых, из лагеря направили на Петрикув, где были приготовлены ямы, и эти 2500 человек за один день все были расстреляны. Некоторым удалось все же убежать. Потом был организован еще один лагерь уже военными властями, это был войсковой лагерь.</p>
+        <p>
+          Мы находились в двух лагерях. Штрафной лагерь охраняла украинская полиция, а другой охраняли войска. Оттуда мы убежали. Всего нас убежало 15 человек. Войсковой лагерь был ликвидирован довольно быстро, и мы перешли в лагерь штрафной. Бежали я и Бергер 12 июля. Нас перевели из войскового лагеря в лагерь штрафной, а через полчаса началась у нас паника: говорили, что всех будут забирать и убивать. Лагерь был огорожен колючей проволокой, и мы через эту проволоку в 10 час. вечера пробрались и убежали. Побежали мы в заранее приготовленное место, так как мы знали, что все равно всех не убьют. Пришли мы к товарищу Коцуру Или
+          <hi rendition="#i">ану</hi>
+          , с которым работал мой брат и заранее с ним обо всем договорился. Он оказался очень хорошим человеком, он нас спрятал и спас. У него мы просидели до самого прихода Красной армии.
+        </p>
+        <hi rendition="#i">ану</hi>
+        , с которым работал мой брат и заранее с ним обо всем договорился. Он оказался очень хорошим человеком, он нас спрятал и спас. У него мы просидели до самого прихода Красной армии.
+        <p/>
+        <p>
+          <hi rendition="#i">3/</hi>
+          <hi rendition="#i">VII</hi>
+          <hi rendition="#i">-44 г.</hi>
+        </p>
+        <hi rendition="#i">3/</hi>
+        <hi rendition="#i">VII</hi>
+        <hi rendition="#i">-44 г.</hi>
+        <p>
+          <hi rendition="#i">Федосов</hi>
+        </p>
+        <hi rendition="#i">Федосов</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

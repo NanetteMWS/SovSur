@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.42 оборот" xml:space="default"/>
+        <p> делать, и так мы никогда не делали бы, если бы условия жизни, если бы сама жизнь не заставляла этого делать. Мы видим, что ожидать от немцев нечего, если будем на них надеяться, то подохнешь с голоду, и ни один немец на тебя не посмотрит. И мы всегда называли это не «грабеж», а «дележка». Благодаря своей хитрости, ловкости, находчивости мы и жили. </p>
+        <p>В это время тов. Шевченко был переброшен с Бомберга в Ашафенбург, оттуда я получала еще письма, в которых он также обращался с призывами ко всему народу. С Бомберга приезжал к нам Петр Друзь, привозил листовки, обращения бомбергского комитета. Мы прочитывали их сами, прочитывала Мария в лагере девушкам, потом передавали их в Лихтэнфельс, а девушки Анна Зотова, сестра Марии, ее подруги, Анна Бушлатова, Петр Кравченко и его товарищ и распространяли в деревнях, вели </p>
+      </div>
+    </body>
+  </text>
+</TEI>

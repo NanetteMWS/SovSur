@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.42" xml:space="default"/>
+        <p> в лагерь проберешься, да еще у хозяйки сапоги резиновые стащим, она будет искать, облазит все уголочки и не найдет, а утром мы принесем, поставим, когда они все еще спят. </p>
+        <p>Наши люди жили в тесной дружбе между собою, помогали друг другу. Те, которые работали у хозяевов по деревням, они могли взять кое-что из продукта у хозяина и передать в лагерь девушкам. За 7 км от Штаффельштайна работали в деревне девушки Оля Тисенкова и др. Они часто приходили в воскресенье к нам, приносили продукт, а мы передавали в лагерь. Анна Бушлатова работала у хозяина, у которого не было никакой семьи, только он, хозяин и его старая мать. Сколько она перетаскала продуктов в лагерь! А также много других девушек, ребят, работавших у хозяина. А немчуров можно было дурить, у них можно было тащить. </p>
+        <p>В начале мы не могли так поступать. Мы знали, что не хорошо так </p>
+      </div>
+    </body>
+  </text>
+</TEI>

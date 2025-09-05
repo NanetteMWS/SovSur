@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000183">
+      <titleStmt>
+        <title>Стенограмма беседы со Степаном Барановым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 1-7, 53-53 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p> Стенографические записи рассказов колхозников Тульской области о периоде фашистской оккупации их районов.</p>
+        <p/>
+        <p>Беседа проходила 27 и 28 марта 1942 г. в помещении Редакции «Истории Гражданской войны» в присутствии научных работников Редакции:</p>
+        <p>1. Зак Л.М.</p>
+        <p>2. Розановой М.Д.</p>
+        <p>3. Минаева А.Л.</p>
+        <p>4. Еловцан Ф.Л.</p>
+        <p>5. Трусовой Н.С.</p>
+        <p>Запись проводила т. Виленко А.А.</p>
+        <p/>
+        <p>
+          1. Баранов Степан Прокофьевич, 188
+          <hi rendition="#i">7</hi>
+           г. рожд. Тарусский район Тульской обл. д. Салтыково. К/х «2-я Пятилетка», председатель колхоза, канд. в члены ВКП(б).
+        </p>
+        <hi rendition="#i">7</hi>
+         г. рожд. Тарусский район Тульской обл. д. Салтыково. К/х «2-я Пятилетка», председатель колхоза, канд. в члены ВКП(б).
+        <p>26-го октября вошла немецкая армия к нам в деревню Салтыково, колхоз «2-я пятилетка». Как вошли, пошли по домам спрашивать хлеба, яиц. Зашли ко мне в дом. У меня 7 человек в доме. Говорят: «Дай масла». Я говорю: «Не понимаю». Тогда один разрезал хлеб и показывает ножиком – мазать хлеб. У меня мальчик лет 13 поднял брусок и показывает, что немец просит нож наточить, а немец его как толканет. Входит немец, в печь лезет.</p>
+        <p>Пробыли они у нас с 26-го октября по 7-е ноября. 7-го ноября эвакуировали нас к себе в тыл. 6-го объявили, что утром 7-го должны собраться и уехать по направлению к Калуге. Места не указали. Лошадей у нас не было. Лошади </p>
+      </div>
+    </body>
+  </text>
+</TEI>

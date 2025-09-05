@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000683">
+      <titleStmt>
+        <title>Стенограмма беседы с Дмитрием Соболевым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p>
+           уезжать, угрожая им судьбой воронежцев, которых из Воронежа выгнали
+          <hi rendition="#i">, и о</hi>
+          ни пришли сюда пешком. Наши геологи не согласились, заявили:
+        </p>
+        <hi rendition="#i">, и о</hi>
+        ни пришли сюда пешком. Наши геологи не согласились, заявили:
+        <p>– Ну, что же, мы люди привычные, пойдем пешком.</p>
+        <p>Из геологов погиб наш декан геолого-географического факультета, доцент Мерейнес. Его как еврея захватили, отправили в бараки на окраину города. С тех пор мы о нем ничего не слышали. Из геофизиков погиб профессор Семилетов от взрыва бомбы. Его бросило, ударило головой о стенку, и он был убит на месте.</p>
+        <p>
+          <hi rendition="#s">Здесь геологи и географы в пединституте работали. Но там только учебное заведение. Из геологических, научно-исследовательских учреждений больше не было. Тут был Угольный институт, тоже с геологической окраской, Институт цветных металлов и в некоторых других институтах геология была в ходу.</hi>
+        </p>
+        <hi rendition="#s">Здесь геологи и географы в пединституте работали. Но там только учебное заведение. Из геологических, научно-исследовательских учреждений больше не было. Тут был Угольный институт, тоже с геологической окраской, Институт цветных металлов и в некоторых других институтах геология была в ходу.</hi>
+        <p/>
+        <p>
+          <hi rendition="#i">Д. Соболев</hi>
+        </p>
+        <hi rendition="#i">Д. Соболев</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

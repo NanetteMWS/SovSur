@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.13" xml:space="default"/>
+        <p> налетов. С помощью словаря пришлось перекладывать их на русский язык. Над этим много пришлось поработать тт. Кисилю И., Приймаку П., Барану Н. и мне.</p>
+        <p>Как члены нашей организации, так же и окружающие нас лучшие товарищи были распространителями наших обращений и воззваний.</p>
+        <p>Когда происходило важное событие на фронтах в СССР или же вокруг нас, мы делали совещания. Посколько большинство членов ЦКБ были с одного нашего лагеря, мы совещания делали часто в бараке, собравшись где-нибудь в уголке. По воскресеньям совещания проводились в лесу и других местах, где могли присутствовать члены организации с других лагерей и мест.</p>
+        <p>Примерно весной 1943 г. началось проводиться между пленными красноармейцами и угнанными гражданами Советского Союза усиленная агитация и вербовки во власовскую армию. По поводу этого было собрано совещание ЦКБ, где были даны указания: выпустить листовки, усилить </p>
+      </div>
+    </body>
+  </text>
+</TEI>

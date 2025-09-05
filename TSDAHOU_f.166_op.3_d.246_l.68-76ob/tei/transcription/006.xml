@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000837">
+      <titleStmt>
+        <title>Стенограмма беседы с Назаром Яковец</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 68-76 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.74" xml:space="default"/>
+        <p> хлеба, стоявшего в клунях.</p>
+        <p>
+          <hi rendition="#u">Несколько слов о моем участ</hi>
+          <hi rendition="#u">и</hi>
+          <hi rendition="#u">и в партизанском движении.</hi>
+        </p>
+        <hi rendition="#u">Несколько слов о моем участ</hi>
+        <hi rendition="#u">и</hi>
+        <hi rendition="#u">и в партизанском движении.</hi>
+        <p>В первый же день, как только в наше село вошли немцы, я, не желая их видеть и показываться им на глаза, ушел сразу же в лес, где мною была организована партизанская группа. В эту группу вошел весь актив села, который работал со мною в сельсовете. Их было 6 человек: Куришко Иван Матвеевич, Корень Александр Евтихьевич, Яковец Нестор Данилович (мой племянник), Твердый Андрей Яковлевич, Андреевский Максим Николаевич и Твердый Серафон Максимович. В продолжение трех месяцев мы выполняли диверсионную работу: мы сожгли мост между Клесово и Сарны под названием «Косой мост», по дороге на Клесово. Таким образом, благодаря тому, что мост был разрушен нами, было прервано продвижение немецких машин по этой дороге на целый месяц. На канаве между Клесово и Сарнами мы также сожгли мостик, который имел большое значение, т.к. через этот мостик проходил железнодорожный путь Киев-Сарны. Этот немаловажный пункт мы вывели из строя на несколько дней. Кроме этого, мы рубили лес, делали завалы на дорогах, дезорганизуя движение немецкого гужевого и автомобильного транспорта. В 1942 году в с. Озерах мы напали на полицию, разогнали полицаев, позабирали оружие и боеприпасы, уничтожили телефонную связь, разбили аппарат и сожгли все полицейские документы.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> город порабощенных народов. Он был огорожен несколькими рядами колючей проволоки и охранялся подобранными фашистами как снаружи, так и внутри. Стандартные бараки между собой были еще огорожены колючей проволокой и охранялись в отдельности каждый. Вокруг лагеря стояло несколько вышек, откуда освещался он ночью и охранялся еще одним кольцом автоматчиков.</p>
+        <p>В этом лагере находились порабощенные народы почти всего мира: граждане Советского Союза, французы, англичане, американцы, африканцы, поляки, чехи, югословаки, хорваты и другие. Всем были созданы фашистскими извергами ужасные условия жизни. Это была не жизнь, а существование. На каждом шагу – палка или же плетка.</p>
+        <p>Утром давали нам 50-80 г хлеба и кофе, котрое, вернее, можно назвать теплой мутной водой; в обед – такая же порция хлеба, ½ или 1 литр </p>
+      </div>
+    </body>
+  </text>
+</TEI>

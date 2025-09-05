@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000279">
+      <titleStmt>
+        <title>Воспоминания Октябрины Гудимовы</title>
+        <author>
+          <persName>Октябрина Павловна Гудимова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 65.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> комнате были разбиты, печка развалена, на полу была грязная солома с мусором, которая была подстилкой лошадям и потом людям. Первым, что бросилось мне в глаза, были три женщины в комнате с заплаканными глазами, испугано смотревшие на нас.</p>
+        <p>Как только мы вошли в комнату, нас сразу же начали бить и потом обыскивать. Забрали оставшиеся деньги; вареную картофель, которую мы взяли на дорогу, бросили на пол и растоптали. Ненавистная боль сдавила мне горло. Я не выдержала и заплакала. Тогда солдат спросил, почему я плачу. Я молчала. Он ударил меня в лицо, но я молчала. Тогда он наставил револьвер и заставил отвечать. Я сказала, что болят ноги. Он приказал мне разуться. Боясь получить новые побои, так как в обуви были спрятаны папиросы, я сказала, что шла уже много километров.</p>
+        <p>В это время другой (унтер-офицер) </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.18" xml:space="default"/>
+        <p> Зверства немцев во время оккупации.</p>
+        <p>
+          <hi rendition="#s">Когда</hi>
+           
+          <hi rendition="#i">У</hi>
+           
+          <hi rendition="#s">нас</hi>
+          <hi rendition="#i">х</hi>
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#s">были</hi>
+           немц
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">ев</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">были</hi>
+          <hi rendition="#i">,</hi>
+           они очень были злые. 
+          <hi rendition="#i">Зверские отношения к жителям.</hi>
+           Черти. 
+          <hi rendition="#s">И</hi>
+           
+          <hi rendition="#i">О</hi>
+          ни у нас все грабили 
+          <hi rendition="#s">и</hi>
+           ломали
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#s">и</hi>
+           били
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#s">и</hi>
+           жгли и убивали людей
+          <hi rendition="#i">. В</hi>
+          от однажды заходит оди
+          <hi rendition="#i">н</hi>
+           немец в хату к нам и говорит: матка, кур. Мат
+          <hi rendition="#s">ка</hi>
+          <hi rendition="#i">ь</hi>
+           говорит: никс, пан. Он разозлился и пошел на двор и несет оттуда курицу, з
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          вернута в соломе с палкой; потом они её ободрали и стали жарить в котел
+          <hi rendition="#s">ке</hi>
+          <hi rendition="#i">е</hi>
+          <hi rendition="#i">.</hi>
+           В каком он моет ноги, в том и кушает. Вот они с
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          дятся за стол и начинают жрать
+          <hi rendition="#i">:</hi>
+           один из них вшей туряет
+          <hi rendition="#i">,</hi>
+           другой начинает скидовать рубаху и нач
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          нает мыт
+          <hi rendition="#i">ь</hi>
+          ся
+          <hi rendition="#i">,</hi>
+           а кто вшей чешет на стол. Они жрут очень неприятно, даже тошнит не хочется смотреть. Потом, когда они отступали, то они говорили, что на отдых
+          <hi rendition="#i">,</hi>
+           а мы 
+        </p>
+        <hi rendition="#s">Когда</hi>
+         
+        <hi rendition="#i">У</hi>
+         
+        <hi rendition="#s">нас</hi>
+        <hi rendition="#i">х</hi>
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#s">были</hi>
+         немц
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">ев</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">были</hi>
+        <hi rendition="#i">,</hi>
+         они очень были злые. 
+        <hi rendition="#i">Зверские отношения к жителям.</hi>
+         Черти. 
+        <hi rendition="#s">И</hi>
+         
+        <hi rendition="#i">О</hi>
+        ни у нас все грабили 
+        <hi rendition="#s">и</hi>
+         ломали
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#s">и</hi>
+         били
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#s">и</hi>
+         жгли и убивали людей
+        <hi rendition="#i">. В</hi>
+        от однажды заходит оди
+        <hi rendition="#i">н</hi>
+         немец в хату к нам и говорит: матка, кур. Мат
+        <hi rendition="#s">ка</hi>
+        <hi rendition="#i">ь</hi>
+         говорит: никс, пан. Он разозлился и пошел на двор и несет оттуда курицу, з
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        вернута в соломе с палкой; потом они её ободрали и стали жарить в котел
+        <hi rendition="#s">ке</hi>
+        <hi rendition="#i">е</hi>
+        <hi rendition="#i">.</hi>
+         В каком он моет ноги, в том и кушает. Вот они с
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        дятся за стол и начинают жрать
+        <hi rendition="#i">:</hi>
+         один из них вшей туряет
+        <hi rendition="#i">,</hi>
+         другой начинает скидовать рубаху и нач
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        нает мыт
+        <hi rendition="#i">ь</hi>
+        ся
+        <hi rendition="#i">,</hi>
+         а кто вшей чешет на стол. Они жрут очень неприятно, даже тошнит не хочется смотреть. Потом, когда они отступали, то они говорили, что на отдых
+        <hi rendition="#i">,</hi>
+         а мы 
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.20" xml:space="default"/>
+        <p> ***</p>
+        <p>Наконец скончался длинный</p>
+        <p>Августа горячий день.</p>
+        <p>На овраги и равнины</p>
+        <p>Вечера упала тень.</p>
+        <p/>
+        <p>Мы конца работы ждали.</p>
+        <p>Каждый изнемог, устал.</p>
+        <p>Перед каждым шпалы, шпалы,</p>
+        <p>Побежали рельсы в даль.</p>
+        <p/>
+        <p>Время длится долго что-то.</p>
+        <p>Вот сигнал дал часовой –</p>
+        <p>Значит кончилась работа,</p>
+        <p>Становиться надо в строй.</p>
+        <p/>
+        <p>
+          Протянулася дорога 
+          <hi rendition="#s">перед нами</hi>
+        </p>
+        <hi rendition="#s">перед нами</hi>
+        <p>Перед нами впереди,</p>
+        <p>А до лагеря немного:</p>
+        <p>Семь километров идти.</p>
+        <p/>
+        <p>Всегда этими следами</p>
+        <p>Ночью, вечером и днем</p>
+        <p>Мы голодными рядами</p>
+        <p>С конвоирами идем.</p>
+        <p/>
+        <p>Вот и лагеря достигли –</p>
+        <p>Заграждения зигзаг.</p>
+        <p>Стальной проволоки иглы</p>
+        <p>Колят издали глаза.</p>
+        <p/>
+        <p>Там нас ждут палаты-нары,</p>
+        <p>Тоска, скука, нудота,</p>
+        <p>Часовой плешивый старый</p>
+        <p>Открывает ворота.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000426">
+      <titleStmt>
+        <title>Стенограмма беседы с Захаром Изотовым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. II. Оп. 9/6. Д. 5.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.12" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#i">Работа в тылу:</hi>
+        </p>
+        <hi rendition="#i">Работа в тылу:</hi>
+        <p>
+          Осень, холодно, приходилось сооружать землянки на 10 
+          <hi rendition="#s">и</hi>
+           – 15 человек. Тут пилы шли, топоры в ход, все сами строили. Я, как строитель, планировал, показывал людям. У нас не было никакого разделения, командир, комиссар, все участвовали в строительстве в самых черновых работах. Как в бою, так и здесь. 
+          <hi rendition="#s">Пилили, кололи</hi>
+          <hi rendition="#s">, копали </hi>
+          <hi rendition="#s">землю</hi>
+          <hi rendition="#s">.</hi>
+           Вот сделаем землянку 
+          <hi rendition="#i">(</hi>
+          мы для своего отряда делали 3-4 землянки, другие отряды тоже, у нас вырастал целый городок
+          <hi rendition="#i">)</hi>
+          <hi rendition="#i">.</hi>
+           Мы траншеи и окопы копали, все это большая работа. Маскировку соответствующую делали землей. Осенью, правда, хуже маскировать, потому что лист опадает. После боя приходилось эти землянки оставлять я переходить в другое место, строить там опять. Все бы ничего, все-таки летала вражеская авиация, маскировку нужно было выдержать. С печами трудно было, земля рыхлая. Мы брали из-под бензина бочки, выколачивали дно, делали дымоход и таким образом получалась у нас печка и прекрасно обогревала. Сделали специальную кухню.
+        </p>
+        <hi rendition="#s">и</hi>
+         – 15 человек. Тут пилы шли, топоры в ход, все сами строили. Я, как строитель, планировал, показывал людям. У нас не было никакого разделения, командир, комиссар, все участвовали в строительстве в самых черновых работах. Как в бою, так и здесь. 
+        <hi rendition="#s">Пилили, кололи</hi>
+        <hi rendition="#s">, копали </hi>
+        <hi rendition="#s">землю</hi>
+        <hi rendition="#s">.</hi>
+         Вот сделаем землянку 
+        <hi rendition="#i">(</hi>
+        мы для своего отряда делали 3-4 землянки, другие отряды тоже, у нас вырастал целый городок
+        <hi rendition="#i">)</hi>
+        <hi rendition="#i">.</hi>
+         Мы траншеи и окопы копали, все это большая работа. Маскировку соответствующую делали землей. Осенью, правда, хуже маскировать, потому что лист опадает. После боя приходилось эти землянки оставлять я переходить в другое место, строить там опять. Все бы ничего, все-таки летала вражеская авиация, маскировку нужно было выдержать. С печами трудно было, земля рыхлая. Мы брали из-под бензина бочки, выколачивали дно, делали дымоход и таким образом получалась у нас печка и прекрасно обогревала. Сделали специальную кухню.
+        <p>
+          Большую работу женщины проводили. Помимо того, что ходили в разведку, они были раскреплены по группам, штопали белье, верхнюю одежду, за ранеными ухаживали, готовили пищу, пекли хлеб. 
+          <hi rendition="#s">Из автомашины под</hi>
+          <hi rendition="#s">ножку оторвали</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#i">выкапывали</hi>
+          <hi rendition="#s"> канаву, выкл</hi>
+          <hi rendition="#s">ады</hi>
+          <hi rendition="#s">в</hi>
+          <hi rendition="#s">али кир</hi>
+          <hi rendition="#s">пичо</hi>
+          <hi rendition="#s">м</hi>
+          <hi rendition="#s">, сверху клали</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">эту по</hi>
+          <hi rendition="#s">дножку. </hi>
+          <hi rendition="#s">Сверху нака</hi>
+          <hi rendition="#i">ли</hi>
+          <hi rendition="#s">валось, клали на это железо кусок теста.</hi>
+           Каждый день у нас производилась выпечка хлеба, на каждого по паре коржей – это 400 грамм хлеба. Но не голодали. Ходили на фермы немецкие и оттуда 
+          <hi rendition="#i">с боем</hi>
+           забирали скот по 10-20 голов 
+          <hi rendition="#i">(</hi>
+          быков, коров, свиней
+          <hi rendition="#i">)</hi>
+           
+          <hi rendition="#s">и уводил</hi>
+          <hi rendition="#s">и </hi>
+          <hi rendition="#s">от</hi>
+          <hi rendition="#s">туда. М</hi>
+          <hi rendition="#s">ясо было</hi>
+          .
+        </p>
+        <hi rendition="#s">Из автомашины под</hi>
+        <hi rendition="#s">ножку оторвали</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#i">выкапывали</hi>
+        <hi rendition="#s"> канаву, выкл</hi>
+        <hi rendition="#s">ады</hi>
+        <hi rendition="#s">в</hi>
+        <hi rendition="#s">али кир</hi>
+        <hi rendition="#s">пичо</hi>
+        <hi rendition="#s">м</hi>
+        <hi rendition="#s">, сверху клали</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">эту по</hi>
+        <hi rendition="#s">дножку. </hi>
+        <hi rendition="#s">Сверху нака</hi>
+        <hi rendition="#i">ли</hi>
+        <hi rendition="#s">валось, клали на это железо кусок теста.</hi>
+         Каждый день у нас производилась выпечка хлеба, на каждого по паре коржей – это 400 грамм хлеба. Но не голодали. Ходили на фермы немецкие и оттуда 
+        <hi rendition="#i">с боем</hi>
+         забирали скот по 10-20 голов 
+        <hi rendition="#i">(</hi>
+        быков, коров, свиней
+        <hi rendition="#i">)</hi>
+         
+        <hi rendition="#s">и уводил</hi>
+        <hi rendition="#s">и </hi>
+        <hi rendition="#s">от</hi>
+        <hi rendition="#s">туда. М</hi>
+        <hi rendition="#s">ясо было</hi>
+        .
+        <p>
+          Нужно было хлеб молоть, потому что мы брали зерно с немецких складов. Я решил приспособить мельницу. Два дерева толстых, чурбака, насечку делали из железа, 
+          <hi rendition="#s">из</hi>
+          <hi rendition="#s"> бочки дн</hi>
+          <hi rendition="#s">о и клали. </hi>
+          <hi rendition="#s">На </hi>
+          <hi rendition="#s">э</hi>
+          <hi rendition="#s">том</hi>
+           молол не только наш отряд, а и все остальные отряды. Крупу 
+          <hi rendition="#i">изготовляли на этом сооружении</hi>
+           
+          <hi rendition="#s">прогоняют на этом деле</hi>
+           и варили суп мясной, причем, 
+          <hi rendition="#i">очень</hi>
+           прекрасный, 
+          <hi rendition="#s">иногда лучше чем у нас в столовой дают</hi>
+          .
+        </p>
+        <hi rendition="#s">из</hi>
+        <hi rendition="#s"> бочки дн</hi>
+        <hi rendition="#s">о и клали. </hi>
+        <hi rendition="#s">На </hi>
+        <hi rendition="#s">э</hi>
+        <hi rendition="#s">том</hi>
+         молол не только наш отряд, а и все остальные отряды. Крупу 
+        <hi rendition="#i">изготовляли на этом сооружении</hi>
+         
+        <hi rendition="#s">прогоняют на этом деле</hi>
+         и варили суп мясной, причем, 
+        <hi rendition="#i">очень</hi>
+         прекрасный, 
+        <hi rendition="#s">иногда лучше чем у нас в столовой дают</hi>
+        .
+        <p>
+          Мылом трофейным пользовались, а больше стирали в золе, причем дезкамера у нас была, так что вшивости у нас не было в отрядах. Аккуратно дезинфекцию белья проводили. Баню устраивали в каждой землянке. Ребята по очереди купались снеговой водой, так что гигиена была соблюдена. Люди выглядели, конечно, не так, как сейчас, 
+          <hi rendition="#i">но были бодрые</hi>
+           
+          <hi rendition="#s">неважно</hi>
+          . Многие товарищи брились аккуратно, не запускали себя. Тому, кому нужно было бороду отпускать, разведчикам мы не разрешали бриться. 
+          <hi rendition="#s">Я брился. Я </hi>
+          <hi rendition="#s">ходил </hi>
+          <hi rendition="#s">с</hi>
+          <hi rendition="#s"> отрядом, </hi>
+          <hi rendition="#s">с группой прилично вооруженн</hi>
+          <hi rendition="#s">ой</hi>
+          <hi rendition="#s">, без них</hi>
+          <hi rendition="#s"> никуда не ходил</hi>
+          <hi rendition="#s">.</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#s">Мен</hi>
+          <hi rendition="#s">я знали кругом</hi>
+          <hi rendition="#s">, </hi>
+          <hi rendition="#i">так что борода мне не нужна была.</hi>
+        </p>
+        <hi rendition="#i">но были бодрые</hi>
+         
+        <hi rendition="#s">неважно</hi>
+        . Многие товарищи брились аккуратно, не запускали себя. Тому, кому нужно было бороду отпускать, разведчикам мы не разрешали бриться. 
+        <hi rendition="#s">Я брился. Я </hi>
+        <hi rendition="#s">ходил </hi>
+        <hi rendition="#s">с</hi>
+        <hi rendition="#s"> отрядом, </hi>
+        <hi rendition="#s">с группой прилично вооруженн</hi>
+        <hi rendition="#s">ой</hi>
+        <hi rendition="#s">, без них</hi>
+        <hi rendition="#s"> никуда не ходил</hi>
+        <hi rendition="#s">.</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#s">Мен</hi>
+        <hi rendition="#s">я знали кругом</hi>
+        <hi rendition="#s">, </hi>
+        <hi rendition="#i">так что борода мне не нужна была.</hi>
+        <p/>
+        <p>
+          <hi rendition="#i">4/</hi>
+          <hi rendition="#i">VII</hi>
+          <hi rendition="#i">-</hi>
+          <hi rendition="#i">44</hi>
+        </p>
+        <hi rendition="#i">4/</hi>
+        <hi rendition="#i">VII</hi>
+        <hi rendition="#i">-</hi>
+        <hi rendition="#i">44</hi>
+        <p>
+          <hi rendition="#i">Изотов</hi>
+        </p>
+        <hi rendition="#i">Изотов</hi>
+      </div>
+    </body>
+  </text>
+</TEI>

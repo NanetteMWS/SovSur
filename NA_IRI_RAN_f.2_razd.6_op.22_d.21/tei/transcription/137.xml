@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.70" xml:space="default"/>
+        <p> 17.10.46 г.</p>
+        <p>Т. Коган,</p>
+        <p>Прошу Вас, извините меня за несвоевременный ответ. Причиной этого является то, что я болела почти все лето, поэтому никак не могла написать свои воспоминания раньше. Мне было очень неприятно получить от Вас во второй раз письмо, что я так долго заставила Вас ожидать, но при всем моем желании я не могла раньше этого сделать.</p>
+        <p>Теперь я высылаю Вам свой материал, который я составила. Хочу заранее просить извинения за некоторую неаккуратность письма, может, до некоторой степени, неграмотность и стиль письма.</p>
+        <p>Писала я просто, все так, как было, все то, что сохранилось у меня еще в памяти. Прошу Вас обратить внимание на мое образование, ведь я только на 3-ем курсе Политпросветучилища. Мое образование не позволяет мне так глубоко, красочно, литературным языком описать всю нашу каторжную жизнь в Германской неволе. Я излагала свои мысли совсем просто. Надеюсь, Вы меня поймете.</p>
+        <p>Фотокарточки наши, отца, Василия и свою, а также письма некоторых товарищей, обращение ЦКБ и прочее я еще в прошлом году отослала тов. Шевченко в Чернигов. А если нужна фотокарточка семьи всей, то мы сможем выслать. Теперь я высылаю Вам некоторые песенки, которые пелись нашим народом, стихи, поэма «Родина», автор которой неизвестный. Со слов товарищей мне известно только то, что он был </p>
+      </div>
+    </body>
+  </text>
+</TEI>

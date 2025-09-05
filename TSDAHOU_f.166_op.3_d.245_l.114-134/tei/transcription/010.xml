@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.124" xml:space="default"/>
+        <p> один, который стерег меня.</p>
+        <p>Через некоторое время пришел снова тот же немецкий офицер с хозяйкиным сыном, они привели двух девушек по 16-17 лет, которые страшно кричали, плакали, целовали сапоги этому немцу, просили, чтобы их заставили делать самую тяжелую работу, только оставить им жизнь.</p>
+        <p>Он их нервно отбрасывал и приказал мне следовать за ними, нас всех куда-то повели. Привели на ту же площадь, где раздевали 4 дня тому назад. Тут только я сообразила, что четыре дня я ползла, притом вокруг да около, и попала снова туда же.</p>
+        <p>Было очень много вещей и обуви – все лежало отдельно. За вещами в сторонке сидели какие-то люди, их было немного, человек 30-40. Я увидела, что это были старики, старухи – остатки евреев, выловленные по квартирам, которые не могли идти. Здесь была и женщина с двумя детьми, один – грудной. Она очень кричала. Рядом с ней сидела очень спокойная девушка-медсестра, которую, как я потом узнала, звали Люба.</p>
+        <p>Ей стало жаль меня, очевидно мне было холодно, я дрожала. Она разостлала свою шинель и предложила мне сесть рядом, другой половиной шинели накрыла мне ноги. Из всех сидящих только мы вдвоем сидели совершенно спокойно, т.е. внешне спокойно. Так просидели мы час, два –неизвестно сколько.</p>
+        <p>Под вечер подъехала какая-то большая машина с нашими военнопленными бойцами, все они были с лопатами. Нас всех посадили на эту машину и повезли, куда – неизвестно. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

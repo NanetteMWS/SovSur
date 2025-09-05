@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.83" xml:space="default"/>
+        <p> дощ, як з якої то і дощинка бризне…</p>
+        <p>В другий раз готовились до від’їзду Марійки в Кам’янку. Вся робота провадиться погано, без всякої охоти…</p>
+        <p>28 червня. Понеділок. Виїхали вночі в Кам’янку, за Грушівкою зійшло сонце. Було ясно увесь день. Марійка явилась в комісію, де її записали до Німеччини. Євген і Михайло вивезли своїх красавиць в Кам’янку показали людям, які та вечором поїхали додому; в комісію не пішли. Я там теж ночував у людській повітці.</p>
+        <p>29 червня. Вівторок. Сонце зійшло. В Кам’янці ясно було до півдня. Рано почали вигрузку людей із Кам’янської школи для відправки на станцію. Я поміг Марійці положити на віз і довезти на станцію. Один поляк бив пожилих людей, щоб наближались до поїзда. Погрузилась і Марійка. Я попрощався і поїхав з Іваном Головком додому. На Буді став бризкать дощик, а додому приїхав, то Марія виїхала з Іваном до Кам’янки. Дощ більшав. Вечером прояснилось.</p>
+        <p>2 липня. П’ятниця. Сонце зійшло з-за хмари, трохи просвітлило і почало хмаритися, а вдень геть нахмарило і почав маленький дощик. Уходив до кооперації, щоб довідатися, які новини: Антон (зять Мироненка) сказав, що з Чигирина ніхто і душа не виїхала до Німеччини.</p>
+        <p>3 липня. Субота. Рано сонце зійшло, потім похмарило, а вдень вияснилося після обіду… Соняшники зарябіли жовтим цвітом. Видають бланки мобілізації 1920-21 і 26 років народження до Німеччини.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

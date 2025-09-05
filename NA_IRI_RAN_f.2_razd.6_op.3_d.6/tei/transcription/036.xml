@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p> Кузнецова Гени</p>
+        <p>Зверства немецких оккупантов.</p>
+        <p>Один раз немцы ночью пришли к нам в дом, сняли лампу и начали везде шарить. Немцы полезли в шкаф и схватили лепешки и начали есть, и потом вышли из дома и ударили из нагана в стекло, мы все легли. На другой день немцы приехали к нам в деревню и начали грабить жителей. Немцы пришли к нам в дом и взяли два маленькие поросенка, немцы полезли на потолок и взяли велосипед. Потом они с дедушки сняли валенки, потом немцы начали жечь. Немецкие бандиты наклали в чулан соломы и облили бензином и зажгли дом, дом воспламенился.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

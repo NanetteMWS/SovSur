@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.19" xml:space="default"/>
+        <p> героически сражавшейся в районе Волоколамска с 5-6 немецкими дивизиями. Они учились у 28 гвардейцев-панфиловцев, принявших неслыханный бой с 50-ю танками, на разъезде Дубосеково в 7 км от г. Волоколамска.</p>
+        <p/>
+        <p>
+          Такая же 
+          <hi rendition="#s">работа</hi>
+           замечательная работа была 
+          <hi rendition="#s">почти</hi>
+           во всех селах освобожденных районов. По 
+          <hi rendition="#s">сводным</hi>
+           данным МОЗО, обраб. библ. отделом Комиссии по ист. Отеч. войны по 17 освоб. районам Моск. области, колхозники собрали из личных запасов 45,9% семян потребных для весеннего сева (см. прил. таблицу).
+        </p>
+        <hi rendition="#s">работа</hi>
+         замечательная работа была 
+        <hi rendition="#s">почти</hi>
+         во всех селах освобожденных районов. По 
+        <hi rendition="#s">сводным</hi>
+         данным МОЗО, обраб. библ. отделом Комиссии по ист. Отеч. войны по 17 освоб. районам Моск. области, колхозники собрали из личных запасов 45,9% семян потребных для весеннего сева (см. прил. таблицу).
+        <p>Очень правильно передал настроения колхозников освобожденных районов Московской области пред. Адлеровского сельсовета Малоярославецкого района т. Хохлов. Он сказал, выступая на совещании сельско-хоз. актива: «Что руководило колхозниками, что </p>
+      </div>
+    </body>
+  </text>
+</TEI>

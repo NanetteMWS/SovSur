@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.115" xml:space="default"/>
+        <p> Стенограмма беседы со свидетелем немецких злодеяний по Бабьему Яру Проничевой Диной Мироновной.</p>
+        <p/>
+        <p>Адрес: г. Киев, ул. Воровского №41/7а</p>
+        <p>Стенографировала – Вилькова Ж.Б.</p>
+        <p>г. Киев, 24 апреля 1946 г.</p>
+        <p/>
+        <p>Родилась в 1911 году 7 января в городе Чернигове. До пяти лет жила в г. Чернигове, а с пяти лет проживала все время в городе Киеве. Национальность – еврейка. Образование незаконченное высшее. Закончила театральный техникум, военную школу связи, поступила в театральный институт, но не закончила.</p>
+        <p>В 1941 году работала в кукольном театре. Началась война, театр распался. Я пошла работать в отдел связи при штабе 37-ой армии. В связи долго работать не могла из-за домашних обстоятельств и меня перевели в отдельный стол старшей машинисткой при штабе 37-ой армии. Впоследствии штаб 37-ой армии помещался на ул. Ворошилова №30.</p>
+        <p>17 сентября 1941 года я пришла на работу в штаб и мне сказали, что мы отступаем. Мой начальник, майор Богданов, сказал мне, что т.к. я имею малых детишек, могу остаться. Таким образом я осталась.</p>
+        <p>19 сентября 1941 года в город Киев вошли немцы.</p>
+        <p>20 сентября домой пришел мой муж из окружения. Из Перемышля со своей частью добирался до Фастова, где и попали в окружение и их отпустили.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

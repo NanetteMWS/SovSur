@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.23" xml:space="default"/>
+        <p> Необходимо описать, каким был коллектив этого лагеря сначала, и каким он стал позже.</p>
+        <p>Прибыв в этот лагерь, в первой беседе меня предупредили товарищи, чтобы я был осторожен в своих словах. Мне рассказали, как в прошлом году перед днем Великой Октябрьской революции было забрато с лагеря 6 человек, подозревая их в антифашистской работе. Мне указали три человека (Мороза Николая, Курипку и Виговского М.) которых я должен был опасаться, посколько они за объедок, за глоток спирту или же крошку табаку могли продать любого человека. В лагере каждый при разговоре смотрел в сторону, боясь друг друга.</p>
+        <p>По доносу Мороза Н. было вызвано в полицию члена мною организованного КБ Иванова В., где он вынужден был подписаться, что за ним больше никаких замечаний не будет, а в противоположном случае ему угрожала висельница.</p>
+        <p>Возвратившись назад в лагерь, он рассказал обо всем. Между обществом лагеря в столовой начался </p>
+      </div>
+    </body>
+  </text>
+</TEI>

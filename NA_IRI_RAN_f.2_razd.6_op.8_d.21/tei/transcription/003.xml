@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000056">
+      <titleStmt>
+        <title>Песни, написанные заключенными в концентрационном лагере Бухенвальд</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> Мы солидарность свою выражаем,</p>
+        <p>Зовем Вас твердыми подругами быть</p>
+        <p>И весь свой труд и силы зберегайте,</p>
+        <p>Чтоб легче трудность эту пережить</p>
+        <p>Все ясно, все понятно перед нами</p>
+        <p>Разбит очаг, разрушена семья</p>
+        <p>Вы как рабыни лютыми врагами,</p>
+        <p>Увезены в далекие края.</p>
+        <p>Родные сестры, милые мамаши</p>
+        <p>Вы женщины страны большевиков</p>
+        <p>Понятны слезы горестные ваши</p>
+        <p>И нам не жизнь от тяжести их оков</p>
+        <p>Но близок час жестокой расправы над врагами.</p>
+        <p>В предсмертных судоргах нас давит лютый враг.</p>
+        <p>Еще увидим родину мы с вами</p>
+        <p>И будет цел разрушенный очаг.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

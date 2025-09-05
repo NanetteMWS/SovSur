@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.120" xml:space="default"/>
+        <p> Один из полицаев или немцев (я не могу вспомнить) наткнулся на меня, т.к. я сверху лежала, и перелетел через меня так, что я перевернулась. Он присветил фонариком. Он не обнаружил на мне крови на теле, одежда не была прострелянной, и он сказал об этом немцу. Тот сказал, что сейчас проверим, и меня подняли, подбили, потом бросили. Я не охнула, не застонала, он стал мне одной ногой на грудь, другой – на руку, но я и в этот раз не застонала. Они решили, что я мертва, и оставили меня в покое, а сами ушли.</p>
+        <p>Через некоторое время я услышала прямо чуть-ли не над самым ухом: «Демиденко, давай сюда, засыпай». После чего я услышала какие-то глухие удары, потом все ближе и ближе, и почувствовала, как на меня посыпали песок – это присыпали трупы. Мне стало очень тяжело, т.к. я лежала лицом вверх.</p>
+        <p>
+          Не знаю, сколько я пролежала, но, когда я начала задыхаться, мне не хватало воздуха, собрала все силы и начала барахтаться, решила – пусть лучше расстреляют, чем я заживо похоронена. Здоровой правой рукой (левую руку немец мне развернул, когда стал на нее) мне удалось ее продвинуть и, когда я почувствовала, что она свободна, откопала песок с лица. Вместе с воздухом я наглоталась песку и закашляла, перепугалась, что меня обнаружат и дострелят, а я все-таки думала – авось выберусь, спасусь. Я, конечно, 
+          <hi rendition="#s">начала из</hi>
+          <hi rendition="#s">о в</hi>
+          <hi rendition="#s">се</hi>
+          <hi rendition="#s">х </hi>
+          <hi rendition="#s">сил</hi>
+           
+          <hi rendition="#i">старалась</hi>
+           кашлять тихо. Мне стало немного легче, я стала барахтаться и вылезла вся.
+        </p>
+        <hi rendition="#s">начала из</hi>
+        <hi rendition="#s">о в</hi>
+        <hi rendition="#s">се</hi>
+        <hi rendition="#s">х </hi>
+        <hi rendition="#s">сил</hi>
+         
+        <hi rendition="#i">старалась</hi>
+         кашлять тихо. Мне стало немного легче, я стала барахтаться и вылезла вся.
+        <p>Разглядеть куда ползти было невозможно, т.к. был в глазах песок и, кроме того, было уже темно.</p>
+        <p>Потом, пролежав немного в темноте и привыкнув к мраку, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

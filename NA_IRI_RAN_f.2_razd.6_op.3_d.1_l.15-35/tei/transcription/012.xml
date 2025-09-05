@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000418">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лисиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 15-35.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.26" xml:space="default"/>
+        <p> клали заплаты, всякие куски. Только хитростью можно было держаться. Много проходило народу, которые шли из окружения. Иногда проходило человек 100. Но красноармейца не узнать. Бородка замечательная. Немцы останавливают, спрашивают русский солдат или нет. Смотрят стриженый ли, снимают шапку. Или спрашивают: «Комиссар?» и требуют, чтобы показал руки. Если руки белые, то говорят, что комиссар. Тогда надо изворачиваться. Смотрит он, видит руки белые, ведет в штаб. Тот говорит: «Я из Тулы». Тот подходит к хозяину: «Что хочешь делай, пусти, я на твой дом показал, иначе расстреляют».</p>
+        <p>Очень много спасало русского народа население. У Михеева жил старший лейтенант авиации.</p>
+        <p>В другом месте такая картина получилась. У нас врач спасла врача, шедшего из окружения. Поместила этого врача у себя и с ним вместе лечила немцев, потому что в этой больнице был лазарет. Когда спрашивали, кто он, почему не на службе, она говорила: «Это мой муж». Он находился 3 недели. Кроме того, при помощи населения – крестьян на Ивановском поселке – было спасено 5 человек тяжело раненых, которые до излечения находились здесь.</p>
+        <p>Всего расстреляно мирного населения 26 человек, 2 заморожено. Зверства в районе были. В одном месте в Камынинском сельсовете немцы назначили старостой председателя колхоза и председателя сельсовета. Крестьяне говорят: «Как же, раньше нас обижали, и теперь будут». Подали заявление в штаб. Приехали гестаповцы на собрание, выяснили в чем дело, и их расстреляли.</p>
+        <p>
+          Затем в Горбачеве был такой случай. 
+          <hi rendition="#s">Был раскулаченный, женился.</hi>
+           Когда немцы пришли, они у 
+          <hi rendition="#s">этой</hi>
+           
+          <hi rendition="#i">одной</hi>
+           жен
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">щины</hi>
+           
+          <hi rendition="#i">единоличницы</hi>
+          <hi rendition="#i"> взяли</hi>
+          <hi rendition="#i"> </hi>
+        </p>
+        <hi rendition="#s">Был раскулаченный, женился.</hi>
+         Когда немцы пришли, они у 
+        <hi rendition="#s">этой</hi>
+         
+        <hi rendition="#i">одной</hi>
+         жен
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">щины</hi>
+         
+        <hi rendition="#i">единоличницы</hi>
+        <hi rendition="#i"> взяли</hi>
+        <hi rendition="#i"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

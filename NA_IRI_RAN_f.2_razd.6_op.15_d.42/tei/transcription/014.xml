@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000783">
+      <titleStmt>
+        <title>Документы Минского подпольного городского комитета КП(б)Б</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 42.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.11" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#u">Предприятия</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">г.</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">Минска, </hi>
+          <hi rendition="#u">которые</hi>
+          <hi rendition="#u"> </hi>
+          <hi rendition="#u">работают</hi>
+          <hi rendition="#u">:</hi>
+        </p>
+        <hi rendition="#u">Предприятия</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">г.</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">Минска, </hi>
+        <hi rendition="#u">которые</hi>
+        <hi rendition="#u"> </hi>
+        <hi rendition="#u">работают</hi>
+        <hi rendition="#u">:</hi>
+        <p>1.Завод имени Ворошилова – ремонт танков.</p>
+        <p>2.Завод имени Мясникова – ремонт жел.дор. транспорт.</p>
+        <p>3. Радиозавод.</p>
+        <p>4. Авиазавод.</p>
+        <p>5. Спиртоводочный завод.</p>
+        <p>6. Ректификационный завод.</p>
+        <p>7. 2 электростанции.</p>
+        <p>8. Дрожжево-паточный завод.</p>
+        <p>9. Конезавод «Большевик».</p>
+        <p>10. Два хлебозавода.</p>
+        <p>11. Обувная фабрика имени Кагановича.</p>
+        <p>12.Фабрика имени Крупской – ремонт обмундирования.</p>
+        <p>13. Мясокомбинат.</p>
+        <p>14.Табачная фабрика.</p>
+        <p>2 мая 1944 г.</p>
+        <p>Макс.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

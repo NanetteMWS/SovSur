@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.125" xml:space="default"/>
+        <p> Мы договорились с Любой – при удобном случае прыгать с машины, удрать, а если будут по нас стрелять – это будет неожиданная смерть, это будет все-таки легче, чем сидеть и ждать где-то смерти.</p>
+        <p>Нас привезли к гаражам против еврейского кладбища. Но там не было мест, гаражи были переполнены евреями. Нас повезли куда-то дальше. И вот, в районе Шулявки, через задний борт машины мы по очереди, сначала я, потом Люба выпрыгнули почти незаметно для находящихся в машине, т.к. все смотрели вперед, куда везут.</p>
+        <p>Т.к. уже вечерело и надо было где-то ночевать (домой пойти я боялась), я предложила Любе пойти к своей двоюродной сестре (по национальности она полька), которая оставалась здесь, в Киеве, мы пошли к ней. Она приняла нас и целую ночь вдвоем грели воду и отмачивали на мне влипшую в раны сорочку.</p>
+        <p>Ночью была облава. На меня наложили сверху подушек, сели и таким образом меня спасли.</p>
+        <p>Наутро мы с Любой ушли в Дарницу (ДВРЗ). Там мы поселились в хатках-вагонах. Люба ходила на огороды, выкапывала остатки картошки. На щепочках варили, прикрывая огонь, чтобы нас не обнаружили. Потом нашла в грязной коробочке заплесневшую зеленую корочку, обмыла ее в луже и подарила мне как больной.</p>
+        <p>На третий день нас обнаружили. Шли два немца и инженер завода, который меня за кого-то принял (он обознался) и спросил у меня: «Вы, кажется, работали у нас в инструментальном цеху». Я поспешила согласиться с ним, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

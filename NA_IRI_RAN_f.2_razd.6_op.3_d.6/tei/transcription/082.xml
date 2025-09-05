@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.45" xml:space="default"/>
+        <p> Зверства немцев во время оккупации.</p>
+        <p>
+          Когда пришли к нам немцы, они принялись за свои дела. Полетели везде двери и замки, послышался шум на улицах. Это немцы начали грабить. Послышалась трескотня автоматов, это немцы бьют кур. Послышались крики свиней, это немцы режут
+          <hi rendition="#s">ь</hi>
+           свиней. Они их не пожрут, но глаза их жадны и завидущи, а их руки згр
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">е</hi>
+          бущие. Начали из складов возить рожь, овес своим лошадям. Слетел и с магазина замок. Послышались звон стекла и треск дерева в магазине. Но когда подошла зима, началось совсем другое. Стали они еще злее, начали отбирать валенки, овчины и другие теплые вещи. Лошади ихние стали мерзнуть. Стали отбирать для лошадей одеяла. Но как не отбирали они себе валенки, а все-таки мерзли и будут мерзнуть. А лошадям как не отбирали рожь, но они дохли и будут дохнуть.
+        </p>
+        <hi rendition="#s">ь</hi>
+         свиней. Они их не пожрут, но глаза их жадны и завидущи, а их руки згр
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">е</hi>
+        бущие. Начали из складов возить рожь, овес своим лошадям. Слетел и с магазина замок. Послышались звон стекла и треск дерева в магазине. Но когда подошла зима, началось совсем другое. Стали они еще злее, начали отбирать валенки, овчины и другие теплые вещи. Лошади ихние стали мерзнуть. Стали отбирать для лошадей одеяла. Но как не отбирали они себе валенки, а все-таки мерзли и будут мерзнуть. А лошадям как не отбирали рожь, но они дохли и будут дохнуть.
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

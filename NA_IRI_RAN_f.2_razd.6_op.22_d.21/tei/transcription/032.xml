@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> таким образом удрали. </p>
+        <p>Назавтра мы послали Ваську с письмом к военнопленным, от них Васька тоже получил письмо, где они выражали искреннюю благодарность нам за столь смелый наш поступок. Я в своем письме просила, чтобы наладить нашу письменную связь с ними. Мне так хотелось быть с народом в тесной связи, знать их всю жизнь, помогать им с последних сил. Бесправная, каторжная жизнь тяготила меня. Я никак не могла смириться с таким бесправным положением, с тем одиночеством, на которое нас обрекли убийцы человечества. Я жаждала свободы, я стремилась к широкой общественной деятельности. Я поняла, что знакомство наше с военнопленными не пройдет бесследно, что это и будет началом той деятельности, началом того, к чему я всегда стремилась. Тов. Невидомский Степан Кириллович в своем ответе на мое письмо писал, что он так же, как и я, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

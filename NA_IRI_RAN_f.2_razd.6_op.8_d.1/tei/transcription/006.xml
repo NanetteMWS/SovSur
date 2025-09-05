@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4" xml:space="default"/>
+        <p> выражалась месть варварам.</p>
+        <p>Среди раненных военнопленных я знала прекрасных людей родины: артиста Островерхова – с кинофильма «Истребители» в роли Николая, прекрасного скрипача Украины – т. Стеценко, сатирика – Быстрова, артиста с капели Леонтовича т. Васильева и ряд других. Этих людей после ранений заставляли чистить уборные, возить на себе бочки с водой, копать могилы в дом величиной, ибо не успевали выкапывать ямы для трупов – это были не люди, а живые трупы.</p>
+        <p>В лазарет привели 4-х женщин-евреек. Одна с них была двумя малютками, детей у нее отобрали и истребили, а через некоторое время и их забрали, и в рву, где истребляли таких же безвинных граждан г. Хорола, а также партийцев и комсомольцев – их тоже расстреляли.</p>
+        <p>С концлагеря ежедневно привозили в лазарет избитых плетками и шомполами русских военнопленных, их украинская полиция, которая помогала немцам, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.23" xml:space="default"/>
+        <p>
+           армией. Все это я переписывала 
+          <hi rendition="#s">на</hi>
+           в нескольких экземплярах, а назавтра Васька разносил в лагеря. Так мы каждый вечер на протяжении шести недель слушали радио, которое каждый раз говорило столько новостей. За этих шести недель Красная армия освободила целый ряд городов: Орел, Курск, Воронеж, Киев, Харьков и много районных центров, сел. Мы чувствовали, что с востока идет истинный освободитель. Как бодрили такие новости весь народ, толкали его на борьбу с врагом. Девушки, работавшие у деревнях, у крестьян, также могли уходить вечером и приходили к нам, мы им рассказывали, записывали новости, а они распространяли в деревнях.
+        </p>
+        <hi rendition="#s">на</hi>
+         в нескольких экземплярах, а назавтра Васька разносил в лагеря. Так мы каждый вечер на протяжении шести недель слушали радио, которое каждый раз говорило столько новостей. За этих шести недель Красная армия освободила целый ряд городов: Орел, Курск, Воронеж, Киев, Харьков и много районных центров, сел. Мы чувствовали, что с востока идет истинный освободитель. Как бодрили такие новости весь народ, толкали его на борьбу с врагом. Девушки, работавшие у деревнях, у крестьян, также могли уходить вечером и приходили к нам, мы им рассказывали, записывали новости, а они распространяли в деревнях.
+        <p>Васька доехал и еще в один из лагерей военнопленных за 18 км. Он рассказал, что их там 44 человека, и все они работают в имении одного помещика. Выполняют все сельскохозяйственные работы, работают на скотном дворе, чистят </p>
+      </div>
+    </body>
+  </text>
+</TEI>

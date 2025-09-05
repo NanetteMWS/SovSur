@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.26" xml:space="default"/>
+        <p> Письмо с фашистской каторги.</p>
+        <p>Советские люди, насильно угнанные на каторгу в Германию, изнывают в немецко-фашистской неволе. Советская девушка Тамара Н. пишет родным: «Мои дорогие мама и папа! Если бы вы знали, какую тяжесть переношу я здесь! Я вожу землю на тачке, вожу и в дождь, и в любую ненастную погодушку. Раз меня послали возить землю, а шел дождь. Я сказала хозяину: «Как же работать в такую погоду?» а он избил меня, да так, что меня водой отливали. Не знала я, что буду переносить такую невзгоду. Были бы крылья, так улетела бы к вам. Работаю с 7 утра дотемна, и ой как тяжело. Не знаю, дорогие родители, останусь ли в живых». (Газета «Народный мститель» № 18/23/ 16/X-43 г. – орган белорусских партизан).</p>
+        <p/>
+        <p>Комиссия при ЦК КП(б)Белоруссии по истории Отечественной войны.</p>
+        <p>16/IX-1943 г.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

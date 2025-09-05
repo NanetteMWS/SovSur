@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p>
+           питали особо лютую ненависть к немцам. Волоколамский район имел до немецкой оккупации 3 МТС – средняя урожайность в районе достигала по зерновым – 13 ц., картофелю – 155 ц с га. В колхозе «Пар. Ком.» (с. Рахманово) была достигнута 
+          <hi rendition="#s">по льну</hi>
+           урожайность по льну: 5,53 ц льносемян, 5,1 ц льноволокна с га, в районе был единственный в области племенной совхоз «Холмогорка», рассадник холмогорских и голландских коров, и больше 30 колхозных племенных животноводческих ферм.
+        </p>
+        <hi rendition="#s">по льну</hi>
+         урожайность по льну: 5,53 ц льносемян, 5,1 ц льноволокна с га, в районе был единственный в области племенной совхоз «Холмогорка», рассадник холмогорских и голландских коров, и больше 30 колхозных племенных животноводческих ферм.
+        <p>
+          МТФ колхоз «Смычка» в с. Спас-Помазкино, к осени 1941 г. насчитывала 100 племенных коров. 
+          <hi rendition="#s">На МТФ были применены</hi>
+        </p>
+        <hi rendition="#s">На МТФ были применены</hi>
+        <p>
+          МТФ была оборудована автопоилками, датскими кормушками. 
+          <hi rendition="#s">Применялась</hi>
+           была введена 
+          <hi rendition="#u">электройка</hi>
+          <hi rendition="#i">?</hi>
+           Имелось специальное и прекрасно оборудов. помещение для новорожденных телят. Водоснабжение 
+        </p>
+        <hi rendition="#s">Применялась</hi>
+         была введена 
+        <hi rendition="#u">электройка</hi>
+        <hi rendition="#i">?</hi>
+         Имелось специальное и прекрасно оборудов. помещение для новорожденных телят. Водоснабжение 
+      </div>
+    </body>
+  </text>
+</TEI>

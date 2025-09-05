@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.36 оборот" xml:space="default"/>
+        <p> что-то ненужное, пустое. Благодаря хорошо поставленной работе ЦКБ и его низовых организаций, власовские пропагандисты не добивались никаких успехов. Когда они появлялись в лагерях, то их гнали оттуда, никто не хотел даже слушать. Власов А.А. неоднократно выступал с призывом по радио. Но, признаюсь, я ни разу не слушала его, и не потому, что у меня время не хватало, а потому, что я не могла его слушать, я не могла слушать ту ложь, несправедливость. Меня так нервировало это, так брало за сердце, что я не могла слушать. Я также не могла читать и газеты, которые издавались для нас, порабощенных. Правда, на четвертой странице всегда помещались стихотворения о Родине, или касающиеся русской девушки (которая стремилась стать непременно иной, которая позорила звание русской девушки), или ребят, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

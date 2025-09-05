@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.4 оборот" xml:space="default"/>
+        <p> без охраны и лучше обеспечали питанием, чем отличались от других.</p>
+        <p>Опишу кратко, в каких же условиях следовали мы. Ответ краткий – в самых ужасных: в тесноте, в жарище, без воды, большинство без пищи и под строгой охраной. За период следования нашего эшелона (эшелона молодежи, вернее, детей) на мучительно-каторжные работы в Германию нам пришлось получить три раза несчастные порции пищи.</p>
+        <p>С моего села со мной ехало всех 12 человек, с их 8 парней: Баран Н., Гиревець Павел и Иван, Куриленко В., Кашко И., Карась П., Приймак Г. и я, да четыре девушки. Между нами Баран Н. и я были комсомольцы.</p>
+        <p>5 июня нас выгрузили в г. Нюрнберге и под строгой охраной загнали в лагерь, который представлял с себя целый </p>
+      </div>
+    </body>
+  </text>
+</TEI>

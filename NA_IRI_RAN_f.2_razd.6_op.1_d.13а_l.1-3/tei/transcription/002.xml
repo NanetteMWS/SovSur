@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000660">
+      <titleStmt>
+        <title>Стенограмма беседы с Пелагеей Киселевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 13а. Л. 1-3.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2" xml:space="default"/>
+        <p> а уж к печке не подпускали. Целую неделю бились, не давали хлеба испечь.</p>
+        <p>25 декабря начали выгонять совсем из деревни: «Русь, выкатывайтесь». Очищай все, всякую мусоринку подмети, чтобы им чисто было. Потом говорят: «Идите к своим, к Сталину своему ступайте, к Костину, к Костину – к своим, там есть у вас дом, вас обогреют». До самого Васильевского гнали. Сапоги у меня дырявые, а галоша-то одна у меня скинулась, надо привязать, не дают. Я ногу-то и обморозила.</p>
+        <p>Мать, старушка 75 лет, была со мной. Сейчас не знаю, где она. Уже за Васильевское, за фронт зашли, она там и осталась. В Васильевском опять они нас повели. Хотели обогреться в одной деревне в изобке, они не дали, выгнали.</p>
+        <p>Сначала мы ночевала ночь в копне. Мы до проволоки еще не доходили. Утром встали: «Пойдемте опять к своей деревне», – говорим. Не хочется нам очень через фронт идти. Поехали обратно к своей деревне. Они нас не допустили. Сказали: «Будем стрелять, если останетесь. Даем вам 15 минут только оставаться жить». Мы опять пошли в Костино по целому снегу.</p>
+        <p>Там, где ночевали, остался старик, отец Ивана Михайловича Бычкова, еще старушка. Говорят: «Тут замерзать будем, не можем идти». Потом 3-4 детишек оставили мертвых, замерзших, так положили в копну. У меня маленьких двое спаслись.</p>
+        <p>Потом переехали проволочные заграждения. Они загнали за проволочные заграждения и из Малеевки стреляют в нас.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

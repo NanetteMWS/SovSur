@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p> Копия.</p>
+        <p>
+          <hi rendition="#i">Выполнено за три месяца</hi>
+          <hi rendition="#i">. </hi>
+        </p>
+        <hi rendition="#i">Выполнено за три месяца</hi>
+        <hi rendition="#i">. </hi>
+        <p>№1. Сентябрь 43 г.</p>
+        <p>
+          Заседанием антифашистов Е.О.А. поставлено распустить 
+          <hi rendition="#s">величайший важный</hi>
+           завод «Schumann» г. Werdau вплоть до непридатности пользы, глава выполнения военнопленный – лейтенант Леонид Хильман.
+        </p>
+        <hi rendition="#s">величайший важный</hi>
+         завод «Schumann» г. Werdau вплоть до непридатности пользы, глава выполнения военнопленный – лейтенант Леонид Хильман.
+        <p>
+          <hi rendition="#i">Выполнено в 8 ч. вечера 6 ноября</hi>
+           №2. Вывесить красное знамя на 7 октября и украсить город лозунгами. Глава выполнения – 5 девушек и Павел.
+        </p>
+        <hi rendition="#i">Выполнено в 8 ч. вечера 6 ноября</hi>
+         №2. Вывесить красное знамя на 7 октября и украсить город лозунгами. Глава выполнения – 5 девушек и Павел.
+        <p>
+          <hi rendition="#i">Сделано полностью и тоже со свеклой.</hi>
+           №3. Затравить осенью картошку в с. Ruβdorf и Mannichswalde. Глава выполнения Петрякушкин, Иван Бурденко и М.Р. Болтлиловский. (Кальциевой солью, раствором).
+        </p>
+        <hi rendition="#i">Сделано полностью и тоже со свеклой.</hi>
+         №3. Затравить осенью картошку в с. Ruβdorf и Mannichswalde. Глава выполнения Петрякушкин, Иван Бурденко и М.Р. Болтлиловский. (Кальциевой солью, раствором).
+        <p>
+          <hi rendition="#i">Сделано.</hi>
+           №4. Отравления лошадей иголками с хлебом – Болтлиловский.
+        </p>
+        <hi rendition="#i">Сделано.</hi>
+         №4. Отравления лошадей иголками с хлебом – Болтлиловский.
+        <p>№5. Бесприказно ЕОА было сделано: Залито водой склад снарядов весом в 40 кг, которые были должны отправиться на фронт – Таиса Козлова Crimmitschau ф-ка Ketling-Braun, сентябрь 44 г., Козлова Варвара – Корпал.</p>
+        <p>№6. Таисой Козловой через Ефремову в военнопленный лагерь была передана карта 7/VI-44 г. В. Корпал.</p>
+        <p>№7. На фабрике Ketling-Braun было сделано три смены браку снарядов весом в 4 кг. Т. Козлова + В. Козлова.</p>
+        <p>№8. Таисой Козловой была передана карта и компас военнопленному П. Штыкову, после чего он сбежал с 2-мя товарищами 6/5-44 г. (подпись – В. Козлова)</p>
+        <p>№9. Расположения фабрик по Grinunitschau.</p>
+        <p>№10. Копия докладной М.П. Правденку от В. Козловой. На переданной мной листовке поймалась Е.М. Ефремова и взята на расправу.</p>
+        <p>Получено известия с концлагеря по адресу</p>
+        <p>Ekaterina Efremowa (1301Z)</p>
+        <p>(г) Orenenburg Berlin</p>
+        <p>Postlagernal</p>
+        <p>№11. Crimmitschau. По приходе англо-американских войск была открыта группа фашистов во главе со слепым на оба глаза, в которой на плане было:</p>
+        <p>1. Взорвать лагеря военнопленные 3, цивильных 1 в ночь против 1-го мая. 29/IV-45 г. комитет Crimmitschau во главе с Бобковым открыл эту группу в 6 человек, в которой обнаружили 2 пулемета, 7 гранат и 2600 патронов и </p>
+      </div>
+    </body>
+  </text>
+</TEI>

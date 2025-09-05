@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000367">
+      <titleStmt>
+        <title>Воспоминания Петра Усупова</title>
+        <author>
+          <persName>Петр Константинович Усупов</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.49" xml:space="default"/>
+        <p> товарный поезд и поехал в неизвестном направлении. В будке вагона Петру удалось таким образом доехать до города Гарбурга (Гарбург находился в 5-6 км от Гамбурга).</p>
+        <p>Недалеко от Гарбурга в одной из деревень Петр встретил одного французского военнопленного, который вместе с товарищами работал у крупного бауэра (помещика). Когда он узнал, что Петр – русский и бежал из лагеря, и кроме того, голодный, то завел его в маленькую халупу, где находилось 7 или 8 человек – его товарищей, которые Петра накормили и дали ему еще на дорогу галет, сигарет, хлеба и яблок.</p>
+        <p>Наступал вечер. Надо было искать ночлег. Найдя склад с брюквой, Петр пролез через окно в помещение, где было навалено вагонов </p>
+      </div>
+    </body>
+  </text>
+</TEI>

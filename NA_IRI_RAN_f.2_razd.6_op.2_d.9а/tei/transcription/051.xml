@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000792">
+      <titleStmt>
+        <title>Материалы об ущербе и злодеяниях фашистских захватчиков в Смоленске и области </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 2. Д. 9а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report, official, memoir">
+        <pb cert="high" n="Л.53" xml:space="default"/>
+        <p> «Зверства и расправы в этом районе производились с мирным населением за помощь партизанам и семьями ушедших в партизаны людей, так была сожжена деревня Дятьково кв. 4678, за помощь партизанам сожжена дер. Федяевка кв. 4474 за то, что в ней было убито 2 немца. К выселению и сожжению предназначена дер. Заовражье кв. 5288, за то, что ее посещают партизаны, и им помогают, дер. Игнатково за расстрел старосты били людей и предупредили, если будут замечены партизаны, будут расстреливать 10-го человека из строя».</p>
+        <p>(Из доклада командира отряда им. Дзержинского Лопатина от 10 ноября 1942 года)</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.28" xml:space="default"/>
+        <p> борьбе, к укреплению дружбы народов, чтобы народ не поддавался фашистской глупой пропаганде и агитации, которые, видя свою неизбежную гибель пускались на всякие хитрости, клевету и ложь. ЦКБ призывал народ к готовности по призыву ЦКБ с оружием в руках встать на последний решающий бой с ненавистным врагом. Обращение ЦКБ оканчивалось замечательными строками: «С нами Сталин родной, и железной рукой нас к победе ведет Ворошилов».</p>
+        <p>На основании указаний ЦКБ еще шире развернул свою работу наш городской комитет. Я очень часто получала письма от т. Шевченко, в которых он просит выгладить его рубаху к воскресенью, и я гладила это письмо, под которым разумелась рубаха, и в нем появлялись совершенно новые строчки, которые я прочитывала много раз, потом мы собирались в удобные моменты </p>
+      </div>
+    </body>
+  </text>
+</TEI>

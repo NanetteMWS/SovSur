@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000092">
+      <titleStmt>
+        <title>Письма и стихи Марии Македонской</title>
+        <author>
+          <persName>Мария Кирилловна Македонская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter, poem_or_song">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> 22 сентября-1946 г.</p>
+        <p>Привет с Украины!</p>
+        <p>Уважаемый тов. Коган, Здравствуйте!!!</p>
+        <p>Письмо Ваше получила, за которое вынести благодарность на бумаге нельзя, но все же я Вам буду письменно благодарить за Ваше внимание ко мне, и чем больше будите писать, тем больше у меня появляется энтузиазма и я хочу Вам переслать в письме свою душу и саму себя.</p>
+        <p/>
+        <p>В часов двенадцать почтальен</p>
+        <p>Вручил письмо из Москвы,</p>
+        <p>Мне закружилась голова,</p>
+        <p>Заломало мне виски.</p>
+        <p>И в этот день я не хожу,</p>
+        <p>Я целый день лечу</p>
+        <p>К Вам с благодарностью пишу,</p>
+        <p>И имя Ваше я шепчу.</p>
+        <p/>
+        <p>Литература с давних пор</p>
+        <p>Уж так мне дорога,</p>
+        <p>С ней легче жить и легче бить</p>
+        <p>Проклятого врага.</p>
+        <p/>
+        <p>И вот когда в конце-концов,</p>
+        <p>Пройдя огонь и дым,</p>
+        <p>Взглянула в милое лицо</p>
+        <p>Знакомым и родным.</p>
+        <p/>
+        <p>Раскинулись рельсы широко</p>
+        <p/>
+        <p>Раскинулись рельсы широко,</p>
+        <p>По них эшелоны спешат;</p>
+        <p>Они с Украины вывозят</p>
+        <p>На Запад наших девчат.</p>
+        <p/>
+        <p>Как вспомню минуты прощанья.</p>
+        <p>Как слезы блестели в глазах,</p>
+        <p>Последние наши объятья</p>
+        <p>На память даруют слова.</p>
+        <p/>
+        <p>Прощай, дорогой, городишка,</p>
+        <p>Прощай, дорогая, семья!</p>
+        <p>Прощайте, дорогие, подруги,</p>
+        <p>Вспоминайте порой про меня.</p>
+        <p/>
+        <p>Сидим мы в барраках германских,</p>
+        <p>Все время мечтаем о воле,</p>
+        <p>А мимо проходять вражие немцы</p>
+        <p>И смотрят с каким-то укором.</p>
+        <p/>
+        <p>Эх! Вы же проклятые звери каты,</p>
+        <p>Мазуры, плуты и воры</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

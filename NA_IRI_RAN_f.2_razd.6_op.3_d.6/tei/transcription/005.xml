@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> Листок Мишиной Зинаиды М.</p>
+        <p>Зверство немцев во время оккупации.</p>
+        <p>
+          Когда пришли немц
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">ы</hi>
+          <hi rendition="#i">, </hi>
+          они начали грабить население
+          <hi rendition="#i">,</hi>
+           они грабили нас
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i"> О</hi>
+          тбирали обувь
+          <hi rendition="#i">,</hi>
+           валенки
+          <hi rendition="#i">,</hi>
+           шапки
+          <hi rendition="#i">,</hi>
+           шубы. 
+          <hi rendition="#i">В</hi>
+          от раз моя мама пошла на колодец за водой 
+          <hi rendition="#s">в</hi>
+           и нечаянно обула валенки, забыла. Тут и шли немцы, увид
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          ли, что мама тепло одет
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          <hi rendition="#i">,</hi>
+           они по
+          <hi rendition="#s">т</hi>
+          <hi rendition="#i">д</hi>
+          ходят к ней и говорят: матка снимай валенки, сн
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">и</hi>
+          ма
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">й</hi>
+           
+          <hi rendition="#s">чажи</hi>
+           
+          <hi rendition="#i">сейча</hi>
+          <hi rendition="#i">с</hi>
+          <hi rendition="#i"> же</hi>
+          <hi rendition="#i">,</hi>
+           а то на штык повешу.
+          <hi rendition="#i"> М</hi>
+          ама начала спорить, она говорить: все равно не отдам. Мы, бывало, валенки обм
+          <hi rendition="#s">о</hi>
+          <hi rendition="#i">а</hi>
+          таем тряпками
+          <hi rendition="#i">. О</hi>
+          ни сперва не догадывались, а потом стали догадыват
+          <hi rendition="#i">ь</hi>
+          ся
+          <hi rendition="#i">.</hi>
+          <hi rendition="#i"> </hi>
+        </p>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">ы</hi>
+        <hi rendition="#i">, </hi>
+        они начали грабить население
+        <hi rendition="#i">,</hi>
+         они грабили нас
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i"> О</hi>
+        тбирали обувь
+        <hi rendition="#i">,</hi>
+         валенки
+        <hi rendition="#i">,</hi>
+         шапки
+        <hi rendition="#i">,</hi>
+         шубы. 
+        <hi rendition="#i">В</hi>
+        от раз моя мама пошла на колодец за водой 
+        <hi rendition="#s">в</hi>
+         и нечаянно обула валенки, забыла. Тут и шли немцы, увид
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        ли, что мама тепло одет
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        <hi rendition="#i">,</hi>
+         они по
+        <hi rendition="#s">т</hi>
+        <hi rendition="#i">д</hi>
+        ходят к ней и говорят: матка снимай валенки, сн
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">и</hi>
+        ма
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">й</hi>
+         
+        <hi rendition="#s">чажи</hi>
+         
+        <hi rendition="#i">сейча</hi>
+        <hi rendition="#i">с</hi>
+        <hi rendition="#i"> же</hi>
+        <hi rendition="#i">,</hi>
+         а то на штык повешу.
+        <hi rendition="#i"> М</hi>
+        ама начала спорить, она говорить: все равно не отдам. Мы, бывало, валенки обм
+        <hi rendition="#s">о</hi>
+        <hi rendition="#i">а</hi>
+        таем тряпками
+        <hi rendition="#i">. О</hi>
+        ни сперва не догадывались, а потом стали догадыват
+        <hi rendition="#i">ь</hi>
+        ся
+        <hi rendition="#i">.</hi>
+        <hi rendition="#i"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

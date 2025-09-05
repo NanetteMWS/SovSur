@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000092">
+      <titleStmt>
+        <title>Письма и стихи Марии Македонской</title>
+        <author>
+          <persName>Мария Кирилловна Македонская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 9. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter, poem_or_song">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Иваньки 1.07-46 г.</p>
+        <p>Комиссии истории Великой Отечественной войны. Докторанту – т. Когану.</p>
+        <p>Каким-то непонятным образом мне удалось подслушать письмо т. Синицы М. и решилась тоже самое помочь Вам кое-чем в составлении истории Великой Отечественной Войны. Сама я родом Винницкой области, с м. Межирова, но в настоящее время я работаю счетоводом автопарка при Иваньковском спиртзаводе.</p>
+        <p>Перед эвакуацией училась в школе и успела окончить только 9 классов. Потом попали в зубы немецких извергов, где в 42 году вместе со своими соучениками были посланы в Германию, где я уверенно работала для блага нашей Родины. Очень много писала о рабской неволе советских граждан, правда стихотворно. Но этих материалов в меня осталось не очень много, само собой понятно, быть в огне, ни с чем не считаешься.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.35" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#s">В Коммунистическом районе прислали скот</hi>
+          <hi rendition="#s"> </hi>
+          Сотни голов скота прислали колхозники восточных районов, как братскую помощь. Частично возвращалось эвакуированное стадо. В ряде 
+          <hi rendition="#s">районов</hi>
+           освобожденных районов колхозы стали иметь по 3-4 животноводческих фермы. Напр. в Коммунистическом районе 
+          <hi rendition="#s">во всех</hi>
+           уже в 1942 г. во всех 146 колхозах 
+          <hi rendition="#s">имеют</hi>
+           имелись МТФ, в 142 колхозах – СТФ, в 141 колхозах – ПТФ, и в 60 колхозах – ОТФ.
+        </p>
+        <hi rendition="#s">В Коммунистическом районе прислали скот</hi>
+        <hi rendition="#s"> </hi>
+        Сотни голов скота прислали колхозники восточных районов, как братскую помощь. Частично возвращалось эвакуированное стадо. В ряде 
+        <hi rendition="#s">районов</hi>
+         освобожденных районов колхозы стали иметь по 3-4 животноводческих фермы. Напр. в Коммунистическом районе 
+        <hi rendition="#s">во всех</hi>
+         уже в 1942 г. во всех 146 колхозах 
+        <hi rendition="#s">имеют</hi>
+         имелись МТФ, в 142 колхозах – СТФ, в 141 колхозах – ПТФ, и в 60 колхозах – ОТФ.
+        <p>25 человек животноводов района за хорошую работу по восстановлению животноводства награждены значками «Отличник социал. сельского хозяйства».</p>
+        <p>В Солнечногорском районе было до немецкой оккупации 2771 голов крупного рог. скота, осталось к 20/I-42 г. 67 коров – 2,4%; к XI-1942 г. уже было 2523 г. Свиней насчитывалось 1000 шт. вместо 895 шт. до оккупации; овец – 1900 шт., вместо 1958 шт. до оккупации. Район к 1943 г. достиг довоенного уровня животноводства.</p>
+        <p>Почти все колхозы освобожденных районов обзавелись 2-3 фермами. Но были и отстающие районы, напр. Шаховской р-н, в котором </p>
+      </div>
+    </body>
+  </text>
+</TEI>

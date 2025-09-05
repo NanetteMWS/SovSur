@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000039">
+      <titleStmt>
+        <title>«В немецком плену», воспоминания Раисы Поляковой</title>
+        <author>
+          <persName>Раиса Абрамовна Полякова</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 1.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p> Когда меня подобрали наши бойцы и привезли в деревню Жданы Сенчанский р-н Полтавск. обл. нас поместили в избу, где чувствовалась забота со стороны населения.</p>
+        <p>И вот в дом, где лежали раненые, в том числе и я, врываются два немца, заметив на одном с раненных немецкую плащ-палатку, нанесли ему побои и ушли, забрав палатку.</p>
+        <p>С тех пор мне стало ясно, что я попала в плен, где грозит – издевательство, голод и смерть. Через две недели нас вывезли, по приказу немцев, в Лубны Полтавской обл. в лазарет для раненных русских военнопленных.</p>
+        <p>Это в большинстве были сараи, а если квартиры – то грязные с разбитыми окнами. Меня и еще 4-х девушек-сестер раненых поместили в комнату-чуланчик на грязной соломе с гноившимися ранами. К утру две сестры скончались от тяжелых ранений, в которые была внесена инфекция «столбняк». Эта мучительная смерть была невыносима, а на следующий день скончалась и 3-я – это операционная </p>
+      </div>
+    </body>
+  </text>
+</TEI>

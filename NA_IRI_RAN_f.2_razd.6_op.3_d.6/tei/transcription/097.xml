@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.56" xml:space="default"/>
+        <p> Зверства немцев во время оккупации.</p>
+        <p>Когда мы были оккупированы, мы очень много переживали. Немцы все население грабили, отбирали валенки и все, что попадется в руки. Они отобрали у моего брата валенки и дали ему рваные. В этот же день немцы поймали двух наших пленных, они их обыскали, нашли один ножик, и их сочли за партизан. Немцы повели из в кусты и там их расстреляли. Они их не давали закапывать, но наши советские люди этого не допустили, чтоб наши бойцы валялися так. На другой день их закопали.</p>
+        <p>Вот что могла я описать, что было с нами во время оккупации.</p>
+        <p>Волкова Александра.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

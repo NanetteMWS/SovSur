@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.20" xml:space="default"/>
+        <p> «Дорогие папа и мама, – пишет Антон Дорожко своим родителям, – живу я неплохо, но брату моему Грише живется гораздо лучше, и я хотел бы переехать жить в его город…» (а брат Антона, Гриша, умер несколько лет тому назад).</p>
+        <p>Аркадий Д. пишет своей сестре Ольге: «…Пришли мне, дорогая сестра, хотя бы 200 грамм сухарей, старые галоши и рубашку. Носить мне совершенно нечего, и если ничего не пришлешь, то я умру от голода и холода…»</p>
+        <p>Стефа П. пишет домой: «Дорогие родные! Вот уже 6 месяцев я работаю у немецкого помещика. Хозяин мой – лютый зверь. За малейшую провинность он избивает резиновой палкой. Живем мы в бараках, которые совсем не отапливаются. Ох, как тяжело жить в неволе. Вырвите меня из этого ада…»</p>
+        <p>Когда читаешь эти короткие письма своих соотечественников, в груди закидает лютая злоба к проклятым поработителям. Жестоко отомстим наглым захватчикам за издевательства над нашим народом. (Газета «За Советскую Родину» №7, 16/XI-43 г. – орган Старо-Дорожского РК КП(б)Б).</p>
+        <p/>
+        <p>Жизнь в немецком «раю».</p>
+        <p>Немцы насильно вывозят нашу молодежь на каторжные работы в Германию. О том, как там живется, пишет одна девушка своим родным в дер. Лютец Жартайской волости: «…Жизнь моя плохая, кормят нас плохо – на весь день дают только 300 грамм черного и черствого хлеба, на завтрак пол-литра несладкого кофе, а на обед и ужин по черпаку жидкого и невкусного супа. Работаем по 12 часов в день, за 3 месяца получила 7 марок 30 пфеннигов.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

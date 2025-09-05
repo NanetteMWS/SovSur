@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.42" xml:space="default"/>
+        <p> 99 пудов хлеба и 127 пудов овощей и картофеля.</p>
+        <p>Аксашина Еф. Фед. 69 лет, у которой 4 сына на фронте, заработала 450 кг зерновых и 576 кг овощей и картофеля.</p>
+        <p>
+          На 2-й год восстановления колхозники уже имели обеспеченную 
+          <hi rendition="#s">сытую</hi>
+           жизнь.
+        </p>
+        <hi rendition="#s">сытую</hi>
+         жизнь.
+        <p>
+          Оправдывалось их горячее рвение к труду и 
+          <hi rendition="#s">надежды на 1-2 года крепко поработает и вернет и вновь расцветут наши колхозы</hi>
+           вера в колхозный труд: 1-2 года упорной работы и зацветет зажиточная, культурная жизнь, как говорили многие колхозники.
+        </p>
+        <hi rendition="#s">надежды на 1-2 года крепко поработает и вернет и вновь расцветут наши колхозы</hi>
+         вера в колхозный труд: 1-2 года упорной работы и зацветет зажиточная, культурная жизнь, как говорили многие колхозники.
+        <p>В 1943 г. Высокинический район уже достиг 99% довоенной посевной площади. 103 картофельных звена из 108 перевыполнили план урожая на 60 975 пудов и получили дополнительной оплаты 15.250 пудов картофеля.</p>
+        <p>49 овощных звена из 32-х вырастили сверх плана урожая 38.200 пудов овощей, и получили дополнительной оплаты 9550 пудов овощей.</p>
+        <p>В районе впервые были выращены свои семена свеклы, моркови, капусты. Раньше район ввозил овощные семена.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

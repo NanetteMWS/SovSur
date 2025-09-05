@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.28" xml:space="default"/>
+        <p> С нами Сталин родной,</p>
+        <p>Он стальною рукой</p>
+        <p>Вырвет нас из германской неволи».</p>
+        <p/>
+        <p>Я вспоминаю, как писал украинский поэт Т.Г. Шевченко:</p>
+        <p>«За горами гори, хмарою повиті,</p>
+        <p>Осіяні горем, кров’ю политі…</p>
+        <p>Щодень божий Прометея там орел карає</p>
+        <p>Щодень божий, довбе ребра – серце добуває.</p>
+        <p>Добуває та не вип’є живущої крові – </p>
+        <p>Воно знову оживає і сміється знову».</p>
+        <p/>
+        <p>Также германский фашизм хотел выпить кровь с советских граждан. Но не смог он выпить ее, не смог сломать дух его патриотизма. Советские патриоты были твердые, они оживали и смеялись снова. Этот смех над фашизмом отражался (кроме диверсионных действий) в песнях, поговорках, насмешках и частушках.</p>
+        <p>Не смотря на давление со стороны </p>
+      </div>
+    </body>
+  </text>
+</TEI>

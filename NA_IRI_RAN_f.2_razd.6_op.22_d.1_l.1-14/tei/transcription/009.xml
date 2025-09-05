@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.9" xml:space="default"/>
+        <p> мордують голодом, холодом, тяжкою непосильною працею – 14-16 годин на добу. Теранія фашизму загнала наших товаришів сотнями тисяч до в’язниць, карних лагерів, де їх вішають, розстрілюють.</p>
+        <p>Хто у нас, товариші, посміє стати до лав фашизму?</p>
+        <p>Хто підниме руку на свою рідну матір?</p>
+        <p>Таких не повинно бути.</p>
+        <p>Хай цей маніфест служить гаслом нашої небезпеки!</p>
+        <p>Хай прискорить і зміцнить наші ряди, для того, щоб ударити в лоб фашизмові і розрахуватися з ним назавжди.</p>
+        <p>Хай майорить Червоний прапор над усією Європою!</p>
+        <p>Смерть європейському фашизму!</p>
+        <p>
+          Хай живе наша любима Коммуністична партія і її проводир 
+          <hi rendition="#u">т. Сталін.</hi>
+        </p>
+        <hi rendition="#u">т. Сталін.</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

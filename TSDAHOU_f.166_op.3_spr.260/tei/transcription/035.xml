@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000816">
+      <titleStmt>
+        <title>Щоденник Арсенія Мироненко</title>
+        <author>
+          <persName>Арсеній Іванович Мироненко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 260.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="diary">
+        <pb cert="high" n="Л.121" xml:space="default"/>
+        <p> Серед тих, хто готував окопи, були селяни з Мельників.</p>
+        <p>20 липня знову я в рідному селі. Почалися жнива. Урожай був надзвичайно великий. Нам дали перепочіть після повернення з подорожі, а потім голова колгоспу, комплектуючи штат до молотарки, запропонував мені бути вагарем. Я погодився. Було все підготовлено. Провели пробний обмолот. На другий день пустили молотарку повним ходом. Виставили дозорних на випадок нальоту німецьких літаків. Гончар Федя був першим дозорним. Почалася молотьба. З-за хмар появились німецькі літаки. На цей раз скинули листівки. В них говорилося: «Селяни, бережіть зерно, воно буде ваше, бо німецька армія не голодна».</p>
+        <p>Більшість з нас відносилась з недовір’ям до цих обіцянок. 1-го серпня ми молотили пшеницю. Після обмолоту 2-го серпня роздали її всім колгоспникам. Вже чути було орудійні вистріли. Вечером уже частина населення евакуювалась, а 4-го серпня в Медведівку ввійшли німці, забрали телефон вдень, а вечером з Головківки було чути стрілянину і звідтіль мотоциклісти і піхота на автомашинах увійшли в село Мельники.</p>
+        <p>Молотьба була припинена. Встигли роздать все, що було в колгоспі, роздали курей, гусей, все з кладової. Але в понеділок зібралися самі люди на сходу і вирішили докосити останній хліб і роздати людям снопами, але всього не встигли роздати, а тому те, що залишилося на полі, прийшлося молотити аж до зими і навіть зимою.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

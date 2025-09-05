@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p> Подошла весна 1942 года. Начались принудительные вербовки и угоны молодежи в Германию. Волною слез и горя прошла первая «вербовка». Пришлось неделю прятаться мне с сестрой по разным местам.</p>
+        <p>Не втихли крики детей и матерей, угрозы и погони полиции после первой, как началась вторая. На этот раз попал и я. Утречком я проснулся на рыданье мамы. В комнате стоял полицай. Он приказал: в случае моего побега – будет уничтожено имущество, и вся семья угнана в Германию.</p>
+        <p>На 12 часов дня было собрато полицией несколько десятков молодежи к сельсовету, откуда под конвоем полиции отправлены в район. Второго дня, под усиленным конвоем полиции, гестапо и комендатуры, мы были отправлены на станцию в Белую Церкву. Здесь погрузили нас по </p>
+      </div>
+    </body>
+  </text>
+</TEI>

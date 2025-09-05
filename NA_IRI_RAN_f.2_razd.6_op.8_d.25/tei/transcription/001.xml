@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000078">
+      <titleStmt>
+        <title>Воспоминания Василия Павлова</title>
+        <author>
+          <persName>Павлов Василий Абрамович</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 25.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>В 1941 г. коричневые орды Гитлера захватили г. Смоленск и мою деревню Тычинино, которая была неподалеку от города. Солнце закрылось для народа. Наступила беспросветная ночь. Беспрестанно мимо деревни шли эшелоны на восток, набитые пьяными фашистами. Обратно эти эшелоны шли груженные русским хлебом, машинами. Этими же эшелонами увозили в проклятую Германию, в рабство наших советских людей. В 1943 году этот тяжелый день наступил и для меня. Но я бежал. Полиция поймала меня и после одиннадцати месяцев смоленской тюрьмы и местного концлагеря, в один прекрасный день нас погрузили в вагоны. На дверях тяжело щелкнул замок. Через три дня пути замок снова щелкнул и мы увидали дневной свет. Но мы были уже далеко от Родины. Мы были в Тюрингии, вблизи г. Кала, где для концерна «Герман Геринг» сооружался огромный подземный завод. На стройку его были согнаны десятки тысяч рабов со всех стран Европы. Потекли ужасные дни. Подъем, жидкий суп из брюквы, команды эсэсовцев, колодки на ногах, изнурительная 12-ти часовая работа.</p>
+        <p>Строительству придавалось, по-видимому, большое значение, т.к. на стройку часто приезжал работорговец Заукель. Бывал и Геринг.</p>
+        <p>Дни этих «высоких» посещений были особенно тяжелыми для нас. В этот день чаще свистели плетки, большее количество обессиленных товарищей приходилось нам везти на тележках домой. Кормили ужасно. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

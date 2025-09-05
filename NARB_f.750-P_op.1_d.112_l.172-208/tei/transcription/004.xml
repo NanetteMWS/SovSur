@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000883">
+      <titleStmt>
+        <title>Стенограмма беседы с Наумом Фельдманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 172-208.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.176" xml:space="default"/>
+        <p> Таким образом, люди, которых жажда гнала к речке, автоматной очередью оставались на месте у речки.</p>
+        <p>
+          Тут же, в лагере, немцы объявили – кто инженеры, врачи, учителя и вообще люди вольных профессий, должны выйти для направления на работу. Понятно, в число их для того, чтобы выйти хоть на некоторое время из лагеря, записывались люди, которые не подлежали к этой категории. И вот, когда они были 
+          <hi rendition="#s">оттас</hi>
+          <hi rendition="#s">о</hi>
+          <hi rendition="#s">ваны</hi>
+           
+          <hi rendition="#i">отобраны</hi>
+          , их вывезли из лагеря на машинах и тут же за бугром их расстреляли. Таким образом, с самого начала было расстреляно очень много специалистов.
+        </p>
+        <hi rendition="#s">оттас</hi>
+        <hi rendition="#s">о</hi>
+        <hi rendition="#s">ваны</hi>
+         
+        <hi rendition="#i">отобраны</hi>
+        , их вывезли из лагеря на машинах и тут же за бугром их расстреляли. Таким образом, с самого начала было расстреляно очень много специалистов.
+        <p>
+          За два дня до роспуска лагеря евреи были направлены в Минскую тюрьму, где мы просидели 2-2,5 суток, после чего 
+          <hi rendition="#s">под </hi>
+          <hi rendition="#s">обязательство</hi>
+           
+          <hi rendition="#i">немцы объявили, </hi>
+          <hi rendition="#i">что</hi>
+          , что мы 
+          <hi rendition="#s">по</hi>
+          <hi rendition="#s">й</hi>
+          <hi rendition="#s">д</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">м на работу</hi>
+           
+          <hi rendition="#i">обязаны пойти на работу</hi>
+          , нас выпустили.
+        </p>
+        <hi rendition="#s">под </hi>
+        <hi rendition="#s">обязательство</hi>
+         
+        <hi rendition="#i">немцы объявили, </hi>
+        <hi rendition="#i">что</hi>
+        , что мы 
+        <hi rendition="#s">по</hi>
+        <hi rendition="#s">й</hi>
+        <hi rendition="#s">д</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">м на работу</hi>
+         
+        <hi rendition="#i">обязаны пойти на работу</hi>
+        , нас выпустили.
+        <p>
+          В это время немцы организовали биржу труда, для евреев была специальная биржа труда. (Это период между лагерем в Дроздах и гетто). Между прочим, 
+          <hi rendition="#i">когда мы выходили из </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">1 слово непонятно</hi>
+          <hi rendition="#i">]</hi>
+           человек около 25 были вызваны по 
+          <hi rendition="#i">по</hi>
+          <hi rendition="#i"> списку</hi>
+           фамилии, в том числе и моя фамилия была названа. Я понял, что это была явная гибель и свою фамилию не сказал и не вышел, а кто вышел, их больше нигде не видно было. По-видимому, это было сделано по доносу.
+        </p>
+        <hi rendition="#i">когда мы выходили из </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">1 слово непонятно</hi>
+        <hi rendition="#i">]</hi>
+         человек около 25 были вызваны по 
+        <hi rendition="#i">по</hi>
+        <hi rendition="#i"> списку</hi>
+         фамилии, в том числе и моя фамилия была названа. Я понял, что это была явная гибель и свою фамилию не сказал и не вышел, а кто вышел, их больше нигде не видно было. По-видимому, это было сделано по доносу.
+        <p>
+          Гетто было объявлено с перв
+          <hi rendition="#s">ых</hi>
+          <hi rendition="#i">ого</hi>
+           
+          <hi rendition="#i">чисел</hi>
+           августа 
+          <hi rendition="#i">1941 г.</hi>
+        </p>
+        <hi rendition="#s">ых</hi>
+        <hi rendition="#i">ого</hi>
+         
+        <hi rendition="#i">чисел</hi>
+         августа 
+        <hi rendition="#i">1941 г.</hi>
+        <p>Когда выпустили из тюрьмы, я пошел домой, я лично на биржу не ходил, а большинство ходили регистрироваться. А потом было объявлено гетто, и все ушли в гетто.</p>
+        <p>Что собой представляло гетто, вы уже знаете.</p>
+        <p>В гетто я пробыл начиная с августа 1941 года до апреля 1942 года. Будучи в гетто, вел подпольную работу.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

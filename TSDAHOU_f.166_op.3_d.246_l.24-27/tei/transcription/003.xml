@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000834">
+      <titleStmt>
+        <title>Стенограмма беседы с Константином Рожкиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 24-27.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.27" xml:space="default"/>
+        <p> и во время судорог он ударил лежащего с ним рядом нацмена, который сильно закричал, а часовой услышал, вошел, взял его за ноги, вытащил во двор и тут же расстрелял двумя выстрелами.</p>
+        <p>Знаю еще случай расстрела, когда в 1941 году немцы расстреляли весь актив села – 18 человек. При отступлении 277 мужчин немцы мобилизовали, вывели в лес и всех расстреляли.</p>
+        <p>При отступлении немцы бросали в окна гранаты и погубили очень много людей. В нашем селе было повешено три человека: Д.П. Шейка, Павел Сергеевич Чаговец, Роман Андреевич Гончар. Повесили их будто бы за то, что они взяли у немцев какие-то документы.</p>
+        <p>В Германию угоняли людей насильно. Брали ночью и днем из квартир и на улицах устраивая облавы.</p>
+        <p>(Рожкин К.Н.)</p>
+        <p>
+          [
+          <hi rendition="#i">подпись</hi>
+          ]
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ]
+        <p>с. Андреевка, Харьковской обл. Балаклеевск. района. Константин Николаевич Рожкин.</p>
+        <p>
+          Стенографистка [
+          <hi rendition="#i">подпись</hi>
+          ] (Г.В. Шестопалова)
+        </p>
+        <hi rendition="#i">подпись</hi>
+        ] (Г.В. Шестопалова)
+      </div>
+    </body>
+  </text>
+</TEI>

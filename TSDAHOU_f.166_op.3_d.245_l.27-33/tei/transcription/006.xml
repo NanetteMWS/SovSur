@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.32" xml:space="default"/>
+        <p> расстрел.</p>
+        <p>К военнопленным относились ужасно. Нельзя было смотреть без слез, когда при морозе 30° гнали военнопленных почти раздетых. Ноги в деревянных колодках, шинели, превращенные в лохмотья.</p>
+        <p>Если кто-нибудь хотел подать хлеб или что-нибудь из продуктов, немец вырывал и бросал на землю, не разрешая брать. Помещались они в холодном помещении без окон.</p>
+        <p>Военнопленных использовали на разных работах, например, на разборке зданий без всякой техники безопасности. Они умирали, как мухи от голода и холода.</p>
+        <p>19 сентября был издан приказ о том, чтобы население города Мелитополя оставило г. Мелитополь под страхом расстрела. Сам гебитскомиссар разъезжал по городу и предупреждал, что кто не выедет, будет расстрелян. Начались массовые облавы. Население пряталось в садах, погребах, окопах. Немцы ходили с собаками и автоматами. В подвалы бросали гранаты. Спрятавшихся расстреливали на месте. Тысячи людей гнали по направлению к Ново-Николаеву и должны были отправлять за Днепр.</p>
+        <p>Мне лично пришлось путешествовать с семьей Милюкова и Стамболи. Мужчин закрыли в подвал дома Стамболи. Оставили им пищи на 10 дней, накрыли досками и засыпали землей. А нас погнали этапом. Благодаря тому, что нас конвоировал польский солдат, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

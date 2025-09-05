@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000368">
+      <titleStmt>
+        <title>Документы подпольной организации принудительных рабочих &quot;Воля&quot;</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 1. Л. 1-14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.3" xml:space="default"/>
+        <p> Бороться и проливать кровь за процветание социалистического мира – мира счастья и радости для милл. трудящихся.</p>
+        <p>Кто не готов – приготовиться.</p>
+        <p>Кто готов – быть начеку, учитывая, что сигнал к выступлению получить смогут не все. Началом выступления считать действие. К вам в соединения включиться энергично, решительно, быстро, Именем Родины, объявляю мобилизованными всех верных ее сынов, дочерей, находящихся вне пределов отечества.</p>
+        <p>Прага, август 44 г.</p>
+        <p>Генерал Лейтенант «Простой», командующий вооруженными силами в тылу.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

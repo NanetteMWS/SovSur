@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.63 оборот" xml:space="default"/>
+        <p> с нашими русскими ребятами, поехали к хозяйке в имение, забрали оружие, хотели взять старикашку, но он ушел в лес.</p>
+        <p>После обеда мы хоронили товарища. На могиле его многие выступали с речью, слезы сверкали у многих. И, навсегда простившись с дорогим товарищем, все разошлись.</p>
+        <p>В этот вечер к нам пришло много народа. Мы снова все встретились после тревожных мучительных дней. Все приходили, поздравляли друг друга с освобождением, радовались, веселились и торжествовали. День 11 апреля 1945 г. являлся для нас днем большого праздника. Мы снова стали свободными, мы свободно взглянули на свет, мы свободно могли собираться у себя в комнате, в лагере, не боясь, что за нами смотрят, что нас преследуют, что нам грозит опасность, что нужно быть осторожным. Теперь уже все опасности миновали, мы навсегда сбросили ярмо фашистское, освободились от </p>
+      </div>
+    </body>
+  </text>
+</TEI>

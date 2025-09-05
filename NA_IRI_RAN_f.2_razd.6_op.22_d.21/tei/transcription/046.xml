@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.24" xml:space="default"/>
+        <p> условленное время того или иного товарища, передать и получить почту. Невидомский писал всегда, чтобы мы осторожно устанавливали широкую связь с массами, привлекали всех к активной деятельности, призывали к борьбе, но это нужно было делать очень осторожно, умело, потому что на каждом шагу можно было попасться в ловушку. Гитлеровцы следили, преследовали весь народ. За малейшее что-нибудь забрасывали в концентрационные лагеря, где еще больше мучили и издевались над народом. </p>
+        <p>При встрече в теках Невидомский говорил, что нам нельзя дальше так сидеть и ожидать освобождения, мы должны готовиться к дню освобождения, мы должны побольше вовлечь в эту работу надежных людей, шире развернуть работу и т.д. Как-то ранней весной 1944 г. Васька привозит от (теперь уже Васька не ходил, а ездил на велосипеде, который ему сложили ребята, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

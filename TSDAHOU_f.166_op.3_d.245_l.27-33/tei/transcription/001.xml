@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000821">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгенией Понизовской</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 27-33.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.28" xml:space="default"/>
+        <p/>
+        <p>Стенограмма гр. Понизовской Евгении Досифеевны, 1899 г. рожд., уроженки г. Кирово (Вятка), свидетельницы на судебном процессе о немецко-фашистских злодеяниях на Украине по делу гебитскомиссара Гейниш.</p>
+        <p/>
+        <p>До начала войны жила и работала в г. Мелитополе. В силу семейных обстоятельств эвакуироваться не могла и осталась в г. Мелитополе.</p>
+        <p>Немцы пришли 6 октября 1941 г.</p>
+        <p>С первых дней своего появления начала орудовать фельд-комендатура во главе с доктором Килинг. Начались издаваться приказы о том, чтобы все служащие и рабочие явились работать на старые места. Рабочие на заводы, а служащие в городскую управу. Я, будучи адвокатом, не работала по специальности, а писала жалобы всем, кто обращался ко мне. Так работала до конца 1942 г. В конце 1942 г. мне запретили вести эту работу и велели явиться к прокурору. Там мне дали анкету и после заполнения ее назначили на работу нотариусом г. Мелитополя.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

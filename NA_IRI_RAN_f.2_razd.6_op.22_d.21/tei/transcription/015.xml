@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.8 оборот" xml:space="default"/>
+        <p> товарищам, с которыми я встречалась, с которыми я вместе стремилась к борьбе против ненавистного врага, а теперь я попала в клетку, с которой трудно уйти, и не одна я, а вся семья. Если бы я одна, я искала бы какой-нибудь выход, и я нашла бы, может, его. Но теперь делать уже было нечего. В глубоком размышлении я не заметила, как эшелон тронулся. Раздались крики, плач, громкое и тяжелое прощание. </p>
+        <p>Я осмотрелась кругом. Все было так понуро, ужасно. Я увидела плачущих девушек, плачущую свою старуху-мать, и слезы посыпались у меня с глаз. Отец стоял молча, нахмурив брови. Все молчали. Поезд помчал нас в даль, в неизвестность. Было холодно, жутко, страх какой-то закрадывался в душу. Всякие мысли путались у меня в голове. Я думала: «Неужели это пришел уже всему конец, неужели я не смогу еще делать что-нибудь важное, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000810">
+      <titleStmt>
+        <title>Воспоминания Веры Кальницкой</title>
+        <author>
+          <persName>Вера Филипповна Кальницкая</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 244. Л. 82-92.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.89" xml:space="default"/>
+        <p> Питание было такое: полтора килограмма хлеба на неделю и три раза в день горячий суп из бураков и морквы, один раз в неделю «мясной» на костях. В 9 часов утра давали кофе, для которого надо было сохранить хлеб, но его ни у кого не бывало.</p>
+        <p>Зарплата была 22 марки в месяц, из них 16,5 высчитывали за питание, а остальные марки мы могли тратить лишь в воскресные дни. Специально были русские рестораны, где было пиво, суп стоимостью одна тарелка – марка.</p>
+        <p>Одежда нам полагалась один раз в год, но мы получили только перед освобождением. Полагались на деревянных подметках туфли, рубашка и платье. Верхняя одежда не полагалась.</p>
+        <p>Благодаря тому, что жили в помещениях фабрики и на улицу почти не приходилось выходить, мы обходились без зимней одежды.</p>
+        <p>На фабриках и заводах работали и немки, которые находились в особых условиях. Жили она у себя дома и на работу приходили или приезжали велосипедами. Для них были отдельные гардеробы, столовые, чистый и освещенный зал. Труд оплачивался в три раза больше.</p>
+        <p>Украинцы имели хорошие взаимоотношения только с поляками. Обращаться к другим национальностям нам не разрешалось. Заходить полякам в комнату украинцев или наоборот, строго воспрещалось, за этим </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.52" xml:space="default"/>
+        <p> Девятого октября в нашу деревню пришли немцы. В первые же дни они начали грабить колхозное имущество. Они брали все: лошадей, сбрую, телегу и колхозных коров и т.д. Когда побрали все колхозное имущество, начали грабить колхозников. У нас они взяли: овцу и поросенка и многое из хозяйства. Настала зима, немцы начинают ежедневно гонять всех на очистку дорог от снегов, а кто не подчинялся, того расстреливали. Особенно они издевались, когда отступали. Многих расстреливали, молодых женщин и мужчин угонял с собой, а детей бросали в колодец и в пламя горящих домов.</p>
+        <p>Настало 28 февраля, когда наша доблестная Красная Армия изгнала немецких оккупантов из нашей деревни. И снова мы увидели хорошую счастливую жизнь, открылись школы, и мы зажили по-новому.</p>
+        <p>Мартыновой Клавдии.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

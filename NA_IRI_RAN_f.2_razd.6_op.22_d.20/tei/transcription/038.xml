@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.20" xml:space="default"/>
+        <p> заделывали в колодки, и доски, и другие места. Другие прятали между стенками бараков, в лесе, в кустах, под скалами, в дуплах деревьев и т.п.</p>
+        <p>На протяжении всего времени советские люди организовывали одиночные и массовые побеги. Целью их было: добраться на территорию Советского Союза или же другой страны, пробраться к партизанским отрядам, переменить место и условия жизни. Бежали с лагерей и работы, днем и ночью, во время воздушной тревоги и налетов.</p>
+        <p>Так, во время одного сильного налета, с Нюрнберга сбежало около 800 человек разных национальностей. С одного лагеря, в том же числе, сбежало сразу 80 военнопленных красноармейцев. После этого нам сообщили, что в районе Форгайма организован небольшой партизанский отряд. Много ушло к польским, чехословацким, югославским, французским и голландским партизанам.</p>
+        <p>В Кельне и Эсене было организовано около 15 тыс. человек с нашего народа, так </p>
+      </div>
+    </body>
+  </text>
+</TEI>

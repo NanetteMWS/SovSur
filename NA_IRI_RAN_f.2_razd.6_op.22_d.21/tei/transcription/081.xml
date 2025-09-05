@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.41 оборот" xml:space="default"/>
+        <p> стояли и наблюдали за самолетами, и так нам хотелось всегда, чтобы сбросили здесь бомбу, хоть маленькую, хотя бы бочку какую-нибудь, чтобы напугать немцев, а они так боялись. Как только самолеты налетят, так они бегают, визжат, суетятся и места себе не находят. А нам так смешно смотреть на них. Девушки залезут на деревья и оттуда машут красными косынками. </p>
+        <p>И вот, дадут уже отбой, а мы все еще в лесу, а потом приходишь на работу, а они и начинают нас ругать, что так долго не были, а мы в оправдание говорили, что сильно боялись и все время сидели в подвале. С нетерпением ждали вечера т.к. вечером всегда почти в одно время ревела сирена, и не одна, а несколько, а потом, как начнут лететь самолеты, так гремит и небо, и земля, и ничего нельзя понять, откуда и куда летят, а мы всегда пользуемся удобным моментом, выскочишь – и в лес, а потом </p>
+      </div>
+    </body>
+  </text>
+</TEI>

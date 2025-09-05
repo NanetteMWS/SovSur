@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.42" xml:space="default"/>
+        <p> 14-го декабря. 1942 года.</p>
+        <p>
+          Зверства немцев во время оккупации. Когда к нам пришли немецкие оккупанты, они начали грабить наше село. 4 месяца пробыли у нас грабители. К нам в село наезжали немцы
+          <hi rendition="#i">,</hi>
+           чтобы пограбить коров, свиней, кур, одежду. Когда под ударом Красной Армии немцы были вынуждены отступить, они сожгли наше село. Немецки
+          <hi rendition="#s">и</hi>
+          <hi rendition="#i">е</hi>
+           изверги людей заг
+          <hi rendition="#s">а</hi>
+          <hi rendition="#i">о</hi>
+          няли на печи или выгоняли на мороз, валенки сымали, шубы раздевали, платки сымали, есть не давали, как уви
+          <hi rendition="#s">жуть</hi>
+          <hi rendition="#i">дят</hi>
+           хлеб – они его вырывали изо рта.
+        </p>
+        <hi rendition="#i">,</hi>
+         чтобы пограбить коров, свиней, кур, одежду. Когда под ударом Красной Армии немцы были вынуждены отступить, они сожгли наше село. Немецки
+        <hi rendition="#s">и</hi>
+        <hi rendition="#i">е</hi>
+         изверги людей заг
+        <hi rendition="#s">а</hi>
+        <hi rendition="#i">о</hi>
+        няли на печи или выгоняли на мороз, валенки сымали, шубы раздевали, платки сымали, есть не давали, как уви
+        <hi rendition="#s">жуть</hi>
+        <hi rendition="#i">дят</hi>
+         хлеб – они его вырывали изо рта.
+        <p>Но скоро пришла Красная Армия и мы вышли из лап палачей на волю. Писала 3-го класса Барсуковской школы Скворцова Мария.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

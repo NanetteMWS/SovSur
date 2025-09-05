@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.37" xml:space="default"/>
+        <p>
+           Закончили косовицу за 12-15 рабочих дней. В Солнечногорском районе уборка зерновых была проведена за 9-10 дней, хотя значительную часть урожая убирали вручную, серпом, и 
+          <hi rendition="#s">около</hi>
+           
+          <hi rendition="#i">примерно</hi>
+          <hi rendition="#i"> с</hi>
+           1000 га обмолотили вручную, цепами. 
+          <hi rendition="#s">зато и результаты</hi>
+           Зато и результаты получились славные. Так, в колхозе «Новый путь» 
+          <hi rendition="#s">уже</hi>
+           на трудодень было выдано 3 кг зерновых, 8 кг картофеля, 4 кг овощей. В Клинском районе к 1/XI-42 г. одновременно с уборкой был закончен обмолот. Колхозы района план сдачи зерновых по госпоставкам выполнили на 107%, и 50 тонн сдали в фонд обороны.
+        </p>
+        <hi rendition="#s">около</hi>
+         
+        <hi rendition="#i">примерно</hi>
+        <hi rendition="#i"> с</hi>
+         1000 га обмолотили вручную, цепами. 
+        <hi rendition="#s">зато и результаты</hi>
+         Зато и результаты получились славные. Так, в колхозе «Новый путь» 
+        <hi rendition="#s">уже</hi>
+         на трудодень было выдано 3 кг зерновых, 8 кг картофеля, 4 кг овощей. В Клинском районе к 1/XI-42 г. одновременно с уборкой был закончен обмолот. Колхозы района план сдачи зерновых по госпоставкам выполнили на 107%, и 50 тонн сдали в фонд обороны.
+        <p>
+          Героическая работа колхозников освобожденных районов, организованное совместное преодоление трудностей, серьезная помощь 
+          <hi rendition="#s">вост</hi>
+           колхозников восточных районов, 
+          <hi rendition="#s">моск</hi>
+           умелое руководство партийных организаций – все это обеспечило успешное проведение с/хоз. работ в 1942 г., 
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s"> </hi>
+        </p>
+        <hi rendition="#s">вост</hi>
+         колхозников восточных районов, 
+        <hi rendition="#s">моск</hi>
+         умелое руководство партийных организаций – все это обеспечило успешное проведение с/хоз. работ в 1942 г., 
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s"> </hi>
+      </div>
+    </body>
+  </text>
+</TEI>

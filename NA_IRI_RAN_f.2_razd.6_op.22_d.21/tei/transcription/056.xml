@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.29" xml:space="default"/>
+        <p> подвергалась беспрерывной бомбежке. Не переставая ревела сирена, и днем и ночью над Германией летали самолеты, бомбили, опускались и обстреливали с пулемета. Немцы были в панике, ходили понурив голову, собирались кучками, вели разговоры.</p>
+        <p>Хозяйка заставляла нас еще больше работать, но работа ее являлась для нас делом второстепенным, мы так увлеклись своей работой, которая нас так занимала. Мы так часто ругались с хозяйкой, если она в воскресенье не хотела дать выходного после обеда, то мы бросали и уходили с работы. На работе не было того дня, чтоб я или Дуся не принесли ей какого вреда. То я разобью три тарелки сразу, которыми она так дорожила т.к. достать негде было их, то я разломаю стул, то отломаю дверцы у плиты, то обломаю рукомойник, то раздавлю цыпленка, то лис потащит курей, за которыми я смотрела, то Дуся опрокинет ее столик </p>
+      </div>
+    </body>
+  </text>
+</TEI>

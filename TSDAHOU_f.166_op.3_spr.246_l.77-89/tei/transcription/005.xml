@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000838">
+      <titleStmt>
+        <title>Стенограма бесіди з Пилипом Фрідманом</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Спр. 246. Арк. 77-89.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Арк.81" xml:space="default"/>
+        <p>
+           колосального подвір’я стояли кучки євреїв, якими займалися німці. Вони провадили різні екзекуції. В одній купі їх лише били, в другій купі стріляли». В його купі було так: він стояв довгий час, але його не били. Врешті він попав в якусь чергу перед якимись дверима. Туди входили поодиноко. Коли хто входив 
+          <hi rendition="#s">останній</hi>
+           
+          <hi rendition="#i">останні, які залишилися зовні</hi>
+          , чули вистріл. В черзі повторювалися 
+          <hi rendition="#i">сторожуючим</hi>
+          <hi rendition="#i"> німецьким </hi>
+          <hi rendition="#i">вахтмайстром</hi>
+           такі слова: 
+          <hi rendition="#i">«</hi>
+          <hi rendition="#i">Die</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Rache</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">ist</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">s</hi>
+          <hi rendition="#i">üß</hi>
+          <hi rendition="#i">»</hi>
+           
+          <hi rendition="#i">(«</hi>
+          помста є солодка
+          <hi rendition="#i">»)</hi>
+           
+          <hi rendition="#s">це казали німці</hi>
+          . Так стояв він довгий час. «Переді мною стояв знайомий аптекар і 
+          <hi rendition="#s">мій</hi>
+           
+          <hi rendition="#i">його</hi>
+           син, у якого був розбитий череп. Вони сварилися зі мною, що я хотів піти пізніше, але мені було все рівно. Я пішов вперед. Там я побачив багато трупів забитих, але вони ще рухалися, стогнали. Німецький офіцер з револьвером в руках приказав мені йти нагору. Я пішов. У мене не було жодної думки. В тій хвилині я не думав ні про дитину, ні про жінку, я закрив очі, але він приказав одкрити, але я нічого не бачив. Офіцер керував дулом пістолета, але я чув пістолет дав осєчку і тоді він сказав мені іти геть і крикнув 
+          <hi rendition="#i">до німецького солдата, який стояв у дверей</hi>
+           
+          <hi rendition="#i">«</hi>
+          <hi rendition="#i">F</hi>
+          <hi rendition="#i">ü</hi>
+          <hi rendition="#i">r</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">heute</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">genug</hi>
+          <hi rendition="#i">»</hi>
+           
+          <hi rendition="#i">(</hi>
+          на сьогодні досить
+          <hi rendition="#i">)</hi>
+          . Після цього в той день нікого більше не вбили. Через дві-три години нас всіх випустили
+          <hi rendition="#i">»</hi>
+          . Досить велика частина людей вийшла з цього подвір’я і розказували, як з них знущалися німці: ї
+          <hi rendition="#i">х</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#s">в</hi>
+          били, приказували стояти біля стіні, начебто збиралися в них стріляти, але не стріляли. На загал частина людей цих вийшла, частина була забита. Це все було до 3-го липня 1941 р. Між іншим були забиті рабин д-р Лєвін і бувший редактор єврейського щоденника 
+          <hi rendition="#i">«</hi>
+          <hi rendition="#i">Хвіла</hi>
+          <hi rendition="#i">»</hi>
+           Гешелес. Скільки осіб взагалі забито, не можу сказати, бо є різні оцінки і жодна не може бути вірогідною. Німецька тактика була не давати віддиху, одна акція йшла за другою.
+        </p>
+        <hi rendition="#s">останній</hi>
+         
+        <hi rendition="#i">останні, які залишилися зовні</hi>
+        , чули вистріл. В черзі повторювалися 
+        <hi rendition="#i">сторожуючим</hi>
+        <hi rendition="#i"> німецьким </hi>
+        <hi rendition="#i">вахтмайстром</hi>
+         такі слова: 
+        <hi rendition="#i">«</hi>
+        <hi rendition="#i">Die</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Rache</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">ist</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">s</hi>
+        <hi rendition="#i">üß</hi>
+        <hi rendition="#i">»</hi>
+         
+        <hi rendition="#i">(«</hi>
+        помста є солодка
+        <hi rendition="#i">»)</hi>
+         
+        <hi rendition="#s">це казали німці</hi>
+        . Так стояв він довгий час. «Переді мною стояв знайомий аптекар і 
+        <hi rendition="#s">мій</hi>
+         
+        <hi rendition="#i">його</hi>
+         син, у якого був розбитий череп. Вони сварилися зі мною, що я хотів піти пізніше, але мені було все рівно. Я пішов вперед. Там я побачив багато трупів забитих, але вони ще рухалися, стогнали. Німецький офіцер з револьвером в руках приказав мені йти нагору. Я пішов. У мене не було жодної думки. В тій хвилині я не думав ні про дитину, ні про жінку, я закрив очі, але він приказав одкрити, але я нічого не бачив. Офіцер керував дулом пістолета, але я чув пістолет дав осєчку і тоді він сказав мені іти геть і крикнув 
+        <hi rendition="#i">до німецького солдата, який стояв у дверей</hi>
+         
+        <hi rendition="#i">«</hi>
+        <hi rendition="#i">F</hi>
+        <hi rendition="#i">ü</hi>
+        <hi rendition="#i">r</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">heute</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">genug</hi>
+        <hi rendition="#i">»</hi>
+         
+        <hi rendition="#i">(</hi>
+        на сьогодні досить
+        <hi rendition="#i">)</hi>
+        . Після цього в той день нікого більше не вбили. Через дві-три години нас всіх випустили
+        <hi rendition="#i">»</hi>
+        . Досить велика частина людей вийшла з цього подвір’я і розказували, як з них знущалися німці: ї
+        <hi rendition="#i">х</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#s">в</hi>
+        били, приказували стояти біля стіні, начебто збиралися в них стріляти, але не стріляли. На загал частина людей цих вийшла, частина була забита. Це все було до 3-го липня 1941 р. Між іншим були забиті рабин д-р Лєвін і бувший редактор єврейського щоденника 
+        <hi rendition="#i">«</hi>
+        <hi rendition="#i">Хвіла</hi>
+        <hi rendition="#i">»</hi>
+         Гешелес. Скільки осіб взагалі забито, не можу сказати, бо є різні оцінки і жодна не може бути вірогідною. Німецька тактика була не давати віддиху, одна акція йшла за другою.
+        <p>4-го липня почали хватати людей нібито до роботи. Забирали і до будинку гестапо на вул. Пелчинського, тоді взято було до 2000 людей. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

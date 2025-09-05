@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.57" xml:space="default"/>
+        <p> 14-го декабря 1942 года. Волковой Анны.</p>
+        <p>Немецкие зверства при оккупации.</p>
+        <p>Вот как прошло 11 месяцев, мы освободились от немецкого ига. Четыре месяца мы находились в немецких лапах фашизма, четыре месяца гитлеровцы топтали нашу землю, грабили крестьян. Они брали у нас, что хотели, – хлеб, ситец, картошки и даже дошли до живого скота, начали брать коров, свиней и кур, и если немцам не дать, что им нужно, то они начнут бить [плеткой]. Немцы еще были очень вшивые. Бывало, сядут вокруг печки да кидают вшей и сами смеются, как вши жарятся. Когда мы были в немецких лапах, нам жилось очень трудно. Тогда шли наши пленные от немцев, немецкие варвары как увидят пленных, так начинают в них стрелять. Пленных заставляли работать, чистить снег на дороге, и кормили одной мукой: наболтают с водой муку и давали пленным. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

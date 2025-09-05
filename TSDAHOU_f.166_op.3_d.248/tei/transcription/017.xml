@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000813">
+      <titleStmt>
+        <title>Воспоминания Виктора Тверского</title>
+        <author>
+          <persName>Виктор Михайлович Тверской</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 248.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> Маленький эпизодик: 24 августа 1943 г. в 10 час. дня на территорию верхней Лавры явился немецкий офицер с двумя заключенными из концентрационного лагеря, находящегося против Лавры в артиллерийском складе, вошел в 6-й корпус и начал выламывать двери. Про это охранник сообщил управлению Лавры, но когда через 10 минут пришли на место происшествия, там никого уже не застали, но за эти 10 минут были вынесены входной тамбор и 2 печных прибора. По сообщению охранника Баккалинского А.П. и кладовщика материального склада Чаюн этот офицер много раз приходил для грабежа верхней Лавры и однажды потребовал у Чаюна выдачи из склада материалов, когда же Чаюн отказался, он принудил его под угрозой револьвера маршировать по двору Лавры, после чего Чаюн открыл склады и выдал все, что он вымогал.</p>
+        <p>31 августа – последний день, когда «украинский» полицай стоял на часах у святых ворот Лавры; в ночь на 1 сентября с могильного памятника Столыпина была украдена бронзовая мемориальная доска.</p>
+        <p>В сентябре началось общее отступление немцев из-за Днепра и запылали заднепровские села. 23 сентября последовал приказ о выселении до 26 сентября всех жителей Киева от берега Днепра до улиц Саксаганского и до еврейского базара. Начался дикий террор изгнания из квартир всех без исключения – и здоровых, и больных, и малых, и старых. Изгнание сопровождалось избиением неуходящих по какой-либо причине. Вышвыривали из квартир стариков и старух, не </p>
+      </div>
+    </body>
+  </text>
+</TEI>

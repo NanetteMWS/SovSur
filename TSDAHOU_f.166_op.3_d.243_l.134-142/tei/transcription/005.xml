@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000818">
+      <titleStmt>
+        <title>Стенограмма беседы с Ревеккой Берман</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 243. Л. 134-142.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.139" xml:space="default"/>
+        <p> Если какая-нибудь тетка придет, продаст супу – одна вода и картошка за 5-10 рублей – это было хорошо. Каждый день умирало много людей от голода и холода.</p>
+        <p>
+          Через две недели вернулся майор жандармерии. Узнав о нашей высылке, он дал приказ и нас вернули обратно в 
+          <hi rendition="#s">село</hi>
+           
+          <hi rendition="#i">город</hi>
+           Первомайск. Этот майор жандармерии, венгерец по национальности, хорошо относился к евреям, всегда спорил с префектом Изонеску, который настаивал на том, чтобы высылали евреев.
+        </p>
+        <hi rendition="#s">село</hi>
+         
+        <hi rendition="#i">город</hi>
+         Первомайск. Этот майор жандармерии, венгерец по национальности, хорошо относился к евреям, всегда спорил с префектом Изонеску, который настаивал на том, чтобы высылали евреев.
+        <p>Однажды я зашла просить, чтобы не высылали, потому что у меня ребенок болен, он сказал:</p>
+        <p>– Я ничего не могу сделать, идите к префекту или субпрефекту Подура.</p>
+        <p>
+          А префект был ужасная сволочь и издевался над евреями. Могу сказать о субпрефекте Подура. Он заходил в лагерь. Денег за работу не платали и требовали, чтобы люди работали с восхода солнца до потемок. Префект всегда настаивал, чтобы евреи не выходили на улицу, чтобы их не было видно, чтобы всех выслать в лагерь в 
+          <hi rendition="#s">Охмич</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">с</hi>
+          <hi rendition="#s">ки</hi>
+          <hi rendition="#s">й</hi>
+           
+          <hi rendition="#i">Акмечетку</hi>
+          .
+        </p>
+        <hi rendition="#s">Охмич</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">с</hi>
+        <hi rendition="#s">ки</hi>
+        <hi rendition="#s">й</hi>
+         
+        <hi rendition="#i">Акмечетку</hi>
+        .
+        <p>Весной 1943 года нас вторично выслали. Изонеску вторично издал приказ о высылке евреев. У меня была больна девочка, лежала в больнице. Мужа отправили в лагерь. Меня с мальчиком оставили в Первомайском лагере. Каждый день приходил жандарм и угрожал, что завтра он меня тоже отправит в лагерь, до каких пор я буду находиться здесь.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

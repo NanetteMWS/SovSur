@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000418">
+      <titleStmt>
+        <title>Стенограмма беседы с Семеном Лисиным</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 1. Л. 15-35.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.25" xml:space="default"/>
+        <p> Такой случай. По дороге едет машина. Тут же две крестьянки везли горелое зерно. Он их остановил. Вытаскивает карту и спрашивает, куда дорога на такое-то село. Одна женщина говорит: «Я не понимаю». Другая тоже: «Не понимаю». Он их избил, сел на машину и уехал. Эти женщины раньше были за немцев. После этого они перестали кричать за немцев, говорят, вот что с нами сделали.</p>
+        <p>
+          Карты у немцев в большом количестве имеются, почти у каждого солдата есть карта. 10-верстка и карты разного масштаба. На картах написаны немецкие и русские названия. Дороги, вершины – все указано. Топографические хорошие карты. Но по этим картам сел и совхозов, организованных в позднее время, после 1929 г., не существует. У нас совхоз Свинотреста организован после 1929 г. Раньше тут была трудколония, а с 1932 г. организован совхоз, и у них на картах новых селений нет. Туда немцы 
+          <hi rendition="#s">приехали</hi>
+           
+          <hi rendition="#i">приезжали</hi>
+           случайно – 
+          <hi rendition="#s">4 человека</hi>
+           для того, чтобы забрать 
+          <hi rendition="#s">двух</hi>
+           
+          <hi rendition="#i">скот</hi>
+           
+          <hi rendition="#s">овец</hi>
+          . Мы, русские, в большинстве случаев спасались в эт
+          <hi rendition="#s">ом</hi>
+          <hi rendition="#i">их</hi>
+           поселк
+          <hi rendition="#s">е</hi>
+          <hi rendition="#i">ах</hi>
+          , организованн
+          <hi rendition="#s">ом</hi>
+          <hi rendition="#i">ых</hi>
+           с 1932 г. Если бы немцы зашли, то в каждом доме было 20-30 мужчин.
+        </p>
+        <hi rendition="#s">приехали</hi>
+         
+        <hi rendition="#i">приезжали</hi>
+         случайно – 
+        <hi rendition="#s">4 человека</hi>
+         для того, чтобы забрать 
+        <hi rendition="#s">двух</hi>
+         
+        <hi rendition="#i">скот</hi>
+         
+        <hi rendition="#s">овец</hi>
+        . Мы, русские, в большинстве случаев спасались в эт
+        <hi rendition="#s">ом</hi>
+        <hi rendition="#i">их</hi>
+         поселк
+        <hi rendition="#s">е</hi>
+        <hi rendition="#i">ах</hi>
+        , организованн
+        <hi rendition="#s">ом</hi>
+        <hi rendition="#i">ых</hi>
+         с 1932 г. Если бы немцы зашли, то в каждом доме было 20-30 мужчин.
+        <p>Езда у немцев по дорогам, где меньше гор, по ровным большакам. Проезжает большой танк, дорога замечательная. В тех местах, где немцы проходили, можно заметить, что немцы совершенно не умеют обращаться с лошадьми. Лошадь ведет в руке, а русских заставляет гнать.</p>
+        <p>В последнее время, когда пошли сильные холода, немцы начали снимать валенки. Я ходил так, как есть, но крестьяне, чтобы спасти валенки, пускались на хитрости, </p>
+      </div>
+    </body>
+  </text>
+</TEI>

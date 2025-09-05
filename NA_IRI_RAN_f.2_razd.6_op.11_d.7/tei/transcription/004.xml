@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000111">
+      <titleStmt>
+        <title>Материалы городского отдела образования г. Мелитополя периода оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 11. Д. 7.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="official">
+        <pb cert="high" n="Л.5" xml:space="default"/>
+        <p> Копия.</p>
+        <p>Многоуважаемый</p>
+        <p>Андрей Евграфович.</p>
+        <p/>
+        <p>В классах убийственно холодно. Что делать. Дети замерзли. Явка плохая: I-11 чел., II-а – 15, IIб – 13, IIIа – 8. Мне, кажется, после 2-х уроков надо отпустить детей.</p>
+        <p>
+          III.42 г. 
+          <hi rendition="#i">(Козак)</hi>
+           подпись.
+        </p>
+        <hi rendition="#i">(Козак)</hi>
+         подпись.
+        <p>Резолюция:</p>
+        <p>Разрешаю отпустить после 2-х уроков 1 и 2 смені.</p>
+        <p>А. Путов.</p>
+        <p>
+          верно: 
+          <hi rendition="#i">Завгороно</hi>
+          <hi rendition="#i"> Красников</hi>
+        </p>
+        <hi rendition="#i">Завгороно</hi>
+        <hi rendition="#i"> Красников</hi>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

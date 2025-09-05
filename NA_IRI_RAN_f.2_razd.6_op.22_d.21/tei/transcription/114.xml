@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000385">
+      <titleStmt>
+        <title>Воспоминания Зинаиды Шидловской</title>
+        <author>
+          <persName>Зинаида Михайловна Шидловская</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.58" xml:space="default"/>
+        <p> никого нет, Миша сказал: «Хлопцы, быстро вылезайте с соломы, отряхнитесь, и не теряя ни минуты, бегите прямо к нам, вас будет встречать Васька». Мы прошли еще метров десять, а потом завернули обратно по дорожке, а хлопцы уже подходили к нашей комнате. На ночь мы их оставили в квартире, но тут к нам зашел немец, и мы его задержали разговорами у порога, а за это время хлопцы Иван Вакуев и Иван второй спрятались под кровать. </p>
+        <p>Ребята с фабрики поселились в лесу, а также и девушки, которых повыгнали с фабрики. Они обеспечили себя питанием, ребята все, как один, одели русскую форму, вооружились и сидели в лесу, выжидая американцев. К нам пришла Муся, Василий Чижик, у нас было два военнопленных, и мы все ютились в нашей тесной комнатке. К нам приходили девушки, другие ребята, мы много говорили, и делать оставалось </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000416">
+      <titleStmt>
+        <title>Истринский район Московской области во время оккупации. Акты и беседы с очевидцами</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 21.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview, official">
+        <pb cert="high" n="Л.70" xml:space="default"/>
+        <p> Рассказ гражданина Прунцева Дмитрия Павловича, проживавшего в гор. Истре, Ленинская ул. д. №111.</p>
+        <p>Незадолго до прихода немцев собрался я ехать с семьей в с. Никольское на подводе, взятой со службы, с базы Мосторга. Встречные не советовали ехать. Не послушал. Приехал, гляжу, а там уже собираются уезжать. Завернул к председателю – он уезжает. Приехал к снохе – они тоже собираются. Пообедали. После обеда оторвал я у саней подреза, положил постель, капусту, посадил к своим сноху и поехал обратно. Встречные говорят – не пропустят тебя, старик, в Истру – стрельба там сильная. Когда ехал лесом, видел наши танки. К городу окраиной проехал. Лошадь в переулке отобрал у меня завхоз «Мосторга». Домой вещи стаскали уже на руках. Глядим, а невдалеке сарай от стрельбы загорелся. Вскоре приехали его тушить пожарные. Стрельба все шибче, опасно стало, сели в окоп.</p>
+        <p>Сын мой, с двадцать четвертого года, собрался и ушел тогда в Москву. Пришел он в Москву – деваться некуда, ночевал на вокзале, да и подался обратно. На обратной дороге попал он к немцам. Заставили они его и других таких же воду таскать и картошку чистить. Скоро несколько человек убежало. А их, оставшихся, офицер немецкий назначил за это на расстрел. Но два солдата завели их в лес, сняли с них шапки и отпустили, сделав мимо шесть выстрелов. Так сын ко мне и вернулся.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

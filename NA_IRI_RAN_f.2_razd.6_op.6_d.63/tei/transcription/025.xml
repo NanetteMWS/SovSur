@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000689">
+      <titleStmt>
+        <title>Воспоминания школьников Харькова о пребывании в оккупации</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 63.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.14" xml:space="default"/>
+        <p>
+           Во время немецкой оккупации я находилась в селе Печенеги Харьковской области. Когда всё население эвакуировали, то люди мало взяли с собой продуктов питания. Их выселили за 40 км от села. Они начали пробираться в село, чтобы взять продуктов, но немцы не пропускали. Много людей погибло с голоду, а те, которые пробрались к своим домам, были расстреляны. Старик и старуха пробрались по другой дороге, где не стояли немецкие патрули. Они прошли к своей горевшей хате. Их увидели немцы и расстреляли 
+          <hi rendition="#s">их</hi>
+           обоих. Так они лежали, пока 
+          <hi rendition="#s">и</hi>
+           не освободила наша доблестная Красная армия. Много погибло за то время людей, когда немцы отступали и наступали. Было в этом селе 3 тысячи людей, а осталось меньше половины.
+        </p>
+        <hi rendition="#s">их</hi>
+         обоих. Так они лежали, пока 
+        <hi rendition="#s">и</hi>
+         не освободила наша доблестная Красная армия. Много погибло за то время людей, когда немцы отступали и наступали. Было в этом селе 3 тысячи людей, а осталось меньше половины.
+        <p>Ученица IV кл. «б» 61 женской школы, город Харьков, Недоступ Валя</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

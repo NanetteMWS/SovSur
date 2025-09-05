@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000830">
+      <titleStmt>
+        <title>Стенограмма беседы с Диной Проничевой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 245. Л. 114-134.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.127" xml:space="default"/>
+        <p> выкрала, вернее, я подослала домой девушку Наташу Гриневу (она и сейчас живет у меня), и она выкрала сына и привезла мне.</p>
+        <p>Потом выдали и меня. Полтора месяца я сидела у себя же в комнате взаперти. Начальство уехало, я осталась на всю квартиру с ребенком. Приняла к себе Наташу, и мы жили вместе с ней. Уйти оттуда никак нельзя было, т.к. я жила на втором этаже, а на первом этаже была полиция, которая меня стерегла.</p>
+        <p>Врачи, работающие на заводе, хотели помочь мне, т.к. я спасла их. Начальник завода, шеф з-да не любил русских. Им вешалась буква «Р», над ними очень издевались. А эти два врача были русские, бежавшие из одного немецкого лагеря, я подделала им документы, написала, что они украинцы и устроила на завод.</p>
+        <p>В благодарность за это они говорили гестаповцам и полицаям, которые приезжали за мной, что меня сейчас на допрос взять нельзя, т.к. сильный сердечный припадок, возможно, что она еще не еврейка, ведь доказать не могут, документы у меня в порядке.</p>
+        <p>Меня оставляли на некоторое время в покое, но я лежала и дрожала от каждого шороха, от каждого шага, обставленная вся вокруг лекарствами.</p>
+        <p>23 февраля 1942 года, как раз в день Красной армии, за мной приехало гестапо окончательно забрать меня. Это было на рассвете, часов в семь утра. Наташа ушла на завод. Я с ней договорилась заранее, что если меня заберут, то ребенка я оставлю ей, а она привезет </p>
+      </div>
+    </body>
+  </text>
+</TEI>

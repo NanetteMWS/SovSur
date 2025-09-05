@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000384">
+      <titleStmt>
+        <title>&quot;Мои воспоминания о германской неволе&quot;. Воспоминания Петра Друзя</title>
+        <author>
+          <persName>Петр Афанасьевич Друзь</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 20.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.16" xml:space="default"/>
+        <p> таких друзей – трудно найти вторично. Они нас считали за руководящую силу и хороших друзей. Они к нам приходили получить советы, побеседовать и провести свободное время.</p>
+        <p>Я хочу описать, какую руководящую роль сыграли ЦКБ и его низовые организации КБ в борьбе против германского фашизма. Для этого приведу несколько примеров. Сначала не буду брать далеко – опишу, каким был сначала наш лагерный коллектив «железнодорожников», и каким он стал впоследствии.</p>
+        <p>Сначала каждый с нас жил единолично, не дружно, один тянул в одну сторону, другой – в противоположную. Первая организованная Группа Борьбы поставила перед собой задание перевоспитать коллектив лагеря в единодушный в мнениях и дать с его актив для дальнейшего сопротивления против фашизма, поскольку наш коллектив часто выезжал работать в другие места и имел при этом самом возможность </p>
+      </div>
+    </body>
+  </text>
+</TEI>

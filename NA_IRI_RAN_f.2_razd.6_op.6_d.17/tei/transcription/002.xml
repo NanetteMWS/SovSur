@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000977">
+      <titleStmt>
+        <title>Стенограмма беседы с Евгением Катковым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 17.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.1 оборот" xml:space="default"/>
+        <p>
+           восстановлены вузы и т.д. Но она в ближайшие недели, по-моему, в этом 
+          <hi rendition="#i">горько</hi>
+           разочаровалась. И если в первый период наша вузовская интеллигенция, 
+          <hi rendition="#s">да</hi>
+           и 
+          <hi rendition="#i">в частности</hi>
+           медицинская, держалась вузов, зарегистрировалась, надеялась, что там что-то будет, то очень скоро начался 
+          <hi rendition="#i">ее</hi>
+           от
+          <hi rendition="#s">ры</hi>
+          <hi rendition="#i">ли</hi>
+          в 
+          <hi rendition="#i">из вузов</hi>
+          <hi rendition="#i">.</hi>
+           
+          <hi rendition="#s">этой </hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">нтелл</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">генц</hi>
+          <hi rendition="#s">ии</hi>
+          .
+        </p>
+        <hi rendition="#i">горько</hi>
+         разочаровалась. И если в первый период наша вузовская интеллигенция, 
+        <hi rendition="#s">да</hi>
+         и 
+        <hi rendition="#i">в частности</hi>
+         медицинская, держалась вузов, зарегистрировалась, надеялась, что там что-то будет, то очень скоро начался 
+        <hi rendition="#i">ее</hi>
+         от
+        <hi rendition="#s">ры</hi>
+        <hi rendition="#i">ли</hi>
+        в 
+        <hi rendition="#i">из вузов</hi>
+        <hi rendition="#i">.</hi>
+         
+        <hi rendition="#s">этой </hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">нтелл</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">генц</hi>
+        <hi rendition="#s">ии</hi>
+        .
+        <p>
+          Прежде всего, 
+          <hi rendition="#s">она</hi>
+           
+          <hi rendition="#i">интеллигенция</hi>
+           начала голодать в полном смысле слова. Я сам, практикующий врач, долго жив
+          <hi rendition="#s">у</hi>
+          <hi rendition="#s">щ</hi>
+          <hi rendition="#i">ш</hi>
+          ий в Харькове, име
+          <hi rendition="#s">ющ</hi>
+          <hi rendition="#i">вш</hi>
+          ий достаточн
+          <hi rendition="#s">ы</hi>
+          <hi rendition="#i">о</hi>
+           
+          <hi rendition="#s">круг</hi>
+          <hi rendition="#s">и</hi>
+           пациентов, 
+          <hi rendition="#i">голодал</hi>
+          <hi rendition="#i">,</hi>
+           
+          <hi rendition="#s">Но</hi>
+           
+          <hi rendition="#i">и</hi>
+           меня, буквально, спасла собака. Каким образом? 
+          <hi rendition="#s">У</hi>
+           
+          <hi rendition="#i">До</hi>
+          <hi rendition="#i"> войны у</hi>
+           меня была овчарка. Для 
+          <hi rendition="#s">эт</hi>
+          <hi rendition="#s">ой овча</hi>
+          <hi rendition="#s">р</hi>
+          <hi rendition="#s">к</hi>
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">нее</hi>
+           я покупал толокно и запас 
+          <hi rendition="#s">для </hi>
+          <hi rendition="#s">не</hi>
+          <hi rendition="#s">е</hi>
+           
+          <hi rendition="#i">его</hi>
+           довольно много – пуда три. Овчарку 
+          <hi rendition="#s">в свое время</hi>
+           мы сдали, но 
+          <hi rendition="#s">это</hi>
+           толокно 
+          <hi rendition="#i">осталось и</hi>
+           буквально мою семью выручило. К концу февраля 
+          <hi rendition="#i">1942</hi>
+           положение у меня стало настолько трагическим, что я был заинтересован 
+          <hi rendition="#s">в</hi>
+           
+          <hi rendition="#i">получать</hi>
+           похлебку, которую путем 
+          <hi rendition="#s">связ</hi>
+          <hi rendition="#s">е</hi>
+          <hi rendition="#s">й</hi>
+           
+          <hi rendition="#i">знакомств</hi>
+           я получал в районе Конной площади 
+          <hi rendition="#s">и</hi>
+           
+          <hi rendition="#i">в</hi>
+          <hi rendition="#i"> одной столовой</hi>
+           
+          <hi rendition="#i">и</hi>
+           ежедневно ходил туда за 4 километра, чтобы получить эти две 
+          <hi rendition="#i">тарелки</hi>
+           похлебки. Многие 
+          <hi rendition="#i">из интеллигенции</hi>
+           абсолютно голодали. Часть погибла 
+          <hi rendition="#s">с</hi>
+           
+          <hi rendition="#i">от</hi>
+           голода, как доктор Масалатинов.
+        </p>
+        <hi rendition="#s">она</hi>
+         
+        <hi rendition="#i">интеллигенция</hi>
+         начала голодать в полном смысле слова. Я сам, практикующий врач, долго жив
+        <hi rendition="#s">у</hi>
+        <hi rendition="#s">щ</hi>
+        <hi rendition="#i">ш</hi>
+        ий в Харькове, име
+        <hi rendition="#s">ющ</hi>
+        <hi rendition="#i">вш</hi>
+        ий достаточн
+        <hi rendition="#s">ы</hi>
+        <hi rendition="#i">о</hi>
+         
+        <hi rendition="#s">круг</hi>
+        <hi rendition="#s">и</hi>
+         пациентов, 
+        <hi rendition="#i">голодал</hi>
+        <hi rendition="#i">,</hi>
+         
+        <hi rendition="#s">Но</hi>
+         
+        <hi rendition="#i">и</hi>
+         меня, буквально, спасла собака. Каким образом? 
+        <hi rendition="#s">У</hi>
+         
+        <hi rendition="#i">До</hi>
+        <hi rendition="#i"> войны у</hi>
+         меня была овчарка. Для 
+        <hi rendition="#s">эт</hi>
+        <hi rendition="#s">ой овча</hi>
+        <hi rendition="#s">р</hi>
+        <hi rendition="#s">к</hi>
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">нее</hi>
+         я покупал толокно и запас 
+        <hi rendition="#s">для </hi>
+        <hi rendition="#s">не</hi>
+        <hi rendition="#s">е</hi>
+         
+        <hi rendition="#i">его</hi>
+         довольно много – пуда три. Овчарку 
+        <hi rendition="#s">в свое время</hi>
+         мы сдали, но 
+        <hi rendition="#s">это</hi>
+         толокно 
+        <hi rendition="#i">осталось и</hi>
+         буквально мою семью выручило. К концу февраля 
+        <hi rendition="#i">1942</hi>
+         положение у меня стало настолько трагическим, что я был заинтересован 
+        <hi rendition="#s">в</hi>
+         
+        <hi rendition="#i">получать</hi>
+         похлебку, которую путем 
+        <hi rendition="#s">связ</hi>
+        <hi rendition="#s">е</hi>
+        <hi rendition="#s">й</hi>
+         
+        <hi rendition="#i">знакомств</hi>
+         я получал в районе Конной площади 
+        <hi rendition="#s">и</hi>
+         
+        <hi rendition="#i">в</hi>
+        <hi rendition="#i"> одной столовой</hi>
+         
+        <hi rendition="#i">и</hi>
+         ежедневно ходил туда за 4 километра, чтобы получить эти две 
+        <hi rendition="#i">тарелки</hi>
+         похлебки. Многие 
+        <hi rendition="#i">из интеллигенции</hi>
+         абсолютно голодали. Часть погибла 
+        <hi rendition="#s">с</hi>
+         
+        <hi rendition="#i">от</hi>
+         голода, как доктор Масалатинов.
+        <p>
+          <hi rendition="#s">Н</hi>
+          <hi rendition="#s">арод</hi>
+          <hi rendition="#s"> </hi>
+          <hi rendition="#i">Первое время</hi>
+           Голодал
+          <hi rendition="#i">и</hi>
+           чрезвычайно, исключительно, пока не начался период приспособленчества нашей интеллигенции. В чем он выражался. Прежде всего, мы пошли на базары, потом на село. Базар оказался менее выгодным предприятием. 
+          <hi rendition="#s">П</hi>
+          <hi rendition="#s">отом</hi>
+           
+          <hi rendition="#i">П</hi>
+          ошли на село с саночками и там меняли. Я сам сделал «выезд» в начале марта, повез целый ряд домашних вещей, скарб, и это дало возможность получить некоторую материальную базу и 
+          <hi rendition="#i">на</hi>
+           некотор
+          <hi rendition="#s">ое</hi>
+          <hi rendition="#i">ый</hi>
+           
+          <hi rendition="#i">период</hi>
+           благосостояние моей семьи было обеспечено. Но я был в лучшем положении, чем другие. Почему? Я сам по натуре человек энергичный, не люблю падать духом, 
+          <hi rendition="#s">и</hi>
+           был связан со многими пациентами 
+          <hi rendition="#i">– это помогало</hi>
+          . Многие пошли торговать, делать спички, особенно наши химики. 
+          <hi rendition="#s">И</hi>
+           
+          <hi rendition="#i">В</hi>
+           Университете, как и в других вузах, всякая научная жизнь замерла. Ее потом 
+          <hi rendition="#i">украинские </hi>
+          <hi rendition="#i">националисты</hi>
+           искусственно пытались восстановить, чтобы создать впечатление, что Университет работает, ставили доклады, но кто мог на них пойти?
+        </p>
+        <hi rendition="#s">Н</hi>
+        <hi rendition="#s">арод</hi>
+        <hi rendition="#s"> </hi>
+        <hi rendition="#i">Первое время</hi>
+         Голодал
+        <hi rendition="#i">и</hi>
+         чрезвычайно, исключительно, пока не начался период приспособленчества нашей интеллигенции. В чем он выражался. Прежде всего, мы пошли на базары, потом на село. Базар оказался менее выгодным предприятием. 
+        <hi rendition="#s">П</hi>
+        <hi rendition="#s">отом</hi>
+         
+        <hi rendition="#i">П</hi>
+        ошли на село с саночками и там меняли. Я сам сделал «выезд» в начале марта, повез целый ряд домашних вещей, скарб, и это дало возможность получить некоторую материальную базу и 
+        <hi rendition="#i">на</hi>
+         некотор
+        <hi rendition="#s">ое</hi>
+        <hi rendition="#i">ый</hi>
+         
+        <hi rendition="#i">период</hi>
+         благосостояние моей семьи было обеспечено. Но я был в лучшем положении, чем другие. Почему? Я сам по натуре человек энергичный, не люблю падать духом, 
+        <hi rendition="#s">и</hi>
+         был связан со многими пациентами 
+        <hi rendition="#i">– это помогало</hi>
+        . Многие пошли торговать, делать спички, особенно наши химики. 
+        <hi rendition="#s">И</hi>
+         
+        <hi rendition="#i">В</hi>
+         Университете, как и в других вузах, всякая научная жизнь замерла. Ее потом 
+        <hi rendition="#i">украинские </hi>
+        <hi rendition="#i">националисты</hi>
+         искусственно пытались восстановить, чтобы создать впечатление, что Университет работает, ставили доклады, но кто мог на них пойти?
+        <p/>
+        <p>Весна 1942 года была чрезвычайно тяжелая. Летом стало легче. Легче стало вести обмен. Наша интеллигенция занималась чем угодно, чтобы не умереть с голоду.</p>
+        <p>
+          Был ли контакт с немцами 
+          <hi rendition="#s">у</hi>
+           «Просвіти» 
+          <hi rendition="#s">у</hi>
+           
+          <hi rendition="#i">и</hi>
+           украинских националистов? По-моему, 
+          <hi rendition="#i">глубинного</hi>
+           контакта не было. Чем дальше шло время, тем больше и больше намечался 
+          <hi rendition="#s">отрыв</hi>
+           
+          <hi rendition="#i">разрыв</hi>
+          .
+        </p>
+        <hi rendition="#s">у</hi>
+         «Просвіти» 
+        <hi rendition="#s">у</hi>
+         
+        <hi rendition="#i">и</hi>
+         украинских националистов? По-моему, 
+        <hi rendition="#i">глубинного</hi>
+         контакта не было. Чем дальше шло время, тем больше и больше намечался 
+        <hi rendition="#s">отрыв</hi>
+         
+        <hi rendition="#i">разрыв</hi>
+        .
+        <p>
+          Харьков был город вузов, город научно-исследовательских институтов. В частности, как деталь, Харьков имел единственный в Союзе Психоневрологический факультет, имел 
+          <hi rendition="#s">достаточный отраслевой</hi>
+           
+          <hi rendition="#i">огромный</hi>
+           институт Психоневрологический. Во время оккупации в Харькове 
+          <hi rendition="#s">не</hi>
+           
+          <hi rendition="#i">почти не</hi>
+           осталось 
+          <hi rendition="#s">ни</hi>
+          <hi rendition="#s"> одног</hi>
+          <hi rendition="#s">о</hi>
+           невропатолог
+          <hi rendition="#s">а</hi>
+          <hi rendition="#i">ов</hi>
+          , все 
+          <hi rendition="#s">раз</hi>
+          <hi rendition="#s">ъ</hi>
+          <hi rendition="#s">ехал</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">сь</hi>
+           
+          <hi rendition="#i">уехали</hi>
+           
+          <hi rendition="#i">или</hi>
+          <hi rendition="#i">,</hi>
+           как мыши, разбежались в деревни 
+          <hi rendition="#i">и там пристраивались</hi>
+           
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">ачал</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s"> устра</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">ваться</hi>
+          . Поликлиническая сеть была разрушена 
+          <hi rendition="#s">помощи р</hi>
+          <hi rendition="#s">еальной не получала</hi>
+          . Во главе медицинской сети стоял 
+          <hi rendition="#s">н</hi>
+          <hi rendition="#s">ек</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">й</hi>
+           профессор, 
+          <hi rendition="#s">по совест</hi>
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">,</hi>
+          <hi rendition="#s"> не знаю откуда он вы</hi>
+          <hi rendition="#s">пол</hi>
+          <hi rendition="#s">з</hi>
+          <hi rendition="#s">,</hi>
+           некий Добровольский 
+          <hi rendition="#s">говорят </hi>
+          <hi rendition="#s">–</hi>
+          <hi rendition="#s">одес</hi>
+          <hi rendition="#s">си</hi>
+          <hi rendition="#s">т</hi>
+          . По-моему, он делал все, чтобы разрушить 
+          <hi rendition="#i">до конца</hi>
+           медицинскую сеть. Чрезвычайно рано наметился конфликт между ним и 
+          <hi rendition="#s">широкой</hi>
+           медицинской общественностью. И кончилось дело тем, что его даже немцы должны были снять. Он даже разрушал то, что нужно было немцам. Немцев беспокоил
+          <hi rendition="#i">о</hi>
+           по линии медицины только од
+          <hi rendition="#s">и</hi>
+          <hi rendition="#s">н</hi>
+          <hi rendition="#i">н</hi>
+          <hi rendition="#i">о</hi>
+           
+          <hi rendition="#s">вопрос</hi>
+          , чтобы не было инфекций, которые им угрожали. 
+          <hi rendition="#s">Клиники</hi>
+           
+          <hi rendition="#i">Больницы</hi>
+           не отапливались, 
+          <hi rendition="#i">и</hi>
+           если главврач сам ухитрялся, то где-то что-то 
+          <hi rendition="#s">т</hi>
+          <hi rendition="#s">оп</hi>
+          <hi rendition="#s">илось</hi>
+           
+          <hi rendition="#i">отапливалось</hi>
+          . 
+          <hi rendition="#s">Во всяком случае</hi>
+           
+          <hi rendition="#i">М</hi>
+          едицинская работа совершенно замерла. Никаких институтов не было, были только поликлиники, и 
+          <hi rendition="#s">т</hi>
+          <hi rendition="#s">е</hi>
+           их сеть от месяца к месяцу сокращали. Врачи бежали на село, занимались чем угодно, словом, никакой серьезной работы не было. Только несколько 
+          <hi rendition="#s">да</hi>
+          <hi rendition="#s">л</hi>
+          <hi rendition="#s">ьше</hi>
+           
+          <hi rendition="#i">позднее</hi>
+           медицинские работники нашли себе 
+          <hi rendition="#s">некот</hi>
+          <hi rendition="#s">орое</hi>
+           применение. В каком смысле. Немцы 
+          <hi rendition="#s">очень</hi>
+           скоро начали свои кампании по забиранию населения. Сначала это шло в розовых тонах. Была широкая агитация, которая заманивала. Очень 
+        </p>
+        <hi rendition="#s">достаточный отраслевой</hi>
+         
+        <hi rendition="#i">огромный</hi>
+         институт Психоневрологический. Во время оккупации в Харькове 
+        <hi rendition="#s">не</hi>
+         
+        <hi rendition="#i">почти не</hi>
+         осталось 
+        <hi rendition="#s">ни</hi>
+        <hi rendition="#s"> одног</hi>
+        <hi rendition="#s">о</hi>
+         невропатолог
+        <hi rendition="#s">а</hi>
+        <hi rendition="#i">ов</hi>
+        , все 
+        <hi rendition="#s">раз</hi>
+        <hi rendition="#s">ъ</hi>
+        <hi rendition="#s">ехал</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">сь</hi>
+         
+        <hi rendition="#i">уехали</hi>
+         
+        <hi rendition="#i">или</hi>
+        <hi rendition="#i">,</hi>
+         как мыши, разбежались в деревни 
+        <hi rendition="#i">и там пристраивались</hi>
+         
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">ачал</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s"> устра</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">ваться</hi>
+        . Поликлиническая сеть была разрушена 
+        <hi rendition="#s">помощи р</hi>
+        <hi rendition="#s">еальной не получала</hi>
+        . Во главе медицинской сети стоял 
+        <hi rendition="#s">н</hi>
+        <hi rendition="#s">ек</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">й</hi>
+         профессор, 
+        <hi rendition="#s">по совест</hi>
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">,</hi>
+        <hi rendition="#s"> не знаю откуда он вы</hi>
+        <hi rendition="#s">пол</hi>
+        <hi rendition="#s">з</hi>
+        <hi rendition="#s">,</hi>
+         некий Добровольский 
+        <hi rendition="#s">говорят </hi>
+        <hi rendition="#s">–</hi>
+        <hi rendition="#s">одес</hi>
+        <hi rendition="#s">си</hi>
+        <hi rendition="#s">т</hi>
+        . По-моему, он делал все, чтобы разрушить 
+        <hi rendition="#i">до конца</hi>
+         медицинскую сеть. Чрезвычайно рано наметился конфликт между ним и 
+        <hi rendition="#s">широкой</hi>
+         медицинской общественностью. И кончилось дело тем, что его даже немцы должны были снять. Он даже разрушал то, что нужно было немцам. Немцев беспокоил
+        <hi rendition="#i">о</hi>
+         по линии медицины только од
+        <hi rendition="#s">и</hi>
+        <hi rendition="#s">н</hi>
+        <hi rendition="#i">н</hi>
+        <hi rendition="#i">о</hi>
+         
+        <hi rendition="#s">вопрос</hi>
+        , чтобы не было инфекций, которые им угрожали. 
+        <hi rendition="#s">Клиники</hi>
+         
+        <hi rendition="#i">Больницы</hi>
+         не отапливались, 
+        <hi rendition="#i">и</hi>
+         если главврач сам ухитрялся, то где-то что-то 
+        <hi rendition="#s">т</hi>
+        <hi rendition="#s">оп</hi>
+        <hi rendition="#s">илось</hi>
+         
+        <hi rendition="#i">отапливалось</hi>
+        . 
+        <hi rendition="#s">Во всяком случае</hi>
+         
+        <hi rendition="#i">М</hi>
+        едицинская работа совершенно замерла. Никаких институтов не было, были только поликлиники, и 
+        <hi rendition="#s">т</hi>
+        <hi rendition="#s">е</hi>
+         их сеть от месяца к месяцу сокращали. Врачи бежали на село, занимались чем угодно, словом, никакой серьезной работы не было. Только несколько 
+        <hi rendition="#s">да</hi>
+        <hi rendition="#s">л</hi>
+        <hi rendition="#s">ьше</hi>
+         
+        <hi rendition="#i">позднее</hi>
+         медицинские работники нашли себе 
+        <hi rendition="#s">некот</hi>
+        <hi rendition="#s">орое</hi>
+         применение. В каком смысле. Немцы 
+        <hi rendition="#s">очень</hi>
+         скоро начали свои кампании по забиранию населения. Сначала это шло в розовых тонах. Была широкая агитация, которая заманивала. Очень 
+      </div>
+    </body>
+  </text>
+</TEI>

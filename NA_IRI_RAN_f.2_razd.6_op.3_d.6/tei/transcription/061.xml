@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.32 оборот" xml:space="default"/>
+        <p> Сениной Юлии.</p>
+        <p>Зверство немецких оккупантов.</p>
+        <p>Мы были дома. Немцы пришли на двор, взяли поросенка. Немцы пришли: матка, показывай валенки – никс гуд. И у нас не взяли валенки. Стали они смотреть у моей сестры Иры валенки. Он снял у ней валенки, они ему тесны, он их разрезал голенище и положил их в мешок. Мама говорит: пан, отдай валенки, они никс гут. Но сетки он не положил, эти валенки не отдал. Немцы взяли мешок гороху. Пан, отдай горох, у мене дети. Но он, а наш Красноармеец пленный взял мешок гороху и унес. У нас немцы взяли 26 кур и сразу рубили здесь. Немец пришел, у бабушки брали сак, она не отдает, говорит: убей мене на месте, но я не отдам тебе сак. Он говорит: вон у тебе еще есть. Но она ему не подчинилась, сетки не отдала ему </p>
+      </div>
+    </body>
+  </text>
+</TEI>
