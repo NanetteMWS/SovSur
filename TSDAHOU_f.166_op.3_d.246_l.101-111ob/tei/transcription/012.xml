@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000842">
+      <titleStmt>
+        <title>Стенограмма беседы с Леонидом Тонконог</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 101-111 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.111" xml:space="default"/>
+        <p> Впоследствии выехала в с. Попасное. Царенко Шура, подпольщица.</p>
+        <p>
+          Подпольная организация ставила своей целью держать связь с населением и убеждать 
+          <hi rendition="#s">их</hi>
+           
+          <hi rendition="#i">жителей</hi>
+           в близкой победе Красной армии. Распространяли листовки, которые подбирали в лесах, разбросанные нашими самолетами, о том, чтобы молодежь, угоняемая в рабство в Германию, организовывала себе побеги. Листовки расклеивали рядом с немецкими объявлениями.
+        </p>
+        <hi rendition="#s">их</hi>
+         
+        <hi rendition="#i">жителей</hi>
+         в близкой победе Красной армии. Распространяли листовки, которые подбирали в лесах, разбросанные нашими самолетами, о том, чтобы молодежь, угоняемая в рабство в Германию, организовывала себе побеги. Листовки расклеивали рядом с немецкими объявлениями.
+        <p>
+          Расклеивали листовки Доленко, Литвишков, Кобзарь Маруся, Царенко Шура. Наша организация давала ложные документы для молодежи, 
+          <hi rendition="#s">угоняе</hi>
+          <hi rendition="#s">мой</hi>
+           
+          <hi rendition="#i">подлежавшей угону</hi>
+           в Германию. Давали мокроты для 
+          <hi rendition="#i">анализов</hi>
+           други
+          <hi rendition="#s">х</hi>
+          <hi rendition="#i">м</hi>
+          <hi rendition="#i"> товарищ</hi>
+          <hi rendition="#i">ам</hi>
+          <hi rendition="#i">.</hi>
+           Выводили из строя машины. Лесовиков Владимир работал в гараже, и мы давали ему задания раскручивать гайки, вынимать ту или иную часть, таким образом машина выбывала из строя.
+        </p>
+        <hi rendition="#s">угоняе</hi>
+        <hi rendition="#s">мой</hi>
+         
+        <hi rendition="#i">подлежавшей угону</hi>
+         в Германию. Давали мокроты для 
+        <hi rendition="#i">анализов</hi>
+         други
+        <hi rendition="#s">х</hi>
+        <hi rendition="#i">м</hi>
+        <hi rendition="#i"> товарищ</hi>
+        <hi rendition="#i">ам</hi>
+        <hi rendition="#i">.</hi>
+         Выводили из строя машины. Лесовиков Владимир работал в гараже, и мы давали ему задания раскручивать гайки, вынимать ту или иную часть, таким образом машина выбывала из строя.
+        <p>
+          Задача нашей подпольной организации была в том, чтобы при 
+          <hi rendition="#s">подступах</hi>
+           
+          <hi rendition="#i">наступлении</hi>
+           наших войск, помочь в защите нашего города.
+        </p>
+        <hi rendition="#s">подступах</hi>
+         
+        <hi rendition="#i">наступлении</hi>
+         наших войск, помочь в защите нашего города.
+        <p>
+          Но нашелся предатель, который предал нашу организацию, и в Ново-Московске произошел массовый арест комсомольцев и коммунистов подпольщиков. Выдал нашу организацию провокатор Садко. Так, Цокорь Алексей, будучи окруженным у себя во дворе немцами и полицаями, имея при себе оружие 
+          <hi rendition="#i">и отстреливаясь</hi>
+          <hi rendition="#i">,</hi>
+           был убит.
+        </p>
+        <hi rendition="#i">и отстреливаясь</hi>
+        <hi rendition="#i">,</hi>
+         был убит.
+        <p>Провокатор Садко сейчас осужден на 15 лет.</p>
+        <p>При подступах наших войск к г. Ново-Московск я ушел в плавни и в районе между Подгороднем и Ново-Московском сделал три раза перерез телефонной связи. При уходе в плавни взял пять коров частных лиц для избежания угона их немцами. С приходом Красной армии они были возвращены хозяевам.</p>
+        <p>При вступлении Красной армии в г. Ново-Московск я был членом Комиссии по выявлению врагов предателей, немецко-фашистских прихвостней для передачи их в судебные органы. Был зав. отделом народного образования и одновременно членом Комиссии по содействию восстановления советской власти в г. Ново-Московске.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">(Тонконог) </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> 26/</hi>
+          <hi rendition="#i">І-46 г. г. </hi>
+          <hi rendition="#i">Киев</hi>
+        </p>
+        <hi rendition="#i">(Тонконог) </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> 26/</hi>
+        <hi rendition="#i">І-46 г. г. </hi>
+        <hi rendition="#i">Киев</hi>
+        <p>
+          Вел стенограмму 
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> </hi>
+          А. Северный
+        </p>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> </hi>
+        А. Северный
+        <p>
+          Стенографировала 
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i">]</hi>
+          <hi rendition="#i"> </hi>
+          Н. Залесная
+        </p>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i">]</hi>
+        <hi rendition="#i"> </hi>
+        Н. Залесная
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

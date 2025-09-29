@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000842">
+      <titleStmt>
+        <title>Стенограмма беседы с Леонидом Тонконог</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">ЦДАГОУ. Фонд 166. Оп. 3. Д. 246. Л. 101-111 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.111 оборот" xml:space="default"/>
+        <p>
+           
+          <hi rendition="#i">Один экземпляр стенограммы получил </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись Тонконога]</hi>
+        </p>
+        <hi rendition="#i">Один экземпляр стенограммы получил </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись Тонконога]</hi>
+        <p>
+          <hi rendition="#i">23/</hi>
+          <hi rendition="#i">І</hi>
+          <hi rendition="#i">-46 г.</hi>
+        </p>
+        <hi rendition="#i">23/</hi>
+        <hi rendition="#i">І</hi>
+        <hi rendition="#i">-46 г.</hi>
+        <p>
+          <hi rendition="#i">Справка</hi>
+        </p>
+        <hi rendition="#i">Справка</hi>
+        <p>
+          <hi rendition="#i">Материалы о деятельности подпольной группы, в которую входил тов. Тонконог Л.С.</hi>
+          <hi rendition="#i">,</hi>
+          <hi rendition="#i"> имеются в отчете горкома партии Ново-</hi>
+          <hi rendition="#i">Московска</hi>
+          <hi rendition="#i"> Днепропетровской </hi>
+          <hi rendition="#i">обл-ти</hi>
+          <hi rendition="#i"> и в отчете горкома комсомола того же города.</hi>
+        </p>
+        <hi rendition="#i">Материалы о деятельности подпольной группы, в которую входил тов. Тонконог Л.С.</hi>
+        <hi rendition="#i">,</hi>
+        <hi rendition="#i"> имеются в отчете горкома партии Ново-</hi>
+        <hi rendition="#i">Московска</hi>
+        <hi rendition="#i"> Днепропетровской </hi>
+        <hi rendition="#i">обл-ти</hi>
+        <hi rendition="#i"> и в отчете горкома комсомола того же города.</hi>
+        <p>
+          <hi rendition="#i">Ст. научный сотрудник </hi>
+          <hi rendition="#i">[</hi>
+          <hi rendition="#i">подпись</hi>
+          <hi rendition="#i"> Северного</hi>
+          <hi rendition="#i">]</hi>
+        </p>
+        <hi rendition="#i">Ст. научный сотрудник </hi>
+        <hi rendition="#i">[</hi>
+        <hi rendition="#i">подпись</hi>
+        <hi rendition="#i"> Северного</hi>
+        <hi rendition="#i">]</hi>
+        <p>
+          <hi rendition="#i">23/</hi>
+          <hi rendition="#i">І-46 г.</hi>
+        </p>
+        <hi rendition="#i">23/</hi>
+        <hi rendition="#i">І-46 г.</hi>
+      </div>
+    </body>
+  </text>
+</TEI>
