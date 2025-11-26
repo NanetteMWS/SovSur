@@ -50,7 +50,6 @@
         <p>
           <hi rendition="#u">Протоиерей Садовский Евгений Михайлович</hi>
           , исполняющий обязанности секретаря управления. Окончил Московскую духовную академию (учился в ней с 1911 по 1915 гг.), специализировался по философии. Священник с 1922 г.
-       <?xml version="1.0" ?>
 <?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
