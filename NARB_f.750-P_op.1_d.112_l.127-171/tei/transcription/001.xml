@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000882">
+      <titleStmt>
+        <title>Стенограмма беседы с Иосифом Жидовичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 127-171.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.128" xml:space="default"/>
+        <p/>
+        <p>Сектор истории советского общества Института истории АН СССР</p>
+        <p/>
+        <p>25 января 1948 года</p>
+        <p>г. Минск.</p>
+        <p/>
+        <p>Вела беседу т. Еловцан.</p>
+        <p>Писала – Фомичева.</p>
+        <p/>
+        <p>Жидович Иосиф Карлович.</p>
+        <p>1908 года рождения, белорус, кандидат ВКП(б). Научный сотрудник института литературы, языка и искусства Белорусской Академии наук.</p>
+        <p>Во время войны – связной-разведчик Сталинской партизанской бригады Барановичского соединения. Награжден медалью «Партизану Отечественной войны» первой степени, «За победу над Германией» и представлен был к награждению орденом Ленина.</p>
+        <p>Родился в г. Минске, в семье рабочего-железнодорожника в 1908 году. Отец 35 лет проработал на транспорте, сейчас пенсионер – инвалид труда. Мать домохозяйка. В семье нас было трое, еще два брата, оба они погибли во время Отечественной войны.</p>
+        <p>Образование получил среднее в г. Минске. Окончил школу рабочей молодежи повышенного типа, затем учился на 6-месячных учительских курсах, после окончания которых был послан на работу в детскую колонию Симково Заславльского района Минской области. Там работал учителем и воспитателем.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000882">
+      <titleStmt>
+        <title>Стенограмма беседы с Иосифом Жидовичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 127-171.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.129" xml:space="default"/>
+        <p> В 1929 году поступил в Минский университет, на литературный факультет. Окончил в 1932 году, после чего был послан на работу по решению Центрального комитета комсомола в институт истории партии и Октябрьской революции при ЦК КП(б)Б (Истпарт) заведующим сектором юнкомдвижения. Там работал я 2 года. Затем был послан на работу в Минский дом партийного актива в качестве заведующего учебной частью и преподавателя. Тогда начала развертываться широкая учеба среди партийного и комсомольского актива, была организована широкая просветительная сеть, занимались начиная от секретарей районных комитетов партии, директоров предприятий, секретарей комсомольских комитетов и т.д. Я был брошен туда организовать эту работу.</p>
+        <p>В 1936 году поступил в аспирантуру при педагогическом институте имени Горького с филологическим уклоном. Окончил в 1939 году, работал в институте школьной педагогики при министерстве просвещения в качестве научного сотрудника и был директором школы железнодорожной до самой войны.</p>
+        <p>
+          Остался с семьей в тылу врага, эвакуироваться было очень трудно, потому что семья наша была такая, что нельзя было с ней пускаться в путь. 
+          <hi rendition="#s">По железной дороге на первое время это можно было вполне, но нам не разрешала</hi>
+           
+          <hi rendition="#i">Кроме того до 24 ч.</hi>
+           администрация 
+          <hi rendition="#i">не разрешала уезжать</hi>
+           
+          <hi rendition="#s">до 24 числа</hi>
+          . Все мы должны были быть на месте. А после 24 числа уже было почти невозможно, пробирались 
+          <hi rendition="#s">те, кто был</hi>
+           
+          <hi rendition="#i">лишь</hi>
+           одиночка и 
+          <hi rendition="#s">был</hi>
+           
+          <hi rendition="#i">имевшие</hi>
+           транспорт.
+        </p>
+        <hi rendition="#s">По железной дороге на первое время это можно было вполне, но нам не разрешала</hi>
+         
+        <hi rendition="#i">Кроме того до 24 ч.</hi>
+         администрация 
+        <hi rendition="#i">не разрешала уезжать</hi>
+         
+        <hi rendition="#s">до 24 числа</hi>
+        . Все мы должны были быть на месте. А после 24 числа уже было почти невозможно, пробирались 
+        <hi rendition="#s">те, кто был</hi>
+         
+        <hi rendition="#i">лишь</hi>
+         одиночка и 
+        <hi rendition="#s">был</hi>
+         
+        <hi rendition="#i">имевшие</hi>
+         транспорт.
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

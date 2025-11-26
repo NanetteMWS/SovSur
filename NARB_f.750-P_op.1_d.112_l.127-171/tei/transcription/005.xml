@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000882">
+      <titleStmt>
+        <title>Стенограмма беседы с Иосифом Жидовичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 127-171.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.132" xml:space="default"/>
+        <p> Также использовали дипломы, свидетельства об окончании средней школы и семилетки, которые я не успел раздать как директор школы учащимся. У меня сохранились удостоверения личностей, которые я должен был раздать учителям. И эти все удостоверения также были розданы, около 25 удостоверений личности, около 80 паспортов и затем просто справки давали о том, что человек, скажем, работал в школе или водопроводчиком, или сторожем и т.д., в подтверждение, чтобы данный товарищ кроме паспорта имел еще справку о месте работы. Этого было достаточно, чтобы на первое время можно было жить. Эта работа продолжалась до 1-го декабря 1941 года.</p>
+        <p>
+          <hi rendition="#s">В </hi>
+          <hi rendition="#s">Д</hi>
+          <hi rendition="#s">ень </hi>
+          <hi rendition="#s">к</hi>
+          <hi rendition="#s">онституции мы со всей семьей отсюда удрали.</hi>
+        </p>
+        <hi rendition="#s">В </hi>
+        <hi rendition="#s">Д</hi>
+        <hi rendition="#s">ень </hi>
+        <hi rendition="#s">к</hi>
+        <hi rendition="#s">онституции мы со всей семьей отсюда удрали.</hi>
+        <p>
+          Также мы принимали сводки по радио, был у нас радиоприемник. Мы слушали Москву, принимали сводки и в письменной форме распространяли среди товарищей, на которых можно было положиться и на которых мы рассчитывали, чтобы поднять настроение и 
+          <hi rendition="#s">уверить</hi>
+           
+          <hi rendition="#i">показать</hi>
+          , что советская власть живет и здравствует, а не так, как немцы передавали, что Москва горит и окружена.
+        </p>
+        <hi rendition="#s">уверить</hi>
+         
+        <hi rendition="#i">показать</hi>
+        , что советская власть живет и здравствует, а не так, как немцы передавали, что Москва горит и окружена.
+        <p>5-го декабря нам пришлось бежать. Бежать пришлось потому, что один провокатор, некто Сергеев, который вошел в наше доверие и знал о некоторых наших делах, разоблачил нас и выдал гестапо. Это было после сильного погрома, который был в День конституции в гетто.</p>
+        <p>Мы удрали отсюда под выстрелами пулеметных очередей, когда на еврейском кладбище и дальше к Кальварии </p>
+      </div>
+    </body>
+  </text>
+</TEI>
