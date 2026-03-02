@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000988">
+      <titleStmt>
+        <title>Стихи девушек, едущих в Германию</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 6. Д. 67.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.3 оборот" xml:space="default"/>
+        <p>Позабыла прежнее Катюша,</p>
+        <p>Письма Вани все почти сожгла.</p>
+        <p>По соседству из немецкой кухни</p>
+        <p>Старикашку-повара нашла.</p>
+        <p>Приносил ей повар ежедневно</p>
+        <p>Кусок хлеба, шнапс и колбасы.</p>
+        <p>И за это повара Катюша</p>
+        <p>Целовала в рыжие усы.</p>
+        <p>Чуб под немку Катя накрутила,</p>
+        <p>Вкоротила юпку до колен.</p>
+        <p>По-немецки «либен» говорила</p>
+        <p>И умела петь «ли ли марлен».</p>
+        <p>В это время милый друг Ванюша</p>
+        <p>В Сталинграде бой ведет с врагом.</p>
+        <p>Он мечтает о своей Катюше,</p>
+        <p>О любви ее в краю родном.</p>
+        <p>Не гордись, не радуйся, Катюша,</p>
+        <p>Что сам повар полюбил тебя,</p>
+        <p>Что стянул с соседки белое платье</p>
+        <p>И принес в подарок для тебя.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
