@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000125">
+      <titleStmt>
+        <title>Стенограмма беседы с Григорием Тарасовым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 12. Д. 6. Л. 28-28 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.28 оборот" xml:space="default"/>
+        <p/>
+       <p>Затем я перешел работать на шахту 13-18 Буденновуголь, где работал до войны. Ствол на этой шахте был разрушен на 18 метров, никаких подъемов не имели. Лебедкой раскрепили 18 метров разрушенного ствола, и за январь 1941 г. уже дали с этой шахты 400-500 тонн коксующего угля. Все надшахтные здания в порядке на шахте 13-18. Шахта готова к работе, только бы откачать воду.</p>
+        <p>Сейчас работаю на вентиляционном стволе шахты Ново-Мушкетово. С 11/II 1944 г. пройдено 23 метра, а нужно пройти 120 метров. Проходим ручным способом. Сейчас подводим лебедку. Подведем и будем давать 40 лош. сил, чтобы ускорить работу, но по плану мы должны закончить ствол к 15/V-44 г. Кончим раньше.</p>
+        <p>Работаем хорошо. Люди на своих плечах вынесли все: таскали, носили, доставляли лес, камень, строительный материал. Особенно хорошо работают проходчики Холодов, старик Панков, Мичетин. Они совсем забывают про время. Что характерно: сейчас хорошо работают даже те, которые прибыли в Донбасс после коллективизации и были недовольны советской властью, а теперь все они особенно хорошо поняли, насколько родная все советская власть, поэтому так крепко взялись за восстановление разрушенных шахт.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
