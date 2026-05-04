@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000519">
+      <titleStmt>
+        <title>Стенограмма беседы с Петром Мурашко</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 39.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.2 оборот" xml:space="default"/>
+        <p> для наших пленных – многим мы помогли удрать, доставали одежду, кому удавалось достать одежу, тот убегал.</p>
+        <p>Из нашего персонала много помогала пленным Люба, она и сейчас работает курьером. Активно действовал профессор невропатолог Марков, он много помогал партизанам. Профессор Марков был главным врачом. Погиб он незадолго до освобождения Минска Красной армией. Через квартиру Маркова сестра Новицкая, Плавская много передавали медикаментов партизанам. В больнице у нас очень многие работали для партизан. Сначала очень смело работали, свободно, но в последний год немцы установили большую слежку, уже очень трудно было что-нибудь передать.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
