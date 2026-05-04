@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000779">
+      <titleStmt>
+        <title>Стенограмма беседы с Ядвигой Савицкой</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 36а.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.6 оборот" xml:space="default"/>
+        <p> С апреля 1942 года работала в редакции газеты «Звязда» в качестве редактора газеты.</p>
+        <p>Тов. Савицкая неоднократно присутствовала на заседаниях комитета и получала для газеты через тов. Ватика передаваемые мною из партизанского отряда.</p>
+        <p>Изложение удостоверяю</p>
+        <p>б. работник Минского подпольного комитета КП(б)Б</p>
+        <p/>
+        <p>И. БУДАЕВ</p>
+        <p>Подпись Будаева удостоверяю секретарь Ново-Белицкого РК КП(б)Б Косьян.</p>
+        <p>18.V.44 г.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
