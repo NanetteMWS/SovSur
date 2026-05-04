@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000310">
+      <titleStmt>
+        <title>Стенограмма беседы с Петром Моравским</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 18. Д. 1А. Л. 18-19 оборот.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.19 оборот" xml:space="default"/>
+        <p> истребили там почти всех евреев, а местное население русское и польское разбежалось. Группе не было где укрываться, и она распалась. Потом люди опять собрались, человек 40. Я как раз приехал к ним в ночь, когда была эта акция, и в конце концов, их осталось всего 7 человек. Я хотел их забрать в город, но они ушли в села – там кто-то их предал, и они были все расстреляны.</p>
+        <p>Была также создана группа «Стрый» в Раве-Русской. Группа Франка была создана в Шевченковском районе Львовской области, в г. Знемне. Она помещалась в одной квартире, где постоянно жили два человека. С ними мы познакомились, когда шли на работу в Подборцы. Там их осталось тоже 4 человека – это было в 1943 году, осенью. Они сжигали там фольварки, собирали оружие и проводили различные диверсионные акты.</p>
+        <p>После было много групп имени Франка, т.е. собиралось несколько человек и шли на операцию. Вообще такие группы действовали очень хорошо.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
