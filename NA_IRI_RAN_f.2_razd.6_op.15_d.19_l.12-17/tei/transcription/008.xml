@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000648">
+      <titleStmt>
+        <title>Стенограмма беседы с Агрипиной Бабич, Евгенией Кукареко и Анной Прохорчик</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 15. Д. 19. Л. 12-17.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.17" xml:space="default"/>
+        <p> За 3 года войны пережила я больше, чем за 10 лет. Каждый день, как только встаю – так и ожидаю, что придут вот сейчас и убьют нас всех. Каждый день ожидали смерти. Как только полицейские входят в деревню, начинаешь думать – вот смерть.</p>
+        <p>Ко мне когда приезжал командир отряда Изюмский, он говорил: «Вот возьму вас и отправлю на самолете в советский тыл». Я говорю, что «зачем, я там кому нужна. А вот когда я буду жить тут, скорее чем-либо помогу Вам. Никуда я не поеду, а хочу помогать партизанам». Было очень страшно, но пережили, слава Богу. Я не хотела никуда ехать, потому что дети мои в партизанах, а зачем я буду спасать свою жизнь, а когда я буду здесь, что-либо сделаю для своих детей, которые сидят в лесу. Все сидящие в лесу и против немцев – были моими детьми.</p>
+        <p>Дочь моя Лида тоже была в партизанах. Когда мои дети были в лесу, у меня была цель, я каждый день и жила только тем, как бы чем-либо им помогать. А вот теперь пришла советская власть – и я одна, все мои дети вышли из леса, но кто на курсы, кто на работу, кто в Красную армию. Мне теперь как будто и скучно, уже той цели нет. Похожу по хате, никого нет, не о чем думать. Счастлива я, что мои дети теперь свободные, но я все-таки теперь совершенно одинока.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
