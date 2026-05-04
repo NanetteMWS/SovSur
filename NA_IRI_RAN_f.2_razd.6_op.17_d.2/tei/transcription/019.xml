@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000287">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Миско</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 17. Д. 2.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.9 оборот" xml:space="default"/>
+        <p> прочим, был введен поголовный налог. Налог с головы надо было платить деньгами. В городах со служащих взимался подоходный налог. Никаких специальных особых налогов введено не было.</p>
+        <p>Все предприятия, какие были, они пустили в ход – лесопильный завод, мельницы, известковый завод, спиртозавод, кожзавод, разные мастерские. Особенно нажимали на кожзавод. Планы не выполнялись рабочими.</p>
+        <p>Школы. В некоторых местах были начальные школы, в г. Барановичи были семинария и прогимназия. Казалось бы, хорошие школы, но эти школы были только приманкой. Если им нужно молодежь мобилизовать на работы, они берут молодежь из школ. Вылавливали наиболее подходящих для них и посылали их на специальные курсы пропагандистов.</p>
+        <p/>
+        <p>
+          <hi rendition="#i">Науч. сотр. М. Миско</hi>
+        </p>
+        <hi rendition="#i">Науч. сотр. М. Миско</hi>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
