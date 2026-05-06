@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000166">
+      <titleStmt>
+        <title>Рукопись работы Берты Лихтер «Оккупационный режим и восстановление в деревнях Московской области»</title>
+        <author>
+          <persName>Берта Львовна Лихтер</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 1. Д. 32.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="report">
+        <pb cert="high" n="Л.34" xml:space="default"/>
+        <p> других станций построили машинные сараи, мастерские и теперь проводят ремонт своими силами. Хорошо оборудована мастерская в Высоковской МТС. Директор тов. Конониров, механик т. Синотов и зав. мастерской тов. Кузнецов сумели так организовать дело, что своими силами восстанавливают сейчас более 100 различных деталей» («Моск. больш.», 12/XII-43 г., №293).</p>
+        <p>VI. Огромный труд вложили колхозники освоб. районов в дело возрождения колхозного животноводства.</p>
+        <p>
+          Любовь к колхозному строю сильно проявилась в борьбе колхозников за восстановление колхозных животноводческих ферм. 
+          <hi rendition="#s">Колхозники к 10/</hi>
+          <hi rendition="#s">III</hi>
+          <hi rendition="#s"> 42 г. законтрактовали колхозники законтрактовали для молодняка для попол</hi>
+        </p>
+        <hi rendition="#s">Колхозники к 10/</hi>
+        <hi rendition="#s">III</hi>
+        <hi rendition="#s"> 42 г. законтрактовали колхозники законтрактовали для молодняка для попол</hi>
+        <p>
+          К 10/III-42 г. в 10 освоб. районах колхозники законтрактовали 4954 теленка для 
+          <hi rendition="#s">пополнения колхозного</hi>
+           восстановления колхозного стада. Из этого количества 2062 тел. Законтрактовали колхозники Клинского района, 1013 т. – Высоковского района 
+          <hi rendition="#s">(см. прилож. таблицу)</hi>
+        </p>
+        <hi rendition="#s">пополнения колхозного</hi>
+         восстановления колхозного стада. Из этого количества 2062 тел. Законтрактовали колхозники Клинского района, 1013 т. – Высоковского района 
+        <hi rendition="#s">(см. прилож. таблицу)</hi>
+        <p>(МОЗО Управление животноводства, дело №32. Статистические материалы по животноводству на 1942 г.)</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
