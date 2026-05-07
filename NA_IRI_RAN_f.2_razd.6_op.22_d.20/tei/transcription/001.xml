@@ -32,11 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="memoir">
-        <pb cert="high" n="Л.1" xml:space="default"/>
-        <p> Дневник о германской фашистской неволе</p>
         <p/>
-      </div>
     </body>
   </text>
 </TEI>
