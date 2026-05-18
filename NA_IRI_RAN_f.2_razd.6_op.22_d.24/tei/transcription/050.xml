@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000387">
+      <titleStmt>
+        <title>Стихи Михаила Синицы</title>
+        <author>
+          <persName>Михаил Ф. Синица</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 22. Д. 24.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem_or_song">
+        <pb cert="high" n="Л.26" xml:space="default"/>
+        <p> 15/Х-46 г.</p>
+        <p>Уважаемый доктор М.Я. Коган!</p>
+        <p>Письмо Ваше я получил и бесконечно рад тому, что вы одобряете некоторые стихи, несмотря на их неотшлифованость, на их сырые выпады.</p>
+        <p>С моим образованием 9-ть классов средней школы трудно достичь сочинения настоящего усовершенствованного стиха, заслуживающего позитивной критики. Притом, откровенно говоря, я оторван от литературной жизни. Библиотека бедна, школ вечерних не существует, газету выписать невозможно, тем более журнал. Я даже боюсь, что мне так и придется остаться на всю жизнь сцепщиком. Хотелось бы дать больше пользы стране. Хотелося б повысить свои скромные знания, расширить свой взгляд на жизнь, я имею сильное желание учиться. Не могли бы Вы мне помочь в этом, хотя бы в крайнем случае советами? Извините за откровенность.</p>
+        <p>М. Синица.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
