@@ -32,12 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="poem_or_song">
-        <pb cert="high" n="Л.1" xml:space="default"/>
-        <p> Вірші і різнії дрібниці Михайла Синиці</p>
         <p/>
-        <p/>
-      </div>
     </body>
   </text>
 </TEI>
