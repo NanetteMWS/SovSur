@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000657">
+      <titleStmt>
+        <title>Сочинения учеников школы д. Барсуки о зверствах немцев</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 3. Д. 6.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="school essay">
+        <pb cert="high" n="Л.10" xml:space="default"/>
+        <p> Зверство немецких оккупантов.</p>
+        <p>Когда у нас были немцы, они издевались над русским народом. Когда немцы отступали, они приехали грабить, мы купили маленького поросенка, он лежал в овчиннике, немцы взяли поросенка и убили поленом, потом пришли в избу и говорят: матка, боты. Это боты они называли сапоги, а моя сестра Валя стояла возле стола и только пришла из бани и надела новые маленькие сапоги. Немцы сняли сапоги, сняли с ног сапоги, мы не отдавали, немец вынул кинжал, и бабушка сказала – бросьте, а то зарежет, и мы бросили, [10 оборот] немцы ушли.</p>
+        <p>Когда к нам приехали немцы, мою сестру Нюру заставили стелить им логовища. Нюра пошла за соломой, несет она солому, он говорит: никс солому, фить солому. Она вынесла солому, через несколько минут немец говорит – солому. Она говорит: никс – то не брал, а теперь нечего. Он говорит: карабин паненку пук, и она ушла, и нас выгнали из дома.</p>
+        <p>Скачков Сергей</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
