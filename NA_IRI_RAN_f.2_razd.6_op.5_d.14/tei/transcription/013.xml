@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.12" xml:space="default"/>
+        <p> Письмо из немецкой неволи.</p>
+        <p>«Доброе утро или день! Здравствуйте, дорогой братец Адам и дорогая невестка Пронечка. Разрешите передать вам свой чистосердечный привет. Во-первых, я сообщаю, что я жива и здорова, чего и вам желаю в вашей жизни семейной. Дорогой братец, не обижайтесь, что долго не писала – не было возможности, а теперь собралась и пишу вам несколько слов. Дорогой братец, живу я неважно и потому прошу соберите мне небольшенькую посылочку, посылки можно слать по 250 грамм в 1 посылку. И передайте тети Аксинии, чтобы прислала посылку и Анастасии тете. Помогите мне из трудного положения выйти. А вернусь, то отблагодарю. За тем до свидания. Целую детей и также вас всех. Привет всем. Нина». Обратный адрес: гор. Лейпциг, цивильлагерь. (Газета «Кировец» №17 от 30/XI-1943 г.).</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

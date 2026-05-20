@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000678">
+      <titleStmt>
+        <title>Письма из немецкого рабства</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 5. Д. 14.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb cert="high" n="Л.21" xml:space="default"/>
+        <p> Одеваться не во что, в чем приехала, в том и хожу. Живем в лагере, из которого никуда не выпускают. Дорогая мамочка, мне очень тяжело, но ты не обижайся, что от меня писем нет. Писать не разрешают, а кто украдкой напишет, то если узнают, целую неделю не дают кушать. Не знаю, скоро ли увидимся. Тут есть девушки из Костюков, которые уже 5 месяцев и, несмотря на договор, их домой не пускают. Мамочка, старайся всеми силами, не отдавай Вальку. Ваша дочь Н.»</p>
+        <p>Письмо говорит само за себя. Оно срывает маску с фашистских брехунов, превращающих наших людей в рабов. (Газета «Народный мститель» №1 от 7/XI-1942 г. – газета белорусских партизан).</p>
+        <p/>
+        <p>[Л.22-25] Письма на белорусском языке.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
