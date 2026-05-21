@@ -30,18 +30,26 @@
   <text>
     <body>
       <div type="school essay">
-        <pb cert="high" n="Л.14 оборот" xml:space="default"/>
+        <pb cert="high" n="Л.13 оборот" xml:space="default"/>
+        <p> 14 декабря.</p>
         <p>
-           наш один рубль, а ваших 100 рубли. Так они 
-          <hi rendition="#s">обн</hi>
-          <hi rendition="#i">м</hi>
-          <hi rendition="#s">авали</hi>
-           обманывали русских женщин и грабили их.
+          <hi rendition="#i">Сочинени</hi>
+          <hi rendition="#i">е </hi>
+          <hi rendition="#i">3-го класса</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">Барсуковской</hi>
+          <hi rendition="#i"> </hi>
+          <hi rendition="#i">нач. школы</hi>
+           Байцова Галина Васильевна.
         </p>
-        <hi rendition="#s">обн</hi>
-        <hi rendition="#i">м</hi>
-        <hi rendition="#s">авали</hi>
-         обманывали русских женщин и грабили их.
+        <hi rendition="#i">Сочинени</hi>
+        <hi rendition="#i">е </hi>
+        <hi rendition="#i">3-го класса</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">Барсуковской</hi>
+        <hi rendition="#i"> </hi>
+        <hi rendition="#i">нач. школы</hi>
+         Байцова Галина Васильевна.
         <p/>
         <p/>
       </div>
