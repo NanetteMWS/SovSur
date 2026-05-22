@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000077">
+      <titleStmt>
+        <title>Воспоминания Дмитрия Андрющенко</title>
+        <author>
+          <persName>Дмитрий Тихонович Андрющенко</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НА ИРИ РАН. Фонд 2. Разд. VI. Оп. 8. Д. 23.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="memoir">
+        <pb cert="high" n="Л.1" xml:space="default"/>
+        <p/>
+        <p>Уважаемые товарищи!</p>
+        <p>Посылаю Вам небольшой свой труд, чем я хочу внести маленькую долю правды в общую картину, рисующую ужасную картину фашистского ига. Все, что здесь описано, я пережил сам. Громов это – я лично. Мои записи это – путь простого человека, сражавшегося за Родину. Пусть знает каждый, что из себя представлял фашизм. Пусть каждый поставит свою жизнь делу борьбы с черными силами реакции, за демократию, за победу коммунизма во всем мире.</p>
+        <p>Андрющенко Д.Т.</p>
+        <p>Краснодарский край.</p>
+        <p>г. Тихорецк, ул. Пролетарская 51-1</p>
+        <p>Андрющенко Дмитрий Тихонович.</p>
+        <p/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
