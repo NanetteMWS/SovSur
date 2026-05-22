@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000882">
+      <titleStmt>
+        <title>Стенограмма беседы с Иосифом Жидовичем</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 112. Л. 127-171.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.148" xml:space="default"/>
+        <p> Людей, на которых ранее мы опирались, в городе уже не было. После разгрома подпольной партийной организации в Минске, после того предательства, которое здесь было, в частности Ковалев был предателем, мы последнее время ни с кем связи не поддерживали, вернее из подпольной организации. Мы поддерживали связь с людьми, которые были связаны с партизанской бригадой и на месте в городе выполняли то или иное поручение.</p>
+        <p>После мая специальных заданий не было, тут уже партизаны находились в нашей деревне, и мы выполняли другого порядка работу. Во-первых, уже у нас велась подготовка среди населения, чтобы немцы не угнали население с собой. Мы поставили вопрос, чтобы население пряталось в лесах и укрывалось. Была проведена очень большая работа. Деревни были пустые, все крестьяне находились в лесах, приходили в деревни только за продуктами.</p>
+        <p>После освобождения, 3-го июля, работа приняла другой характер. Мы вылавливали немцев, доставляли их в определенные пункты, где их собирали.</p>
+        <p>Я забыл рассказать, как проводилась работа среди военнопленных в лагерях, в Фаниполе. В 1944 году, примерно в апреле месяце, мне было поручено провести работу среди наших военнопленных. До 1944 года они работали на торфе. Там насчитывалось их человек до 100 с лишним. Было поручено, чтобы этих людей с оружием перебросить в партизанские отряды.</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
