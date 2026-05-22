@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="sovsurv_mods_00000632">
+      <titleStmt>
+        <title>Стенограмма беседы с Иваном Захаровым</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:id="de" role="hostingInstitution">qed.perspektivia.net</orgName>
+        </publisher>
+        <authority>MWS-Netzwerk Osteuropa</authority>
+        <pubPlace>Bonn</pubPlace>
+        <date when="2024-07-29">29.07.2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</licence>
+        </availability>
+        <idno type="project_id">soviet_survivor</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno type="shelfmark">НАРБ. Фонд 750-П. Оп. 1. Д. 116. Л.198-205.</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="interview">
+        <pb cert="high" n="Л.205" xml:space="default"/>
+        <p> Несколько слов о вооружении нашей бригады. В последнее время в бригаде мы имели следующее вооружение: винтовок 654, ручных пулеметов – 55, станковых пулеметов – 12, автоматов – 94, минометов – 12, противотанковых ружей – 12, пушек (76 мм) – 2, пушек (45 мм) – 3.</p>
+        <p>До 1944 года партизаны бригады им. Фрунзе уничтожили 3.856 немецких солдат и офицеров, ранили – 7.075, расстреляли полицейских предателей 285, взорвали ж.д. мостов – 2, сожгли и взорвали деревянных мостов – 145, уничтожили немецких гарнизонов – 5, спущено под откос эшелонов – 99, подорвано ж.д. рельс – 1.871, разбито немецких военных повозок с грузом – 465, уничтожено автомашин с живой силой и военным имуществом – 203, сбито самолетов 1 и т.д.</p>
+        <p>Вот краткое о боевых делах партизанской бригады им. Фрунзе, которой я командовал. Подробные материалы, всеобщая переписка, приказы и распоряжения и т.д. – все это мною сдано в центральный Штаб партизанского движения.</p>
+        <p/>
+        <p>Герой Советского Союза (И. Захаров)</p>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>
