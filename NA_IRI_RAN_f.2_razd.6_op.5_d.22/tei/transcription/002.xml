@@ -33,6 +33,58 @@
         <pb cert="high" n="Л.1" xml:space="default"/>
         <p> Список фашистских газет и журналов, издаваемых немецкими оккупантами на территории Белорусской ССР.</p>
         <p>(По сведениям, полученным Комиссией при ЦК КП(б) Белоруссии по истории Отечественной войны на 15-е июня 1943 г.)</p>
+       <table xml:id="tab-arrests-simferopol" type="simple" rend="bordered">
+          <head>Список арестованных членов подпольной организации Симферополя (ноябрь 1943 – апрель 1944)</head>
+          <row>
+            <cell role="label">Фамилия, и.о.</cell>
+            <cell role="label">Место работы у немцев</cell>
+            <cell role="label">В какой группе</cell>
+            <cell role="label">Дата ареста</cell>
+            <cell role="label">Примечание</cell>
+          </row>
+          <row>
+            <cell>1. Хохлов Б.И.</cell>
+            <cell>Не работал</cell>
+            <cell>состоял Молодежн. член Г.К.</cell>
+            <cell>7/XII-43.</cell>
+            <cell>Трофименко Т. арестована — освобождена. Жильзова З. скрылась.</cell>
+          </row>
+          <row>
+            <cell>2. Еригова М.</cell>
+            <cell>домохоз.</cell>
+            <cell>молодежн.</cell>
+            <cell>20.1.44.</cell>
+            <cell>Арестованы муж, дочь — погибли</cell>
+          </row>
+          <row>
+            <cell>3. Баранаев В.</cell>
+            <cell>жел. дор.</cell>
+            <cell>молодежн.</cell>
+            <cell>7.II.44</cell>
+            <cell>7 февраля</cell>
+          </row>
+          <row>
+            <cell>4. Ланский В.</cell>
+            <cell>не работал</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>арестован на</cell>
+          </row>
+          <row>
+            <cell>5. Астахов В.</cell>
+            <cell>жел. дор.</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>ж.д. Рыманов.</cell>
+          </row>
+          <row>
+            <cell>6. Самойленко</cell>
+            <cell>ф-ка Ильича</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>Освобожден.</cell>
+          </row>
+        </table>
         <p/>
         <p/>
       </div>
