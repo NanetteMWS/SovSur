@@ -35,6 +35,27 @@
         <div>
             <table xml:id="tab-arrests-march1944" type="simple" rend="bordered">
           <row>
+            <cell>4. Ланский В.</cell>
+            <cell>не работал</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>арестован на</cell>
+          </row>
+          <row>
+            <cell>5. Астахов В.</cell>
+            <cell>жел. дор.</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>ж.д. Рыманов.</cell>
+          </row>
+          <row>
+            <cell>6. Самойленко</cell>
+            <cell>ф-ка Ильича</cell>
+            <cell>--</cell>
+            <cell>8.II.44</cell>
+            <cell>Освобожден.</cell>
+          </row>
+          <row>
             <cell role="label">№</cell>
             <cell role="label">Фамилия, и.о.</cell>
             <cell role="label">Должность / Группа</cell>
@@ -271,38 +292,6 @@
             <cell>35. Пищевик</cell>
             <cell>—</cell>
             <cell>— 16. III.44</cell>
-            <cell>—</cell>
-            <cell>—</cell>
-          </row>
-          <row>
-            <cell>[Л.6] Н.А.</cell>
-            <cell>36. Борисов</cell>
-            <cell>учитель</cell>
-            <cell>инструктор, группы 17. III.44</cell>
-            <cell>—</cell>
-            <cell>—</cell>
-          </row>
-          <row>
-            <cell>37. Пищевик А.Ю.</cell>
-            <cell>37. Пищевик А.Ю.</cell>
-            <cell>—</cell>
-            <cell>г. Борисова 18. III.44</cell>
-            <cell>—</cell>
-            <cell>—</cell>
-          </row>
-          <row>
-            <cell>38. Деревянкин</cell>
-            <cell>38. Деревянкин</cell>
-            <cell>—</cell>
-            <cell>— 18. III.44</cell>
-            <cell>—</cell>
-            <cell>—</cell>
-          </row>
-          <row>
-            <cell>39. Егоров</cell>
-            <cell>39. Егоров</cell>
-            <cell>—</cell>
-            <cell>— 18. III.44</cell>
             <cell>—</cell>
             <cell>—</cell>
           </row>
