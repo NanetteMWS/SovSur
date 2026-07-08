@@ -32,7 +32,283 @@
   </teiHeader>
   <text>
     <body>
-        <p/>
+        <div>
+            <table xml:id="tab-arrests-march1944" type="simple" rend="bordered">
+          <head>Список арестованных членов подпольной организации Симферополя (март 1944 г.)</head>
+          <row>
+            <cell role="label">№</cell>
+            <cell role="label">Фамилия, и.о.</cell>
+            <cell role="label">Должность / Группа</cell>
+            <cell role="label">Место работы / Действие</cell>
+            <cell role="label">Дата ареста</cell>
+            <cell role="label">Примечание</cell>
+          </row>
+          <row>
+            <cell>8. Ягудин В.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>5. III.44</cell>
+            <cell>Арестованы</cell>
+            <cell>в ходе 10. III.44</cell>
+          </row>
+          <row>
+            <cell>9. Волошина А.А. (учитель)</cell>
+            <cell>9. Волошина А.А. (учитель)</cell>
+            <cell>—</cell>
+            <cell>инструктор, выпускница</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>10. Волошина И.М. (работал в доме)</cell>
+            <cell>10. Волошина И.М. (работал в доме)</cell>
+            <cell>домохозяйка</cell>
+            <cell>7. III.44, партизанский отряд 7. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>11. Дроздов И.</cell>
+            <cell>11. Дроздов И.</cell>
+            <cell>типография</cell>
+            <cell>г. Сызрань</cell>
+            <cell>7. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>12. Злобин В.К.</cell>
+            <cell>12. Злобин В.К.</cell>
+            <cell>гражд. служба</cell>
+            <cell>инструктор, группы</cell>
+            <cell>10. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>13. Баталев В.В.</cell>
+            <cell>13. Баталев В.В.</cell>
+            <cell>—</cell>
+            <cell>молодежная 10. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>14. Лавриненко В.Д.</cell>
+            <cell>14. Лавриненко В.Д.</cell>
+            <cell>гражд. служба</cell>
+            <cell>г. Злобин</cell>
+            <cell>11. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>15. Левицкий И.Г.</cell>
+            <cell>15. Левицкий И.Г.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>11. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>16. Соколов Н.</cell>
+            <cell>16. Соколов Н.</cell>
+            <cell>—</cell>
+            <cell>— 11. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>17. Бригадир А.А.</cell>
+            <cell>17. Бригадир А.А.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>11. III.44</cell>
+            <cell>Бригадир, под арестом</cell>
+          </row>
+          <row>
+            <cell>18. Урицкий</cell>
+            <cell>С.В. (семья)</cell>
+            <cell>домохозяйка</cell>
+            <cell>инструктор, группы</cell>
+            <cell>13. III.44</cell>
+            <cell>под арестом, в ходе</cell>
+          </row>
+          <row>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>г. Урицкого</cell>
+            <cell>13. III.44</cell>
+            <cell>Арестованы его</cell>
+          </row>
+          <row>
+            <cell>19. Урицкий А.</cell>
+            <cell>19. Урицкий А.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>13. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>20. И.М.</cell>
+            <cell>Вишневская учитель</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>март</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>21. Злобинова А.</cell>
+            <cell>21. Злобинова А.</cell>
+            <cell>учитель</cell>
+            <cell>Борисова 13. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>22. Чемеркин П.</cell>
+            <cell>22. Чемеркин П.</cell>
+            <cell>—</cell>
+            <cell>— 13. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>23. Ковалев Ю.К.</cell>
+            <cell>23. Ковалев Ю.К.</cell>
+            <cell>в доме</cell>
+            <cell>Григорьев 13. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>24. Сидоров Д.Д.</cell>
+            <cell>24. Сидоров Д.Д.</cell>
+            <cell>связист</cell>
+            <cell>инструктор, группы 14. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>25. Новиков Н.А.</cell>
+            <cell>25. Новиков Н.А.</cell>
+            <cell>—</cell>
+            <cell>Урицкого 14. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>26. Завьянов М.</cell>
+            <cell>26. Завьянов М.</cell>
+            <cell>типография</cell>
+            <cell>Сидорова 7. III.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>27. Голубев</cell>
+            <cell>27. Голубев</cell>
+            <cell>—</cell>
+            <cell>— 7. III.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>28. Новиков Н.А.</cell>
+            <cell>28. Новиков Н.А.</cell>
+            <cell>связист</cell>
+            <cell>Урицкого 14. III.44</cell>
+            <cell>Арестованы</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>29. Григорьев</cell>
+            <cell>на</cell>
+            <cell>домохозяйка</cell>
+            <cell>инструктор, г. 15. III.44</cell>
+            <cell>жена, дочь</cell>
+            <cell>мать, в ходе</cell>
+          </row>
+          <row>
+            <cell>30. Кулькин А.</cell>
+            <cell>30. Кулькин А.</cell>
+            <cell>связист —</cell>
+            <cell>Новикова 16. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>31. Дорожкин И.</cell>
+            <cell>31. Дорожкин И.</cell>
+            <cell>—</cell>
+            <cell>— 16. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>32. Скорогод С.</cell>
+            <cell>32. Скорогод С.</cell>
+            <cell>—</cell>
+            <cell>— 16. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>33. Попов Р.</cell>
+            <cell>33. Попов Р.</cell>
+            <cell>—</cell>
+            <cell>— 16. III.44 16. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>34. Ахмедов И.</cell>
+            <cell>34. Ахмедов И.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>35. Пищевик</cell>
+            <cell>35. Пищевик</cell>
+            <cell>—</cell>
+            <cell>— 16. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>[Л.6] Н.А.</cell>
+            <cell>36. Борисов</cell>
+            <cell>учитель</cell>
+            <cell>инструктор, группы 17. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>37. Пищевик А.Ю.</cell>
+            <cell>37. Пищевик А.Ю.</cell>
+            <cell>—</cell>
+            <cell>г. Борисова 18. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>38. Деревянкин</cell>
+            <cell>38. Деревянкин</cell>
+            <cell>—</cell>
+            <cell>— 18. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>39. Егоров</cell>
+            <cell>39. Егоров</cell>
+            <cell>—</cell>
+            <cell>— 18. III.44</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+        </table>
+        </div>
     </body>
   </text>
 </TEI>
