@@ -34,7 +34,6 @@
     <body>
         <div>
             <table xml:id="tab-arrests-march1944" type="simple" rend="bordered">
-          <head>Список арестованных членов подпольной организации Симферополя (март 1944 г.)</head>
           <row>
             <cell role="label">№</cell>
             <cell role="label">Фамилия, и.о.</cell>
