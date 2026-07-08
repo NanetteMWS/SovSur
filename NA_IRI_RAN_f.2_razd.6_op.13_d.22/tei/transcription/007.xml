@@ -32,7 +32,137 @@
   </teiHeader>
   <text>
     <body>
-        <p/>
+      <div>
+        <head>Аресты в Симферополе: список членов подпольной организации (март 1944 г., продолжение)</head>
+        <table xml:id="tab-arrests-march1944-2" type="simple" rend="bordered">
+          <head>Список арестованных членов подпольной организации Симферополя (март 1944 г., продолжение)</head>
+          <row>
+            <cell role="label">№</cell>
+            <cell role="label">Фамилия, и.о.</cell>
+            <cell role="label">Должность / Группа</cell>
+            <cell role="label">Место работы / Действие</cell>
+            <cell role="label">Дата ареста</cell>
+            <cell role="label">Примечание</cell>
+          </row>
+          <row>
+            <cell>40. Огурцов</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>41. Савельев</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>42. Вахмистров</cell>
+            <cell>—</cell>
+            <cell>Григорьев</cell>
+            <cell>—</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>43. Плотников</cell>
+            <cell>на доме</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>44. Ахмедов</cell>
+            <cell>домохозяйка</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>45. Слесарь</cell>
+            <cell>на доме</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>46. Борисов С.Ю.</cell>
+            <cell>обучался в школе</cell>
+            <cell>инструктор, группы</cell>
+            <cell>18. III.44</cell>
+            <cell>Арестован, 17 лет и 14 лет</cell>
+          </row>
+          <row>
+            <cell>47. Борисов М.Ю.</cell>
+            <cell>домохозяйка</cell>
+            <cell>г. Борисова</cell>
+            <cell>18. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>48. Айрапетов В.</cell>
+            <cell>врач</cell>
+            <cell>инструктор, группы</cell>
+            <cell>21. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>49. Альбов</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>21. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>50. Крылов</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>21. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>51. Немчинов С.А.</cell>
+            <cell>на доме</cell>
+            <cell>Завьянов</cell>
+            <cell>23. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>52. Плотников М.К.</cell>
+            <cell>гражданин</cell>
+            <cell>Новиков</cell>
+            <cell>25. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>53. Плотников П.К.</cell>
+            <cell>—</cell>
+            <cell>—</cell>
+            <cell>25. III.44</cell>
+            <cell>—</cell>
+          </row>
+          <row>
+            <cell>54. Кипищев Г.К.</cell>
+            <cell>домохозяйка</cell>
+            <cell>Григорьев</cell>
+            <cell>25. III.44</cell>
+            <cell>—</cell>
+          </row>
+        </table>
+        <p>Таким образом, всего было арестовано 56 человек членов подпольной организации. Некоторые члены подпольной организации были арестованы вместе со своими семьями (Борисов, Григорьев и др.). К некоторым членам подпольной организации приезжали в дом, но они скрылись и ушли в лес.</p>
+        <p>После устранения угрозы в Симферополе я должен был снова выехать в Симферополь для работы. Мне было необходимо передать паспорт, документы, которые я получил там, и вернуться в Симферополь. Ввиду того, что в городе были большие поиски (в кварталах вышли большие поиски), я оказался в лесу у партизан с 14 марта по 7 апреля 1944 года. 7 апреля первый человек из группы был вывезен в Крым, а 8 апреля началось массовое выдвижение Крымской армии на Крым, и 13 апреля был захвачен Симферополь, где я и вернулся 14 апреля — через один день после захвата города Крымской армией.</p>
+        <p>Бывший секретарь Симферопольского подпольного Центра КПСС (б) — Крымов И.А.</p>
+        <p>Дата: Крым, 1944 г.</p>
+        </div>
     </body>
   </text>
 </TEI>
