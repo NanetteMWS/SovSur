@@ -35,6 +35,13 @@
         <div>
             <table xml:id="tab-arrests-march1944" type="simple" rend="bordered">
           <row>
+            <cell role="label">Фамилия, и.о.</cell>
+            <cell role="label">Должность / Группа</cell>
+            <cell role="label">Место работы / Действие</cell>
+            <cell role="label">Дата ареста</cell>
+            <cell role="label">Примечание</cell>
+          </row>
+          <row>
             <cell>4. Ланский В.</cell>
             <cell>не работал</cell>
             <cell>--</cell>
@@ -54,14 +61,6 @@
             <cell>--</cell>
             <cell>8.II.44</cell>
             <cell>Освобожден.</cell>
-          </row>
-          <row>
-            <cell role="label">№</cell>
-            <cell role="label">Фамилия, и.о.</cell>
-            <cell role="label">Должность / Группа</cell>
-            <cell role="label">Место работы / Действие</cell>
-            <cell role="label">Дата ареста</cell>
-            <cell role="label">Примечание</cell>
           </row>
           <row>
             <cell>8. Ягудин В.</cell>
