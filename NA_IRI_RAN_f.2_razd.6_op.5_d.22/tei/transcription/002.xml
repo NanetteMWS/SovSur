@@ -35,6 +35,208 @@
         <p>(По сведениям, полученным Комиссией при ЦК КП(б) Белоруссии по истории Отечественной войны на 15-е июня 1943 г.)</p>
         <p/>
         <p/>
+         <table xml:id="tab-publications-1" type="simple" rend="bordered">
+          <row>
+            <cell role="label">Название</cell>
+            <cell role="label">Место издания</cell>
+            <cell role="label">Периодичность</cell>
+            <cell role="label">Цена (р.)</cell>
+            <cell role="label">Формат</cell>
+            <cell role="label">Язык</cell>
+          </row>
+          <row>
+            <cell>«Минскер»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>6 450.000</cell>
+            <cell>Большой колонный, 4 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Голос»</cell>
+            <cell>Минск</cell>
+            <cell>Еженедельная</cell>
+            <cell>30.000</cell>
+            <cell>Средний, 4 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Новый путь»</cell>
+            <cell>Минск</cell>
+            <cell>Ежемесячная</cell>
+            <cell>20.000</cell>
+            <cell>Средний, 4 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Беларуская»</cell>
+            <cell>Минск</cell>
+            <cell>Ежемесячная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Пути»</cell>
+            <cell>Минск</cell>
+            <cell>Ежемесячная</cell>
+            <cell>20.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Сельская газета»</cell>
+            <cell>Минск</cell>
+            <cell>Еженедельная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Листок»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Свободный»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Березовский»</cell>
+            <cell>Березовка</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Кравцов»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Прокофьев»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Бобров»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Козак»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Михайлов»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Климанов»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Сивитца»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Францишек»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Долгоненков»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Петров»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Кожушко»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Белорусский</cell>
+          </row>
+          <row>
+            <cell>«Добров»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Заря»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Победа»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+          <row>
+            <cell>«Бич»</cell>
+            <cell>Минск</cell>
+            <cell>Ежедневная</cell>
+            <cell>15.000</cell>
+            <cell>Средний, 2 полосы</cell>
+            <cell>Русский</cell>
+          </row>
+        </table>
       </div>
     </body>
   </text>
